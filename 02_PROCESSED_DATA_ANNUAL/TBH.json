@@ -1,1 +1,201 @@
-{"fiscalDates":["2018-12-31","2019-12-31","2020-12-31","2021-12-31"],"newFiscalDate":["2019-12-31","2020-12-31","2021-12-31"],"tiLeNovayRongVcsh":[-46,34,0],"tiLePhaiThuTaiSan":[40,72,91],"tsTienTuongDuongTienDTTCNH":[15,212,2],"tsKhoanPhaiThu":[54,752,1314],"tsHangTonKho":[2,1,0],"tsTaiSanCoDinh":[1,1,1],"tsTaiSanDoDangDaiHan":[7,23,123],"tsKhac":[56,56,2],"nvVonChuSoHuu":[-265,-264,1193],"nvVayNganHan":[136,123,4],"nvVayDaiHanTPCD":[0,0,0],"nvMuaTraTienTruocDtChuaTH":[5,4,0],"nvKhac":[257,1181,244],"nvTileVayRongVCSHQ":[-46,34,0],"tangTruongDoanhSoThuanYoY":[-15,-13,-74],"tangTruongDoanhThuanKep":[null,null,null],"tangTruongDoanhThuanKepNum":null,"doanhSoThuan":[20,18,5],"tangTruongLNSTYoY":[-53,-133,110505],"tangTruongLNSTCtyMeNam":[],"tangTruongLNSTCtyMe5Year":0,"lnst":[-2,1,709],"bienLoiNhuanGop":[88,50,-53],"bienLoiNhuanRong":[-10,4,15720],"ROACuoiKy":[-1.4,0.1,49.2],"ROECuoiKy":[0.7,-0.2,59.4],"newFiscalDateQuarter":[],"choNhanGiaRaPE":0,"choNhanGiaRaPB":0,"choNhanGiaRaPS":0,"PE":[],"PETb":[],"PB":[],"PBTb":[],"PS":[],"PSTb":[],"soCoPhieuLuuHanh":0,"isNganHang":false,"isChungKhoan":false,"vec11400Year":{"2018-12-31":1688117633,"2019-12-31":1688117633,"2020-12-31":821872949,"2021-12-31":0},"tangTruongHangTonKhoKep":-100,"lctThuanHDSXKD":[22,210,-487],"lctThuanHDDauTu":[0,0,441],"lctThuanHDTC":[-23,-13,-150],"lctThuanTrongKy":[-1,197,-196],"hangTonKho":[2,1,0],"hangTonKhoVongQuay":[1.4,7,16.8],"coTucLNST":[-2,1,709],"coTucDaTra":[0,0,0],"coTucTiLeDaTra":[0,0,0],"newFiscalDateYear":["2019-12-31","2020-12-31","2021-12-31"]}
+{
+  "fiscalDates": [
+    "2018-12-31",
+    "2019-12-31",
+    "2020-12-31",
+    "2021-12-31"
+  ],
+  "newFiscalDate": [
+    "2019-12-31",
+    "2020-12-31",
+    "2021-12-31"
+  ],
+  "tiLeNovayRongVcsh": [
+    -46,
+    34,
+    0
+  ],
+  "tiLePhaiThuTaiSan": [
+    40,
+    72,
+    91
+  ],
+  "tsTienTuongDuongTienDTTCNH": [
+    15,
+    212,
+    2
+  ],
+  "tsKhoanPhaiThu": [
+    54,
+    752,
+    1314
+  ],
+  "tsHangTonKho": [
+    2,
+    1,
+    0
+  ],
+  "tsTaiSanCoDinh": [
+    1,
+    1,
+    1
+  ],
+  "tsTaiSanDoDangDaiHan": [
+    7,
+    23,
+    123
+  ],
+  "tsKhac": [
+    56,
+    56,
+    2
+  ],
+  "nvVonChuSoHuu": [
+    -265,
+    -264,
+    1193
+  ],
+  "nvVayNganHan": [
+    136,
+    123,
+    4
+  ],
+  "nvVayDaiHanTPCD": [
+    0,
+    0,
+    0
+  ],
+  "nvMuaTraTienTruocDtChuaTH": [
+    5,
+    4,
+    0
+  ],
+  "nvKhac": [
+    257,
+    1181,
+    244
+  ],
+  "nvTileVayRongVCSHQ": [
+    -46,
+    34,
+    0
+  ],
+  "tangTruongDoanhSoThuanYoY": [
+    -15,
+    -13,
+    -74
+  ],
+  "tangTruongDoanhThuanKep": [
+    null,
+    null,
+    null
+  ],
+  "tangTruongDoanhThuanKepNum": null,
+  "doanhSoThuan": [
+    20,
+    18,
+    5
+  ],
+  "tangTruongLNSTYoY": [
+    -53,
+    -133,
+    110505
+  ],
+  "tangTruongLNSTCtyMeNam": [],
+  "tangTruongLNSTCtyMe5Year": 0,
+  "lnst": [
+    -2,
+    1,
+    709
+  ],
+  "bienLoiNhuanGop": [
+    88,
+    50,
+    -53
+  ],
+  "bienLoiNhuanRong": [
+    -10,
+    4,
+    15720
+  ],
+  "ROACuoiKy": [
+    -1.4,
+    0.1,
+    49.2
+  ],
+  "ROECuoiKy": [
+    0.7,
+    -0.2,
+    59.4
+  ],
+  "newFiscalDateQuarter": [],
+  "choNhanGiaRaPE": 0,
+  "choNhanGiaRaPB": 0,
+  "choNhanGiaRaPS": 0,
+  "PE": [],
+  "PETb": [],
+  "PB": [],
+  "PBTb": [],
+  "PS": [],
+  "PSTb": [],
+  "soCoPhieuLuuHanh": 0,
+  "isNganHang": false,
+  "isChungKhoan": false,
+  "vec11400Year": {
+    "2018-12-31": 1688117633,
+    "2019-12-31": 1688117633,
+    "2020-12-31": 821872949,
+    "2021-12-31": 0
+  },
+  "tangTruongHangTonKhoKep": -100,
+  "lctThuanHDSXKD": [
+    22,
+    210,
+    -487
+  ],
+  "lctThuanHDDauTu": [
+    0,
+    0,
+    441
+  ],
+  "lctThuanHDTC": [
+    -23,
+    -13,
+    -150
+  ],
+  "lctThuanTrongKy": [
+    -1,
+    197,
+    -196
+  ],
+  "hangTonKho": [
+    2,
+    1,
+    0
+  ],
+  "hangTonKhoVongQuay": [
+    1.4,
+    7,
+    16.8
+  ],
+  "coTucLNST": [
+    -2,
+    1,
+    709
+  ],
+  "coTucDaTra": [
+    0,
+    0,
+    0
+  ],
+  "coTucTiLeDaTra": [
+    0,
+    0,
+    0
+  ],
+  "newFiscalDateYear": [
+    "2019-12-31",
+    "2020-12-31",
+    "2021-12-31"
+  ]
+}

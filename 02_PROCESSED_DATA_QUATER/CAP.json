@@ -1,1 +1,212 @@
-{"fiscalDates":["2023-12-31","2024-03-31","2024-06-30","2024-09-30","2024-12-31"],"newFiscalDate":["2024-12-31"],"newFiscalDateQuarter":["2024-12-31"],"tiLeNovayRongVcsh":[-38],"tiLePhaiThuTaiSan":[18],"tsTienTuongDuongTienDTTCNH":[74],"tsKhoanPhaiThu":[51],"tsHangTonKho":[137],"tsTaiSanCoDinh":[21],"tsTaiSanDoDangDaiHan":[4],"tsKhac":[2],"nvVonChuSoHuu":[194],"nvVayNganHan":[0],"nvVayDaiHanTPCD":[0],"nvMuaTraTienTruocDtChuaTH":[3],"nvKhac":[91],"nvTileVayRongVCSHQ":[-38],"tangTruongDoanhSoThuanYoY":[-22],"tangTruongDoanhThuanKep":[3],"tangTruongDoanhThuanKepNum":3,"doanhSoThuan":[145],"tangTruongLNSTYoY":[-60],"tangTruongLNSTCtyMeNam":[-4],"tangTruongLNSTCtyMe5Year":-4,"lnst":[6],"bienLoiNhuanGop":[11],"bienLoiNhuanRong":[4],"ROACuoiKy":[8.2],"ROECuoiKy":[12],"choNhanGiaRaPE":0.6440820759667584,"choNhanGiaRaPB":0.07890671108431019,"choNhanGiaRaPS":0.02775510394003052,"PE":[null],"PETb":[null],"PB":[null],"PBTb":[null],"PS":[null],"PSTb":[null],"soCoPhieuLuuHanh":15269965,"isNganHang":false,"isChungKhoan":false,"tangTruongHangTonKhoKep":16,"lctThuanHDSXKD":[-19],"lctThuanHDDauTu":[-2],"lctThuanHDTC":[0],"lctThuanTrongKy":[-21],"hangTonKho":[137],"hangTonKhoVongQuay":[2.4],"coTucLNST":[3,1,4,9,17,20,16,17,32,19,15,35,28,40,58,109,108,23],"coTucDaTra":[2,2,2,0,0,12,6,14,14,22,16,13,19,18,21,26,33,50],"coTucTiLeDaTra":[62,322,58,0,0,60,37,79,43,116,110,37,68,46,36,24,30,222],"newFiscalDateYear":["2007-12-31","2008-12-31","2009-12-31","2010-12-31","2011-12-31","2012-12-31","2013-12-31","2014-12-31","2015-12-31","2016-12-31","2017-12-31","2018-12-31","2019-12-31","2020-12-31","2021-12-31","2022-12-31","2023-12-31","2024-12-31"]}
+{
+  "fiscalDates": [
+    "2023-12-31",
+    "2024-03-31",
+    "2024-06-30",
+    "2024-09-30",
+    "2024-12-31"
+  ],
+  "newFiscalDate": [
+    "2024-12-31"
+  ],
+  "newFiscalDateQuarter": [
+    "2024-12-31"
+  ],
+  "tiLeNovayRongVcsh": [
+    -38
+  ],
+  "tiLePhaiThuTaiSan": [
+    18
+  ],
+  "tsTienTuongDuongTienDTTCNH": [
+    74
+  ],
+  "tsKhoanPhaiThu": [
+    51
+  ],
+  "tsHangTonKho": [
+    137
+  ],
+  "tsTaiSanCoDinh": [
+    21
+  ],
+  "tsTaiSanDoDangDaiHan": [
+    4
+  ],
+  "tsKhac": [
+    2
+  ],
+  "nvVonChuSoHuu": [
+    194
+  ],
+  "nvVayNganHan": [
+    0
+  ],
+  "nvVayDaiHanTPCD": [
+    0
+  ],
+  "nvMuaTraTienTruocDtChuaTH": [
+    3
+  ],
+  "nvKhac": [
+    91
+  ],
+  "nvTileVayRongVCSHQ": [
+    -38
+  ],
+  "tangTruongDoanhSoThuanYoY": [
+    -22
+  ],
+  "tangTruongDoanhThuanKep": [
+    3
+  ],
+  "tangTruongDoanhThuanKepNum": 3,
+  "doanhSoThuan": [
+    145
+  ],
+  "tangTruongLNSTYoY": [
+    -60
+  ],
+  "tangTruongLNSTCtyMeNam": [
+    -4
+  ],
+  "tangTruongLNSTCtyMe5Year": -4,
+  "lnst": [
+    6
+  ],
+  "bienLoiNhuanGop": [
+    11
+  ],
+  "bienLoiNhuanRong": [
+    4
+  ],
+  "ROACuoiKy": [
+    8.2
+  ],
+  "ROECuoiKy": [
+    12
+  ],
+  "choNhanGiaRaPE": 0.6440820759667584,
+  "choNhanGiaRaPB": 0.07890671108431019,
+  "choNhanGiaRaPS": 0.02775510394003052,
+  "PE": [
+    null
+  ],
+  "PETb": [
+    null
+  ],
+  "PB": [
+    null
+  ],
+  "PBTb": [
+    null
+  ],
+  "PS": [
+    null
+  ],
+  "PSTb": [
+    null
+  ],
+  "soCoPhieuLuuHanh": 15269965,
+  "isNganHang": false,
+  "isChungKhoan": false,
+  "tangTruongHangTonKhoKep": 16,
+  "lctThuanHDSXKD": [
+    -19
+  ],
+  "lctThuanHDDauTu": [
+    -2
+  ],
+  "lctThuanHDTC": [
+    0
+  ],
+  "lctThuanTrongKy": [
+    -21
+  ],
+  "hangTonKho": [
+    137
+  ],
+  "hangTonKhoVongQuay": [
+    2.4
+  ],
+  "coTucLNST": [
+    3,
+    1,
+    4,
+    9,
+    17,
+    20,
+    16,
+    17,
+    32,
+    19,
+    15,
+    35,
+    28,
+    40,
+    58,
+    109,
+    108,
+    23
+  ],
+  "coTucDaTra": [
+    2,
+    2,
+    2,
+    0,
+    0,
+    12,
+    6,
+    14,
+    14,
+    22,
+    16,
+    13,
+    19,
+    18,
+    21,
+    26,
+    33,
+    50
+  ],
+  "coTucTiLeDaTra": [
+    62,
+    322,
+    58,
+    0,
+    0,
+    60,
+    37,
+    79,
+    43,
+    116,
+    110,
+    37,
+    68,
+    46,
+    36,
+    24,
+    30,
+    222
+  ],
+  "newFiscalDateYear": [
+    "2007-12-31",
+    "2008-12-31",
+    "2009-12-31",
+    "2010-12-31",
+    "2011-12-31",
+    "2012-12-31",
+    "2013-12-31",
+    "2014-12-31",
+    "2015-12-31",
+    "2016-12-31",
+    "2017-12-31",
+    "2018-12-31",
+    "2019-12-31",
+    "2020-12-31",
+    "2021-12-31",
+    "2022-12-31",
+    "2023-12-31",
+    "2024-12-31"
+  ]
+}
