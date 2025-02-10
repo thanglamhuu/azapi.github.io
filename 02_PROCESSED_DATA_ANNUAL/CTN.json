@@ -1,1 +1,279 @@
-{"fiscalDates":["2014-12-31","2015-12-31","2016-12-31"],"newFiscalDate":["2015-12-31","2016-12-31"],"tiLeNovayRongVcsh":[175,-145],"tiLePhaiThuTaiSan":[50,45],"tsTienTuongDuongTienDTTCNH":[2,6],"tsKhoanPhaiThu":[290,218],"tsHangTonKho":[153,190],"tsTaiSanCoDinh":[27,24],"tsTaiSanDoDangDaiHan":[0,0],"tsKhac":[105,44],"nvVonChuSoHuu":[30,-32],"nvVayNganHan":[54,53],"nvVayDaiHanTPCD":[0,0],"nvMuaTraTienTruocDtChuaTH":[202,120],"nvKhac":[291,342],"nvTileVayRongVCSHQ":[175,-145],"tangTruongDoanhSoThuanYoY":[535,-11],"tangTruongDoanhThuanKep":[null,null],"tangTruongDoanhThuanKepNum":null,"doanhSoThuan":[215,191],"tangTruongLNSTYoY":[-103,-674],"tangTruongLNSTCtyMeNam":[],"tangTruongLNSTCtyMe5Year":0,"lnst":[2,-9],"bienLoiNhuanGop":[-18,9],"bienLoiNhuanRong":[1,-5],"ROACuoiKy":[0.3,-1.8],"ROECuoiKy":[5.1,27.1],"newFiscalDateQuarter":[],"choNhanGiaRaPE":0,"choNhanGiaRaPB":0,"choNhanGiaRaPS":0,"PE":[],"PETb":[],"PB":[],"PBTb":[],"PS":[],"PSTb":[],"soCoPhieuLuuHanh":0,"isNganHang":false,"isChungKhoan":false,"vec11400Year":{"2014-12-31":161805846751,"2015-12-31":152531234789,"2016-12-31":189752009029},"tangTruongHangTonKhoKep":8,"lctThuanHDSXKD":[-52,4],"lctThuanHDDauTu":[98,1],"lctThuanHDTC":[-81,-1],"lctThuanTrongKy":[-34,4],"hangTonKho":[153,190],"hangTonKhoVongQuay":[1.6,1],"coTucLNST":[2,-9],"coTucDaTra":[0,0],"coTucTiLeDaTra":[0,0],"newFiscalDateYear":["2015-12-31","2016-12-31"]}
+{
+  "fiscalDates": [
+    "2012-12-31",
+    "2013-12-31",
+    "2014-12-31",
+    "2015-12-31",
+    "2016-12-31"
+  ],
+  "newFiscalDate": [
+    "2013-12-31",
+    "2014-12-31",
+    "2015-12-31",
+    "2016-12-31"
+  ],
+  "tiLeNovayRongVcsh": [
+    88,
+    -39,
+    175,
+    -145
+  ],
+  "tiLePhaiThuTaiSan": [
+    52,
+    45,
+    50,
+    45
+  ],
+  "tsTienTuongDuongTienDTTCNH": [
+    6,
+    146,
+    2,
+    6
+  ],
+  "tsKhoanPhaiThu": [
+    257,
+    293,
+    290,
+    218
+  ],
+  "tsHangTonKho": [
+    164,
+    162,
+    153,
+    190
+  ],
+  "tsTaiSanCoDinh": [
+    34,
+    23,
+    27,
+    24
+  ],
+  "tsTaiSanDoDangDaiHan": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "tsKhac": [
+    31,
+    31,
+    105,
+    44
+  ],
+  "nvVonChuSoHuu": [
+    108,
+    28,
+    30,
+    -32
+  ],
+  "nvVayNganHan": [
+    98,
+    135,
+    54,
+    53
+  ],
+  "nvVayDaiHanTPCD": [
+    3,
+    0,
+    0,
+    0
+  ],
+  "nvMuaTraTienTruocDtChuaTH": [
+    49,
+    260,
+    202,
+    120
+  ],
+  "nvKhac": [
+    234,
+    232,
+    291,
+    342
+  ],
+  "nvTileVayRongVCSHQ": [
+    88,
+    -39,
+    175,
+    -145
+  ],
+  "tangTruongDoanhSoThuanYoY": [
+    -39,
+    -84,
+    535,
+    -11
+  ],
+  "tangTruongDoanhThuanKep": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "tangTruongDoanhThuanKepNum": null,
+  "doanhSoThuan": [
+    211,
+    34,
+    215,
+    191
+  ],
+  "tangTruongLNSTYoY": [
+    -40,
+    -11614,
+    -103,
+    -674
+  ],
+  "tangTruongLNSTCtyMeNam": [],
+  "tangTruongLNSTCtyMe5Year": 0,
+  "lnst": [
+    1,
+    -58,
+    2,
+    -9
+  ],
+  "bienLoiNhuanGop": [
+    8,
+    -130,
+    -18,
+    9
+  ],
+  "bienLoiNhuanRong": [
+    0,
+    -170,
+    1,
+    -5
+  ],
+  "ROACuoiKy": [
+    0.1,
+    -8.8,
+    0.3,
+    -1.8
+  ],
+  "ROECuoiKy": [
+    0.5,
+    -205.5,
+    5.1,
+    27.1
+  ],
+  "newFiscalDateQuarter": [
+    "2015-03-31",
+    "2015-06-30",
+    "2015-09-30",
+    "2015-12-31",
+    "2016-03-31"
+  ],
+  "choNhanGiaRaPE": 1.3469857171953614,
+  "choNhanGiaRaPB": -0.2820890095780156,
+  "choNhanGiaRaPS": 0.02777168527738295,
+  "PE": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "PETb": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "PB": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "PBTb": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "PS": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "PSTb": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "soCoPhieuLuuHanh": 6973345,
+  "isNganHang": false,
+  "isChungKhoan": false,
+  "vec11400Year": {
+    "2012-12-31": 204846589774,
+    "2013-12-31": 164163765865,
+    "2014-12-31": 161805846751,
+    "2015-12-31": 152531234789,
+    "2016-12-31": 189752009029
+  },
+  "tangTruongHangTonKhoKep": -2,
+  "lctThuanHDSXKD": [
+    42,
+    98,
+    -52,
+    4
+  ],
+  "lctThuanHDDauTu": [
+    4,
+    -108,
+    98,
+    1
+  ],
+  "lctThuanHDTC": [
+    -44,
+    41,
+    -81,
+    -1
+  ],
+  "lctThuanTrongKy": [
+    2,
+    31,
+    -34,
+    4
+  ],
+  "hangTonKho": [
+    164,
+    162,
+    153,
+    190
+  ],
+  "hangTonKhoVongQuay": [
+    1,
+    0.5,
+    1.6,
+    1
+  ],
+  "coTucLNST": [
+    1,
+    -58,
+    2,
+    -9
+  ],
+  "coTucDaTra": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "coTucTiLeDaTra": [
+    3,
+    0,
+    0,
+    0
+  ],
+  "newFiscalDateYear": [
+    "2013-12-31",
+    "2014-12-31",
+    "2015-12-31",
+    "2016-12-31"
+  ]
+}
