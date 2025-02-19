@@ -1,85 +1,87 @@
 {
   "ToJson": [
-    {
-      "Code": "VNINDEX",
-      "Min": 7.97,
-      "Median": 14.28,
-      "Max": 22.07,
-      "KhoangGiaTri": 14.1,
-      "HienTai": 12.67
-    },
-    {
-      "Code": "China",
-      "Min": 9.76,
-      "Median": 14.8,
-      "Max": 28.7,
-      "KhoangGiaTri": 18.94,
-      "HienTai": 14.24
-    },
-    {
-      "Code": "Korea",
-      "Min": 8.5,
-      "Median": 14.5,
-      "Max": 33,
-      "KhoangGiaTri": 24.5,
-      "HienTai": 14.58
-    },
-    {
-      "Code": "India",
-      "Min": 12.55,
-      "Median": 21.9,
-      "Max": 34.5,
-      "KhoangGiaTri": 21.95,
-      "HienTai": 24.75
-    },
-    {
-      "Code": "Thailand",
-      "Min": 6.85,
-      "Median": 18.1,
-      "Max": 41.25,
-      "KhoangGiaTri": 34.4,
-      "HienTai": 18.03
-    },
-    {
-      "Code": "Indonesia",
-      "Min": 8.63,
-      "Median": 13.92,
-      "Max": 21.87,
-      "KhoangGiaTri": 13.24,
-      "HienTai": 12.18
-    },
-    {
-      "Code": "Philippines",
-      "Min": 9.29,
-      "Median": 17.93,
-      "Max": 26.28,
-      "KhoangGiaTri": 16.99,
-      "HienTai": 13.11
-    },
-    {
-      "Code": "Malaysia",
-      "Min": 12.15,
-      "Median": 17.16,
-      "Max": 29.8,
-      "KhoangGiaTri": 17.65,
-      "HienTai": 18.78
-    },
-    {
-      "Code": "HongKong",
-      "Min": 8,
-      "Median": 11.35,
-      "Max": 19.5,
-      "KhoangGiaTri": 11.5,
-      "HienTai": 12.32
-    },
-    {
-      "Code": "USA",
-      "Min": 13.5,
-      "Median": 22.4,
-      "Max": 123.73,
-      "KhoangGiaTri": 110.23,
-      "HienTai": 28.89
-    }
+    [
+      {
+        "Code": "VNINDEX",
+        "Min": 7.97,
+        "Median": 14.1,
+        "Max": 22.07,
+        "KhoangGiaTri": 14.1,
+        "HienTai": 13.3
+      },
+      {
+        "Code": "China",
+        "Min": 9.76,
+        "Median": 14.7,
+        "Max": 28.7,
+        "KhoangGiaTri": 18.94,
+        "HienTai": 13.84
+      },
+      {
+        "Code": "Korea",
+        "Min": 8.5,
+        "Median": 14.45,
+        "Max": 33,
+        "KhoangGiaTri": 24.5,
+        "HienTai": 13.29
+      },
+      {
+        "Code": "India",
+        "Min": 12.55,
+        "Median": 22,
+        "Max": 34.5,
+        "KhoangGiaTri": 21.95,
+        "HienTai": 22.05
+      },
+      {
+        "Code": "Thailand",
+        "Min": 6.85,
+        "Median": 18.1,
+        "Max": 41.25,
+        "KhoangGiaTri": 34.4,
+        "HienTai": 18.11
+      },
+      {
+        "Code": "Indonesia",
+        "Min": 8.63,
+        "Median": 13.83,
+        "Max": 21.87,
+        "KhoangGiaTri": 13.24,
+        "HienTai": 12.71
+      },
+      {
+        "Code": "Philippines",
+        "Min": 9.29,
+        "Median": 17.73,
+        "Max": 26.28,
+        "KhoangGiaTri": 16.99,
+        "HienTai": 11.96
+      },
+      {
+        "Code": "Malaysia",
+        "Min": 12.15,
+        "Median": 17.17,
+        "Max": 29.8,
+        "KhoangGiaTri": 17.65,
+        "HienTai": 19.48
+      },
+      {
+        "Code": "HongKong",
+        "Min": 8,
+        "Median": 11.4,
+        "Max": 19.5,
+        "KhoangGiaTri": 11.5,
+        "HienTai": 11.86
+      },
+      {
+        "Code": "USA",
+        "Min": 13.5,
+        "Median": 22.42,
+        "Max": 123.73,
+        "KhoangGiaTri": 110.23,
+        "HienTai": 29.86
+      }
+    ]
   ],
   "ToJson100": [
     {
@@ -781,6 +783,34 @@
       "Max": 2.544,
       "Median": 1.21,
       "HienTai": 2.597831239823749
+    },
+    {
+      "Code": "CTS",
+      "Min": 0.511,
+      "Max": 2.9289,
+      "Median": 0.81,
+      "HienTai": 2.327224787205466
+    },
+    {
+      "Code": "DSE",
+      "Min": 1.8396,
+      "Max": 2.1701,
+      "Median": 2.03,
+      "HienTai": 2.088192866898364
+    },
+    {
+      "Code": "NAB",
+      "Min": 0.5986,
+      "Max": 1.4162,
+      "Median": 1.1,
+      "HienTai": 1.179346791775196
+    },
+    {
+      "Code": "VTP",
+      "Min": 2.1169,
+      "Max": 11.8519,
+      "Median": 6.44,
+      "HienTai": 11.813004921195507
     }
   ],
   "ToJsonNH": [
