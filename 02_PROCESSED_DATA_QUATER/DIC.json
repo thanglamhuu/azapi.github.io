@@ -1,6 +1,7 @@
 {
   "fiscalDates": [
-    "2024-09-30"
+    "2024-09-30",
+    "2024-12-31"
   ],
   "newFiscalDate": [],
   "newFiscalDateQuarter": [],
@@ -20,11 +21,11 @@
   "nvTileVayRongVCSHQ": [],
   "tangTruongDoanhSoThuanYoY": [],
   "tangTruongDoanhThuanKep": [],
-  "tangTruongDoanhThuanKepNum": -3,
+  "tangTruongDoanhThuanKepNum": -45,
   "doanhSoThuan": [],
   "tangTruongLNSTYoY": [],
   "tangTruongLNSTCtyMeNam": [],
-  "tangTruongLNSTCtyMe5Year": -36,
+  "tangTruongLNSTCtyMe5Year": -35,
   "lnst": [],
   "bienLoiNhuanGop": [],
   "bienLoiNhuanRong": [],
@@ -42,7 +43,7 @@
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": 11,
+  "tangTruongHangTonKhoKep": 10,
   "lctThuanHDSXKD": [],
   "lctThuanHDDauTu": [],
   "lctThuanHDTC": [],
@@ -68,7 +69,8 @@
     -121,
     -42,
     -100,
-    0
+    0,
+    -7
   ],
   "coTucDaTra": [
     0,
@@ -84,6 +86,7 @@
     0,
     17,
     8,
+    0,
     0,
     0,
     0,
@@ -110,6 +113,7 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "newFiscalDateYear": [
@@ -131,6 +135,7 @@
     "2020-12-31",
     "2021-12-31",
     "2022-12-31",
-    "2023-12-31"
+    "2023-12-31",
+    "2024-12-31"
   ]
 }
