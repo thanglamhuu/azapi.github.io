@@ -1,1 +1,2456 @@
-{"ToJson":[{"Code":"VNINDEX","Min":7.97,"Median":14.28,"Max":22.07,"KhoangGiaTri":14.1,"HienTai":14.2},{"Code":"China","Min":9.76,"Median":14.9,"Max":28.7,"KhoangGiaTri":18.939999999999998,"HienTai":13.18},{"Code":"Korea","Min":8.5,"Median":14.45,"Max":33,"KhoangGiaTri":24.5,"HienTai":20.34},{"Code":"India","Min":12.55,"Median":21.7,"Max":34.5,"KhoangGiaTri":21.95,"HienTai":23.59},{"Code":"Thailand","Min":6.85,"Median":18.1,"Max":41.25,"KhoangGiaTri":34.4,"HienTai":17.55},{"Code":"Indonesia","Min":8.63,"Median":14,"Max":21.866,"KhoangGiaTri":13.235999999999999,"HienTai":11.96},{"Code":"Philippines","Min":9.29,"Median":18.0775,"Max":26.282,"KhoangGiaTri":16.992,"HienTai":13.389},{"Code":"Malaysia","Min":12.15,"Median":17.07,"Max":29.8,"KhoangGiaTri":17.65,"HienTai":18.85},{"Code":"HongKong","Min":8,"Median":11.4,"Max":19.5,"KhoangGiaTri":11.5,"HienTai":10.58},{"Code":"USA","Min":13.5,"Median":22.33,"Max":123.73,"KhoangGiaTri":110.23,"HienTai":27.21}],"ToJson100":[{"Code":"AAA","Min":0.4233,"Max":2.0467,"Median":0.8,"HienTai":0.63332742},{"Code":"ACB","Min":1.1121,"Max":2.7172,"Median":1.52,"HienTai":1.53780349},{"Code":"AGG","Min":0.8791,"Max":2.4976,"Median":1.6,"HienTai":0.77827986},{"Code":"ANV","Min":0.3014,"Max":2.3221,"Median":0.8,"HienTai":1.55758429},{"Code":"ASM","Min":0.3548,"Max":1.9722,"Median":0.82,"HienTai":0.62815782},{"Code":"BCG","Min":0.4699,"Max":2.2407,"Median":0.68,"HienTai":0.55979971},{"Code":"BCM","Min":0.0538,"Max":5.3382,"Median":3.38,"HienTai":3.72827737},{"Code":"BID","Min":1.1491,"Max":2.764,"Median":2.07,"HienTai":2.19147666},{"Code":"BMP","Min":1.1463,"Max":3.8153,"Median":2.02,"HienTai":3.85682877},{"Code":"BSI","Min":0.4569,"Max":2.824,"Median":0.97,"HienTai":2.3190311},{"Code":"BVH","Min":1.4129,"Max":4.7876,"Median":2.56,"HienTai":1.459996},{"Code":"BWE","Min":0.7372,"Max":2.5345,"Median":1.73,"HienTai":2.02062731},{"Code":"CII","Min":0.6745,"Max":2.5091,"Median":1.33,"HienTai":0.79372147},{"Code":"CMG","Min":0.4629,"Max":3.6078,"Median":1.5,"HienTai":3.63956545},{"Code":"CRE","Min":0.5719,"Max":3.8344,"Median":1.17,"HienTai":0.56446512},{"Code":"CTD","Min":0.356,"Max":2.6533,"Median":0.89,"HienTai":0.73516149},{"Code":"CTG","Min":0.9709,"Max":2.1897,"Median":1.3,"HienTai":1.44341043},{"Code":"CTR","Min":1.3479,"Max":8.1267,"Median":4.29,"HienTai":8.13283401},{"Code":"DBC","Min":0.566,"Max":1.9095,"Median":0.95,"HienTai":1.53585954},{"Code":"DCM","Min":0.5417,"Max":2.9316,"Median":1.08,"HienTai":1.99532195},{"Code":"DGC","Min":0.9575,"Max":6.0804,"Median":2.09,"HienTai":3.35368258},{"Code":"DGW","Min":0.794,"Max":7.3136,"Median":1.55,"HienTai":3.60268058},{"Code":"DHC","Min":0.4532,"Max":3.9115,"Median":1.66,"HienTai":1.5774963},{"Code":"DIG","Min":0.5737,"Max":6.0656,"Median":1.15,"HienTai":1.59455863},{"Code":"DPM","Min":0.6574,"Max":2.3679,"Median":1.27,"HienTai":1.13254178},{"Code":"DXG","Min":0.6336,"Max":4.398,"Median":1.27,"HienTai":1.01826874},{"Code":"DXS","Min":0.4539,"Max":3.219,"Median":0.73,"HienTai":0.53647871},{"Code":"EIB","Min":0.9058,"Max":2.3028,"Median":1.22,"HienTai":1.46310164},{"Code":"EVF","Min":0.4052,"Max":2.4849,"Median":0.73,"HienTai":0.91193453},{"Code":"FPT","Min":1.6488,"Max":6.508,"Median":2.47,"HienTai":7.29550778},{"Code":"FRT","Min":1.1125,"Max":14.6388,"Median":4.1,"HienTai":14.5673245},{"Code":"FTS","Min":0.6514,"Max":3.6739,"Median":1.06,"HienTai":3.43962118},{"Code":"GAS","Min":1.9656,"Max":5.8728,"Median":3.42,"HienTai":2.42480611},{"Code":"GEX","Min":0.9018,"Max":2.8291,"Median":1.54,"HienTai":1.31934874},{"Code":"GMD","Min":0.4521,"Max":2.7886,"Median":1.15,"HienTai":2.45758381},{"Code":"GVR","Min":0.5265,"Max":3.1398,"Median":1.45,"HienTai":2.8110185},{"Code":"HAG","Min":0.2845,"Max":4.5837,"Median":1.17,"HienTai":1.45235541},{"Code":"HCM","Min":0.7538,"Max":3.358,"Median":1.67,"HienTai":2.04572232},{"Code":"HDB","Min":1.058,"Max":3.1224,"Median":1.56,"HienTai":1.55534946},{"Code":"HDC","Min":0.6696,"Max":5.7272,"Median":1.08,"HienTai":2.0180476},{"Code":"HDG","Min":0.7814,"Max":5.19,"Median":1.85,"HienTai":1.53478232},{"Code":"HHV","Min":0.4302,"Max":1.4039,"Median":0.86,"HienTai":0.98446167},{"Code":"HPG","Min":0.8874,"Max":3.1054,"Median":1.66,"HienTai":1.59650018},{"Code":"HSG","Min":0.4973,"Max":2.5404,"Median":1.26,"HienTai":1.1476711},{"Code":"HT1","Min":0.3968,"Max":2.0482,"Median":1.09,"HienTai":0.90919258},{"Code":"IMP","Min":0.781,"Max":2.9869,"Median":1.64,"HienTai":3.47651061},{"Code":"KBC","Min":0.4852,"Max":3.1596,"Median":0.94,"HienTai":1.13897088},{"Code":"KDC","Min":0.5869,"Max":2.5215,"Median":1.66,"HienTai":2.16001698},{"Code":"KDH","Min":0.3502,"Max":3.2255,"Median":1.72,"HienTai":2.40874432},{"Code":"KOS","Min":1.723,"Max":3.9435,"Median":3.02,"HienTai":3.59050748},{"Code":"LPB","Min":0.5298,"Max":2.1181,"Median":1,"HienTai":2.11813215},{"Code":"MBB","Min":0.8787,"Max":2.1268,"Median":1.12,"HienTai":1.35110706},{"Code":"MSB","Min":0.8362,"Max":1.9445,"Median":1,"HienTai":0.97461117},{"Code":"MSN","Min":1.6067,"Max":8.2513,"Median":4.15,"HienTai":3.51667972},{"Code":"MWG","Min":2.3745,"Max":8.5106,"Median":4.53,"HienTai":3.66566933},{"Code":"NKG","Min":0.3684,"Max":2.0066,"Median":0.98,"HienTai":0.95747771},{"Code":"NLG","Min":1.0788,"Max":2.3715,"Median":1.49,"HienTai":1.59329779},{"Code":"NT2","Min":0.3965,"Max":2.1101,"Median":1.52,"HienTai":1.37565024},{"Code":"OCB","Min":0.793,"Max":1.8444,"Median":1.04,"HienTai":1.00211357},{"Code":"PAN","Min":0.5507,"Max":2.6405,"Median":1.35,"HienTai":1.07665177},{"Code":"PC1","Min":0.679,"Max":2.0391,"Median":1.4,"HienTai":1.60847303},{"Code":"PDR","Min":0.9879,"Max":7.4169,"Median":2.04,"HienTai":1.56388634},{"Code":"PHR","Min":0.6406,"Max":3.4411,"Median":1.61,"HienTai":2.06117831},{"Code":"PLX","Min":1.6755,"Max":5.1945,"Median":2.91,"HienTai":2.09168009},{"Code":"PNJ","Min":1.4599,"Max":6.049,"Median":2.99,"HienTai":2.98333287},{"Code":"POW","Min":0.7725,"Max":1.5537,"Median":1.02,"HienTai":0.93437008},{"Code":"PPC","Min":0.5563,"Max":1.6153,"Median":1.16,"HienTai":0.88267668},{"Code":"PTB","Min":0.7813,"Max":3.9517,"Median":1.88,"HienTai":1.46456129},{"Code":"PVD","Min":0.3233,"Max":2.736,"Median":0.9,"HienTai":0.94304224},{"Code":"PVT","Min":0.3753,"Max":1.9477,"Median":1.11,"HienTai":1.39936203},{"Code":"REE","Min":0.7761,"Max":1.9871,"Median":1.31,"HienTai":1.72404011},{"Code":"SAB","Min":2.9439,"Max":12.5957,"Median":5.99,"HienTai":3.10860711},{"Code":"SBT","Min":0.8488,"Max":2.4598,"Median":1.23,"HienTai":0.92361025},{"Code":"SCS","Min":4.3322,"Max":12.0178,"Median":6.32,"HienTai":5.65593322},{"Code":"SHB","Min":0.4152,"Max":1.9937,"Median":0.73,"HienTai":0.70183588},{"Code":"SJS","Min":0.7738,"Max":4.5221,"Median":1.41,"HienTai":2.69113845},{"Code":"SSB","Min":1.514,"Max":3.4817,"Median":2.49,"HienTai":1.44481002},{"Code":"SSI","Min":0.9317,"Max":3.399,"Median":1.54,"HienTai":2.15278543},{"Code":"STB","Min":0.6704,"Max":1.8236,"Median":1.16,"HienTai":1.29066616},{"Code":"SZC","Min":1.0828,"Max":5.1174,"Median":2.36,"HienTai":2.28713682},{"Code":"TCB","Min":0.7415,"Max":2.3476,"Median":1.28,"HienTai":1.24290924},{"Code":"TCH","Min":0.587,"Max":2.4187,"Median":1.51,"HienTai":1.1969781},{"Code":"TLG","Min":0.6242,"Max":4.7458,"Median":1.85,"HienTai":1.74400331},{"Code":"TPB","Min":1.0596,"Max":2.5108,"Median":1.51,"HienTai":1.2983895},{"Code":"VCB","Min":1.3794,"Max":4.1404,"Median":2.83,"HienTai":2.81613528},{"Code":"VCG","Min":0.695,"Max":3.1568,"Median":1.44,"HienTai":1.41173433},{"Code":"VCI","Min":0.8652,"Max":4.3823,"Median":2.23,"HienTai":2.31836508},{"Code":"VGC","Min":0.8205,"Max":3.5719,"Median":1.64,"HienTai":2.37154651},{"Code":"VHC","Min":0.9176,"Max":2.6781,"Median":1.65,"HienTai":1.96463965},{"Code":"VHM","Min":0.9564,"Max":9.3785,"Median":3.26,"HienTai":1.01914089},{"Code":"VIB","Min":1.0057,"Max":3.473,"Median":1.45,"HienTai":1.4876052},{"Code":"VIC","Min":1.2878,"Max":9.5189,"Median":4.27,"HienTai":1.22983051},{"Code":"VIX","Min":0.4075,"Max":2.5937,"Median":0.81,"HienTai":1.03443634},{"Code":"VJC","Min":3.3315,"Max":8.859,"Median":4.24,"HienTai":3.47439754},{"Code":"VND","Min":0.712,"Max":4.4284,"Median":1.17,"HienTai":1.29029737},{"Code":"VNM","Min":3.7113,"Max":11.4251,"Median":5.7,"HienTai":4.10736263},{"Code":"VPB","Min":1.0689,"Max":3.0994,"Median":1.44,"HienTai":1.24131412},{"Code":"VPI","Min":2.5171,"Max":4.4804,"Median":3.48,"HienTai":4.37702646},{"Code":"VRE","Min":1.104,"Max":4.0211,"Median":2.27,"HienTai":1.0641566},{"Code":"VSH","Min":0.7222,"Max":2.5357,"Median":1.19,"HienTai":2.58136867}],"ToJsonNH":[{"Code":"VCB","Min":1.3794,"Max":4.1404,"Median":2.83,"HienTai":2.81613528},{"Code":"CTG","Min":0.9709,"Max":2.1897,"Median":1.3,"HienTai":1.44341043},{"Code":"BID","Min":1.1491,"Max":2.764,"Median":2.07,"HienTai":2.19147666},{"Code":"ACB","Min":1.1121,"Max":2.7172,"Median":1.52,"HienTai":1.53780349},{"Code":"MBB","Min":0.8787,"Max":2.1268,"Median":1.12,"HienTai":1.35110706},{"Code":"STB","Min":0.6704,"Max":1.8236,"Median":1.16,"HienTai":1.29066616},{"Code":"TCB","Min":0.7415,"Max":2.3476,"Median":1.28,"HienTai":1.24290924},{"Code":"TPB","Min":1.0596,"Max":2.5108,"Median":1.51,"HienTai":1.2983895},{"Code":"VIB","Min":1.0057,"Max":3.473,"Median":1.45,"HienTai":1.4876052},{"Code":"VPB","Min":1.0689,"Max":3.0994,"Median":1.44,"HienTai":1.24131412},{"Code":"HDB","Min":1.058,"Max":3.1224,"Median":1.56,"HienTai":1.55534946},{"Code":"SHB","Min":0.4152,"Max":1.9937,"Median":0.73,"HienTai":0.70183588},{"Code":"EIB","Min":0.9058,"Max":2.3028,"Median":1.22,"HienTai":1.46310164},{"Code":"LPB","Min":0.5298,"Max":2.1181,"Median":1,"HienTai":2.11813215},{"Code":"BAB","Min":0.9595,"Max":2.2795,"Median":1.53,"HienTai":0.9435189},{"Code":"KLB","Min":0.7123,"Max":2.2061,"Median":0.89,"HienTai":0.72907855},{"Code":"NVB","Min":0.4321,"Max":3.3355,"Median":0.76,"HienTai":0.98245779},{"Code":"ABB","Min":0.5689,"Max":1.403,"Median":0.69,"HienTai":0.60096307},{"Code":"BVB","Min":0.678,"Max":1.8465,"Median":1.05,"HienTai":1.07202},{"Code":"MSB","Min":0.8362,"Max":1.9445,"Median":1,"HienTai":0.97461117},{"Code":"NAB","Min":0.5947,"Max":1.4119,"Median":1.08,"HienTai":1.24112473},{"Code":"OCB","Min":0.793,"Max":1.8444,"Median":1.04,"HienTai":1.00211357},{"Code":"PGB","Min":1.047,"Max":2.309,"Median":1.54,"HienTai":1.42099286},{"Code":"SGB","Min":0.9709,"Max":1.631,"Median":1.09,"HienTai":1.00651115},{"Code":"SSB","Min":1.514,"Max":3.4817,"Median":2.49,"HienTai":1.44481002},{"Code":"VAB","Min":0.464,"Max":1.3305,"Median":0.61,"HienTai":0.58965891},{"Code":"VBB","Min":0.6395,"Max":1.6369,"Median":0.96,"HienTai":0.70293659}],"ToJsonCK":[{"Code":"SSI","Min":0.9317,"Max":3.399,"Median":1.54,"HienTai":2.15278543},{"Code":"VND","Min":0.712,"Max":4.4284,"Median":1.17,"HienTai":1.29029737},{"Code":"HCM","Min":0.7538,"Max":3.358,"Median":1.67,"HienTai":2.04572232},{"Code":"VCI","Min":0.8652,"Max":4.3823,"Median":2.23,"HienTai":2.31836508},{"Code":"MBS","Min":0.4704,"Max":3.2063,"Median":1.34,"HienTai":2.59491573},{"Code":"SHS","Min":0.476,"Max":3.5324,"Median":0.91,"HienTai":1.12513338},{"Code":"VIX","Min":0.4075,"Max":2.5937,"Median":0.81,"HienTai":1.03443634},{"Code":"FTS","Min":0.6514,"Max":3.6739,"Median":1.06,"HienTai":3.43962118},{"Code":"BSI","Min":0.4569,"Max":2.824,"Median":0.97,"HienTai":2.3190311},{"Code":"CTS","Min":0.511,"Max":2.7704,"Median":0.79,"HienTai":2.75306194},{"Code":"AGR","Min":0.2966,"Max":2.2303,"Median":0.62,"HienTai":1.63663565},{"Code":"BVS","Min":0.3882,"Max":1.8156,"Median":0.78,"HienTai":1.23730379},{"Code":"TVS","Min":0.7138,"Max":2.9007,"Median":1.03,"HienTai":1.7122758},{"Code":"VDS","Min":0.4526,"Max":2.4234,"Median":0.83,"HienTai":1.96448345},{"Code":"ORS","Min":0.2433,"Max":3.0723,"Median":0.97,"HienTai":1.28812732},{"Code":"SBS","Min":0.4409,"Max":9.0849,"Median":1.37,"HienTai":2.49589981},{"Code":"APG","Min":0.301,"Max":1.8372,"Median":0.7,"HienTai":0.83989401},{"Code":"TVB","Min":0.3612,"Max":2.6794,"Median":1.01,"HienTai":0.95803209},{"Code":"PSI","Min":0.2126,"Max":1.5884,"Median":0.65,"HienTai":0.63300713},{"Code":"IVS","Min":0.3926,"Max":1.7791,"Median":0.95,"HienTai":0.88177355},{"Code":"VIG","Min":0.1411,"Max":2.5733,"Median":0.48,"HienTai":0.83117472},{"Code":"APS","Min":0.2283,"Max":2.653,"Median":0.45,"HienTai":0.70147482},{"Code":"HAC","Min":0.3079,"Max":1.5301,"Median":0.57,"HienTai":1.1841918},{"Code":"HBS","Min":0.1711,"Max":1.4083,"Median":0.45,"HienTai":0.71465467},{"Code":"WSS","Min":0.1864,"Max":1.9582,"Median":0.5,"HienTai":0.52206008},{"Code":"DSC","Min":0.4411,"Max":7.7627,"Median":1.79,"HienTai":2.06454925},{"Code":"EVS","Min":0.4822,"Max":2.5082,"Median":0.78,"HienTai":0.52370146},{"Code":"TCI","Min":0.4187,"Max":1.9812,"Median":0.81,"HienTai":0.76305292},{"Code":"BMS","Min":0.286,"Max":1.7953,"Median":0.66,"HienTai":0.78011493},{"Code":"CSI","Min":1.1891,"Max":8.2511,"Median":2.67,"HienTai":2.92046929},{"Code":"PHS","Min":0.3493,"Max":2.9752,"Median":0.97,"HienTai":0.94997163},{"Code":"AAS","Min":0.5007,"Max":2.9068,"Median":0.82,"HienTai":0.66421064}],"ToJsonBH":[{"Code":"BVH","Min":1.4129,"Max":4.7876,"Median":2.56,"HienTai":1.459996},{"Code":"PVI","Min":0.5941,"Max":1.6354,"Median":1.01,"HienTai":1.34398618},{"Code":"VNR","Min":0.4671,"Max":1.4879,"Median":1.01,"HienTai":1.02286052},{"Code":"BMI","Min":0.2776,"Max":1.9489,"Median":0.93,"HienTai":1.02731443},{"Code":"PTI","Min":0.6524,"Max":2.2687,"Median":1,"HienTai":1.12068178},{"Code":"BIC","Min":0.5858,"Max":2.289,"Median":1.26,"HienTai":1.33867213},{"Code":"PGI","Min":0.6482,"Max":1.7884,"Median":1.16,"HienTai":1.3707883},{"Code":"ABI","Min":0.2577,"Max":2.0511,"Median":1.14,"HienTai":1.12487132},{"Code":"BLI","Min":0.5027,"Max":1.4485,"Median":0.67,"HienTai":0.64478087},{"Code":"MIG","Min":0.8424,"Max":2.316,"Median":1.31,"HienTai":1.42378137},{"Code":"PRE","Min":1.106,"Max":2.0906,"Median":1.46,"HienTai":1.16844403},{"Code":"AIC","Min":0.7933,"Max":1.5954,"Median":1.12,"HienTai":1.0313334}],"ToJsonBDS":[{"Code":"VIC","Min":1.2878,"Max":9.5189,"Median":4.27,"HienTai":1.22983051},{"Code":"KDH","Min":0.3502,"Max":3.2255,"Median":1.72,"HienTai":2.40874432},{"Code":"PDR","Min":0.9879,"Max":7.4169,"Median":2.04,"HienTai":1.56388634},{"Code":"DIG","Min":0.5737,"Max":6.0656,"Median":1.15,"HienTai":1.59455863},{"Code":"NLG","Min":1.0788,"Max":2.3715,"Median":1.49,"HienTai":1.59329779},{"Code":"DXG","Min":0.6336,"Max":4.398,"Median":1.27,"HienTai":1.01826874},{"Code":"CEO","Min":0.6165,"Max":5.1658,"Median":1.07,"HienTai":1.30285491},{"Code":"HDG","Min":0.7814,"Max":5.19,"Median":1.85,"HienTai":1.53478232},{"Code":"SJS","Min":0.7738,"Max":4.5221,"Median":1.41,"HienTai":2.69113845},{"Code":"IJC","Min":0.6214,"Max":2.2612,"Median":0.93,"HienTai":0.99957246},{"Code":"HDC","Min":0.6696,"Max":5.7272,"Median":1.08,"HienTai":2.0180476},{"Code":"VC3","Min":0.4054,"Max":4.6329,"Median":1.69,"HienTai":2.62968878},{"Code":"SCR","Min":0.2974,"Max":1.4503,"Median":0.59,"HienTai":0.4287911},{"Code":"QCG","Min":0.2661,"Max":1.5696,"Median":0.51,"HienTai":0.61093293},{"Code":"HQC","Min":0.1192,"Max":2.5647,"Median":0.42,"HienTai":0.34889676},{"Code":"TIG","Min":0.2617,"Max":2.1645,"Median":0.64,"HienTai":1.06305034},{"Code":"NBB","Min":0.2317,"Max":2.2862,"Median":0.95,"HienTai":1.29336218},{"Code":"NTL","Min":0.6148,"Max":4.5575,"Median":1.14,"HienTai":1.37342679},{"Code":"D2D","Min":0.5303,"Max":2.7493,"Median":1.07,"HienTai":1.10129753},{"Code":"IDJ","Min":0.2323,"Max":2.9391,"Median":0.46,"HienTai":0.51368113},{"Code":"ITC","Min":0.2685,"Max":1.5488,"Median":0.52,"HienTai":0.48385147},{"Code":"TDC","Min":0.5414,"Max":2.6334,"Median":0.8,"HienTai":1.18354898},{"Code":"CSC","Min":0.2735,"Max":7.1364,"Median":1.45,"HienTai":1.69162467},{"Code":"NDN","Min":0.4676,"Max":1.6221,"Median":0.83,"HienTai":0.59034948},{"Code":"VPH","Min":0.2172,"Max":4.427,"Median":0.58,"HienTai":0.79187668},{"Code":"DRH","Min":0.1774,"Max":2.8335,"Median":0.55,"HienTai":0.16092127},{"Code":"HLD","Min":0.4836,"Max":2.0464,"Median":0.88,"HienTai":1.24611343},{"Code":"VRC","Min":0.32,"Max":2.5059,"Median":0.56,"HienTai":0.3905748},{"Code":"CCL","Min":0.2605,"Max":1.315,"Median":0.49,"HienTai":0.7567723},{"Code":"TDH","Min":0.3171,"Max":1.9401,"Median":0.55,"HienTai":0.8500414},{"Code":"HAR","Min":0.2566,"Max":2.0632,"Median":0.48,"HienTai":0.34720072},{"Code":"PTL","Min":0.2025,"Max":1.6734,"Median":0.46,"HienTai":0.63311895},{"Code":"PFL","Min":0.1102,"Max":1.7896,"Median":0.32,"HienTai":0.49491423},{"Code":"LDG","Min":0.2382,"Max":1.9315,"Median":0.68,"HienTai":0.20865874},{"Code":"API","Min":0.3198,"Max":3.2617,"Median":0.97,"HienTai":0.74332016},{"Code":"NVL","Min":0.5879,"Max":4.8574,"Median":2.86,"HienTai":0.64534096},{"Code":"SGR","Min":0.7288,"Max":2.9332,"Median":1.4,"HienTai":2.68454811},{"Code":"TEG","Min":0.3719,"Max":1.923,"Median":0.76,"HienTai":0.77931569},{"Code":"VRE","Min":1.104,"Max":4.0211,"Median":2.27,"HienTai":1.0641566},{"Code":"VPI","Min":2.5171,"Max":4.4804,"Median":3.48,"HienTai":4.37702646},{"Code":"KOS","Min":1.723,"Max":3.9435,"Median":3.02,"HienTai":3.59050748},{"Code":"TLD","Min":0.298,"Max":1.4417,"Median":0.53,"HienTai":0.55588119},{"Code":"AAV","Min":0.3448,"Max":2.5766,"Median":0.78,"HienTai":0.53275927},{"Code":"VHM","Min":0.9564,"Max":9.3785,"Median":3.26,"HienTai":1.01914089},{"Code":"CRE","Min":0.5719,"Max":3.8344,"Median":1.17,"HienTai":0.56446512},{"Code":"HTN","Min":0.5549,"Max":2.9064,"Median":1.01,"HienTai":0.46179854},{"Code":"FIR","Min":0.5611,"Max":3.2814,"Median":2.16,"HienTai":0.5219864},{"Code":"NRC","Min":0.2893,"Max":3.6468,"Median":1.07,"HienTai":0.28555746},{"Code":"AGG","Min":0.8791,"Max":2.4976,"Median":1.6,"HienTai":0.77827986},{"Code":"CKG","Min":0.7236,"Max":3.1481,"Median":1.67,"HienTai":1.8423504}],"ToJsonBDSKCN":[{"Code":"CCI","Min":0.5965,"Max":2.1061,"Median":0.92,"HienTai":1.35264225},{"Code":"DPR","Min":0.5775,"Max":2.8745,"Median":0.95,"HienTai":1.49209385},{"Code":"IDV","Min":1.1676,"Max":3.6358,"Median":2.14,"HienTai":1.59448127},{"Code":"ITA","Min":0.2112,"Max":1.4636,"Median":0.49,"HienTai":0.21348164},{"Code":"KBC","Min":0.4852,"Max":3.1596,"Median":0.94,"HienTai":1.13897088},{"Code":"LGL","Min":0.1837,"Max":2.4006,"Median":0.47,"HienTai":0.20073228},{"Code":"LHG","Min":0.3841,"Max":2.3085,"Median":0.84,"HienTai":1.13866635},{"Code":"PHR","Min":0.6406,"Max":3.4411,"Median":1.61,"HienTai":2.06117831},{"Code":"SZL","Min":0.4523,"Max":2.0968,"Median":1.14,"HienTai":1.90080202},{"Code":"TIX","Min":0.726,"Max":1.6145,"Median":1.16,"HienTai":1.21362231},{"Code":"PXL","Min":0.1901,"Max":1.5101,"Median":0.45,"HienTai":1.4391892},{"Code":"BII","Min":0.0668,"Max":2.074,"Median":0.23,"HienTai":0.09766275},{"Code":"TIP","Min":0.6642,"Max":2.3436,"Median":1.02,"HienTai":0.83160335},{"Code":"VGC","Min":0.8205,"Max":3.5719,"Median":1.64,"HienTai":2.37154651},{"Code":"VRG","Min":0.2414,"Max":3.1187,"Median":1.03,"HienTai":1.66454577},{"Code":"BAX","Min":1.181,"Max":3.212,"Median":1.97,"HienTai":1.39819157},{"Code":"MH3","Min":1.0985,"Max":4.5476,"Median":1.93,"HienTai":1.55465968},{"Code":"NTC","Min":2.3271,"Max":8.774,"Median":4.45,"HienTai":4.07551443},{"Code":"BCM","Min":0.0538,"Max":5.3382,"Median":3.38,"HienTai":3.72827737},{"Code":"DTD","Min":0.7108,"Max":2.5583,"Median":1.26,"HienTai":1.37843851},{"Code":"HPI","Min":0.6401,"Max":9.747,"Median":3.15,"HienTai":2.26932226},{"Code":"SNZ","Min":0.8829,"Max":3.4381,"Median":1.76,"HienTai":1.83447595},{"Code":"GVR","Min":0.5265,"Max":3.1398,"Median":1.45,"HienTai":2.8110185},{"Code":"IDC","Min":0.353,"Max":5.7717,"Median":2.56,"HienTai":3.87736441},{"Code":"SZC","Min":1.0828,"Max":5.1174,"Median":2.36,"HienTai":2.28713682},{"Code":"TID","Min":1.5284,"Max":5.5418,"Median":2.34,"HienTai":2.23627515},{"Code":"TLP","Min":0.6139,"Max":1.3997,"Median":0.92,"HienTai":0.60623843},{"Code":"SIP","Min":1.8924,"Max":7.2275,"Median":3.91,"HienTai":3.94646386},{"Code":"SZB","Min":1.3629,"Max":2.1575,"Median":1.75,"HienTai":1.72569442},{"Code":"SZG","Min":2.0122,"Max":3.23,"Median":2.59,"HienTai":2.14766103}],"ToJsonDauKhi":[{"Code":"PVD","Min":0.3233,"Max":2.736,"Median":0.9,"HienTai":0.94304224},{"Code":"PVS","Min":0.4871,"Max":2.0162,"Median":0.95,"HienTai":1.40930953},{"Code":"POS","Min":0.4041,"Max":1.1916,"Median":0.62,"HienTai":1.06806739},{"Code":"PXS","Min":0.4488,"Max":3.0785,"Median":0.94,"HienTai":1.33520709},{"Code":"PXT","Min":0.2699,"Max":4.1344,"Median":0.9,"HienTai":0.98178839},{"Code":"PVB","Min":0.6211,"Max":2.8826,"Median":0.98,"HienTai":1.57248911},{"Code":"PVC","Min":0.3653,"Max":2.4731,"Median":0.88,"HienTai":1.10698018},{"Code":"GAS","Min":1.9656,"Max":5.8728,"Median":3.42,"HienTai":2.42480611},{"Code":"PVT","Min":0.3753,"Max":1.9477,"Median":1.11,"HienTai":1.39936203},{"Code":"PJT","Min":0.4784,"Max":1.0927,"Median":0.79,"HienTai":0.76954556},{"Code":"PVP","Min":0.3857,"Max":1.2669,"Median":0.69,"HienTai":0.95086404},{"Code":"PDV","Min":0.2635,"Max":1.2524,"Median":0.59,"HienTai":1.63024847},{"Code":"PLC","Min":0.737,"Max":2.7551,"Median":1.6,"HienTai":1.53501602},{"Code":"BSR","Min":0.6139,"Max":2.2965,"Median":1.22,"HienTai":1.19110479},{"Code":"PLX","Min":1.6755,"Max":5.1945,"Median":2.91,"HienTai":2.09168009},{"Code":"OIL","Min":0.7486,"Max":2.1471,"Median":1.22,"HienTai":1.15220648},{"Code":"PPY","Min":0.5243,"Max":1.6706,"Median":1.06,"HienTai":0.572628},{"Code":"PSH","Min":0.4181,"Max":2.1164,"Median":0.98,"HienTai":0.44166509},{"Code":"PGC","Min":0.3865,"Max":1.6755,"Median":1.08,"HienTai":1.05904645},{"Code":"PGD","Min":1.2096,"Max":3.3127,"Median":2.08,"HienTai":1.94370692},{"Code":"PGS","Min":0.7752,"Max":2.3671,"Median":1.2,"HienTai":1.59581863},{"Code":"PVG","Min":0.4889,"Max":1.8631,"Median":0.64,"HienTai":0.55184423},{"Code":"CNG","Min":1.071,"Max":2.7854,"Median":1.71,"HienTai":1.98551145}],"ToJsonDuoc":[{"Code":"DCL","Min":0.4164,"Max":2.4525,"Median":1.27,"HienTai":1.28507048},{"Code":"DHG","Min":2.4189,"Max":5.0598,"Median":3.38,"HienTai":3.27669562},{"Code":"DMC","Min":0.7169,"Max":4.2974,"Median":1.48,"HienTai":1.51350091},{"Code":"IMP","Min":0.781,"Max":2.9869,"Median":1.64,"HienTai":3.47651061},{"Code":"OPC","Min":0.8794,"Max":2.7763,"Median":2,"HienTai":1.98188353},{"Code":"PMC","Min":1.0323,"Max":3.0367,"Median":1.85,"HienTai":2.89297714},{"Code":"TRA","Min":1.4324,"Max":4.7894,"Median":2.63,"HienTai":2.25934177},{"Code":"DP3","Min":1.0355,"Max":3.659,"Median":2.28,"HienTai":2.87797032},{"Code":"DBD","Min":2.1215,"Max":3.2596,"Median":2.59,"HienTai":2.99022389},{"Code":"AGP","Min":0.9064,"Max":2.538,"Median":1.33,"HienTai":2.3815325},{"Code":"DP1","Min":0.8601,"Max":2.6667,"Median":1.74,"HienTai":2.14954742},{"Code":"DVN","Min":0.214,"Max":2.3924,"Median":1.54,"HienTai":1.76561881},{"Code":"MKP","Min":0.5234,"Max":1.4987,"Median":0.92,"HienTai":0.60202957},{"Code":"VDP","Min":0.918,"Max":1.331,"Median":1.03,"HienTai":1.03738217},{"Code":"DTP","Min":1.2398,"Max":3.1086,"Median":2.33,"HienTai":3.08126743},{"Code":"PBC","Min":0.6233,"Max":2.233,"Median":1.33,"HienTai":0.59744614}],"ToJsonDien":[{"Code":"BTP","Min":0.292,"Max":1.2164,"Median":0.74,"HienTai":0.7383843},{"Code":"HJS","Min":0.5145,"Max":2.5758,"Median":1.6,"HienTai":2.28601614},{"Code":"NT2","Min":0.3965,"Max":2.1101,"Median":1.52,"HienTai":1.37565024},{"Code":"PPC","Min":0.5563,"Max":1.6153,"Median":1.16,"HienTai":0.88267668},{"Code":"SBA","Min":0.4021,"Max":1.9806,"Median":1.11,"HienTai":2.0618419},{"Code":"SEB","Min":0.8133,"Max":3.8137,"Median":2.39,"HienTai":3.0367725},{"Code":"SJD","Min":0.6575,"Max":1.8836,"Median":1.19,"HienTai":1.20673547},{"Code":"TBC","Min":0.8751,"Max":2.3969,"Median":1.72,"HienTai":2.44670699},{"Code":"TMP","Min":0.8594,"Max":3.6494,"Median":1.93,"HienTai":3.56524323},{"Code":"VSH","Min":0.7222,"Max":2.5357,"Median":1.19,"HienTai":2.58136867},{"Code":"GHC","Min":0.8376,"Max":2.2882,"Median":1.71,"HienTai":1.43471818},{"Code":"SHP","Min":0.3974,"Max":2.8931,"Median":1.73,"HienTai":3.26334542},{"Code":"CHP","Min":0.5025,"Max":2.4298,"Median":1.6,"HienTai":2.41511045},{"Code":"ISH","Min":0.9557,"Max":1.9945,"Median":1.34,"HienTai":2.0420779},{"Code":"ND2","Min":0.2776,"Max":2.4947,"Median":1.54,"HienTai":2.14351423},{"Code":"VPD","Min":1.0101,"Max":1.9324,"Median":1.29,"HienTai":1.95037889},{"Code":"GEG","Min":1.0518,"Max":2.5077,"Median":1.41,"HienTai":1.11884335},{"Code":"HND","Min":0.8476,"Max":1.5864,"Median":1.18,"HienTai":1.1100554},{"Code":"QTP","Min":0.9465,"Max":1.4314,"Median":1.14,"HienTai":1.14759516},{"Code":"S4A","Min":1.3956,"Max":3.2006,"Median":2.34,"HienTai":2.67488914},{"Code":"AVC","Min":1.4512,"Max":4.4175,"Median":1.75,"HienTai":4.12682806},{"Code":"BHA","Min":0.8428,"Max":2.0532,"Median":1.25,"HienTai":1.64853297},{"Code":"DNA","Min":0.4642,"Max":1.7678,"Median":1.38,"HienTai":1.61934136},{"Code":"DNH","Min":1.3723,"Max":22.3461,"Median":2.2,"HienTai":4.61272235},{"Code":"HNA","Min":0.9243,"Max":2.0508,"Median":1.13,"HienTai":2.01897345},{"Code":"PGV","Min":0.9198,"Max":2.6727,"Median":1.36,"HienTai":1.65271684},{"Code":"POW","Min":0.7725,"Max":1.5537,"Median":1.02,"HienTai":0.93437008},{"Code":"SBH","Min":1.3994,"Max":5.1795,"Median":2.2,"HienTai":4.24074162},{"Code":"BSA","Min":0.9935,"Max":1.6564,"Median":1.22,"HienTai":1.63046141},{"Code":"NTH","Min":1.9727,"Max":3.7589,"Median":2.63,"HienTai":3.7589261}],"ToJsonNuoc":[{"Code":"DNW","Min":0.9832,"Max":1.8404,"Median":1.42,"HienTai":1.78072207},{"Code":"HPW","Min":0.6388,"Max":1.5062,"Median":0.99,"HienTai":1.40020394},{"Code":"TDM","Min":1.2331,"Max":2.8109,"Median":1.82,"HienTai":2.24278311},{"Code":"VCW","Min":1.5809,"Max":3.1363,"Median":2.4,"HienTai":1.87307943},{"Code":"BWE","Min":0.7372,"Max":2.5345,"Median":1.73,"HienTai":2.02062731},{"Code":"BWS","Min":2.2508,"Max":3.6132,"Median":2.91,"HienTai":3.19927248},{"Code":"HWS","Min":0.5909,"Max":1.4236,"Median":1.09,"HienTai":1.3829},{"Code":"NQN","Min":0.4219,"Max":2.8018,"Median":1.13,"HienTai":1.10977559},{"Code":"VIW","Min":0.5047,"Max":1.8936,"Median":0.99,"HienTai":1.18875538},{"Code":"LDW","Min":0.7227,"Max":1.3317,"Median":0.88,"HienTai":1.29516935},{"Code":"PMW","Min":1.4001,"Max":3.7322,"Median":2.39,"HienTai":2.96317135},{"Code":"VAV","Min":1.6349,"Max":3.0519,"Median":2.25,"HienTai":2.35649425}]}
+{
+  "ToJson": [
+    {
+      "Code": "VNINDEX",
+      "Min": 7.97,
+      "Median": 14.1,
+      "Max": 22.07,
+      "KhoangGiaTri": 14.1,
+      "HienTai": 12.94
+    },
+    {
+      "Code": "China",
+      "Min": 9.76,
+      "Median": 14.7,
+      "Max": 28.7,
+      "KhoangGiaTri": 18.94,
+      "HienTai": 13.84
+    },
+    {
+      "Code": "Korea",
+      "Min": 8.5,
+      "Median": 14.45,
+      "Max": 33,
+      "KhoangGiaTri": 24.5,
+      "HienTai": 13.29
+    },
+    {
+      "Code": "India",
+      "Min": 12.55,
+      "Median": 22,
+      "Max": 34.5,
+      "KhoangGiaTri": 21.95,
+      "HienTai": 22.05
+    },
+    {
+      "Code": "Thailand",
+      "Min": 6.85,
+      "Median": 18.1,
+      "Max": 41.25,
+      "KhoangGiaTri": 34.4,
+      "HienTai": 18.11
+    },
+    {
+      "Code": "Indonesia",
+      "Min": 8.63,
+      "Median": 13.83,
+      "Max": 21.87,
+      "KhoangGiaTri": 13.24,
+      "HienTai": 12.71
+    },
+    {
+      "Code": "Philippines",
+      "Min": 9.29,
+      "Median": 17.73,
+      "Max": 26.28,
+      "KhoangGiaTri": 16.99,
+      "HienTai": 11.96
+    },
+    {
+      "Code": "Malaysia",
+      "Min": 12.15,
+      "Median": 17.17,
+      "Max": 29.8,
+      "KhoangGiaTri": 17.65,
+      "HienTai": 19.48
+    },
+    {
+      "Code": "HongKong",
+      "Min": 8,
+      "Median": 11.4,
+      "Max": 19.5,
+      "KhoangGiaTri": 11.5,
+      "HienTai": 11.86
+    },
+    {
+      "Code": "USA",
+      "Min": 13.5,
+      "Median": 22.42,
+      "Max": 123.73,
+      "KhoangGiaTri": 110.23,
+      "HienTai": 29.86
+    }
+  ],
+  "ToJson100": [
+    {
+      "Code": "AAA",
+      "Min": 0.4233,
+      "Max": 2.0405,
+      "Median": 0.79,
+      "HienTai": 0.6361988319730002
+    },
+    {
+      "Code": "ACB",
+      "Min": 1.0678,
+      "Max": 3.7056,
+      "Median": 1.52,
+      "HienTai": 1.391454239776967
+    },
+    {
+      "Code": "ANV",
+      "Min": 0.3028,
+      "Max": 2.3003,
+      "Median": 0.83,
+      "HienTai": 1.6752421977933034
+    },
+    {
+      "Code": "ASM",
+      "Min": 0.3554,
+      "Max": 1.9722,
+      "Median": 0.79,
+      "HienTai": 0.5754878819092645
+    },
+    {
+      "Code": "BCG",
+      "Min": 0.4728,
+      "Max": 2.2366,
+      "Median": 0.67,
+      "HienTai": 0.5093631681832964
+    },
+    {
+      "Code": "BCM",
+      "Min": 0.0538,
+      "Max": 5.3257,
+      "Median": 3.49,
+      "HienTai": 4.041763401089181
+    },
+    {
+      "Code": "BID",
+      "Min": 1.1491,
+      "Max": 2.7727,
+      "Median": 2.06,
+      "HienTai": 2.0279876611930083
+    },
+    {
+      "Code": "BMP",
+      "Min": 1.1626,
+      "Max": 3.8221,
+      "Median": 2.06,
+      "HienTai": 3.6208264544484696
+    },
+    {
+      "Code": "BSI",
+      "Min": 0.4546,
+      "Max": 2.8284,
+      "Median": 0.98,
+      "HienTai": 2.3707915013588234
+    },
+    {
+      "Code": "BVH",
+      "Min": 1.4019,
+      "Max": 4.7793,
+      "Median": 2.48,
+      "HienTai": 1.8636303209211298
+    },
+    {
+      "Code": "BWE",
+      "Min": 0.739,
+      "Max": 2.5148,
+      "Median": 1.76,
+      "HienTai": 1.8535791955901013
+    },
+    {
+      "Code": "CII",
+      "Min": 0.6791,
+      "Max": 2.6287,
+      "Median": 1.35,
+      "HienTai": 1.2821388707967716
+    },
+    {
+      "Code": "CMG",
+      "Min": 0.4629,
+      "Max": 3.7561,
+      "Median": 1.56,
+      "HienTai": 3.288661745322573
+    },
+    {
+      "Code": "CRE",
+      "Min": 0.5678,
+      "Max": 3.8255,
+      "Median": 1.15,
+      "HienTai": 0.5958630196974587
+    },
+    {
+      "Code": "CTD",
+      "Min": 0.3578,
+      "Max": 2.6342,
+      "Median": 0.88,
+      "HienTai": 1.0579713611312802
+    },
+    {
+      "Code": "CTG",
+      "Min": 0.9057,
+      "Max": 2.5333,
+      "Median": 1.31,
+      "HienTai": 1.4959272062599054
+    },
+    {
+      "Code": "CTR",
+      "Min": 1.3493,
+      "Max": 8.5251,
+      "Median": 4.53,
+      "HienTai": 7.394773952848415
+    },
+    {
+      "Code": "DBC",
+      "Min": 0.5675,
+      "Max": 2.0528,
+      "Median": 0.98,
+      "HienTai": 1.4643176535468838
+    },
+    {
+      "Code": "DCM",
+      "Min": 0.5513,
+      "Max": 2.9276,
+      "Median": 1.1,
+      "HienTai": 1.8556756270891184
+    },
+    {
+      "Code": "DGC",
+      "Min": 0.965,
+      "Max": 6.0596,
+      "Median": 2.13,
+      "HienTai": 3.170084599820701
+    },
+    {
+      "Code": "DGW",
+      "Min": 0.7955,
+      "Max": 7.3505,
+      "Median": 1.61,
+      "HienTai": 2.9282219469648165
+    },
+    {
+      "Code": "DIG",
+      "Min": 0.5737,
+      "Max": 7.5935,
+      "Median": 1.21,
+      "HienTai": 1.5669907120915934
+    },
+    {
+      "Code": "DPM",
+      "Min": 0.66,
+      "Max": 3.3852,
+      "Median": 1.29,
+      "HienTai": 1.298721559154011
+    },
+    {
+      "Code": "DXG",
+      "Min": 0.6367,
+      "Max": 4.453,
+      "Median": 1.26,
+      "HienTai": 1.1572989492925958
+    },
+    {
+      "Code": "DXS",
+      "Min": 0.4539,
+      "Max": 3.1789,
+      "Median": 0.71,
+      "HienTai": 0.7056904355502652
+    },
+    {
+      "Code": "EIB",
+      "Min": 0.8575,
+      "Max": 2.3074,
+      "Median": 1.22,
+      "HienTai": 1.5807525058202572
+    },
+    {
+      "Code": "EVF",
+      "Min": 0.406,
+      "Max": 2.4771,
+      "Median": 0.76,
+      "HienTai": 0.9288385922443275
+    },
+    {
+      "Code": "FPT",
+      "Min": 1.6505,
+      "Max": 7.0893,
+      "Median": 2.57,
+      "HienTai": 6.9112767662342325
+    },
+    {
+      "Code": "FRT",
+      "Min": 1.1669,
+      "Max": 14.641,
+      "Median": 4.22,
+      "HienTai": 13.041229794492226
+    },
+    {
+      "Code": "FTS",
+      "Min": 0.6522,
+      "Max": 3.6523,
+      "Median": 1.08,
+      "HienTai": 3.5138646407480354
+    },
+    {
+      "Code": "GAS",
+      "Min": 1.9853,
+      "Max": 5.8728,
+      "Median": 3.38,
+      "HienTai": 2.644109932503898
+    },
+    {
+      "Code": "GEX",
+      "Min": 0.9025,
+      "Max": 2.7827,
+      "Median": 1.52,
+      "HienTai": 1.3976914281392843
+    },
+    {
+      "Code": "GMD",
+      "Min": 0.4545,
+      "Max": 2.8489,
+      "Median": 1.19,
+      "HienTai": 2.02882504214039
+    },
+    {
+      "Code": "GVR",
+      "Min": 0.529,
+      "Max": 3.1317,
+      "Median": 1.56,
+      "HienTai": 2.5130037573863224
+    },
+    {
+      "Code": "HAG",
+      "Min": 0.2862,
+      "Max": 4.6891,
+      "Median": 1.23,
+      "HienTai": 1.5958217769149685
+    },
+    {
+      "Code": "HCM",
+      "Min": 0.761,
+      "Max": 3.2732,
+      "Median": 1.7,
+      "HienTai": 2.2240378618789514
+    },
+    {
+      "Code": "HDB",
+      "Min": 1.07,
+      "Max": 3.1224,
+      "Median": 1.55,
+      "HienTai": 1.4784210745659176
+    },
+    {
+      "Code": "HDC",
+      "Min": 0.6739,
+      "Max": 5.6154,
+      "Median": 1.12,
+      "HienTai": 1.95856514697213
+    },
+    {
+      "Code": "HDG",
+      "Min": 0.7827,
+      "Max": 5.1633,
+      "Median": 1.84,
+      "HienTai": 1.4960660261662846
+    },
+    {
+      "Code": "HHV",
+      "Min": 0.4304,
+      "Max": 1.4039,
+      "Median": 0.87,
+      "HienTai": 0.5790851482445043
+    },
+    {
+      "Code": "HPG",
+      "Min": 0.8963,
+      "Max": 3.1425,
+      "Median": 1.68,
+      "HienTai": 1.5661370013283362
+    },
+    {
+      "Code": "HSG",
+      "Min": 0.4995,
+      "Max": 3.2536,
+      "Median": 1.3,
+      "HienTai": 1.0653440235273248
+    },
+    {
+      "Code": "HT1",
+      "Min": 0.4073,
+      "Max": 2.0512,
+      "Median": 1.1,
+      "HienTai": 1.002867729276673
+    },
+    {
+      "Code": "IMP",
+      "Min": 0.7814,
+      "Max": 3.1745,
+      "Median": 1.64,
+      "HienTai": 3.379123497198173
+    },
+    {
+      "Code": "KBC",
+      "Min": 0.4906,
+      "Max": 3.2536,
+      "Median": 0.96,
+      "HienTai": 1.2255516890593345
+    },
+    {
+      "Code": "KDC",
+      "Min": 0.6026,
+      "Max": 2.535,
+      "Median": 1.69,
+      "HienTai": 2.5606673081536875
+    },
+    {
+      "Code": "KDH",
+      "Min": 0.3533,
+      "Max": 3.194,
+      "Median": 1.75,
+      "HienTai": 1.9474532070325183
+    },
+    {
+      "Code": "KOS",
+      "Min": 1.6527,
+      "Max": 3.9373,
+      "Median": 3.07,
+      "HienTai": 3.675146719712251
+    },
+    {
+      "Code": "LPB",
+      "Min": 0.5306,
+      "Max": 2.2404,
+      "Median": 1.03,
+      "HienTai": 2.4917970459155065
+    },
+    {
+      "Code": "MBB",
+      "Min": 0.8808,
+      "Max": 2.1268,
+      "Median": 1.13,
+      "HienTai": 1.2514836989239848
+    },
+    {
+      "Code": "MSB",
+      "Min": 0.8086,
+      "Max": 1.9445,
+      "Median": 0.98,
+      "HienTai": 0.8015197749269458
+    },
+    {
+      "Code": "MSN",
+      "Min": 1.5985,
+      "Max": 8.5866,
+      "Median": 4.13,
+      "HienTai": 3.2199028316252027
+    },
+    {
+      "Code": "MWG",
+      "Min": 2.3897,
+      "Max": 8.5101,
+      "Median": 4.47,
+      "HienTai": 3.069597656772318
+    },
+    {
+      "Code": "NKG",
+      "Min": 0.3689,
+      "Max": 1.9899,
+      "Median": 0.97,
+      "HienTai": 0.8555562260054999
+    },
+    {
+      "Code": "NLG",
+      "Min": 1.0873,
+      "Max": 2.3664,
+      "Median": 1.5,
+      "HienTai": 1.3814610513595182
+    },
+    {
+      "Code": "NT2",
+      "Min": 0.3871,
+      "Max": 2.1062,
+      "Median": 1.51,
+      "HienTai": 1.5092913047644814
+    },
+    {
+      "Code": "NVL",
+      "Min": 0.571,
+      "Max": 4.8598,
+      "Median": 2.83,
+      "HienTai": 0.5457439471802562
+    },
+    {
+      "Code": "OCB",
+      "Min": 0.799,
+      "Max": 1.8343,
+      "Median": 1.02,
+      "HienTai": 0.8758649829506631
+    },
+    {
+      "Code": "PAN",
+      "Min": 0.5507,
+      "Max": 2.628,
+      "Median": 1.32,
+      "HienTai": 1.1699135173525843
+    },
+    {
+      "Code": "PC1",
+      "Min": 0.6882,
+      "Max": 2.0391,
+      "Median": 1.41,
+      "HienTai": 1.5567864501664537
+    },
+    {
+      "Code": "PDR",
+      "Min": 0.9879,
+      "Max": 7.441,
+      "Median": 1.99,
+      "HienTai": 1.5287852995774323
+    },
+    {
+      "Code": "PHR",
+      "Min": 0.6424,
+      "Max": 3.6777,
+      "Median": 1.66,
+      "HienTai": 2.3878098399728125
+    },
+    {
+      "Code": "PLX",
+      "Min": 1.6831,
+      "Max": 5.2022,
+      "Median": 2.87,
+      "HienTai": 2.1269686816603515
+    },
+    {
+      "Code": "PNJ",
+      "Min": 1.4654,
+      "Max": 6.0091,
+      "Median": 2.94,
+      "HienTai": 2.8733926570271313
+    },
+    {
+      "Code": "POW",
+      "Min": 0.7847,
+      "Max": 1.5338,
+      "Median": 1.01,
+      "HienTai": 0.8989999847122474
+    },
+    {
+      "Code": "PPC",
+      "Min": 0.5643,
+      "Max": 2.2925,
+      "Median": 1.17,
+      "HienTai": 0.8300850675300365
+    },
+    {
+      "Code": "PTB",
+      "Min": 0.7827,
+      "Max": 3.9517,
+      "Median": 1.84,
+      "HienTai": 1.4488116807706526
+    },
+    {
+      "Code": "PVD",
+      "Min": 0.3268,
+      "Max": 4.619,
+      "Median": 0.95,
+      "HienTai": 0.870728589064073
+    },
+    {
+      "Code": "PVT",
+      "Min": 0.3773,
+      "Max": 2.1548,
+      "Median": 1.13,
+      "HienTai": 1.2312427689127123
+    },
+    {
+      "Code": "REE",
+      "Min": 0.7818,
+      "Max": 1.9793,
+      "Median": 1.35,
+      "HienTai": 1.8043074749066652
+    },
+    {
+      "Code": "SAB",
+      "Min": 2.8545,
+      "Max": 12.5436,
+      "Median": 5.76,
+      "HienTai": 2.8370252512194556
+    },
+    {
+      "Code": "SBT",
+      "Min": 0.8485,
+      "Max": 2.46,
+      "Median": 1.19,
+      "HienTai": 1.0535353605510875
+    },
+    {
+      "Code": "SCS",
+      "Min": 4.3322,
+      "Max": 12.0209,
+      "Median": 6.21,
+      "HienTai": 5.082545640226865
+    },
+    {
+      "Code": "SHB",
+      "Min": 0,
+      "Max": 2.4434,
+      "Median": 0.72,
+      "HienTai": 0.7027331799814415
+    },
+    {
+      "Code": "SIP",
+      "Min": 1.8879,
+      "Max": 7.2206,
+      "Median": 3.95,
+      "HienTai": 4.420799275823025
+    },
+    {
+      "Code": "SJS",
+      "Min": 0.7822,
+      "Max": 5.071,
+      "Median": 1.47,
+      "HienTai": 3.828005731301
+    },
+    {
+      "Code": "SSB",
+      "Min": 1.41,
+      "Max": 3.4965,
+      "Median": 2.46,
+      "HienTai": 1.5768142341531854
+    },
+    {
+      "Code": "SSI",
+      "Min": 0.9361,
+      "Max": 3.3847,
+      "Median": 1.58,
+      "HienTai": 1.7854308940813297
+    },
+    {
+      "Code": "STB",
+      "Min": 0.5153,
+      "Max": 2.0506,
+      "Median": 1.18,
+      "HienTai": 1.3117479683228228
+    },
+    {
+      "Code": "SZC",
+      "Min": 1.1246,
+      "Max": 5.0833,
+      "Median": 2.42,
+      "HienTai": 2.642848926705297
+    },
+    {
+      "Code": "TCB",
+      "Min": 0.7741,
+      "Max": 2.3521,
+      "Median": 1.26,
+      "HienTai": 1.2680078521148057
+    },
+    {
+      "Code": "TCH",
+      "Min": 0.5886,
+      "Max": 2.4187,
+      "Median": 1.49,
+      "HienTai": 1.2230050869857796
+    },
+    {
+      "Code": "TLG",
+      "Min": 0.6242,
+      "Max": 4.7452,
+      "Median": 1.87,
+      "HienTai": 2.385906022621324
+    },
+    {
+      "Code": "TPB",
+      "Min": 1.0665,
+      "Max": 2.5075,
+      "Median": 1.47,
+      "HienTai": 1.1735371403769603
+    },
+    {
+      "Code": "VCB",
+      "Min": 1.0984,
+      "Max": 4.6057,
+      "Median": 2.82,
+      "HienTai": 2.622259935159661
+    },
+    {
+      "Code": "VCG",
+      "Min": 0.699,
+      "Max": 3.4251,
+      "Median": 1.47,
+      "HienTai": 1.5627178984885757
+    },
+    {
+      "Code": "VCI",
+      "Min": 0.8879,
+      "Max": 4.3823,
+      "Median": 2.25,
+      "HienTai": 2.0221035536769785
+    },
+    {
+      "Code": "VGC",
+      "Min": 0.8205,
+      "Max": 3.5661,
+      "Median": 1.7,
+      "HienTai": 2.8113099600919655
+    },
+    {
+      "Code": "VHC",
+      "Min": 0.9216,
+      "Max": 3.0747,
+      "Median": 1.71,
+      "HienTai": 1.858606272416098
+    },
+    {
+      "Code": "VHM",
+      "Min": 0.8562,
+      "Max": 9.1671,
+      "Median": 3.21,
+      "HienTai": 0.8374143303891978
+    },
+    {
+      "Code": "VIB",
+      "Min": 1.011,
+      "Max": 3.3754,
+      "Median": 1.45,
+      "HienTai": 1.476689699703374
+    },
+    {
+      "Code": "VIC",
+      "Min": 1.212,
+      "Max": 9.4944,
+      "Median": 4.28,
+      "HienTai": 1.1420642794481999
+    },
+    {
+      "Code": "VIX",
+      "Min": 0.4086,
+      "Max": 2.5652,
+      "Median": 0.84,
+      "HienTai": 1.040837987694457
+    },
+    {
+      "Code": "VJC",
+      "Min": 3.2078,
+      "Max": 8.8545,
+      "Median": 4.2,
+      "HienTai": 3.0751431540728245
+    },
+    {
+      "Code": "VND",
+      "Min": 0.7124,
+      "Max": 4.4195,
+      "Median": 1.16,
+      "HienTai": 1.0501246062576133
+    },
+    {
+      "Code": "VNM",
+      "Min": 3.5499,
+      "Max": 11.2861,
+      "Median": 5.54,
+      "HienTai": 4.027260926127183
+    },
+    {
+      "Code": "VPB",
+      "Min": 1.0628,
+      "Max": 3.1081,
+      "Median": 1.42,
+      "HienTai": 1.0790652371370348
+    },
+    {
+      "Code": "VPI",
+      "Min": 2.5315,
+      "Max": 4.6899,
+      "Median": 3.52,
+      "HienTai": 3.9178573019023966
+    },
+    {
+      "Code": "VRE",
+      "Min": 0.956,
+      "Max": 4.0211,
+      "Median": 2.24,
+      "HienTai": 0.9431343256410273
+    },
+    {
+      "Code": "VSH",
+      "Min": 0.7384,
+      "Max": 2.5459,
+      "Median": 1.21,
+      "HienTai": 2.673496227391431
+    },
+    {
+      "Code": "CTS",
+      "Min": 0.511,
+      "Max": 2.9276,
+      "Median": 0.81,
+      "HienTai": 2.5417916115577426
+    },
+    {
+      "Code": "DSE",
+      "Min": 1.8436,
+      "Max": 2.2069,
+      "Median": 2.03,
+      "HienTai": 2.231500220509036
+    },
+    {
+      "Code": "NAB",
+      "Min": 0.5986,
+      "Max": 1.4162,
+      "Median": 1.1,
+      "HienTai": 1.2136301287454054
+    },
+    {
+      "Code": "VTP",
+      "Min": 2.1169,
+      "Max": 11.8519,
+      "Median": 6.45,
+      "HienTai": 11.759517835523859
+    }
+  ],
+  "ToJsonNH": [
+    {
+      "Code": "VCB",
+      "Min": 1.0984,
+      "Max": 4.6057,
+      "Median": 2.82,
+      "HienTai": 2.622259935159661
+    },
+    {
+      "Code": "CTG",
+      "Min": 0.9057,
+      "Max": 2.5333,
+      "Median": 1.31,
+      "HienTai": 1.4959272062599054
+    },
+    {
+      "Code": "BID",
+      "Min": 1.1491,
+      "Max": 2.7727,
+      "Median": 2.06,
+      "HienTai": 2.0279876611930083
+    },
+    {
+      "Code": "ACB",
+      "Min": 1.0678,
+      "Max": 3.7056,
+      "Median": 1.52,
+      "HienTai": 1.391454239776967
+    },
+    {
+      "Code": "MBB",
+      "Min": 0.8808,
+      "Max": 2.1268,
+      "Median": 1.13,
+      "HienTai": 1.2514836989239848
+    },
+    {
+      "Code": "STB",
+      "Min": 0.5153,
+      "Max": 2.0506,
+      "Median": 1.18,
+      "HienTai": 1.3117479683228228
+    },
+    {
+      "Code": "TCB",
+      "Min": 0.7741,
+      "Max": 2.3521,
+      "Median": 1.26,
+      "HienTai": 1.2680078521148057
+    },
+    {
+      "Code": "TPB",
+      "Min": 1.0665,
+      "Max": 2.5075,
+      "Median": 1.47,
+      "HienTai": 1.1735371403769603
+    },
+    {
+      "Code": "VIB",
+      "Min": 1.011,
+      "Max": 3.3754,
+      "Median": 1.45,
+      "HienTai": 1.476689699703374
+    },
+    {
+      "Code": "VPB",
+      "Min": 1.0628,
+      "Max": 3.1081,
+      "Median": 1.42,
+      "HienTai": 1.0790652371370348
+    },
+    {
+      "Code": "HDB",
+      "Min": 1.07,
+      "Max": 3.1224,
+      "Median": 1.55,
+      "HienTai": 1.4784210745659176
+    },
+    {
+      "Code": "SHB",
+      "Min": 0,
+      "Max": 2.4434,
+      "Median": 0.72,
+      "HienTai": 0.7027331799814415
+    },
+    {
+      "Code": "EIB",
+      "Min": 0.8575,
+      "Max": 2.3074,
+      "Median": 1.22,
+      "HienTai": 1.5807525058202572
+    },
+    {
+      "Code": "LPB",
+      "Min": 0.5306,
+      "Max": 2.2404,
+      "Median": 1.03,
+      "HienTai": 2.4917970459155065
+    },
+    {
+      "Code": "BAB",
+      "Min": 0.9351,
+      "Max": 2.2463,
+      "Median": 1.52,
+      "HienTai": 0.9675797420485552
+    },
+    {
+      "Code": "KLB",
+      "Min": 0.6841,
+      "Max": 2.2128,
+      "Median": 0.88,
+      "HienTai": 0.6841114780243672
+    },
+    {
+      "Code": "NVB",
+      "Min": 0.4387,
+      "Max": 3.3208,
+      "Median": 0.77,
+      "HienTai": 2.1977928477759
+    },
+    {
+      "Code": "ABB",
+      "Min": 0.5569,
+      "Max": 1.4009,
+      "Median": 0.67,
+      "HienTai": 0.5598998530332882
+    },
+    {
+      "Code": "BVB",
+      "Min": 0.6868,
+      "Max": 1.8456,
+      "Median": 1.05,
+      "HienTai": 1.3090292720866015
+    },
+    {
+      "Code": "MSB",
+      "Min": 0.8086,
+      "Max": 1.9445,
+      "Median": 0.98,
+      "HienTai": 0.8015197749269458
+    },
+    {
+      "Code": "NAB",
+      "Min": 0.5986,
+      "Max": 1.4162,
+      "Median": 1.1,
+      "HienTai": 1.2136301287454054
+    },
+    {
+      "Code": "OCB",
+      "Min": 0.799,
+      "Max": 1.8343,
+      "Median": 1.02,
+      "HienTai": 0.8758649829506631
+    },
+    {
+      "Code": "PGB",
+      "Min": 1.0468,
+      "Max": 2.309,
+      "Median": 1.51,
+      "HienTai": 1.27717779732734
+    },
+    {
+      "Code": "SGB",
+      "Min": 0.9709,
+      "Max": 1.6122,
+      "Median": 1.08,
+      "HienTai": 1.08519585819173
+    },
+    {
+      "Code": "SSB",
+      "Min": 1.41,
+      "Max": 3.4965,
+      "Median": 2.46,
+      "HienTai": 1.5768142341531854
+    },
+    {
+      "Code": "VAB",
+      "Min": 0.4646,
+      "Max": 1.3269,
+      "Median": 0.6,
+      "HienTai": 0.6394443119852141
+    },
+    {
+      "Code": "VBB",
+      "Min": 0.6408,
+      "Max": 1.6358,
+      "Median": 0.93,
+      "HienTai": 0.7712915313353452
+    }
+  ],
+  "ToJsonCK": [
+    {
+      "Code": "SSI",
+      "Min": 0.9361,
+      "Max": 3.3847,
+      "Median": 1.58,
+      "HienTai": 1.7854308940813297
+    },
+    {
+      "Code": "VND",
+      "Min": 0.7124,
+      "Max": 4.4195,
+      "Median": 1.16,
+      "HienTai": 1.0501246062576133
+    },
+    {
+      "Code": "HCM",
+      "Min": 0.761,
+      "Max": 3.2732,
+      "Median": 1.7,
+      "HienTai": 2.2240378618789514
+    },
+    {
+      "Code": "VCI",
+      "Min": 0.8879,
+      "Max": 4.3823,
+      "Median": 2.25,
+      "HienTai": 2.0221035536769785
+    },
+    {
+      "Code": "MBS",
+      "Min": 0.4631,
+      "Max": 3.1949,
+      "Median": 1.37,
+      "HienTai": 2.462409732517976
+    },
+    {
+      "Code": "SHS",
+      "Min": 0.4839,
+      "Max": 3.7583,
+      "Median": 0.94,
+      "HienTai": 1.037534156519709
+    },
+    {
+      "Code": "VIX",
+      "Min": 0.4086,
+      "Max": 2.5652,
+      "Median": 0.84,
+      "HienTai": 1.040837987694457
+    },
+    {
+      "Code": "FTS",
+      "Min": 0.6522,
+      "Max": 3.6523,
+      "Median": 1.08,
+      "HienTai": 3.5138646407480354
+    },
+    {
+      "Code": "BSI",
+      "Min": 0.4546,
+      "Max": 2.8284,
+      "Median": 0.98,
+      "HienTai": 2.3707915013588234
+    },
+    {
+      "Code": "CTS",
+      "Min": 0.511,
+      "Max": 2.9276,
+      "Median": 0.81,
+      "HienTai": 2.5417916115577426
+    },
+    {
+      "Code": "AGR",
+      "Min": 0.2966,
+      "Max": 2.2666,
+      "Median": 0.63,
+      "HienTai": 1.5872035965518168
+    },
+    {
+      "Code": "BVS",
+      "Min": 0,
+      "Max": 2.2446,
+      "Median": 0.76,
+      "HienTai": 1.157756163374318
+    },
+    {
+      "Code": "TVS",
+      "Min": 0.719,
+      "Max": 2.8886,
+      "Median": 1.04,
+      "HienTai": 1.4244631685315288
+    },
+    {
+      "Code": "VDS",
+      "Min": 0.4318,
+      "Max": 2.4326,
+      "Median": 0.84,
+      "HienTai": 1.7834480376444575
+    },
+    {
+      "Code": "ORS",
+      "Min": 0.2433,
+      "Max": 3.0723,
+      "Median": 0.98,
+      "HienTai": 1.341282779873827
+    },
+    {
+      "Code": "SBS",
+      "Min": -0.7752,
+      "Max": 9.0716,
+      "Median": 1.35,
+      "HienTai": 2.9588604817543476
+    },
+    {
+      "Code": "APG",
+      "Min": 0.3028,
+      "Max": 1.8278,
+      "Median": 0.71,
+      "HienTai": 0.8499878391136749
+    },
+    {
+      "Code": "TVB",
+      "Min": 0.3565,
+      "Max": 2.6794,
+      "Median": 1,
+      "HienTai": 0.8099690786106856
+    },
+    {
+      "Code": "PSI",
+      "Min": 0.2126,
+      "Max": 1.5884,
+      "Median": 0.65,
+      "HienTai": 0.6758651592348829
+    },
+    {
+      "Code": "IVS",
+      "Min": 0.3926,
+      "Max": 1.8272,
+      "Median": 0.95,
+      "HienTai": 0.47671116772535854
+    },
+    {
+      "Code": "VIG",
+      "Min": 0.1411,
+      "Max": 2.5865,
+      "Median": 0.5,
+      "HienTai": 0.7977303837014318
+    },
+    {
+      "Code": "APS",
+      "Min": 0,
+      "Max": 2.653,
+      "Median": 0.45,
+      "HienTai": 0.6614346492582717
+    },
+    {
+      "Code": "HAC",
+      "Min": 0.3149,
+      "Max": 2.0687,
+      "Median": 0.6,
+      "HienTai": 1.3177583386861735
+    },
+    {
+      "Code": "HBS",
+      "Min": 0.1626,
+      "Max": 1.1453,
+      "Median": 0.41,
+      "HienTai": 0.6622403979324306
+    },
+    {
+      "Code": "WSS",
+      "Min": 0.1864,
+      "Max": 1.9582,
+      "Median": 0.5,
+      "HienTai": 0.5207669233111649
+    },
+    {
+      "Code": "DSC",
+      "Min": 0.4479,
+      "Max": 7.7612,
+      "Median": 1.61,
+      "HienTai": 1.462761154046802
+    },
+    {
+      "Code": "EVS",
+      "Min": 0.4553,
+      "Max": 2.4957,
+      "Median": 0.76,
+      "HienTai": 0.5444320733083327
+    },
+    {
+      "Code": "TCI",
+      "Min": 0.4187,
+      "Max": 1.9571,
+      "Median": 0.81,
+      "HienTai": 0.9081059351431231
+    },
+    {
+      "Code": "BMS",
+      "Min": 0.2889,
+      "Max": 1.7968,
+      "Median": 0.69,
+      "HienTai": 1.0199620370948248
+    },
+    {
+      "Code": "CSI",
+      "Min": 1.2156,
+      "Max": 8.0936,
+      "Median": 2.76,
+      "HienTai": 3.589434883717086
+    },
+    {
+      "Code": "PHS",
+      "Min": 0.769,
+      "Max": 2.1327,
+      "Median": 1.17,
+      "HienTai": 1.1321
+    },
+    {
+      "Code": "AAS",
+      "Min": 0.5009,
+      "Max": 2.5909,
+      "Median": 0.81,
+      "HienTai": 0.8188092083338637
+    }
+  ],
+  "ToJsonBH": [
+    {
+      "Code": "BVH",
+      "Min": 1.4019,
+      "Max": 4.7793,
+      "Median": 2.48,
+      "HienTai": 1.8636303209211298
+    },
+    {
+      "Code": "PVI",
+      "Min": 0,
+      "Max": 1.6681,
+      "Median": 0.99,
+      "HienTai": 2.0645597035320855
+    },
+    {
+      "Code": "VNR",
+      "Min": 0,
+      "Max": 1.423,
+      "Median": 0.96,
+      "HienTai": 1.1611001038334876
+    },
+    {
+      "Code": "BMI",
+      "Min": 0.2742,
+      "Max": 1.9248,
+      "Median": 0.94,
+      "HienTai": 1.013541859995169
+    },
+    {
+      "Code": "PTI",
+      "Min": 0.6562,
+      "Max": 2.2687,
+      "Median": 1.01,
+      "HienTai": 1.1836237329897363
+    },
+    {
+      "Code": "BIC",
+      "Min": 0.5858,
+      "Max": 2.2758,
+      "Median": 1.27,
+      "HienTai": 1.4466395375800898
+    },
+    {
+      "Code": "PGI",
+      "Min": 0.6419,
+      "Max": 1.7884,
+      "Median": 1.17,
+      "HienTai": 1.4444796665425017
+    },
+    {
+      "Code": "ABI",
+      "Min": 0.2394,
+      "Max": 2.0382,
+      "Median": 1.15,
+      "HienTai": 1.386106386521061
+    },
+    {
+      "Code": "BLI",
+      "Min": 0.5027,
+      "Max": 1.4546,
+      "Median": 0.67,
+      "HienTai": 0.6726976449991737
+    },
+    {
+      "Code": "MIG",
+      "Min": 0.8444,
+      "Max": 2.312,
+      "Median": 1.35,
+      "HienTai": 1.691870087082092
+    },
+    {
+      "Code": "PRE",
+      "Min": 1.1188,
+      "Max": 2.0884,
+      "Median": 1.43,
+      "HienTai": 1.3358074877276018
+    },
+    {
+      "Code": "AIC",
+      "Min": 0.7912,
+      "Max": 1.5771,
+      "Median": 1.12,
+      "HienTai": 0.9919855770134245
+    }
+  ],
+  "ToJsonBDS": [
+    {
+      "Code": "VIC",
+      "Min": 1.212,
+      "Max": 9.4944,
+      "Median": 4.28,
+      "HienTai": 1.1420642794481999
+    },
+    {
+      "Code": "KDH",
+      "Min": 0.3533,
+      "Max": 3.194,
+      "Median": 1.75,
+      "HienTai": 1.9474532070325183
+    },
+    {
+      "Code": "PDR",
+      "Min": 0.9879,
+      "Max": 7.441,
+      "Median": 1.99,
+      "HienTai": 1.5287852995774323
+    },
+    {
+      "Code": "DIG",
+      "Min": 0.5737,
+      "Max": 7.5935,
+      "Median": 1.21,
+      "HienTai": 1.5669907120915934
+    },
+    {
+      "Code": "NLG",
+      "Min": 1.0873,
+      "Max": 2.3664,
+      "Median": 1.5,
+      "HienTai": 1.3814610513595182
+    },
+    {
+      "Code": "DXG",
+      "Min": 0.6367,
+      "Max": 4.453,
+      "Median": 1.26,
+      "HienTai": 1.1572989492925958
+    },
+    {
+      "Code": "CEO",
+      "Min": 0.6165,
+      "Max": 5.1843,
+      "Median": 1.08,
+      "HienTai": 1.2959576473773597
+    },
+    {
+      "Code": "HDG",
+      "Min": 0.7827,
+      "Max": 5.1633,
+      "Median": 1.84,
+      "HienTai": 1.4960660261662846
+    },
+    {
+      "Code": "SJS",
+      "Min": 0.7822,
+      "Max": 5.071,
+      "Median": 1.47,
+      "HienTai": 3.828005731301
+    },
+    {
+      "Code": "IJC",
+      "Min": 0.6214,
+      "Max": 2.2612,
+      "Median": 0.94,
+      "HienTai": 1.0828827454822398
+    },
+    {
+      "Code": "HDC",
+      "Min": 0.6739,
+      "Max": 5.6154,
+      "Median": 1.12,
+      "HienTai": 1.95856514697213
+    },
+    {
+      "Code": "VC3",
+      "Min": 0,
+      "Max": 4.5634,
+      "Median": 1.62,
+      "HienTai": 2.4933543152622697
+    },
+    {
+      "Code": "SCR",
+      "Min": 0.3017,
+      "Max": 1.4101,
+      "Median": 0.59,
+      "HienTai": 0.5330756519810713
+    },
+    {
+      "Code": "QCG",
+      "Min": 0.2659,
+      "Max": 1.5515,
+      "Median": 0.51,
+      "HienTai": 0.8221624193468675
+    },
+    {
+      "Code": "HQC",
+      "Min": 0.1192,
+      "Max": 2.5647,
+      "Median": 0.42,
+      "HienTai": 0.35312585793172624
+    },
+    {
+      "Code": "TIG",
+      "Min": 0.2617,
+      "Max": 2.1561,
+      "Median": 0.67,
+      "HienTai": 1.4565082384096302
+    },
+    {
+      "Code": "NBB",
+      "Min": 0.244,
+      "Max": 2.3861,
+      "Median": 0.98,
+      "HienTai": 1.2154359252591878
+    },
+    {
+      "Code": "NTL",
+      "Min": 0.618,
+      "Max": 5.5956,
+      "Median": 1.17,
+      "HienTai": 1.2754345012869022
+    },
+    {
+      "Code": "D2D",
+      "Min": 0.5321,
+      "Max": 2.8011,
+      "Median": 1.09,
+      "HienTai": 1.5073165776725996
+    },
+    {
+      "Code": "IDJ",
+      "Min": 0.2323,
+      "Max": 2.9229,
+      "Median": 0.46,
+      "HienTai": 0.47707521713259116
+    },
+    {
+      "Code": "ITC",
+      "Min": 0.2689,
+      "Max": 1.5718,
+      "Median": 0.52,
+      "HienTai": 0.46402066210398735
+    },
+    {
+      "Code": "TDC",
+      "Min": 0.5406,
+      "Max": 2.6261,
+      "Median": 0.81,
+      "HienTai": 1.081926674381079
+    },
+    {
+      "Code": "CSC",
+      "Min": 0.2735,
+      "Max": 6.8779,
+      "Median": 1.47,
+      "HienTai": 1.5697137142272892
+    },
+    {
+      "Code": "NDN",
+      "Min": 0.4711,
+      "Max": 1.6143,
+      "Median": 0.82,
+      "HienTai": 0.6252494068770037
+    },
+    {
+      "Code": "VPH",
+      "Min": 0.2205,
+      "Max": 4.8425,
+      "Median": 0.59,
+      "HienTai": 0.5897716439327846
+    },
+    {
+      "Code": "DRH",
+      "Min": 0.1656,
+      "Max": 2.7834,
+      "Median": 0.54,
+      "HienTai": 0.1805131958680342
+    },
+    {
+      "Code": "HLD",
+      "Min": 0.4927,
+      "Max": 2.0554,
+      "Median": 0.89,
+      "HienTai": 1.234341990343834
+    },
+    {
+      "Code": "VRC",
+      "Min": 0.3204,
+      "Max": 2.4977,
+      "Median": 0.57,
+      "HienTai": 0.781997459231953
+    },
+    {
+      "Code": "CCL",
+      "Min": 0.2605,
+      "Max": 1.3143,
+      "Median": 0.5,
+      "HienTai": 0.6871772329890983
+    },
+    {
+      "Code": "TDH",
+      "Min": 0.3181,
+      "Max": 2.3486,
+      "Median": 0.57,
+      "HienTai": 4.011182499149309
+    },
+    {
+      "Code": "HAR",
+      "Min": 0.261,
+      "Max": 2.1205,
+      "Median": 0.47,
+      "HienTai": 0.3075292073836576
+    },
+    {
+      "Code": "PTL",
+      "Min": 0.2025,
+      "Max": 1.6639,
+      "Median": 0.47,
+      "HienTai": 0.6283522129331849
+    },
+    {
+      "Code": "PFL",
+      "Min": 0.1111,
+      "Max": 1.7954,
+      "Median": 0.33,
+      "HienTai": 0.5400340294154113
+    },
+    {
+      "Code": "LDG",
+      "Min": 0.2113,
+      "Max": 1.9286,
+      "Median": 0.66,
+      "HienTai": 0.3744262546429802
+    },
+    {
+      "Code": "API",
+      "Min": 0.2767,
+      "Max": 3.2025,
+      "Median": 0.93,
+      "HienTai": 0.7108732593925959
+    },
+    {
+      "Code": "NVL",
+      "Min": 0.571,
+      "Max": 4.8598,
+      "Median": 2.83,
+      "HienTai": 0.5457439471802562
+    },
+    {
+      "Code": "SGR",
+      "Min": 0.7288,
+      "Max": 2.9205,
+      "Median": 1.44,
+      "HienTai": 2.4428096857888706
+    },
+    {
+      "Code": "TEG",
+      "Min": 0.3751,
+      "Max": 1.9134,
+      "Median": 0.75,
+      "HienTai": 0.6005943657988654
+    },
+    {
+      "Code": "VRE",
+      "Min": 0.956,
+      "Max": 4.0211,
+      "Median": 2.24,
+      "HienTai": 0.9431343256410273
+    },
+    {
+      "Code": "VPI",
+      "Min": 2.5315,
+      "Max": 4.6899,
+      "Median": 3.52,
+      "HienTai": 3.9178573019023966
+    },
+    {
+      "Code": "KOS",
+      "Min": 1.6527,
+      "Max": 3.9373,
+      "Median": 3.07,
+      "HienTai": 3.675146719712251
+    },
+    {
+      "Code": "TLD",
+      "Min": 0.2976,
+      "Max": 1.4305,
+      "Median": 0.54,
+      "HienTai": 0.6007698904732476
+    },
+    {
+      "Code": "AAV",
+      "Min": 0.3448,
+      "Max": 2.5648,
+      "Median": 0.75,
+      "HienTai": 0.6508491578609978
+    },
+    {
+      "Code": "VHM",
+      "Min": 0.8562,
+      "Max": 9.1671,
+      "Median": 3.21,
+      "HienTai": 0.8374143303891978
+    },
+    {
+      "Code": "CRE",
+      "Min": 0.5678,
+      "Max": 3.8255,
+      "Median": 1.15,
+      "HienTai": 0.5958630196974587
+    },
+    {
+      "Code": "HTN",
+      "Min": 0.4772,
+      "Max": 2.8975,
+      "Median": 0.99,
+      "HienTai": 0.6169387679379487
+    },
+    {
+      "Code": "FIR",
+      "Min": 0.5103,
+      "Max": 3.2877,
+      "Median": 1.97,
+      "HienTai": 0.6083721017115546
+    },
+    {
+      "Code": "NRC",
+      "Min": 0.2893,
+      "Max": 3.5768,
+      "Median": 0.96,
+      "HienTai": 0.5390514485674925
+    },
+    {
+      "Code": "AGG",
+      "Min": 0.813,
+      "Max": 2.4976,
+      "Median": 1.58,
+      "HienTai": 0.8819106989873716
+    },
+    {
+      "Code": "CKG",
+      "Min": 0.7471,
+      "Max": 2.9909,
+      "Median": 1.66,
+      "HienTai": 1.3583623893379442
+    }
+  ],
+  "ToJsonBDSKCN": [
+    {
+      "Code": "CCI",
+      "Min": 0.5976,
+      "Max": 2.1061,
+      "Median": 0.92,
+      "HienTai": 1.338582410860831
+    },
+    {
+      "Code": "DPR",
+      "Min": 0.5793,
+      "Max": 3.0888,
+      "Median": 0.99,
+      "HienTai": 1.675981572653932
+    },
+    {
+      "Code": "IDV",
+      "Min": 1.1566,
+      "Max": 3.6342,
+      "Median": 2.16,
+      "HienTai": 1.591555207894018
+    },
+    {
+      "Code": "ITA",
+      "Min": 0.2121,
+      "Max": 1.6075,
+      "Median": 0.51,
+      "HienTai": 0.2121
+    },
+    {
+      "Code": "KBC",
+      "Min": 0.4906,
+      "Max": 3.2536,
+      "Median": 0.96,
+      "HienTai": 1.2255516890593345
+    },
+    {
+      "Code": "LGL",
+      "Min": 0.1859,
+      "Max": 2.6401,
+      "Median": 0.47,
+      "HienTai": 0.25963959423623784
+    },
+    {
+      "Code": "LHG",
+      "Min": 0.3867,
+      "Max": 2.3303,
+      "Median": 0.85,
+      "HienTai": 1.118174901683498
+    },
+    {
+      "Code": "PHR",
+      "Min": 0.6424,
+      "Max": 3.6777,
+      "Median": 1.66,
+      "HienTai": 2.3878098399728125
+    },
+    {
+      "Code": "SZL",
+      "Min": 0.4576,
+      "Max": 2.3968,
+      "Median": 1.22,
+      "HienTai": 2.0738396165749142
+    },
+    {
+      "Code": "TIX",
+      "Min": 0.7302,
+      "Max": 1.6336,
+      "Median": 1.17,
+      "HienTai": 1.3343378920223126
+    },
+    {
+      "Code": "PXL",
+      "Min": 0.19,
+      "Max": 1.5211,
+      "Median": 0.46,
+      "HienTai": 3.3050721489729704
+    },
+    {
+      "Code": "BII",
+      "Min": 0.0668,
+      "Max": 2.1029,
+      "Median": 0.15,
+      "HienTai": 0
+    },
+    {
+      "Code": "TIP",
+      "Min": 0.6661,
+      "Max": 2.3277,
+      "Median": 1.01,
+      "HienTai": 0.8355502206682228
+    },
+    {
+      "Code": "VGC",
+      "Min": 0.8205,
+      "Max": 3.5661,
+      "Median": 1.7,
+      "HienTai": 2.8113099600919655
+    },
+    {
+      "Code": "VRG",
+      "Min": 0.2448,
+      "Max": 3.1128,
+      "Median": 1.07,
+      "HienTai": 1.6031761530199606
+    },
+    {
+      "Code": "BAX",
+      "Min": 1.1851,
+      "Max": 3.212,
+      "Median": 1.92,
+      "HienTai": 1.5196939604635704
+    },
+    {
+      "Code": "MH3",
+      "Min": 1.1261,
+      "Max": 4.3458,
+      "Median": 1.84,
+      "HienTai": 1.5709716161594878
+    },
+    {
+      "Code": "NTC",
+      "Min": 2.3402,
+      "Max": 8.7519,
+      "Median": 4.43,
+      "HienTai": 4.915368434920246
+    },
+    {
+      "Code": "BCM",
+      "Min": 0.0538,
+      "Max": 5.3257,
+      "Median": 3.49,
+      "HienTai": 4.041763401089181
+    },
+    {
+      "Code": "DTD",
+      "Min": 0.7174,
+      "Max": 2.5262,
+      "Median": 1.27,
+      "HienTai": 1.266157664774754
+    },
+    {
+      "Code": "HPI",
+      "Min": 0.6379,
+      "Max": 10.9547,
+      "Median": 2.73,
+      "HienTai": 3.2693298839257774
+    },
+    {
+      "Code": "SNZ",
+      "Min": 0.8896,
+      "Max": 3.4217,
+      "Median": 1.79,
+      "HienTai": 2.0193513269649213
+    },
+    {
+      "Code": "GVR",
+      "Min": 0.529,
+      "Max": 3.1317,
+      "Median": 1.56,
+      "HienTai": 2.5130037573863224
+    },
+    {
+      "Code": "IDC",
+      "Min": 0.3544,
+      "Max": 5.7398,
+      "Median": 2.67,
+      "HienTai": 3.3608406528004164
+    },
+    {
+      "Code": "SZC",
+      "Min": 1.1246,
+      "Max": 5.0833,
+      "Median": 2.42,
+      "HienTai": 2.642848926705297
+    },
+    {
+      "Code": "TID",
+      "Min": 1.5357,
+      "Max": 5.4902,
+      "Median": 2.32,
+      "HienTai": 2.214506758066315
+    },
+    {
+      "Code": "TLP",
+      "Min": 0.5915,
+      "Max": 1.4017,
+      "Median": 0.9,
+      "HienTai": 0.6054920831756225
+    },
+    {
+      "Code": "SIP",
+      "Min": 1.8879,
+      "Max": 7.2206,
+      "Median": 3.95,
+      "HienTai": 4.420799275823025
+    },
+    {
+      "Code": "SZB",
+      "Min": 1.3629,
+      "Max": 2.1577,
+      "Median": 1.75,
+      "HienTai": 1.843457725996358
+    },
+    {
+      "Code": "SZG",
+      "Min": 2.0263,
+      "Max": 3.2209,
+      "Median": 2.51,
+      "HienTai": 2.2923271994766234
+    }
+  ],
+  "ToJsonDauKhi": [
+    {
+      "Code": "PVD",
+      "Min": 0.3268,
+      "Max": 4.619,
+      "Median": 0.95,
+      "HienTai": 0.870728589064073
+    },
+    {
+      "Code": "PVS",
+      "Min": 0,
+      "Max": 2.5627,
+      "Median": 0.94,
+      "HienTai": 1.2765177758917092
+    },
+    {
+      "Code": "POS",
+      "Min": 0.4041,
+      "Max": 1.2217,
+      "Median": 0.63,
+      "HienTai": 1.348111683209966
+    },
+    {
+      "Code": "PXS",
+      "Min": 0.4538,
+      "Max": 3.0785,
+      "Median": 0.96,
+      "HienTai": 1.4215827778166525
+    },
+    {
+      "Code": "PXT",
+      "Min": 0.2699,
+      "Max": 4.1621,
+      "Median": 0.92,
+      "HienTai": 1.0759027674778554
+    },
+    {
+      "Code": "PVB",
+      "Min": 0.6212,
+      "Max": 2.8826,
+      "Median": 1,
+      "HienTai": 1.9688636078631907
+    },
+    {
+      "Code": "PVC",
+      "Min": 0,
+      "Max": 2.453,
+      "Median": 0.87,
+      "HienTai": 1.0005694735971595
+    },
+    {
+      "Code": "GAS",
+      "Min": 1.9853,
+      "Max": 5.8728,
+      "Median": 3.38,
+      "HienTai": 2.644109932503898
+    },
+    {
+      "Code": "PVT",
+      "Min": 0.3773,
+      "Max": 2.1548,
+      "Median": 1.13,
+      "HienTai": 1.2312427689127123
+    },
+    {
+      "Code": "PJT",
+      "Min": 0.4787,
+      "Max": 1.2155,
+      "Median": 0.8,
+      "HienTai": 0.8092649047205422
+    },
+    {
+      "Code": "PVP",
+      "Min": 0.3868,
+      "Max": 1.2668,
+      "Median": 0.71,
+      "HienTai": 0.9372732893038275
+    },
+    {
+      "Code": "PDV",
+      "Min": 0.2661,
+      "Max": 1.261,
+      "Median": 0.61,
+      "HienTai": 1.0650230177194515
+    },
+    {
+      "Code": "PLC",
+      "Min": 0,
+      "Max": 2.7011,
+      "Median": 1.41,
+      "HienTai": 1.6811282712102888
+    },
+    {
+      "Code": "BSR",
+      "Min": 0.6157,
+      "Max": 2.2905,
+      "Median": 1.21,
+      "HienTai": 1.1424439832881177
+    },
+    {
+      "Code": "PLX",
+      "Min": 1.6831,
+      "Max": 5.2022,
+      "Median": 2.87,
+      "HienTai": 2.1269686816603515
+    },
+    {
+      "Code": "OIL",
+      "Min": 0.7456,
+      "Max": 2.1408,
+      "Median": 1.22,
+      "HienTai": 1.3258402751899052
+    },
+    {
+      "Code": "PPY",
+      "Min": 0.5191,
+      "Max": 1.6706,
+      "Median": 1.04,
+      "HienTai": 0.5440937976913621
+    },
+    {
+      "Code": "PSH",
+      "Min": 0.393,
+      "Max": 2.0918,
+      "Median": 0.92,
+      "HienTai": 0.46020959530330097
+    },
+    {
+      "Code": "PGC",
+      "Min": 0.3711,
+      "Max": 1.6729,
+      "Median": 1.08,
+      "HienTai": 1.0839400426546577
+    },
+    {
+      "Code": "PGD",
+      "Min": 1.2096,
+      "Max": 3.3906,
+      "Median": 2.07,
+      "HienTai": 2.0971544592341402
+    },
+    {
+      "Code": "PGS",
+      "Min": 0,
+      "Max": 2.8235,
+      "Median": 1.18,
+      "HienTai": 1.6506264495365963
+    },
+    {
+      "Code": "PVG",
+      "Min": 0.4704,
+      "Max": 2.1542,
+      "Median": 0.65,
+      "HienTai": 0.6213913988191154
+    },
+    {
+      "Code": "CNG",
+      "Min": 1.0731,
+      "Max": 2.7811,
+      "Median": 1.72,
+      "HienTai": 1.7272460685154742
+    }
+  ],
+  "ToJsonDuoc": [
+    {
+      "Code": "DCL",
+      "Min": 0.4263,
+      "Max": 2.4525,
+      "Median": 1.29,
+      "HienTai": 1.1909581940934604
+    },
+    {
+      "Code": "DHG",
+      "Min": 2.4356,
+      "Max": 5.0501,
+      "Median": 3.36,
+      "HienTai": 3.2409084033089757
+    },
+    {
+      "Code": "DMC",
+      "Min": 0.7235,
+      "Max": 4.2234,
+      "Median": 1.51,
+      "HienTai": 1.529022920112093
+    },
+    {
+      "Code": "IMP",
+      "Min": 0.7814,
+      "Max": 3.1745,
+      "Median": 1.64,
+      "HienTai": 3.379123497198173
+    },
+    {
+      "Code": "OPC",
+      "Min": 0.8854,
+      "Max": 2.7716,
+      "Median": 1.96,
+      "HienTai": 1.940023769524682
+    },
+    {
+      "Code": "PMC",
+      "Min": 1.0385,
+      "Max": 3.2781,
+      "Median": 1.88,
+      "HienTai": 3.689696090884963
+    },
+    {
+      "Code": "TRA",
+      "Min": 1.4434,
+      "Max": 4.7669,
+      "Median": 2.56,
+      "HienTai": 2.219440217759491
+    },
+    {
+      "Code": "DP3",
+      "Min": 1.0635,
+      "Max": 3.6577,
+      "Median": 2.34,
+      "HienTai": 2.5234045731175336
+    },
+    {
+      "Code": "DBD",
+      "Min": 2.1215,
+      "Max": 3.331,
+      "Median": 2.6,
+      "HienTai": 3.277764832987121
+    },
+    {
+      "Code": "AGP",
+      "Min": 0.9079,
+      "Max": 2.5315,
+      "Median": 1.33,
+      "HienTai": 2.3441479562872987
+    },
+    {
+      "Code": "DP1",
+      "Min": 0.8601,
+      "Max": 2.6917,
+      "Median": 1.8,
+      "HienTai": 1.9721399672402338
+    },
+    {
+      "Code": "DVN",
+      "Min": 0.2161,
+      "Max": 2.3654,
+      "Median": 1.55,
+      "HienTai": 2.1469962093643495
+    },
+    {
+      "Code": "MKP",
+      "Min": 0.5244,
+      "Max": 1.4983,
+      "Median": 0.89,
+      "HienTai": 0.5874220631941984
+    },
+    {
+      "Code": "VDP",
+      "Min": 0.9225,
+      "Max": 1.3189,
+      "Median": 1.03,
+      "HienTai": 1.0275901590388388
+    },
+    {
+      "Code": "DTP",
+      "Min": 1.2405,
+      "Max": 3.1028,
+      "Median": 2.35,
+      "HienTai": 2.41306404921717
+    },
+    {
+      "Code": "PBC",
+      "Min": 0.5909,
+      "Max": 2.233,
+      "Median": 1.31,
+      "HienTai": 0.6725959068343098
+    }
+  ],
+  "ToJsonDien": [
+    {
+      "Code": "BTP",
+      "Min": 0.292,
+      "Max": 1.4372,
+      "Median": 0.75,
+      "HienTai": 0.7018033504603458
+    },
+    {
+      "Code": "HJS",
+      "Min": 0,
+      "Max": 2.5664,
+      "Median": 1.28,
+      "HienTai": 2.0908140949209573
+    },
+    {
+      "Code": "NT2",
+      "Min": 0.3871,
+      "Max": 2.1062,
+      "Median": 1.51,
+      "HienTai": 1.5092913047644814
+    },
+    {
+      "Code": "PPC",
+      "Min": 0.5643,
+      "Max": 2.2925,
+      "Median": 1.17,
+      "HienTai": 0.8300850675300365
+    },
+    {
+      "Code": "SBA",
+      "Min": 0.4028,
+      "Max": 1.9806,
+      "Median": 1.12,
+      "HienTai": 1.8511924648221478
+    },
+    {
+      "Code": "SEB",
+      "Min": 0.7876,
+      "Max": 3.8137,
+      "Median": 2.35,
+      "HienTai": 3.4281465937131035
+    },
+    {
+      "Code": "SJD",
+      "Min": 0.6643,
+      "Max": 1.88,
+      "Median": 1.19,
+      "HienTai": 1.0090434119608214
+    },
+    {
+      "Code": "TBC",
+      "Min": 0.7741,
+      "Max": 2.3605,
+      "Median": 1.26,
+      "HienTai": 2.360451024196487
+    },
+    {
+      "Code": "TMP",
+      "Min": 0.8594,
+      "Max": 3.6227,
+      "Median": 1.93,
+      "HienTai": 3.1183853400669523
+    },
+    {
+      "Code": "VSH",
+      "Min": 0.7384,
+      "Max": 2.5459,
+      "Median": 1.21,
+      "HienTai": 2.673496227391431
+    },
+    {
+      "Code": "GHC",
+      "Min": 0.8485,
+      "Max": 2.2703,
+      "Median": 1.7,
+      "HienTai": 1.4953728183900659
+    },
+    {
+      "Code": "SHP",
+      "Min": 0.3877,
+      "Max": 2.9012,
+      "Median": 1.74,
+      "HienTai": 2.797249739680007
+    },
+    {
+      "Code": "CHP",
+      "Min": 0.5025,
+      "Max": 2.5829,
+      "Median": 1.63,
+      "HienTai": 2.594022677300903
+    },
+    {
+      "Code": "ISH",
+      "Min": 0.9557,
+      "Max": 2.0799,
+      "Median": 1.35,
+      "HienTai": 1.987414800548475
+    },
+    {
+      "Code": "ND2",
+      "Min": 0.2776,
+      "Max": 2.4947,
+      "Median": 1.57,
+      "HienTai": 2.3831446438738
+    },
+    {
+      "Code": "VPD",
+      "Min": 1.0106,
+      "Max": 1.954,
+      "Median": 1.31,
+      "HienTai": 2.0131960432105718
+    },
+    {
+      "Code": "GEG",
+      "Min": 1.0356,
+      "Max": 2.5031,
+      "Median": 1.4,
+      "HienTai": 1.0650809379387056
+    },
+    {
+      "Code": "HND",
+      "Min": 0.8476,
+      "Max": 1.5824,
+      "Median": 1.15,
+      "HienTai": 1.0873222754805725
+    },
+    {
+      "Code": "QTP",
+      "Min": 0.9465,
+      "Max": 1.4303,
+      "Median": 1.15,
+      "HienTai": 1.2297554821674705
+    },
+    {
+      "Code": "S4A",
+      "Min": 1.3956,
+      "Max": 3.192,
+      "Median": 2.37,
+      "HienTai": 2.849116504987659
+    },
+    {
+      "Code": "AVC",
+      "Min": 1.4568,
+      "Max": 4.4077,
+      "Median": 1.76,
+      "HienTai": 3.8891027760290253
+    },
+    {
+      "Code": "BHA",
+      "Min": 0.8428,
+      "Max": 2.0532,
+      "Median": 1.28,
+      "HienTai": 1.640311056566393
+    },
+    {
+      "Code": "DNA",
+      "Min": 0.4683,
+      "Max": 1.7737,
+      "Median": 1.41,
+      "HienTai": 1.7648025657703856
+    },
+    {
+      "Code": "DNH",
+      "Min": 1.3723,
+      "Max": 22.1821,
+      "Median": 2.36,
+      "HienTai": 3.079090244820162
+    },
+    {
+      "Code": "HNA",
+      "Min": 0.9217,
+      "Max": 2.0667,
+      "Median": 1.14,
+      "HienTai": 1.8171055400655207
+    },
+    {
+      "Code": "PGV",
+      "Min": 0.923,
+      "Max": 2.6511,
+      "Median": 1.4,
+      "HienTai": 1.5755956952193173
+    },
+    {
+      "Code": "POW",
+      "Min": 0.7847,
+      "Max": 1.5338,
+      "Median": 1.01,
+      "HienTai": 0.8989999847122474
+    },
+    {
+      "Code": "SBH",
+      "Min": 1.3994,
+      "Max": 5.2103,
+      "Median": 2.26,
+      "HienTai": 3.788029379331096
+    },
+    {
+      "Code": "BSA",
+      "Min": 0.9924,
+      "Max": 1.6548,
+      "Median": 1.23,
+      "HienTai": 1.5563454174742415
+    },
+    {
+      "Code": "NTH",
+      "Min": 1.9791,
+      "Max": 3.7589,
+      "Median": 2.7,
+      "HienTai": 3.5641660517142704
+    }
+  ],
+  "ToJsonNuoc": [
+    {
+      "Code": "DNW",
+      "Min": 0.9832,
+      "Max": 1.8572,
+      "Median": 1.43,
+      "HienTai": 1.6623860476301953
+    },
+    {
+      "Code": "HPW",
+      "Min": 0.6388,
+      "Max": 1.5062,
+      "Median": 1.01,
+      "HienTai": 1.4171268002722566
+    },
+    {
+      "Code": "TDM",
+      "Min": 1.2331,
+      "Max": 2.8062,
+      "Median": 1.85,
+      "HienTai": 2.5450317983458444
+    },
+    {
+      "Code": "VCW",
+      "Min": 1.5891,
+      "Max": 3.1363,
+      "Median": 2.38,
+      "HienTai": 1.8786966962512415
+    },
+    {
+      "Code": "BWE",
+      "Min": 0.739,
+      "Max": 2.5148,
+      "Median": 1.76,
+      "HienTai": 1.8535791955901013
+    },
+    {
+      "Code": "BWS",
+      "Min": 2.2508,
+      "Max": 3.594,
+      "Median": 2.92,
+      "HienTai": 3.59483034629834
+    },
+    {
+      "Code": "HWS",
+      "Min": 0.5909,
+      "Max": 1.4236,
+      "Median": 1.1,
+      "HienTai": 1.459235725642305
+    },
+    {
+      "Code": "NQN",
+      "Min": 0.4219,
+      "Max": 2.8018,
+      "Median": 1.12,
+      "HienTai": 1.0295365319959044
+    },
+    {
+      "Code": "VIW",
+      "Min": 0.5047,
+      "Max": 1.8919,
+      "Median": 0.98,
+      "HienTai": 0.9224166957284784
+    },
+    {
+      "Code": "LDW",
+      "Min": 0,
+      "Max": 1.3317,
+      "Median": 0.88,
+      "HienTai": 1.2602944382414565
+    },
+    {
+      "Code": "PMW",
+      "Min": 1.4001,
+      "Max": 3.5794,
+      "Median": 2.45,
+      "HienTai": 3.1606161726535222
+    },
+    {
+      "Code": "VAV",
+      "Min": 1.6484,
+      "Max": 3.0575,
+      "Median": 2.25,
+      "HienTai": 2.994499652019309
+    }
+  ]
+}
