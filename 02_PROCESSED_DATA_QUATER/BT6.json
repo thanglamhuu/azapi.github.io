@@ -1,6 +1,6 @@
 {
   "fiscalDates": [
-    "2019-06-30"
+    "2024-12-31"
   ],
   "newFiscalDate": [],
   "newFiscalDateQuarter": [],
@@ -30,7 +30,6 @@
   "bienLoiNhuanRong": [],
   "ROACuoiKy": [],
   "ROECuoiKy": [],
-  "lastQuaterPrice": 1.7,
   "choNhanGiaRaPE": 0,
   "choNhanGiaRaPB": 0,
   "choNhanGiaRaPS": 0,
@@ -43,15 +42,23 @@
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": null,
+  "tangTruongHangTonKhoKep": 46,
   "lctThuanHDSXKD": [],
   "lctThuanHDDauTu": [],
   "lctThuanHDTC": [],
   "lctThuanTrongKy": [],
   "hangTonKho": [],
   "hangTonKhoVongQuay": [],
-  "coTucLNST": [],
-  "coTucDaTra": [],
-  "coTucTiLeDaTra": [],
-  "newFiscalDateYear": []
+  "coTucLNST": [
+    -77
+  ],
+  "coTucDaTra": [
+    0
+  ],
+  "coTucTiLeDaTra": [
+    0
+  ],
+  "newFiscalDateYear": [
+    "2024-12-31"
+  ]
 }
