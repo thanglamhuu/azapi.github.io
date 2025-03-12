@@ -153,7 +153,7 @@
     41,
     51,
     46,
-    null
+    36
   ],
   "tiLePhaiThuTaiSan": [
     20,
@@ -191,7 +191,7 @@
     41,
     40,
     39,
-    null
+    30
   ],
   "tsTienTuongDuongTienDTTCNH": [
     387,
@@ -229,7 +229,7 @@
     393,
     323,
     428,
-    0
+    649
   ],
   "tsKhoanPhaiThu": [
     205,
@@ -267,7 +267,7 @@
     1034,
     1003,
     1003,
-    0
+    786
   ],
   "tsHangTonKho": [
     204,
@@ -305,7 +305,7 @@
     506,
     563,
     533,
-    0
+    536
   ],
   "tsTaiSanCoDinh": [
     195,
@@ -343,7 +343,7 @@
     175,
     155,
     146,
-    0
+    140
   ],
   "tsTaiSanDoDangDaiHan": [
     16,
@@ -381,7 +381,7 @@
     28,
     28,
     37,
-    0
+    52
   ],
   "tsKhac": [
     31,
@@ -419,7 +419,7 @@
     398,
     423,
     418,
-    0
+    443
   ],
   "nvVonChuSoHuu": [
     223,
@@ -457,7 +457,7 @@
     963,
     998,
     921,
-    0
+    960
   ],
   "nvVayNganHan": [
     583,
@@ -495,7 +495,7 @@
     763,
     814,
     835,
-    0
+    975
   ],
   "nvVayDaiHanTPCD": [
     55,
@@ -533,7 +533,7 @@
     52,
     21,
     20,
-    0
+    18
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     12,
@@ -571,7 +571,7 @@
     178,
     97,
     204,
-    0
+    22
   ],
   "nvKhac": [
     164,
@@ -609,7 +609,7 @@
     577,
     566,
     584,
-    0
+    630
   ],
   "nvTileVayRongVCSHQ": [
     112,
@@ -647,7 +647,7 @@
     44,
     51,
     46,
-    null
+    36
   ],
   "tangTruongDoanhSoThuanYoY": [
     4,
@@ -991,7 +991,7 @@
     3,
     2.4,
     1.4,
-    null
+    2.2
   ],
   "ROECuoiKy": [
     5,
@@ -1029,11 +1029,11 @@
     8,
     6,
     4,
-    null
+    6
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 1.3560085031765767,
+  "choNhanGiaRaPB": 0.0796183256745217,
+  "choNhanGiaRaPS": 0.04690252916483892,
   "PE": [
     null,
     null,
@@ -1262,10 +1262,10 @@
     0.2,
     0.2
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 76394727,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": -100,
+  "tangTruongHangTonKhoKep": 17,
   "lctThuanHDSXKD": [
     3,
     -28,
@@ -1302,7 +1302,7 @@
     -118,
     -7,
     230,
-    0
+    13
   ],
   "lctThuanHDDauTu": [
     -13,
@@ -1340,7 +1340,7 @@
     -37,
     -68,
     -2,
-    0
+    -104
   ],
   "lctThuanHDTC": [
     28,
@@ -1378,7 +1378,7 @@
     41,
     51,
     -150,
-    0
+    270
   ],
   "lctThuanTrongKy": [
     18,
@@ -1416,7 +1416,7 @@
     -113,
     -25,
     78,
-    0
+    179
   ],
   "hangTonKho": [
     204,
@@ -1454,7 +1454,7 @@
     506,
     563,
     533,
-    0
+    536
   ],
   "hangTonKhoVongQuay": [
     24.2,
@@ -1492,7 +1492,7 @@
     3.7,
     2.8,
     2.6,
-    3.7
+    2.8
   ],
   "coTucLNST": [
     20,
@@ -1518,7 +1518,7 @@
     33,
     10,
     7,
-    0
+    79
   ],
   "coTucTiLeDaTra": [
     103,
@@ -1531,7 +1531,7 @@
     39,
     16,
     12,
-    0
+    155
   ],
   "newFiscalDateYear": [
     "2014-12-31",

@@ -81,7 +81,7 @@
     -2,
     -6,
     0,
-    null
+    -2
   ],
   "tiLePhaiThuTaiSan": [
     56,
@@ -101,7 +101,7 @@
     59,
     56,
     61,
-    null
+    35
   ],
   "tsTienTuongDuongTienDTTCNH": [
     11,
@@ -121,7 +121,7 @@
     36,
     64,
     10,
-    0
+    44
   ],
   "tsKhoanPhaiThu": [
     237,
@@ -141,7 +141,7 @@
     546,
     517,
     562,
-    0
+    277
   ],
   "tsHangTonKho": [
     69,
@@ -161,7 +161,7 @@
     106,
     114,
     123,
-    0
+    125
   ],
   "tsTaiSanCoDinh": [
     20,
@@ -181,7 +181,7 @@
     40,
     39,
     34,
-    0
+    50
   ],
   "tsTaiSanDoDangDaiHan": [
     57,
@@ -201,7 +201,7 @@
     81,
     82,
     77,
-    0
+    42
   ],
   "tsKhac": [
     28,
@@ -221,7 +221,7 @@
     111,
     112,
     111,
-    0
+    259
   ],
   "nvVonChuSoHuu": [
     368,
@@ -241,7 +241,7 @@
     886,
     890,
     893,
-    0
+    752
   ],
   "nvVayNganHan": [
     31,
@@ -261,7 +261,7 @@
     16,
     12,
     12,
-    0
+    31
   ],
   "nvVayDaiHanTPCD": [
     7,
@@ -301,7 +301,7 @@
     3,
     14,
     3,
-    0
+    3
   ],
   "nvKhac": [
     12,
@@ -321,7 +321,7 @@
     15,
     11,
     9,
-    0
+    12
   ],
   "nvTileVayRongVCSHQ": [
     7,
@@ -341,7 +341,7 @@
     -2,
     -6,
     0,
-    null
+    -2
   ],
   "tangTruongDoanhSoThuanYoY": [
     -42,
@@ -523,7 +523,7 @@
     1.1,
     1.4,
     1.4,
-    null
+    1.9
   ],
   "ROECuoiKy": [
     5,
@@ -543,11 +543,11 @@
     1,
     1,
     1,
-    null
+    2
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 4.704414897024525,
+  "choNhanGiaRaPB": 0.09518747812837042,
+  "choNhanGiaRaPS": 0.2477616276758766,
   "PE": [
     6.9,
     21.7,
@@ -668,10 +668,10 @@
     1.1,
     1.1
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 71609020,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": -100,
+  "tangTruongHangTonKhoKep": 37,
   "lctThuanHDSXKD": [
     0,
     56,
@@ -690,7 +690,7 @@
     14,
     -54,
     -75,
-    0
+    68
   ],
   "lctThuanHDDauTu": [
     0,
@@ -710,7 +710,7 @@
     -82,
     86,
     43,
-    0
+    -53
   ],
   "lctThuanHDTC": [
     0,
@@ -730,7 +730,7 @@
     0,
     -3,
     0,
-    0
+    19
   ],
   "lctThuanTrongKy": [
     0,
@@ -750,7 +750,7 @@
     -67,
     28,
     -32,
-    0
+    34
   ],
   "hangTonKho": [
     69,
@@ -770,7 +770,7 @@
     106,
     114,
     123,
-    0
+    125
   ],
   "hangTonKhoVongQuay": [
     8.9,
@@ -790,7 +790,7 @@
     1.8,
     2.2,
     2.2,
-    3
+    2.2
   ],
   "coTucLNST": [
     10,

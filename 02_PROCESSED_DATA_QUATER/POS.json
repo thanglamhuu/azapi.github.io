@@ -153,7 +153,7 @@
     -122,
     -123,
     -132,
-    null
+    -155
   ],
   "tiLePhaiThuTaiSan": [
     62,
@@ -191,7 +191,7 @@
     25,
     31,
     24,
-    null
+    32
   ],
   "tsTienTuongDuongTienDTTCNH": [
     305,
@@ -229,7 +229,7 @@
     974,
     992,
     1083,
-    0
+    1236
   ],
   "tsKhoanPhaiThu": [
     1109,
@@ -267,7 +267,7 @@
     395,
     571,
     428,
-    0
+    711
   ],
   "tsHangTonKho": [
     84,
@@ -305,7 +305,7 @@
     34,
     51,
     35,
-    0
+    44
   ],
   "tsTaiSanCoDinh": [
     194,
@@ -343,7 +343,7 @@
     122,
     126,
     124,
-    0
+    153
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
@@ -381,7 +381,7 @@
     20,
     46,
     51,
-    0
+    2
   ],
   "tsKhac": [
     93,
@@ -419,7 +419,7 @@
     42,
     42,
     34,
-    0
+    79
   ],
   "nvVonChuSoHuu": [
     876,
@@ -457,7 +457,7 @@
     800,
     805,
     820,
-    0
+    798
   ],
   "nvVayNganHan": [
     0,
@@ -571,7 +571,7 @@
     54,
     45,
     44,
-    0
+    184
   ],
   "nvKhac": [
     889,
@@ -609,7 +609,7 @@
     733,
     978,
     891,
-    0
+    1244
   ],
   "nvTileVayRongVCSHQ": [
     -35,
@@ -647,7 +647,7 @@
     -122,
     -123,
     -132,
-    null
+    -155
   ],
   "tangTruongDoanhSoThuanYoY": [
     -29,
@@ -991,7 +991,7 @@
     4.8,
     4.6,
     4.5,
-    null
+    3.9
   ],
   "ROECuoiKy": [
     14,
@@ -1029,11 +1029,11 @@
     10,
     10,
     10,
-    null
+    11
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.46165998101392675,
+  "choNhanGiaRaPB": 0.050115675955760816,
+  "choNhanGiaRaPS": 0.018730897807203287,
   "PE": [
     null,
     null,
@@ -1262,10 +1262,10 @@
     0.3,
     0.3
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 40000000,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": -100,
+  "tangTruongHangTonKhoKep": 12,
   "lctThuanHDSXKD": [
     -197,
     92,
@@ -1454,7 +1454,7 @@
     34,
     51,
     35,
-    0
+    44
   ],
   "hangTonKhoVongQuay": [
     45.4,
@@ -1492,7 +1492,7 @@
     42.9,
     46.5,
     47.5,
-    68
+    49.5
   ],
   "coTucLNST": [
     258,

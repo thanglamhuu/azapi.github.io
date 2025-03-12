@@ -151,7 +151,7 @@
     0,
     0,
     0,
-    0
+    2
   ],
   "tangTruongLNSTYoY": [
     -404,
@@ -159,20 +159,20 @@
     -114,
     112,
     59,
-    -100
+    155
   ],
   "tangTruongLNSTCtyMeNam": [
     -2,
-    -100
+    null
   ],
-  "tangTruongLNSTCtyMe5Year": -100,
+  "tangTruongLNSTCtyMe5Year": null,
   "lnst": [
     23,
     14,
     -2,
     -4,
     -7,
-    0
+    -17
   ],
   "bienLoiNhuanGop": [
     null,
@@ -180,7 +180,7 @@
     null,
     null,
     null,
-    null
+    -816
   ],
   "bienLoiNhuanRong": [
     null,
@@ -188,7 +188,7 @@
     null,
     null,
     null,
-    null
+    -795
   ],
   "ROACuoiKy": [
     2.1,
@@ -196,7 +196,7 @@
     -0.1,
     -0.1,
     -0.2,
-    0
+    -0.2
   ],
   "ROECuoiKy": [
     2.1,
@@ -204,7 +204,7 @@
     -0.1,
     -0.2,
     -0.3,
-    0
+    -0.7
   ],
   "newFiscalDateQuarter": [
     "2019-03-31",
@@ -232,9 +232,9 @@
     "2024-09-30",
     "2024-12-31"
   ],
-  "choNhanGiaRaPE": 35.711316545908595,
+  "choNhanGiaRaPE": -13.40387502805509,
   "choNhanGiaRaPB": 0.09447004288643764,
-  "choNhanGiaRaPS": null,
+  "choNhanGiaRaPS": 106.59790489169515,
   "PE": [
     -975.5,
     408.2,
@@ -450,7 +450,7 @@
     null,
     null,
     null,
-    0
+    282.7
   ],
   "coTucLNST": [
     23,
@@ -458,7 +458,7 @@
     -2,
     -4,
     -7,
-    0
+    -17
   ],
   "coTucDaTra": [
     0,
@@ -474,7 +474,7 @@
     0,
     0,
     0,
-    null
+    0
   ],
   "newFiscalDateYear": [
     "2019-12-31",

@@ -64,7 +64,7 @@
     144,
     150,
     118,
-    null
+    97
   ],
   "tiLePhaiThuTaiSan": [
     17,
@@ -86,7 +86,7 @@
     56,
     49,
     55,
-    null
+    60
   ],
   "tsTienTuongDuongTienDTTCNH": [
     5,
@@ -108,7 +108,7 @@
     5,
     4,
     1,
-    0
+    3
   ],
   "tsKhoanPhaiThu": [
     10,
@@ -130,7 +130,7 @@
     222,
     168,
     164,
-    0
+    175
   ],
   "tsHangTonKho": [
     18,
@@ -152,7 +152,7 @@
     54,
     59,
     50,
-    0
+    44
   ],
   "tsTaiSanCoDinh": [
     26,
@@ -174,7 +174,7 @@
     113,
     112,
     83,
-    0
+    69
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
@@ -240,7 +240,7 @@
     111,
     109,
     107,
-    0
+    108
   ],
   "nvVayNganHan": [
     9,
@@ -262,7 +262,7 @@
     161,
     165,
     127,
-    0
+    107
   ],
   "nvVayDaiHanTPCD": [
     0,
@@ -328,7 +328,7 @@
     120,
     67,
     65,
-    0
+    76
   ],
   "nvTileVayRongVCSHQ": [
     11,
@@ -350,7 +350,7 @@
     144,
     150,
     118,
-    null
+    97
   ],
   "tangTruongDoanhSoThuanYoY": [
     21,
@@ -546,7 +546,7 @@
     2.6,
     2.3,
     1.9,
-    null
+    2.1
   ],
   "ROECuoiKy": [
     18,
@@ -568,7 +568,7 @@
     9.2,
     7.2,
     5.3,
-    null
+    5.7
   ],
   "newFiscalDateQuarter": [
     "2015-03-31",
@@ -612,9 +612,9 @@
     "2024-09-30",
     "2024-12-31"
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.9699143381986091,
+  "choNhanGiaRaPB": 0.055644857011634595,
+  "choNhanGiaRaPS": 0.016877287133086782,
   "PE": [
     null,
     null,
@@ -867,7 +867,7 @@
     0.1,
     0.1
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 6000000,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
@@ -890,9 +890,10 @@
     "2020-12-31": 49634384560,
     "2021-12-31": 53637344732,
     "2022-12-31": 58766376068,
-    "2023-12-31": 50483888838
+    "2023-12-31": 50483888838,
+    "2024-12-31": 44422418035
   },
-  "tangTruongHangTonKhoKep": -100,
+  "tangTruongHangTonKhoKep": 9,
   "lctThuanHDSXKD": [
     6,
     35,
@@ -1001,7 +1002,7 @@
     54,
     59,
     50,
-    0
+    44
   ],
   "hangTonKhoVongQuay": [
     5.5,
@@ -1023,7 +1024,7 @@
     9.3,
     7.2,
     5.9,
-    12.6
+    6.7
   ],
   "coTucLNST": [
     6,

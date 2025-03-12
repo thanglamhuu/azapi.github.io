@@ -55,7 +55,7 @@
     -69,
     -39,
     -62,
-    null
+    -24
   ],
   "tiLePhaiThuTaiSan": [
     21,
@@ -74,7 +74,7 @@
     30,
     43,
     31,
-    null
+    42
   ],
   "tsTienTuongDuongTienDTTCNH": [
     150,
@@ -93,7 +93,7 @@
     61,
     33,
     50,
-    0
+    30
   ],
   "tsKhoanPhaiThu": [
     62,
@@ -112,7 +112,7 @@
     51,
     67,
     46,
-    0
+    83
   ],
   "tsHangTonKho": [
     28,
@@ -131,7 +131,7 @@
     4,
     4,
     7,
-    0
+    38
   ],
   "tsTaiSanCoDinh": [
     28,
@@ -150,7 +150,7 @@
     35,
     30,
     27,
-    0
+    30
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
@@ -188,7 +188,7 @@
     20,
     21,
     21,
-    0
+    18
   ],
   "nvVonChuSoHuu": [
     78,
@@ -207,7 +207,7 @@
     82,
     81,
     79,
-    0
+    77
   ],
   "nvVayNganHan": [
     0,
@@ -226,7 +226,7 @@
     4,
     1,
     1,
-    0
+    3
   ],
   "nvVayDaiHanTPCD": [
     0,
@@ -245,7 +245,7 @@
     0,
     0,
     0,
-    0
+    9
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     4,
@@ -264,7 +264,7 @@
     1,
     1,
     6,
-    0
+    13
   ],
   "nvKhac": [
     221,
@@ -283,7 +283,7 @@
     83,
     71,
     65,
-    0
+    96
   ],
   "nvTileVayRongVCSHQ": [
     -193,
@@ -302,7 +302,7 @@
     -69,
     -39,
     -62,
-    null
+    -24
   ],
   "tangTruongDoanhSoThuanYoY": [
     null,
@@ -471,7 +471,7 @@
     2.6,
     1.4,
     1.6,
-    null
+    1.4
   ],
   "ROECuoiKy": [
     3.7,
@@ -490,7 +490,7 @@
     5.5,
     2.6,
     3.1,
-    null
+    3.6
   ],
   "newFiscalDateQuarter": [
     "2015-03-31",
@@ -534,9 +534,9 @@
     "2024-09-30",
     "2024-12-31"
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 1.4521848818955425,
+  "choNhanGiaRaPB": 0.05250469528877013,
+  "choNhanGiaRaPS": 0.004459146139801142,
   "PE": [
     null,
     null,
@@ -789,7 +789,7 @@
     0.1,
     0.1
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 4050000,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
@@ -809,9 +809,10 @@
     "2020-12-31": 3855305062,
     "2021-12-31": 3764766087,
     "2022-12-31": 3629467955,
-    "2023-12-31": 7363480986
+    "2023-12-31": 7363480986,
+    "2024-12-31": 38013431555
   },
-  "tangTruongHangTonKhoKep": -100,
+  "tangTruongHangTonKhoKep": 0,
   "lctThuanHDSXKD": [
     22,
     -6,
@@ -905,7 +906,7 @@
     4,
     4,
     7,
-    0
+    38
   ],
   "hangTonKhoVongQuay": [
     3.6,
@@ -924,7 +925,7 @@
     119.6,
     141.6,
     140.6,
-    234.2
+    38
   ],
   "coTucLNST": [
     3,

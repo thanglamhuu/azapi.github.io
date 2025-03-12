@@ -522,7 +522,7 @@
     0,
     0,
     0,
-    0
+    2
   ],
   "tangTruongLNSTYoY": [
     -176,
@@ -548,35 +548,35 @@
     1,
     5,
     -698,
-    -100
+    1197
   ],
   "tangTruongLNSTCtyMeNam": [
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100,
-    -100
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
-  "tangTruongLNSTCtyMe5Year": -100,
+  "tangTruongLNSTCtyMe5Year": null,
   "lnst": [
     3,
     7,
@@ -601,7 +601,7 @@
     -1,
     -2,
     10,
-    0
+    -24
   ],
   "bienLoiNhuanGop": [
     null,
@@ -627,7 +627,7 @@
     null,
     null,
     null,
-    null
+    -816
   ],
   "bienLoiNhuanRong": [
     null,
@@ -653,7 +653,7 @@
     null,
     null,
     null,
-    null
+    -1094
   ],
   "ROACuoiKy": [
     -0.3,
@@ -679,7 +679,7 @@
     -0.1,
     -0.1,
     0.1,
-    0.1
+    -0.2
   ],
   "ROECuoiKy": [
     0,
@@ -705,11 +705,11 @@
     0,
     0,
     0,
-    0
+    -1
   ],
-  "choNhanGiaRaPE": 35.711316545908595,
+  "choNhanGiaRaPE": -13.40387502805509,
   "choNhanGiaRaPB": 0.09447004288643764,
-  "choNhanGiaRaPS": null,
+  "choNhanGiaRaPS": 106.59790489169515,
   "PE": [
     -975.5,
     408.2,
@@ -894,7 +894,7 @@
     -153,
     135,
     -890,
-    0
+    595
   ],
   "lctThuanHDDauTu": [
     15,
@@ -920,7 +920,7 @@
     -47,
     -1004,
     904,
-    0
+    5
   ],
   "lctThuanHDTC": [
     0,
@@ -946,7 +946,7 @@
     172,
     849,
     97,
-    0
+    -487
   ],
   "lctThuanTrongKy": [
     3,
@@ -972,7 +972,7 @@
     -29,
     -20,
     110,
-    0
+    112
   ],
   "hangTonKho": [
     0,
@@ -1024,7 +1024,7 @@
     null,
     null,
     null,
-    0
+    565.4
   ],
   "coTucLNST": [
     23,
@@ -1032,7 +1032,7 @@
     -2,
     -4,
     -7,
-    0
+    -17
   ],
   "coTucDaTra": [
     0,
@@ -1048,7 +1048,7 @@
     0,
     0,
     0,
-    null
+    0
   ],
   "newFiscalDateYear": [
     "2019-12-31",

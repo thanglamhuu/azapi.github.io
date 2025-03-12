@@ -55,7 +55,7 @@
     -40,
     -38,
     -35,
-    null
+    -33
   ],
   "tiLePhaiThuTaiSan": [
     29,
@@ -74,7 +74,7 @@
     1,
     1,
     1,
-    null
+    1
   ],
   "tsTienTuongDuongTienDTTCNH": [
     2,
@@ -150,7 +150,7 @@
     29,
     25,
     22,
-    0
+    19
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
@@ -188,7 +188,7 @@
     16,
     16,
     15,
-    0
+    15
   ],
   "nvVonChuSoHuu": [
     51,
@@ -207,7 +207,7 @@
     -78,
     -78,
     -77,
-    0
+    -77
   ],
   "nvVayNganHan": [
     21,
@@ -226,7 +226,7 @@
     3,
     3,
     3,
-    0
+    3
   ],
   "nvVayDaiHanTPCD": [
     39,
@@ -245,7 +245,7 @@
     28,
     26,
     24,
-    0
+    22
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     1,
@@ -264,7 +264,7 @@
     11,
     16,
     13,
-    0
+    11
   ],
   "nvKhac": [
     40,
@@ -283,7 +283,7 @@
     82,
     74,
     75,
-    0
+    75
   ],
   "nvTileVayRongVCSHQ": [
     114,
@@ -302,7 +302,7 @@
     -40,
     -38,
     -35,
-    null
+    -33
   ],
   "tangTruongDoanhSoThuanYoY": [
     null,
@@ -321,28 +321,28 @@
     -7,
     -48,
     55,
-    -81
+    -25
   ],
   "tangTruongDoanhThuanKep": [
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46,
-    -46
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29,
+    -29
   ],
-  "tangTruongDoanhThuanKepNum": -46,
+  "tangTruongDoanhThuanKepNum": -29,
   "doanhSoThuan": [
     146,
     152,
@@ -360,7 +360,7 @@
     13,
     7,
     10,
-    2
+    8
   ],
   "tangTruongLNSTYoY": [
     null,
@@ -379,7 +379,7 @@
     -51,
     -18,
     3,
-    -98
+    -33
   ],
   "tangTruongLNSTCtyMeNam": [
     null,
@@ -394,9 +394,9 @@
     null,
     null,
     null,
-    -41
+    16
   ],
-  "tangTruongLNSTCtyMe5Year": -41,
+  "tangTruongLNSTCtyMe5Year": 16,
   "lnst": [
     7,
     0,
@@ -452,7 +452,7 @@
     4,
     7,
     4,
-    1
+    4
   ],
   "ROACuoiKy": [
     4.7,
@@ -471,7 +471,7 @@
     1.2,
     1,
     1.2,
-    null
+    0.9
   ],
   "ROECuoiKy": [
     13.8,
@@ -490,7 +490,7 @@
     -0.7,
     -0.6,
     -0.6,
-    null
+    -0.4
   ],
   "newFiscalDateQuarter": [],
   "choNhanGiaRaPE": 0,
@@ -522,7 +522,8 @@
     "2020-12-31": 0,
     "2021-12-31": 0,
     "2022-12-31": 0,
-    "2023-12-31": 0
+    "2023-12-31": 0,
+    "2024-12-31": 0
   },
   "tangTruongHangTonKhoKep": -100,
   "lctThuanHDSXKD": [

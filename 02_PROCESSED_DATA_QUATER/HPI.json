@@ -153,7 +153,7 @@
     -170,
     -154,
     null,
-    null
+    -143
   ],
   "tiLePhaiThuTaiSan": [
     27,
@@ -191,7 +191,7 @@
     7,
     7,
     null,
-    null
+    6
   ],
   "tsTienTuongDuongTienDTTCNH": [
     97,
@@ -229,7 +229,7 @@
     658,
     630,
     0,
-    0
+    630
   ],
   "tsKhoanPhaiThu": [
     463,
@@ -267,7 +267,7 @@
     169,
     170,
     0,
-    0
+    152
   ],
   "tsHangTonKho": [
     0,
@@ -343,7 +343,7 @@
     25,
     25,
     0,
-    0
+    28
   ],
   "tsTaiSanDoDangDaiHan": [
     664,
@@ -381,7 +381,7 @@
     1293,
     1351,
     0,
-    0
+    1351
   ],
   "tsKhac": [
     431,
@@ -419,7 +419,7 @@
     261,
     265,
     0,
-    0
+    231
   ],
   "nvVonChuSoHuu": [
     616,
@@ -457,7 +457,7 @@
     370,
     391,
     0,
-    0
+    422
   ],
   "nvVayNganHan": [
     0,
@@ -495,7 +495,7 @@
     8,
     6,
     0,
-    0
+    5
   ],
   "nvVayDaiHanTPCD": [
     464,
@@ -533,7 +533,7 @@
     23,
     23,
     0,
-    0
+    21
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     215,
@@ -571,7 +571,7 @@
     108,
     102,
     0,
-    0
+    94
   ],
   "nvKhac": [
     397,
@@ -609,7 +609,7 @@
     1899,
     1919,
     0,
-    0
+    1850
   ],
   "nvTileVayRongVCSHQ": [
     60,
@@ -647,7 +647,7 @@
     -170,
     -154,
     null,
-    null
+    -143
   ],
   "tangTruongDoanhSoThuanYoY": [
     108,
@@ -991,7 +991,7 @@
     2.8,
     3.2,
     null,
-    null
+    2.5
   ],
   "ROECuoiKy": [
     9,
@@ -1029,11 +1029,11 @@
     18,
     20,
     null,
-    null
+    14
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.9898339996025397,
+  "choNhanGiaRaPB": 0.14214477756199032,
+  "choNhanGiaRaPS": 1.6316070387067318,
   "PE": [
     null,
     null,
@@ -1262,10 +1262,10 @@
     2.4,
     2.4
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 60000000,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": -100,
+  "tangTruongHangTonKhoKep": -28,
   "lctThuanHDSXKD": [
     14,
     405,
@@ -1492,7 +1492,7 @@
     113.9,
     -66.5,
     -98,
-    -111.6
+    -80.6
   ],
   "coTucLNST": [
     92,
