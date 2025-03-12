@@ -1157,5 +1157,115 @@
   "isNganHang": true,
   "isChungKhoan": false,
   "vec11400Year": {},
-  "tangTruongHangTonKhoKep": null
+  "tangTruongHangTonKhoKep": null,
+  "lctThuanHDSXKD": [
+    -1151,
+    1141,
+    1118,
+    3128,
+    5467,
+    25,
+    4549,
+    16870,
+    4159
+  ],
+  "lctThuanHDDauTu": [
+    -50,
+    -108,
+    -52,
+    -79,
+    -62,
+    -69,
+    -128,
+    -125,
+    8
+  ],
+  "lctThuanHDTC": [
+    249,
+    0,
+    856,
+    86,
+    0,
+    0,
+    0,
+    0,
+    934
+  ],
+  "lctThuanTrongKy": [
+    -952,
+    1033,
+    1921,
+    3135,
+    5405,
+    -44,
+    4422,
+    16745,
+    5102
+  ],
+  "hangTonKho": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "hangTonKhoVongQuay": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "coTucLNST": [
+    67,
+    262,
+    322,
+    486,
+    300,
+    507,
+    523,
+    647,
+    901
+  ],
+  "coTucDaTra": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "coTucTiLeDaTra": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "newFiscalDateYear": [
+    "2016-12-31",
+    "2017-12-31",
+    "2018-12-31",
+    "2019-12-31",
+    "2020-12-31",
+    "2021-12-31",
+    "2022-12-31",
+    "2023-12-31",
+    "2024-12-31"
+  ]
 }
