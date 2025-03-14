@@ -52,59 +52,7 @@
     9,
     9
   ],
-  "ckTsFVTPL": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckTsHTM": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckTsCacKhoanChoVay": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckTsAFS": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckTsTienVaTuongDuong": [
+  "tsTienTuongDuongTienDTTCNH": [
     1,
     2,
     2,
@@ -117,25 +65,25 @@
     0,
     1
   ],
-  "ckTsKhac": [
-    55,
-    60,
-    63,
-    72,
-    61,
-    50,
-    51,
-    56,
-    48,
-    50,
-    47
+  "tsKhoanPhaiThu": [
+    36,
+    41,
+    36,
+    49,
+    37,
+    42,
+    40,
+    45,
+    36,
+    5,
+    5
   ],
-  "ckTsTiLeNoVayVCSH": [
-    0,
-    0,
-    0,
-    0,
-    0,
+  "tsHangTonKho": [
+    6,
+    4,
+    2,
+    5,
+    6,
     0,
     0,
     0,
@@ -143,7 +91,46 @@
     0,
     0
   ],
-  "ckNvVonChuSoHuu": [
+  "tsTaiSanCoDinh": [
+    9,
+    7,
+    5,
+    5,
+    3,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "tsTaiSanDoDangDaiHan": [
+    2,
+    6,
+    6,
+    6,
+    6,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "tsKhac": [
+    2,
+    2,
+    14,
+    8,
+    8,
+    8,
+    10,
+    11,
+    12,
+    46,
+    43
+  ],
+  "nvVonChuSoHuu": [
     35,
     39,
     41,
@@ -156,7 +143,7 @@
     43,
     44
   ],
-  "ckNvVayTPNganHan": [
+  "nvVayNganHan": [
     4,
     4,
     11,
@@ -169,7 +156,7 @@
     0,
     0
   ],
-  "ckNvVayTDaiHan": [
+  "nvVayDaiHanTPCD": [
     5,
     5,
     0,
@@ -182,12 +169,25 @@
     0,
     0
   ],
-  "ckNvKhac": [
+  "nvMuaTraTienTruocDtChuaTH": [
+    1,
+    0,
+    0,
+    2,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "nvKhac": [
     11,
+    13,
     14,
-    14,
-    21,
-    9,
+    18,
+    8,
     9,
     12,
     15,
@@ -195,7 +195,7 @@
     7,
     5
   ],
-  "ckNvTiLeVayRongVcsh": [
+  "nvTileVayRongVCSHQ": [
     22,
     19,
     22,
@@ -207,84 +207,6 @@
     0,
     0,
     -2
-  ],
-  "ckCcdtLaiFVTPL": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckCcdtLaiHTM": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckCcdtLaiKhoanVayVaPhaiThu": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckCcdtLaiAFS": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckCcdtDoanhThuMGCK": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
-  ],
-  "ckCcdtKhac": [
-    42,
-    57,
-    54,
-    72,
-    45,
-    40,
-    37,
-    38,
-    42,
-    48,
-    51
   ],
   "tangTruongDoanhSoThuanYoY": [
     78,
@@ -657,7 +579,7 @@
   ],
   "soCoPhieuLuuHanh": 3500000,
   "isNganHang": false,
-  "isChungKhoan": true,
+  "isChungKhoan": false,
   "vec11400Year": {
     "2013-12-31": 4870921244,
     "2014-12-31": 5979059884,

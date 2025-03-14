@@ -24,113 +24,77 @@
     12,
     1
   ],
-  "ckTsFVTPL": [
-    541,
-    1145,
-    340,
-    1201
+  "tsTienTuongDuongTienDTTCNH": [
+    1857,
+    1682,
+    1858,
+    2503
   ],
-  "ckTsHTM": [
-    300,
-    0,
-    521,
-    150
+  "tsKhoanPhaiThu": [
+    35,
+    144,
+    286,
+    33
   ],
-  "ckTsCacKhoanChoVay": [
-    1008,
-    380,
-    727,
-    1066
-  ],
-  "ckTsAFS": [
+  "tsHangTonKho": [
     0,
     0,
     0,
     0
   ],
-  "ckTsTienVaTuongDuong": [
-    21,
-    175,
-    288,
-    104
+  "tsTaiSanCoDinh": [
+    70,
+    81,
+    79,
+    76
   ],
-  "ckTsKhac": [
-    253,
-    281,
-    422,
-    868
+  "tsTaiSanDoDangDaiHan": [
+    0,
+    0,
+    0,
+    0
   ],
-  "ckTsTiLeNoVayVCSH": [
-    84,
-    30,
-    54,
-    74
+  "tsKhac": [
+    161,
+    74,
+    75,
+    778
   ],
-  "ckNvVonChuSoHuu": [
+  "nvVonChuSoHuu": [
     1201,
     1262,
     1337,
     1443
   ],
-  "ckNvVayTPNganHan": [
+  "nvVayNganHan": [
     395,
-    665,
+    598,
     921,
     1894
   ],
-  "ckNvVayTDaiHan": [
-    129,
+  "nvVayDaiHanTPCD": [
+    0,
     0,
     13,
     0
   ],
-  "ckNvKhac": [
-    398,
-    54,
-    27,
-    53
-  ],
-  "ckNvTiLeVayRongVcsh": [
-    17,
-    39,
-    9,
-    114
-  ],
-  "ckCcdtLaiFVTPL": [
-    77,
-    122,
-    107,
-    105
-  ],
-  "ckCcdtLaiHTM": [
-    10,
-    14,
-    38,
-    55
-  ],
-  "ckCcdtLaiKhoanVayVaPhaiThu": [
-    73,
-    75,
-    74,
-    122
-  ],
-  "ckCcdtLaiAFS": [
+  "nvMuaTraTienTruocDtChuaTH": [
+    48,
     0,
-    0,
-    0,
+    1,
     0
   ],
-  "ckCcdtDoanhThuMGCK": [
-    106,
-    70,
-    63,
-    82
+  "nvKhac": [
+    479,
+    120,
+    26,
+    53
   ],
-  "ckCcdtKhac": [
-    136,
-    83,
-    10,
-    15
+  "nvTileVayRongVCSHQ": [
+    -122,
+    -86,
+    -69,
+    -42
   ],
   "tangTruongDoanhSoThuanYoY": [
     155,
@@ -320,7 +284,7 @@
   ],
   "soCoPhieuLuuHanh": 101150000,
   "isNganHang": false,
-  "isChungKhoan": true,
+  "isChungKhoan": false,
   "vec11400Year": {
     "2020-12-31": 0,
     "2021-12-31": 0,
