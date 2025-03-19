@@ -42,7 +42,7 @@
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": -13,
+  "tangTruongHangTonKhoKep": -10,
   "lctThuanHDSXKD": [],
   "lctThuanHDDauTu": [],
   "lctThuanHDTC": [],
@@ -51,18 +51,22 @@
   "hangTonKhoVongQuay": [],
   "coTucLNST": [
     2,
-    2
+    2,
+    8
   ],
   "coTucDaTra": [
     4,
-    3
+    3,
+    6
   ],
   "coTucTiLeDaTra": [
     189,
-    189
+    189,
+    77
   ],
   "newFiscalDateYear": [
     "2022-12-31",
-    "2023-12-31"
+    "2023-12-31",
+    "2024-12-31"
   ]
 }
