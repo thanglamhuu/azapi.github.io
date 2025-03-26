@@ -40,15 +40,23 @@
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": null,
+  "tangTruongHangTonKhoKep": 42,
   "lctThuanHDSXKD": [],
   "lctThuanHDDauTu": [],
   "lctThuanHDTC": [],
   "lctThuanTrongKy": [],
   "hangTonKho": [],
   "hangTonKhoVongQuay": [],
-  "coTucLNST": [],
-  "coTucDaTra": [],
-  "coTucTiLeDaTra": [],
-  "newFiscalDateYear": []
+  "coTucLNST": [
+    7
+  ],
+  "coTucDaTra": [
+    5
+  ],
+  "coTucTiLeDaTra": [
+    83
+  ],
+  "newFiscalDateYear": [
+    "2024-12-31"
+  ]
 }
