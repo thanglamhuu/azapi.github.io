@@ -1,5 +1,7 @@
 {
-  "fiscalDates": [],
+  "fiscalDates": [
+    "2024-12-31"
+  ],
   "newFiscalDate": [],
   "tiLeNovayRongVcsh": [],
   "tiLePhaiThuTaiSan": [],
@@ -40,6 +42,9 @@
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,
   "isChungKhoan": false,
+  "vec11400Year": {
+    "2024-12-31": 7737257588
+  },
   "tangTruongHangTonKhoKep": null,
   "lctThuanHDSXKD": [],
   "lctThuanHDDauTu": [],
