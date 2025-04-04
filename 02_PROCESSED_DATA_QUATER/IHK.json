@@ -144,7 +144,7 @@
   "soCoPhieuLuuHanh": 2141928,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": null,
+  "tangTruongHangTonKhoKep": -23,
   "lctThuanHDSXKD": [
     -4,
     3
@@ -169,8 +169,16 @@
     9.8,
     7.9
   ],
-  "coTucLNST": [],
-  "coTucDaTra": [],
-  "coTucTiLeDaTra": [],
-  "newFiscalDateYear": []
+  "coTucLNST": [
+    -3
+  ],
+  "coTucDaTra": [
+    3
+  ],
+  "coTucTiLeDaTra": [
+    -94
+  ],
+  "newFiscalDateYear": [
+    "2024-12-31"
+  ]
 }
