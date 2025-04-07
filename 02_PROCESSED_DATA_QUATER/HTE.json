@@ -425,26 +425,26 @@
     -11
   ],
   "tangTruongLNSTCtyMeNam": [
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33,
-    -33
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
-  "tangTruongLNSTCtyMe5Year": -33,
+  "tangTruongLNSTCtyMe5Year": null,
   "lnst": [
     0,
     1,
@@ -671,7 +671,7 @@
   "soCoPhieuLuuHanh": 23608165,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": 9,
+  "tangTruongHangTonKhoKep": 7,
   "lctThuanHDSXKD": [
     -16,
     -2,
@@ -804,7 +804,7 @@
     -5,
     4,
     1,
-    2
+    -7
   ],
   "coTucDaTra": [
     9,
@@ -832,7 +832,7 @@
     0,
     43,
     97,
-    110
+    -30
   ],
   "newFiscalDateYear": [
     "2013-12-31",

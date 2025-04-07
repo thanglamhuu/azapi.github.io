@@ -19,7 +19,7 @@
     5,
     33,
     24,
-    10
+    11
   ],
   "tiLePhaiThuTaiSan": [
     33,
@@ -33,21 +33,21 @@
     98,
     239,
     56,
-    73
+    65
   ],
   "tsKhoanPhaiThu": [
     125,
     263,
     621,
     536,
-    725
+    730
   ],
   "tsHangTonKho": [
     50,
     59,
     593,
     536,
-    646
+    650
   ],
   "tsTaiSanCoDinh": [
     17,
@@ -75,21 +75,21 @@
     296,
     923,
     973,
-    1290
+    1289
   ],
   "nvVayNganHan": [
     53,
     112,
     201,
     251,
-    102
+    100
   ],
   "nvVayDaiHanTPCD": [
     0,
     0,
     346,
     35,
-    102
+    104
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     2,
@@ -103,14 +103,14 @@
     109,
     223,
     132,
-    179
+    182
   ],
   "nvTileVayRongVCSHQ": [
     -18,
     5,
     33,
     24,
-    10
+    11
   ],
   "tangTruongDoanhSoThuanYoY": [
     -1,
@@ -132,25 +132,25 @@
     600,
     1158,
     1035,
-    805
+    804
   ],
   "tangTruongLNSTYoY": [
     -48,
     468,
     499,
     -69,
-    -82
+    -78
   ],
   "tangTruongLNSTCtyMeNam": [
-    0
+    4
   ],
-  "tangTruongLNSTCtyMe5Year": 0,
+  "tangTruongLNSTCtyMe5Year": 4,
   "lnst": [
     4,
     21,
     123,
     38,
-    7
+    8
   ],
   "bienLoiNhuanGop": [
     15,
@@ -171,14 +171,14 @@
     4.5,
     7.9,
     3.8,
-    0.8
+    1
   ],
   "ROECuoiKy": [
     2.5,
     7.8,
     15.6,
     5.7,
-    1.1
+    1.4
   ],
   "newFiscalDateQuarter": [
     "2022-03-31",
@@ -194,9 +194,9 @@
     "2024-09-30",
     "2024-12-31"
   ],
-  "choNhanGiaRaPE": 5.707175111338604,
-  "choNhanGiaRaPB": 0.06416869178103038,
-  "choNhanGiaRaPS": 0.1028400463158117,
+  "choNhanGiaRaPE": 4.668111396009975,
+  "choNhanGiaRaPB": 0.06420984256215605,
+  "choNhanGiaRaPS": 0.10302619855818107,
   "PE": [
     29.6,
     17.1,
@@ -290,7 +290,7 @@
     "2021-12-31": 58707070915,
     "2022-12-31": 593104529461,
     "2023-12-31": 536122369238,
-    "2024-12-31": 646191305836
+    "2024-12-31": 649599226224
   },
   "tangTruongHangTonKhoKep": 70,
   "lctThuanHDSXKD": [
@@ -298,35 +298,35 @@
     -86,
     179,
     190,
-    -9
+    253
   ],
   "lctThuanHDDauTu": [
     -108,
     26,
     -73,
     -40,
-    -103
+    -359
   ],
   "lctThuanHDTC": [
     45,
     69,
     1,
     -265,
-    108
+    95
   ],
   "lctThuanTrongKy": [
     -42,
     8,
     107,
     -115,
-    -3
+    -10
   ],
   "hangTonKho": [
     50,
     59,
     593,
     536,
-    646
+    650
   ],
   "hangTonKhoVongQuay": [
     5.5,
@@ -340,21 +340,21 @@
     21,
     123,
     38,
-    7
+    8
   ],
   "coTucDaTra": [
     0,
     1,
     6,
     4,
-    10
+    23
   ],
   "coTucTiLeDaTra": [
     0,
     7,
     5,
     10,
-    148
+    272
   ],
   "newFiscalDateYear": [
     "2020-12-31",
