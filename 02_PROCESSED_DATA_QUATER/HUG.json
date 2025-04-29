@@ -109,7 +109,7 @@
     -102,
     -108,
     -109,
-    null
+    -77
   ],
   "tiLePhaiThuTaiSan": [
     11,
@@ -136,7 +136,7 @@
     13,
     15,
     13,
-    null
+    20
   ],
   "tsTienTuongDuongTienDTTCNH": [
     300,
@@ -163,7 +163,7 @@
     271,
     294,
     302,
-    0
+    228
   ],
   "tsKhoanPhaiThu": [
     71,
@@ -190,7 +190,7 @@
     72,
     87,
     81,
-    0
+    115
   ],
   "tsHangTonKho": [
     66,
@@ -217,7 +217,7 @@
     47,
     27,
     52,
-    0
+    40
   ],
   "tsTaiSanCoDinh": [
     70,
@@ -244,7 +244,7 @@
     79,
     83,
     85,
-    0
+    84
   ],
   "tsTaiSanDoDangDaiHan": [
     10,
@@ -271,7 +271,7 @@
     4,
     4,
     4,
-    0
+    20
   ],
   "tsKhac": [
     114,
@@ -298,7 +298,7 @@
     87,
     88,
     84,
-    0
+    90
   ],
   "nvVonChuSoHuu": [
     395,
@@ -325,7 +325,7 @@
     266,
     273,
     277,
-    0
+    294
   ],
   "nvVayNganHan": [
     0,
@@ -406,7 +406,7 @@
     0,
     0,
     7,
-    0
+    1
   ],
   "nvKhac": [
     231,
@@ -433,7 +433,7 @@
     294,
     310,
     323,
-    0
+    281
   ],
   "nvTileVayRongVCSHQ": [
     -76,
@@ -460,7 +460,7 @@
     -102,
     -108,
     -109,
-    null
+    -77
   ],
   "tangTruongDoanhSoThuanYoY": [
     15,
@@ -705,7 +705,7 @@
     12,
     11,
     10.4,
-    null
+    12
   ],
   "ROECuoiKy": [
     33,
@@ -732,11 +732,11 @@
     25,
     24,
     23,
-    null
+    24
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.2821648403111309,
+  "choNhanGiaRaPB": 0.066350951042258,
+  "choNhanGiaRaPS": 0.028224577623991394,
   "PE": [
     4.2,
     3.5,
@@ -899,7 +899,7 @@
     0.8,
     0.8
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 19511389,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": 3,
@@ -1036,7 +1036,7 @@
     47,
     27,
     52,
-    0
+    40
   ],
   "hangTonKhoVongQuay": [
     8.4,
@@ -1063,7 +1063,7 @@
     11.3,
     12.7,
     13.4,
-    16.5
+    12.5
   ],
   "coTucLNST": [
     89,
