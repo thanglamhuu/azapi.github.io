@@ -440,17 +440,31 @@
     24.4,
     59.1
   ],
-  "newFiscalDateQuarter": [],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": 0,
-  "choNhanGiaRaPS": 0,
-  "PE": [],
-  "PETb": [],
-  "PB": [],
-  "PBTb": [],
-  "PS": [],
-  "PSTb": [],
-  "soCoPhieuLuuHanh": 0,
+  "newFiscalDateQuarter": [
+    "2025-03-31"
+  ],
+  "choNhanGiaRaPE": 0.06999487174512234,
+  "choNhanGiaRaPB": 0.04349168707083946,
+  "choNhanGiaRaPS": 0.026986248551377504,
+  "PE": [
+    null
+  ],
+  "PETb": [
+    null
+  ],
+  "PB": [
+    null
+  ],
+  "PBTb": [
+    null
+  ],
+  "PS": [
+    null
+  ],
+  "PSTb": [
+    null
+  ],
+  "soCoPhieuLuuHanh": 20399960,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {

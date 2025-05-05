@@ -498,7 +498,7 @@
     7325,
     9322
   ],
-  "nhTangTruongChoVayKhachHangKep5Nam": 14,
+  "nhTangTruongChoVayKhachHangKep5Nam": 15,
   "nhTangTruongChoVay5Year": [
     126.1,
     68.6,
@@ -695,7 +695,8 @@
     "2024-03-31",
     "2024-06-30",
     "2024-09-30",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-03-31"
   ],
   "nhnxKyHanS": [
     "VAB",
@@ -1423,8 +1424,8 @@
     1.9154294803817604,
     1.8869158321296895
   ],
-  "choNhanGiaRaPE": 0.39293376310039885,
-  "choNhanGiaRaPB": 0.06308035201334505,
+  "choNhanGiaRaPE": 0.42311797827352754,
+  "choNhanGiaRaPB": 0.06613859751680799,
   "choNhanGiaRaPS": null,
   "PE": [
     null,
@@ -1466,9 +1467,11 @@
     5.3,
     5.1,
     null,
+    null,
     null
   ],
   "PETb": [
+    5.1,
     5.1,
     5.1,
     5.1,
@@ -1550,9 +1553,11 @@
     0.8,
     0.7,
     null,
+    null,
     null
   ],
   "PBTb": [
+    0.7,
     0.7,
     0.7,
     0.7,
@@ -1634,6 +1639,7 @@
     null,
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
@@ -1676,9 +1682,10 @@
     null,
     null,
     null,
+    null,
     null
   ],
-  "soCoPhieuLuuHanh": 3662908500,
+  "soCoPhieuLuuHanh": 4065747000,
   "isNganHang": true,
   "isChungKhoan": false,
   "vec11400Year": {},
