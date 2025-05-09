@@ -402,11 +402,12 @@
     "2024-03-31",
     "2024-06-30",
     "2024-09-30",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-03-31"
   ],
-  "choNhanGiaRaPE": 0.775362234273822,
-  "choNhanGiaRaPB": 0.04563307102297957,
-  "choNhanGiaRaPS": 0.029800930913726424,
+  "choNhanGiaRaPE": 0.9249449758966634,
+  "choNhanGiaRaPB": 0.048170305099808186,
+  "choNhanGiaRaPS": 0.033516044654519586,
   "PE": [
     null,
     null,
@@ -447,9 +448,11 @@
     9,
     8.3,
     null,
+    null,
     null
   ],
   "PETb": [
+    13.5,
     13.5,
     13.5,
     13.5,
@@ -531,9 +534,11 @@
     0.5,
     0.6,
     null,
+    null,
     null
   ],
   "PBTb": [
+    0.3,
     0.3,
     0.3,
     0.3,
@@ -615,6 +620,7 @@
     0.3,
     0.4,
     null,
+    null,
     null
   ],
   "PSTb": [
@@ -657,9 +663,10 @@
     0.3,
     0.3,
     0.3,
+    0.3,
     0.3
   ],
-  "soCoPhieuLuuHanh": 80135051,
+  "soCoPhieuLuuHanh": 85741623,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
