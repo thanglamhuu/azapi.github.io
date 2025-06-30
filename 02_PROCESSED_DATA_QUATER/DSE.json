@@ -23,53 +23,77 @@
     3,
     5
   ],
-  "tsTienTuongDuongTienDTTCNH": [
-    7874,
-    8561
+  "ckTsFVTPL": [
+    167,
+    555
   ],
-  "tsKhoanPhaiThu": [
-    291,
-    568
+  "ckTsHTM": [
+    2775,
+    3242
   ],
-  "tsHangTonKho": [
+  "ckTsCacKhoanChoVay": [
+    3882,
+    4276
+  ],
+  "ckTsAFS": [
     0,
     0
   ],
-  "tsTaiSanCoDinh": [
+  "ckTsTienVaTuongDuong": [
+    1093,
+    535
+  ],
+  "ckTsKhac": [
+    2721,
+    2549
+  ],
+  "ckTsTiLeNoVayVCSH": [
     96,
-    97
+    105
   ],
-  "tsTaiSanDoDangDaiHan": [
-    1,
-    1
-  ],
-  "tsKhac": [
-    2375,
-    1930
-  ],
-  "nvVonChuSoHuu": [
+  "ckNvVonChuSoHuu": [
     4030,
     4083
   ],
-  "nvVayNganHan": [
+  "ckNvVayTPNganHan": [
     6506,
     6665
   ],
-  "nvVayDaiHanTPCD": [
+  "ckNvVayTDaiHan": [
     18,
+    318
+  ],
+  "ckNvKhac": [
+    83,
+    90
+  ],
+  "ckNvTiLeVayRongVcsh": [
+    66,
+    79
+  ],
+  "ckCcdtLaiFVTPL": [
+    12,
     18
   ],
-  "nvMuaTraTienTruocDtChuaTH": [
+  "ckCcdtLaiHTM": [
+    74,
+    70
+  ],
+  "ckCcdtLaiKhoanVayVaPhaiThu": [
+    105,
+    104
+  ],
+  "ckCcdtLaiAFS": [
     0,
     0
   ],
-  "nvKhac": [
-    83,
-    390
+  "ckCcdtDoanhThuMGCK": [
+    39,
+    49
   ],
-  "nvTileVayRongVCSHQ": [
-    -34,
-    -46
+  "ckCcdtKhac": [
+    3,
+    3
   ],
   "tangTruongDoanhSoThuanYoY": [
     9,
@@ -142,7 +166,7 @@
   ],
   "soCoPhieuLuuHanh": 330000000,
   "isNganHang": false,
-  "isChungKhoan": false,
+  "isChungKhoan": true,
   "tangTruongHangTonKhoKep": null,
   "lctThuanHDSXKD": [
     743,
