@@ -471,19 +471,22 @@
     "2024-06-30",
     "2024-09-30",
     "2024-12-31",
-    "2025-03-31"
+    "2025-03-31",
+    "2025-06-30"
   ],
-  "choNhanGiaRaPE": 0.16975244694729152,
-  "choNhanGiaRaPB": 0.045211590170862494,
-  "choNhanGiaRaPS": 0.010180560524700535,
+  "choNhanGiaRaPE": 0.14137771271090235,
+  "choNhanGiaRaPB": 0.04152503813221969,
+  "choNhanGiaRaPS": 0.00949850947744658,
   "PE": [
     5.8,
     6.1,
     null,
     null,
+    null,
     null
   ],
   "PETb": [
+    null,
     null,
     null,
     null,
@@ -495,9 +498,11 @@
     1.6,
     null,
     null,
+    null,
     null
   ],
   "PBTb": [
+    null,
     null,
     null,
     null,
@@ -509,9 +514,11 @@
     0.3,
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
+    null,
     null,
     null,
     null,
