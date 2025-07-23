@@ -1,685 +1,799 @@
 {
   "fiscalDates": [
-    "2025-03-31"
+    "2025-03-31",
+    "2025-06-30"
   ],
   "cdkt": [
     [
       "Tài sản ngắn hạn",
       1,
       10,
-      981121138028
+      981121138028,
+      990404598404
     ],
     [
       "Tiền và các khoản tương đương tiền",
       2,
       20,
-      7309776930
+      7309776930,
+      15801826905
     ],
     [
       "Tiền",
       3,
       30,
-      7309776930
+      7309776930,
+      12801826905
     ],
     [
       "Các khoản tương đương tiền",
       3,
       70,
-      0
+      0,
+      3000000000
     ],
     [
       "Các khoản đầu tư tài chính ngắn hạn",
       2,
       80,
+      0,
       0
     ],
     [
       "Đầu tư ngắn hạn",
       3,
       90,
+      0,
       0
     ],
     [
       "Dự phòng giảm giá đầu tư ngắn hạn",
       3,
       100,
+      0,
       0
     ],
     [
       "Đầu tư giữ đến ngày đáo hạn",
       3,
       105,
+      0,
       0
     ],
     [
       "Các khoản phải thu ngắn hạn",
       2,
       110,
-      54688727773
+      54688727773,
+      53100164078
     ],
     [
       "Phải thu khách hàng",
       3,
       120,
-      50870994392
+      50870994392,
+      46456823270
     ],
     [
       "Trả trước cho người bán",
       3,
       130,
-      1369950363
+      1369950363,
+      5504814448
     ],
     [
       "Phải thu nội bộ ngắn hạn",
       3,
       140,
+      0,
       0
     ],
     [
       "Phải thu theo tiến độ kế hoạch hợp đồng xây dựng",
       3,
       150,
+      0,
       0
     ],
     [
       "Phải thu về cho vay ngắn hạn",
       3,
       155,
+      0,
       0
     ],
     [
       "Các khoản phải thu khác",
       3,
       160,
-      2798704699
+      2798704699,
+      1489448041
     ],
     [
       "Dự phòng phải thu ngắn hạn khó đòi",
       3,
       210,
+      -350921681,
       -350921681
     ],
     [
       "Tài sản thiếu chờ xử lý",
       3,
       215,
+      0,
       0
     ],
     [
       "Hàng tồn kho",
       2,
       220,
-      915098658920
+      915098658920,
+      920040607421
     ],
     [
       "Hàng tồn kho",
       3,
       230,
-      915098658920
+      915098658920,
+      920040607421
     ],
     [
       "Dự phòng giảm giá hàng tồn kho",
       3,
       360,
+      0,
       0
     ],
     [
       "Tài sản ngắn hạn khác",
       2,
       370,
-      4023974405
+      4023974405,
+      1462000000
     ],
     [
       "Chi phí trả trước ngắn hạn",
       3,
       380,
+      1462000000,
       1462000000
     ],
     [
       "Thuế GTGT được khấu trừ",
       3,
       390,
-      806543172
+      806543172,
+      0
     ],
     [
       "Thuế và các khoản khác phải thu Nhà nước",
       3,
       400,
-      1755431233
+      1755431233,
+      0
     ],
     [
       "Giao dịch mua bán lại trái phiếu chính phủ",
       3,
       405,
+      0,
       0
     ],
     [
       "Tài sản ngắn hạn khác",
       3,
       410,
+      0,
       0
     ],
     [
       "Tài sản dài hạn",
       1,
       420,
-      341428696145
+      341428696145,
+      341772134474
     ],
     [
       "Các khoản phải thu dài hạn",
       2,
       430,
+      4183131000,
       4183131000
     ],
     [
       "Phải thu dài hạn của khách hàng",
       3,
       440,
+      0,
       0
     ],
     [
       "Trả trước dài hạn người bán",
       3,
       445,
+      0,
       0
     ],
     [
       "Vốn kinh doanh ở đơn vị trực thuộc",
       3,
       450,
+      0,
       0
     ],
     [
       "Phải thu dài hạn nội bộ",
       3,
       460,
+      0,
       0
     ],
     [
       "Phải thu về cho vay dài hạn",
       3,
       465,
+      0,
       0
     ],
     [
       "Phải thu dài hạn khác",
       3,
       470,
+      4183131000,
       4183131000
     ],
     [
       "Dự phòng phải thu dài hạn khó đòi",
       3,
       520,
+      0,
       0
     ],
     [
       "Tài sản cố định",
       2,
       530,
-      13193205780
+      13193205780,
+      12983159898
     ],
     [
       "Tài sản cố định hữu hình",
       3,
       540,
-      10522165882
+      10522165882,
+      10312120000
     ],
     [
       "Tài sản cố định thuê tài chính",
       3,
       700,
+      0,
       0
     ],
     [
       "Tài sản cố định vô hình",
       3,
       850,
+      2671039898,
       2671039898
     ],
     [
       "Chi phí xây dựng cơ bản dở dang (trước 2015)",
       3,
       990,
+      0,
       0
     ],
     [
       "Bất động sản đầu tư",
       2,
       1000,
+      0,
       0
     ],
     [
       "Nguyên giá bất động sản đầu tư",
       3,
       1010,
+      0,
       0
     ],
     [
       "Hao mòn bất động sản đầu tư",
       3,
       1060,
+      0,
       0
     ],
     [
       "Tài sản dở dang dài hạn",
       2,
       1100,
-      315635330413
+      315635330413,
+      316321318450
     ],
     [
       "Chi phí sản xuất, kinh doanh dở dang dài hạn",
       3,
       1110,
-      315491163013
+      315491163013,
+      316177151050
     ],
     [
       "Chi phí xây dựng cơ bản dở dang ",
       3,
       1120,
+      144167400,
       144167400
     ],
     [
       "Các khoản đầu tư tài chính dài hạn",
       2,
       1160,
+      6750000000,
       6750000000
     ],
     [
       "Đầu tư vào công ty con",
       3,
       1170,
+      0,
       0
     ],
     [
       "Đầu tư vào công ty liên kết, liên doanh",
       3,
       1180,
+      0,
       0
     ],
     [
       "Đầu tư dài hạn khác",
       3,
       1190,
+      6750000000,
       6750000000
     ],
     [
       "Dự phòng giảm giá đầu tư tài chính dài hạn",
       3,
       1250,
+      0,
       0
     ],
     [
       "Đầu tư dài hạn giữ đến ngày đáo hạn",
       3,
       1255,
+      0,
       0
     ],
     [
       "Tài sản dài hạn khác",
       2,
       1260,
-      1667028952
+      1667028952,
+      1534525126
     ],
     [
       "Chi phí trả trước dài hạn",
       3,
       1270,
+      0,
       0
     ],
     [
       "Tài sản thuế thu nhập hoãn lại",
       3,
       1330,
-      1667028952
+      1667028952,
+      1534525126
     ],
     [
       "Thiết bị, vật tư, phụ tùng thay thế dài hạn",
       3,
       1335,
+      0,
       0
     ],
     [
       "Tài sản dài hạn khác",
       3,
       1340,
+      0,
       0
     ],
     [
       "Lợi thế thương mại",
       3,
       1342,
+      0,
       0
     ],
     [
       "Lợi thế thương mại (trước 2015)",
       2,
       1345,
+      0,
       0
     ],
     [
       "TỔNG CỘNG TÀI SẢN",
       0,
       1350,
-      1322549834173
+      1322549834173,
+      1332176732878
     ],
     [
       "Nợ phải trả",
       1,
       1360,
-      970095431771
+      970095431771,
+      964015290665
     ],
     [
       "Nợ ngắn hạn",
       2,
       1370,
-      284848106018
+      284848106018,
+      275340701438
     ],
     [
       "Vay và nợ ngắn hạn",
       3,
       1380,
-      186100789714
+      186100789714,
+      186098401848
     ],
     [
       "Phải trả người bán",
       3,
       1410,
-      19197730497
+      19197730497,
+      16402636883
     ],
     [
       "Người mua trả tiền trước",
       3,
       1420,
-      62751938337
+      62751938337,
+      49176014871
     ],
     [
       "Thuế và các khoản phải nộp Nhà nước",
       3,
       1430,
-      84771304
+      84771304,
+      2939904975
     ],
     [
       "Phải trả người lao động",
       3,
       1520,
-      620559625
+      620559625,
+      731054115
     ],
     [
       "Chi phí phải trả",
       3,
       1530,
-      5836617775
+      5836617775,
+      6952680275
     ],
     [
       "Phải trả nội bộ",
       3,
       1580,
+      0,
       0
     ],
     [
       "Phải trả theo tiến độ kế hoạch hợp đồng xây dựng",
       3,
       1590,
+      0,
       0
     ],
     [
       "Các khoản phải trả, phải nộp ngắn hạn khác",
       3,
       1600,
-      10222879875
+      10222879875,
+      11083189580
     ],
     [
       "Quỹ khen thưởng, phúc lợi",
       3,
       1685,
-      32818891
+      32818891,
+      1956818891
     ],
     [
       "Doanh thu chưa thực hiện ngắn hạn",
       3,
       1686,
+      0,
       0
     ],
     [
       "Dự phòng phải trả ngắn hạn",
       3,
       1690,
+      0,
       0
     ],
     [
       "Quỹ bình ổn giá",
       3,
       1691,
+      0,
       0
     ],
     [
       "Giao dịch mua bán lại trái phiếu chính phủ",
       3,
       1692,
+      0,
       0
     ],
     [
       "Nợ dài hạn",
       2,
       1700,
-      685247325753
+      685247325753,
+      688674589227
     ],
     [
       "Phải trả dài hạn người bán",
       3,
       1710,
+      0,
       0
     ],
     [
       "Người mua trả trước dài hạn",
       3,
       1711,
+      0,
       0
     ],
     [
       "Chi phí phải trả dài hạn",
       3,
       1712,
+      0,
       0
     ],
     [
       "Phải trả nội bộ về vốn kinh doanh",
       3,
       1713,
+      0,
       0
     ],
     [
       "Phải trả dài hạn nội bộ",
       3,
       1720,
+      0,
       0
     ],
     [
       "Phải trả dài hạn khác",
       3,
       1730,
+      291720000000,
       291720000000
     ],
     [
       "Vay và nợ dài hạn",
       3,
       1740,
-      393527325753
+      393527325753,
+      396954589227
     ],
     [
       "Trái phiếu chuyển đổi",
       3,
       1794,
+      0,
       0
     ],
     [
       "Cổ phiếu ưu đãi",
       3,
       1795,
+      0,
       0
     ],
     [
       "Thuế thu nhập hoãn lại phải trả",
       3,
       1800,
+      0,
       0
     ],
     [
       "Dự phòng trợ cấp mất việc làm",
       3,
       1810,
+      0,
       0
     ],
     [
       "Doanh thu chưa thực hiện dài hạn",
       3,
       1815,
+      0,
       0
     ],
     [
       "Quỹ phát triển khoa học và công nghệ",
       3,
       1817,
+      0,
       0
     ],
     [
       "Dự phòng phải trả dài hạn",
       3,
       1820,
+      0,
       0
     ],
     [
       "Vốn chủ sở hữu",
       1,
       1830,
-      352454402402
+      352454402402,
+      368161442213
     ],
     [
       "Vốn và các quỹ",
       2,
       1840,
-      352454402402
+      352454402402,
+      368161442213
     ],
     [
       "Vốn góp",
       3,
       1870,
+      171000000000,
       171000000000
     ],
     [
       "Thặng dư vốn cổ phần",
       3,
       1880,
+      9000000000,
       9000000000
     ],
     [
       "Quyền chọn chuyển đổi trái phiếu",
       3,
       1885,
+      0,
       0
     ],
     [
       "Vốn khác của chủ sở hữu",
       3,
       1890,
+      1042907420,
       1042907420
     ],
     [
       "Cổ phiếu quỹ",
       3,
       1900,
+      0,
       0
     ],
     [
       "Chênh lệch đánh giá lại tài sản",
       3,
       1910,
+      0,
       0
     ],
     [
       "Chênh lệch tỷ giá hối đoái",
       3,
       1920,
+      0,
       0
     ],
     [
       "Quỹ đầu tư phát triển",
       3,
       1930,
+      18494140275,
       18494140275
     ],
     [
       "Quỹ dự phòng tài chính",
       3,
       1940,
+      0,
       0
     ],
     [
       "Quỹ khác thuộc vốn chủ sở hữu",
       3,
       1950,
+      0,
       0
     ],
     [
       "Lợi nhuận sau thuế chưa phân phối",
       3,
       1960,
-      152917354707
+      152917354707,
+      168624394518
     ],
     [
       "Lợi ích cổ đông không kiểm soát",
       3,
       1963,
+      0,
       0
     ],
     [
       "Quỹ hỗ trợ sắp xếp doanh nghiệp",
       3,
       1965,
+      0,
       0
     ],
     [
       "Nguồn vốn đầu tư XDCB",
       3,
       1970,
+      0,
       0
     ],
     [
       "Nguồn kinh phí và quỹ khác",
       2,
       1980,
+      0,
       0
     ],
     [
       "Quỹ khen thưởng, phúc lợi (trước 2010)",
       3,
       1990,
+      0,
       0
     ],
     [
       "Vốn ngân sách nhà nước",
       3,
       2000,
+      0,
       0
     ],
     [
       "Nguồn kinh phí đã hình thành TSCĐ",
       3,
       2010,
+      0,
       0
     ],
     [
       "Lợi ích của cổ đông không kiểm soát (trước 2015)",
       1,
       2020,
+      0,
       0
     ],
     [
       "TỔNG CỘNG NGUỒN VỐN",
       0,
       2030,
-      1322549834173
+      1322549834173,
+      1332176732878
     ]
   ],
   "kqkd": [
@@ -687,150 +801,175 @@
       "Tổng doanh thu hoạt động kinh doanh",
       1,
       10,
-      50445591019
+      50445591019,
+      78750194135
     ],
     [
       "Các khoản giảm trừ doanh thu",
       1,
       70,
+      0,
       0
     ],
     [
       "Doanh thu thuần",
       1,
       140,
-      50445591019
+      50445591019,
+      78750194135
     ],
     [
       "Giá vốn hàng bán",
       1,
       170,
-      30215916254
+      30215916254,
+      46837388195
     ],
     [
       "Lợi nhuận gộp",
       1,
       250,
-      20229674765
+      20229674765,
+      31912805940
     ],
     [
       "Doanh thu hoạt động tài chính",
       1,
       260,
-      33703816
+      33703816,
+      6901124
     ],
     [
       "Chi phí tài chính",
       1,
       350,
-      2853280358
+      2853280358,
+      2953528793
     ],
     [
       "Trong đó: Chi phí lãi vay",
       2,
       360,
-      2831650919
+      2831650919,
+      2936600360
     ],
     [
       "Lợi nhuận hoặc lỗ trong công ty liên kết",
       1,
       425,
+      0,
       0
     ],
     [
       "Chi phí bán hàng",
       1,
       430,
-      952877749
+      952877749,
+      1121225411
     ],
     [
       "Chi phí quản lý doanh nghiệp",
       1,
       440,
-      4058462776
+      4058462776,
+      5157200692
     ],
     [
       "Lợi nhuận thuần từ hoạt động kinh doanh",
       1,
       500,
-      12398757698
+      12398757698,
+      22687752168
     ],
     [
       "Thu nhập khác",
       1,
       510,
-      382337078
+      382337078,
+      216557944
     ],
     [
       "Chi phí khác",
       1,
       520,
-      90000000
+      90000000,
+      90135593
     ],
     [
       "Lợi nhuận khác",
       1,
       530,
-      292337078
+      292337078,
+      126422351
     ],
     [
       "Lợi nhuận hoặc lỗ trong công ty liên kết (trước 2015)",
       1,
       531,
+      0,
       0
     ],
     [
       "Lợi nhuận kế toán trước thuế",
       1,
       540,
-      12691094776
+      12691094776,
+      22814174519
     ],
     [
       "Chi phí thuế TNDN",
       1,
       550,
-      2738946270
+      2738946270,
+      4562862023
     ],
     [
       "Chi phí thuế TNDN hiện hành",
       2,
       560,
-      2538218955
+      2538218955,
+      4430358197
     ],
     [
       "Chi phí thuế TNDN hoãn lại",
       2,
       570,
-      200727315
+      200727315,
+      132503826
     ],
     [
       "Lợi nhuận sau thuế thu nhập doanh nghiệp",
       1,
       580,
-      9952148506
+      9952148506,
+      18251312496
     ],
     [
       "Lợi ích của cổ đông thiểu số",
       1,
       657,
+      0,
       0
     ],
     [
       "Lợi nhuận sau thuế của Công ty mẹ",
       1,
       660,
-      9952148506
+      9952148506,
+      18251312496
     ],
     [
       "Lãi cơ bản trên cổ phiếu",
       1,
       670,
-      582
+      582,
+      1067
     ],
     [
       "Lãi suy giảm trên cổ phiếu",
       1,
       680,
+      0,
       0
     ]
   ],
@@ -839,319 +978,372 @@
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH - GIÁN TIẾP",
       0,
       0,
+      null,
       null
     ],
     [
       "Lợi nhuận kế toán trước thuế",
       1,
       10,
-      12691094776
+      12691094776,
+      22814174519
     ],
     [
       "Điều chỉnh cho các khoản",
       0,
       15,
+      null,
       null
     ],
     [
       "Chi phí khấu hao tài sản cố định",
       1,
       20,
+      210045882,
       210045882
     ],
     [
       "Phân bổ lợi thế thương mại",
       1,
       25,
+      0,
       0
     ],
     [
       "Dự phòng giảm giá các khoản đầu tư ngắn hạn, dài hạn",
       1,
       30,
+      0,
       0
     ],
     [
       "Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện",
       1,
       40,
+      0,
       0
     ],
     [
       "Lãi/(lỗ) từ thanh lý tài sản cố định",
       1,
       45,
+      0,
       0
     ],
     [
       "Lãi, lỗ từ hoạt động đầu tư",
       1,
       50,
-      -33703816
+      -33703816,
+      -6901124
     ],
     [
       "Chi phí lãi vay",
       1,
       60,
-      2831650919
+      2831650919,
+      2936600360
     ],
     [
       "Thu lãi và cổ tức",
       1,
       65,
+      0,
       0
     ],
     [
       "Các khoản điều chỉnh khác",
       1,
       66,
+      0,
       0
     ],
     [
       "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn  lưu động",
       0,
       70,
-      15699087761
+      15699087761,
+      25953919637
     ],
     [
       "Tăng, giảm các khoản phải thu",
       1,
       80,
-      7843098881
+      7843098881,
+      2400182209
     ],
     [
       "Tăng, giảm hàng tồn kho",
       1,
       90,
-      4622503466
+      4622503466,
+      502763132
     ],
     [
       "Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế TNDN phải nộp)",
       1,
       100,
-      -37855313414
+      -37855313414,
+      -14178485737
     ],
     [
       "Tăng, giảm chi phí trả trước",
       1,
       110,
+      0,
       0
     ],
     [
       "Tăng/ (Giảm) chứng khoán kinh doanh",
       1,
       115,
+      0,
       0
     ],
     [
       "Tiền lãi vay đã trả",
       1,
       120,
-      -4757054249
+      -4757054249,
+      -8792030656
     ],
     [
       "Thuế thu nhập doanh nghiệp đã nộp",
       1,
       130,
-      -24607000000
+      -24607000000,
+      0
     ],
     [
       "Tiền thu khác từ hoạt động kinh doanh",
       1,
       140,
+      0,
       0
     ],
     [
       "Tiền chi khác cho hoạt động kinh doanh",
       1,
       150,
-      -1988500000
+      -1988500000,
+      -821000000
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH - TRỰC TIẾP",
       0,
       159,
+      null,
       null
     ],
     [
       "Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác",
       1,
       160,
+      null,
       null
     ],
     [
       "Tiền chi trả cho người cung cấp hàng hóa và dịch vụ",
       1,
       170,
+      null,
       null
     ],
     [
       "Tiền chi trả cho người lao động",
       1,
       180,
+      null,
       null
     ],
     [
       "Tiền chi trả lãi vay",
       1,
       190,
+      null,
       null
     ],
     [
       "Tiền chi nộp thuế thu nhập doanh nghiệp",
       1,
       200,
+      null,
       null
     ],
     [
       "Tiền thu khác từ hoạt động kinh doanh",
       1,
       210,
+      null,
       null
     ],
     [
       "Tiền chi khác cho hoạt động kinh doanh",
       1,
       220,
+      null,
       null
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
       0,
       230,
-      -41043177555
+      -41043177555,
+      5065348585
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
       0,
       240,
+      null,
       null
     ],
     [
       "Mua sắm TSCĐ",
       1,
       250,
+      0,
       0
     ],
     [
       "Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
       1,
       260,
+      0,
       0
     ],
     [
       "Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
       1,
       270,
+      0,
       0
     ],
     [
       "Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
       1,
       280,
+      0,
       0
     ],
     [
       "Tiền chi đầu tư góp vốn vào đơn vị khác",
       1,
       290,
+      0,
       0
     ],
     [
       "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
       1,
       300,
+      0,
       0
     ],
     [
       "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
       1,
       310,
-      35150392
+      35150392,
+      1825782
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động đầu tư",
       0,
       320,
-      35150392
+      35150392,
+      1825782
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
       0,
       330,
+      null,
       null
     ],
     [
       "Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",
       1,
       340,
+      0,
       0
     ],
     [
       "Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",
       1,
       350,
+      0,
       0
     ],
     [
       "Tiền vay ngắn hạn, dài hạn nhận được",
       1,
       360,
-      65786573049
+      65786573049,
+      65019514978
     ],
     [
       "Tiền chi trả nợ gốc vay",
       1,
       370,
-      -22617935608
+      -22617935608,
+      -61594639370
     ],
     [
       "Tiền chi trả nợ thuê tài chính",
       1,
       380,
+      0,
       0
     ],
     [
       "Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
       1,
       390,
+      0,
       0
     ],
     [
       "Tiền lãi đã nhận",
       1,
       396,
+      0,
       0
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động tài chính",
       0,
       400,
-      43168637441
+      43168637441,
+      3424875608
     ],
     [
       "Lưu chuyển tiền thuần trong kỳ",
       0,
       410,
-      2160610278
+      2160610278,
+      8492049975
     ],
     [
       "Tiền và tương đương tiền đầu kỳ",
       0,
       420,
-      5149166652
+      5149166652,
+      7309776930
     ],
     [
       "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
       0,
       430,
+      0,
       0
     ],
     [
       "Tiền và tương đương tiền cuối kỳ",
       0,
       440,
-      7309776930
+      7309776930,
+      15801826905
     ]
   ]
 }
