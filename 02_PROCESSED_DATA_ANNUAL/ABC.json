@@ -519,27 +519,34 @@
     1.4
   ],
   "newFiscalDateQuarter": [
-    "2025-03-31"
+    "2025-03-31",
+    "2025-06-30"
   ],
-  "choNhanGiaRaPE": 1.0339351707517896,
-  "choNhanGiaRaPB": 0.04108003466877549,
-  "choNhanGiaRaPS": 0.015314145803867222,
+  "choNhanGiaRaPE": 0.9623779086460552,
+  "choNhanGiaRaPB": 0.04090547957881091,
+  "choNhanGiaRaPS": 0.013113943065436274,
   "PE": [
+    null,
     null
   ],
   "PETb": [
+    null,
     null
   ],
   "PB": [
+    null,
     null
   ],
   "PBTb": [
+    null,
     null
   ],
   "PS": [
+    null,
     null
   ],
   "PSTb": [
+    null,
     null
   ],
   "soCoPhieuLuuHanh": 20393000,
