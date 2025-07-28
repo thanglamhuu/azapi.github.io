@@ -1,1 +1,48 @@
-{"data":[{"code":"HC1","shareholderType":"COMPANY","shareholderName":"TCT Xây dựng HN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4028865,"ownershipPct":50.3608125,"effectiveDate":"2020-06-30"},{"code":"HC1","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư và Kinh doanh Thương mại Phú Thịnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":895908,"ownershipPct":11.19885,"effectiveDate":"2020-07-28"},{"code":"HC1","shareholderType":"COMPANY","shareholderName":"CTCP Bất động sản BRG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":703906,"ownershipPct":8.798825,"effectiveDate":"2020-06-30"},{"code":"HC1","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thung lũng Vua","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":419921,"ownershipPct":5.2490125,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HC1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Xây dựng HN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4028865,
+      "ownershipPct": 50.3608125,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HC1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư và Kinh doanh Thương mại Phú Thịnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 895908,
+      "ownershipPct": 11.19885,
+      "effectiveDate": "2020-07-28"
+    },
+    {
+      "code": "HC1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Bất động sản BRG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 703906,
+      "ownershipPct": 8.798825,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HC1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thung lũng Vua",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 419921,
+      "ownershipPct": 5.2490125,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

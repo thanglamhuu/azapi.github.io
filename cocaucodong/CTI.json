@@ -1,1 +1,108 @@
-{"data":[{"code":"CTI","shareholderType":"COMPANY","shareholderName":"Cường Thuận IDICO","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":8200000,"ownershipPct":14.96350446880499,"effectiveDate":"2020-06-19"},{"code":"CTI","shareholderType":"COMPANY","shareholderName":"Victory Holding Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3745540,"ownershipPct":6.8349273814741265,"effectiveDate":"2021-06-30"},{"code":"CTI","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3122370,"ownershipPct":5.697755786373492,"effectiveDate":"2019-07-25"},{"code":"CTI","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3108560,"ownershipPct":5.672555055066883,"effectiveDate":"2020-06-02"},{"code":"CTI","shareholderType":"COMPANY","shareholderName":"ASAM VietNam Equity Balanced Hedge Fund 3","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3087690,"ownershipPct":5.634471111376156,"effectiveDate":"2019-08-30"},{"code":"CTI","shareholderType":"COMPANY","shareholderName":"Kingsmead Vietnam and Indochina Growth Master Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2058000,"ownershipPct":3.7554746581464227,"effectiveDate":"2016-03-03"},{"code":"CTI","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1927069,"ownershipPct":3.5165494625848246,"effectiveDate":"2015-10-02"},{"code":"CTI","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1889870,"ownershipPct":3.448668072007376,"effectiveDate":"2015-01-14"},{"code":"CTI","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Quang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1627430,"ownershipPct":2.969762936300891,"effectiveDate":"2020-06-30"},{"code":"CTI","shareholderType":"PERSON","shareholderName":"Trần Như Hoàng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1370000,"ownershipPct":2.5000001368613214,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "CTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Victory Holding Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3745540,
+      "ownershipPct": 5.945301870411201,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3122370,
+      "ownershipPct": 4.956143093149671,
+      "effectiveDate": "2019-07-25"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3108560,
+      "ownershipPct": 4.9342224571851965,
+      "effectiveDate": "2020-06-02"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ASAM VietNam Equity Balanced Hedge Fund 3",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3087690,
+      "ownershipPct": 4.901095471480737,
+      "effectiveDate": "2019-08-30"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Kingsmead Vietnam and Indochina Growth Master Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2058000,
+      "ownershipPct": 3.2666668222222297,
+      "effectiveDate": "2016-03-03"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1927069,
+      "ownershipPct": 3.058839828198722,
+      "effectiveDate": "2015-10-02"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1889870,
+      "ownershipPct": 2.999793793640974,
+      "effectiveDate": "2015-01-14"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Quang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1627430,
+      "ownershipPct": 2.58322234523281,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Như Hoàng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1370000,
+      "ownershipPct": 2.1746032781557116,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "CTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng Cúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1323438,
+      "ownershipPct": 2.1006953381283493,
+      "effectiveDate": "2015-01-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

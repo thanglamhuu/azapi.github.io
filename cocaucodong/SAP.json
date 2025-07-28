@@ -1,1 +1,68 @@
-{"data":[{"code":"SAP","shareholderType":"COMPANY","shareholderName":"Nhà Xuất bản Giáo dục Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":415170,"ownershipPct":32.25914230479944,"effectiveDate":"2020-06-30"},{"code":"SAP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Xuất Nhập khẩu Viễn Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":314900,"ownershipPct":24.468058654963855,"effectiveDate":"2018-01-15"},{"code":"SAP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Bất động sản Bến Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":300000,"ownershipPct":23.310313104125616,"effectiveDate":"2015-07-29"},{"code":"SAP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH ĐT và PT BĐS Bình Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":63200,"ownershipPct":4.910705960602463,"effectiveDate":"2020-06-30"},{"code":"SAP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Đại Bàng Phương Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":45500,"ownershipPct":3.5353974874590515,"effectiveDate":"2016-11-30"},{"code":"SAP","shareholderType":"PERSON","shareholderName":"Trần Long Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20000,"ownershipPct":1.5540208736083743,"effectiveDate":"2007-10-02"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SAP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhà Xuất bản Giáo dục Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 415170,
+      "ownershipPct": 32.25914230479944,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SAP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Xuất Nhập khẩu Viễn Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 314900,
+      "ownershipPct": 24.468058654963855,
+      "effectiveDate": "2018-01-15"
+    },
+    {
+      "code": "SAP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Bất động sản Bến Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 300000,
+      "ownershipPct": 23.310313104125616,
+      "effectiveDate": "2015-07-29"
+    },
+    {
+      "code": "SAP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH ĐT và PT BĐS Bình Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 63200,
+      "ownershipPct": 4.910705960602463,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SAP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Đại Bàng Phương Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 45500,
+      "ownershipPct": 3.5353974874590515,
+      "effectiveDate": "2016-11-30"
+    },
+    {
+      "code": "SAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Long Thanh",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 20000,
+      "ownershipPct": 1.5540208736083743,
+      "effectiveDate": "2007-10-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

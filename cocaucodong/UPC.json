@@ -1,1 +1,80 @@
-{"data":[{"code":"UPC","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Bà Rịa - Vũng Tàu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1224000,"ownershipPct":36,"effectiveDate":"2019-11-26"},{"code":"UPC","shareholderType":"PERSON","shareholderName":"Lê Huy Hữu Hiệp","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1079224,"ownershipPct":31.741882352941175,"effectiveDate":"2023-06-30"},{"code":"UPC","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Tài","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":500538,"ownershipPct":14.721705882352941,"effectiveDate":"2023-06-30"},{"code":"UPC","shareholderType":"PERSON","shareholderName":"Phạm Thị Thu Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":140881,"ownershipPct":4.143558823529411,"effectiveDate":"2020-12-31"},{"code":"UPC","shareholderType":"PERSON","shareholderName":"Phạm Thị Bình","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":62124,"ownershipPct":1.8271764705882354,"groupPct":3.107794117647059,"effectiveDate":"2021-03-30"},{"code":"UPC","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Thiết","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":41341,"ownershipPct":1.2159117647058824,"groupPct":3.107794117647059,"effectiveDate":"2023-06-30"},{"code":"UPC","shareholderType":"PERSON","shareholderName":"Hoàng Văn Thao","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":35916,"ownershipPct":1.0563529411764705,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "UPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Bà Rịa - Vũng Tàu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1224000,
+      "ownershipPct": 36,
+      "effectiveDate": "2019-11-26"
+    },
+    {
+      "code": "UPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Huy Hữu Hiệp",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1079224,
+      "ownershipPct": 31.741882352941175,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "UPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Tài",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 528254,
+      "ownershipPct": 15.536882352941177,
+      "effectiveDate": "2024-11-06"
+    },
+    {
+      "code": "UPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thu Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 140881,
+      "ownershipPct": 4.143558823529411,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "UPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Bình",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 62124,
+      "ownershipPct": 1.8271764705882354,
+      "groupPct": 3.107794117647059,
+      "effectiveDate": "2021-03-30"
+    },
+    {
+      "code": "UPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Thiết",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 41341,
+      "ownershipPct": 1.2159117647058824,
+      "groupPct": 3.107794117647059,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "UPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Thao",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 35916,
+      "ownershipPct": 1.0563529411764705,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

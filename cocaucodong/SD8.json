@@ -1,1 +1,38 @@
-{"data":[{"code":"SD8","shareholderType":"PERSON","shareholderName":"Phạm Đức Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":663700,"ownershipPct":23.70357142857143,"effectiveDate":"2020-02-28"},{"code":"SD8","shareholderType":"PERSON","shareholderName":"Lê Văn Phước","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":529300,"ownershipPct":18.90357142857143,"effectiveDate":"2022-01-14"},{"code":"SD8","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Kỹ thuật xây dựng Hàn Quốc và Việt nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":240000,"ownershipPct":8.571428571428571,"effectiveDate":"2022-08-12"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SD8",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đức Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 663700,
+      "ownershipPct": 23.70357142857143,
+      "effectiveDate": "2020-02-28"
+    },
+    {
+      "code": "SD8",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Phước",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 529300,
+      "ownershipPct": 18.90357142857143,
+      "effectiveDate": "2022-01-14"
+    },
+    {
+      "code": "SD8",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Kỹ thuật xây dựng Hàn Quốc và Việt nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 240000,
+      "ownershipPct": 8.571428571428571,
+      "effectiveDate": "2022-08-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

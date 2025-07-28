@@ -1,1 +1,38 @@
-{"data":[{"code":"VPC","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":630440,"ownershipPct":11.207822222222223,"effectiveDate":"2024-01-26"},{"code":"VPC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Cavico Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":447573,"ownershipPct":7.956853333333333,"effectiveDate":"2020-06-30"},{"code":"VPC","shareholderType":"PERSON","shareholderName":"Huỳnh Thị Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":186200,"ownershipPct":3.3102222222222224,"effectiveDate":"2019-05-09"},{"code":"VPC","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":157200,"ownershipPct":2.7946666666666666,"effectiveDate":"2020-06-30"},{"code":"VPC","shareholderType":"PERSON","shareholderName":"Trịnh Nguyên Khánh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":97600,"ownershipPct":1.735111111111111,"effectiveDate":"2023-12-31"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 630440,
+      "ownershipPct": 11.207822222222223,
+      "effectiveDate": "2024-01-26"
+    },
+    {
+      "code": "VPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Cavico Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 447573,
+      "ownershipPct": 7.956853333333333,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Thị Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 186200,
+      "ownershipPct": 3.3102222222222224,
+      "effectiveDate": "2019-05-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

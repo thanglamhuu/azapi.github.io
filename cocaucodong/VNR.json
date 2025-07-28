@@ -1,1 +1,78 @@
-{"data":[{"code":"VNR","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":66926134,"ownershipPct":40.362996779633235,"effectiveDate":"2023-10-19"},{"code":"VNR","shareholderType":"COMPANY","shareholderName":"Swiss Reinsurance Company","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":41452771,"ownershipPct":25.000070411655244,"effectiveDate":"2023-10-19"},{"code":"VNR","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư giá trị Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13276934,"ownershipPct":8.007288218461909,"effectiveDate":"2023-10-19"},{"code":"VNR","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12700220,"ownershipPct":7.659473337584891,"effectiveDate":"2023-10-19"},{"code":"VNR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quản lý Quỹ Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12069940,"ownershipPct":7.279352925874464,"effectiveDate":"2023-06-30"},{"code":"VNR","shareholderType":"COMPANY","shareholderName":"Bảo Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10660799,"ownershipPct":6.429503244656523,"effectiveDate":"2023-10-19"},{"code":"VNR","shareholderType":"COMPANY","shareholderName":"FTIF – Templeton Frontier Markets Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7263370,"ownershipPct":4.380521664665176,"effectiveDate":"2023-10-19"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 66926134,
+      "ownershipPct": 33.35788957417263,
+      "effectiveDate": "2023-10-19"
+    },
+    {
+      "code": "VNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Swiss Reinsurance Company",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 41452771,
+      "ownershipPct": 20.661240608361837,
+      "effectiveDate": "2023-10-19"
+    },
+    {
+      "code": "VNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư giá trị Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13276934,
+      "ownershipPct": 6.617601701834117,
+      "effectiveDate": "2023-10-19"
+    },
+    {
+      "code": "VNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13276934,
+      "ownershipPct": 6.617601701834117,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "VNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12700220,
+      "ownershipPct": 6.330151033790458,
+      "effectiveDate": "2023-10-19"
+    },
+    {
+      "code": "VNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bảo Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10660799,
+      "ownershipPct": 5.3136455755004475,
+      "effectiveDate": "2023-10-19"
+    },
+    {
+      "code": "VNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "FTIF – Templeton Frontier Markets Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7263370,
+      "ownershipPct": 3.6202702877826214,
+      "effectiveDate": "2023-10-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

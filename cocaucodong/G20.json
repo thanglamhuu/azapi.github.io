@@ -1,1 +1,78 @@
-{"data":[{"code":"G20","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn G.Home","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3600000,"ownershipPct":25,"effectiveDate":"2020-06-30"},{"code":"G20","shareholderType":"PERSON","shareholderName":"Trần Thị Kiều Nga","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2670000,"ownershipPct":18.541666666666668,"effectiveDate":"2020-06-30"},{"code":"G20","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1068900,"ownershipPct":7.422916666666667,"effectiveDate":"2018-02-07"},{"code":"G20","shareholderType":"PERSON","shareholderName":"Nguyễn Sinh Quyền","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":330000,"ownershipPct":2.2916666666666665,"effectiveDate":"2016-11-18"},{"code":"G20","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":295800,"ownershipPct":2.0541666666666667,"effectiveDate":"2016-10-28"},{"code":"G20","shareholderType":"PERSON","shareholderName":"Hoàng Xuân Viện","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":195600,"ownershipPct":1.3583333333333334,"effectiveDate":"2016-11-18"},{"code":"G20","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Hà","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":148000,"ownershipPct":1.0277777777777777,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "G20",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn G.Home",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3600000,
+      "ownershipPct": 25,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "G20",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Kiều Nga",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2670000,
+      "ownershipPct": 18.541666666666668,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "G20",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1068900,
+      "ownershipPct": 7.422916666666667,
+      "effectiveDate": "2018-02-07"
+    },
+    {
+      "code": "G20",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Sinh Quyền",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 330000,
+      "ownershipPct": 2.2916666666666665,
+      "effectiveDate": "2016-11-18"
+    },
+    {
+      "code": "G20",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 295800,
+      "ownershipPct": 2.0541666666666667,
+      "effectiveDate": "2016-10-28"
+    },
+    {
+      "code": "G20",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Xuân Viện",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 195600,
+      "ownershipPct": 1.3583333333333334,
+      "effectiveDate": "2016-11-18"
+    },
+    {
+      "code": "G20",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Hà",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 148000,
+      "ownershipPct": 1.0277777777777777,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

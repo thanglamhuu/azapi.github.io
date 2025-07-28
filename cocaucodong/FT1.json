@@ -1,1 +1,28 @@
-{"data":[{"code":"FT1","shareholderType":"COMPANY","shareholderName":"Máy N.nghiệp VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3893919,"ownershipPct":54.99999788131194,"effectiveDate":"2020-06-30"},{"code":"FT1","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Hiển","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":194300,"ownershipPct":2.744407263823133,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "FT1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Máy N.nghiệp VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3893919,
+      "ownershipPct": 54.99999788131194,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "FT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Hiển",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 194300,
+      "ownershipPct": 2.744407263823133,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

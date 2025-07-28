@@ -1,1 +1,111 @@
-{"data":[{"code":"DVC","shareholderType":"PERSON","shareholderName":"Hà Văn Tiến","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":5180046,"ownershipPct":47.99151725038842,"effectiveDate":"2023-07-25"},{"code":"DVC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Vận tải Hà Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1100000,"ownershipPct":10.191158336321196,"effectiveDate":"2019-10-02"},{"code":"DVC","shareholderType":"PERSON","shareholderName":"Cao Trung Ngoan","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":806100,"ownershipPct":7.468266122644105,"effectiveDate":"2020-12-31"},{"code":"DVC","shareholderType":"PERSON","shareholderName":"Đào Thị Tâm","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":551000,"ownershipPct":5.1048438575572535,"effectiveDate":"2021-12-31"},{"code":"DVC","shareholderType":"PERSON","shareholderName":"Trần Đức Mạnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":550000,"ownershipPct":5.095579168160598,"effectiveDate":"2020-12-31"},{"code":"DVC","shareholderType":"PERSON","shareholderName":"Phạm Thị Thanh Hồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":519742,"ownershipPct":4.815248196396592,"effectiveDate":"2019-10-02"},{"code":"DVC","shareholderType":"COMPANY","shareholderName":"Ngân hàng Á Châu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":321650,"ownershipPct":2.979987344434284,"effectiveDate":"2014-11-17"},{"code":"DVC","shareholderType":"PERSON","shareholderName":"Lê Thị Tính","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":266000,"ownershipPct":2.4644073795103982,"groupPct":4.363668705824803,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thị Kim Phượng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 3013300,
+      "ownershipPct": 27.917288558942417,
+      "effectiveDate": "2025-06-09"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thị Kim Cúc",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 2560046,
+      "ownershipPct": 23.718031031150666,
+      "groupPct": 24.87611720573262,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thị Kim Cúc",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 2560046,
+      "ownershipPct": 23.718031031150666,
+      "groupPct": 24.181265500983447,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thị Kim Cúc",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 2560046,
+      "ownershipPct": 23.718031031150666,
+      "groupPct": 24.588911834436296,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Văn Tiến",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1080000,
+      "ownershipPct": 10.005864548388082,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Trung Ngoan",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 806100,
+      "ownershipPct": 7.468266122644105,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Tâm",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 551000,
+      "ownershipPct": 5.1048438575572535,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đức Mạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 550000,
+      "ownershipPct": 5.095579168160598,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thanh Hồng",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 519742,
+      "ownershipPct": 4.815248196396592,
+      "effectiveDate": "2019-10-02"
+    },
+    {
+      "code": "DVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Á Châu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 321650,
+      "ownershipPct": 2.979987344434284,
+      "effectiveDate": "2014-11-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

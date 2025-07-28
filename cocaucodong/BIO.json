@@ -1,1 +1,39 @@
-{"data":[{"code":"BIO","shareholderType":"PERSON","shareholderName":"Lê Đình Phan","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3338900,"ownershipPct":39.04461205636438,"effectiveDate":"2021-05-05"},{"code":"BIO","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Y Dược Cali-USA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2100000,"ownershipPct":24.557095246447993,"effectiveDate":"2020-06-30"},{"code":"BIO","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Chung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1838300,"ownershipPct":21.4968134245454,"groupPct":21.497982810033328,"effectiveDate":"2021-11-18"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BIO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Phan",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3338900,
+      "ownershipPct": 39.04461205636438,
+      "effectiveDate": "2021-05-05"
+    },
+    {
+      "code": "BIO",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Y Dược Cali-USA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2100000,
+      "ownershipPct": 24.557095246447993,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BIO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Chung",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1838300,
+      "ownershipPct": 21.4968134245454,
+      "groupPct": 21.497982810033328,
+      "effectiveDate": "2021-11-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

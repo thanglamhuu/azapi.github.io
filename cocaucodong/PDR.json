@@ -1,1 +1,29 @@
-{"data":[{"code":"PDR","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Đạt","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":334728562,"ownershipPct":38.33618093100417,"groupPct":39.145252366108586,"effectiveDate":"2024-06-03"},{"code":"PDR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Phát Đạt Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":79893266,"ownershipPct":9.150108620084962,"effectiveDate":"2024-05-31"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PDR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Đạt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 333108562,
+      "ownershipPct": 36.716896010953754,
+      "groupPct": 37.37576691575099,
+      "effectiveDate": "2025-04-10"
+    },
+    {
+      "code": "PDR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phát Đạt Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 79013266,
+      "ownershipPct": 8.709238374989077,
+      "effectiveDate": "2025-04-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

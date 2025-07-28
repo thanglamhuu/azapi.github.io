@@ -1,1 +1,28 @@
-{"data":[{"code":"MCM","shareholderType":"COMPANY","shareholderName":"TCT Chăn nuôi VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":65229971,"ownershipPct":59.29997363636364,"effectiveDate":"2023-06-01"},{"code":"MCM","shareholderType":"COMPANY","shareholderName":"VINAMILK","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9737790,"ownershipPct":8.852536363636364,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Chăn nuôi VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 65229971,
+      "ownershipPct": 59.29997363636364,
+      "effectiveDate": "2023-06-01"
+    },
+    {
+      "code": "MCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VINAMILK",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9737790,
+      "ownershipPct": 8.852536363636364,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

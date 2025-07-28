@@ -1,1 +1,48 @@
-{"data":[{"code":"TIE","shareholderType":"COMPANY","shareholderName":"CTCP Sài Gòn Hưng Phú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2298680,"ownershipPct":24.019895714688765,"effectiveDate":"2016-12-27"},{"code":"TIE","shareholderType":"PERSON","shareholderName":"Đỗ Thị Kim Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1560000,"ownershipPct":16.301110774407256,"effectiveDate":"2016-04-04"},{"code":"TIE","shareholderType":"PERSON","shareholderName":"Lê Thị Thu Hà","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":538500,"ownershipPct":5.627018046165582,"effectiveDate":"2024-01-25"},{"code":"TIE","shareholderType":"COMPANY","shareholderName":"VOF Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":438570,"ownershipPct":4.582806507904994,"effectiveDate":"2010-01-07"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TIE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Sài Gòn Hưng Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2298680,
+      "ownershipPct": 24.019895714688765,
+      "effectiveDate": "2016-12-27"
+    },
+    {
+      "code": "TIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Kim Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1560000,
+      "ownershipPct": 16.301110774407256,
+      "effectiveDate": "2016-04-04"
+    },
+    {
+      "code": "TIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu Hà",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 538500,
+      "ownershipPct": 5.627018046165582,
+      "effectiveDate": "2024-01-25"
+    },
+    {
+      "code": "TIE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VOF Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 438570,
+      "ownershipPct": 4.582806507904994,
+      "effectiveDate": "2010-01-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

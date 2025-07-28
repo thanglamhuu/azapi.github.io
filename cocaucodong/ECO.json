@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "ECO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lương",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 980000,
+      "ownershipPct": 4.9,
+      "effectiveDate": "2024-07-23"
+    },
+    {
+      "code": "ECO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 300000,
+      "ownershipPct": 1.5,
+      "effectiveDate": "2024-07-23"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,1 +1,78 @@
-{"data":[{"code":"QNU","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Quảng Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4182999,"ownershipPct":61.514691176470585,"effectiveDate":"2022-12-31"},{"code":"QNU","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thiên Phú Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":555000,"ownershipPct":8.161764705882353,"effectiveDate":"2022-12-31"},{"code":"QNU","shareholderType":"PERSON","shareholderName":"Chung Thành Đông","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":350000,"ownershipPct":5.147058823529412,"effectiveDate":"2022-08-25"},{"code":"QNU","shareholderType":"PERSON","shareholderName":"Phạm Nam Thái","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":106000,"ownershipPct":1.5588235294117647,"effectiveDate":"2021-09-09"},{"code":"QNU","shareholderType":"PERSON","shareholderName":"Trần Đình Được","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":105100,"ownershipPct":1.5455882352941177,"effectiveDate":"2021-08-13"},{"code":"QNU","shareholderType":"PERSON","shareholderName":"Đoàn Kim Thịnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":104300,"ownershipPct":1.5338235294117648,"effectiveDate":"2021-08-18"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "QNU",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Quảng Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4182999,
+      "ownershipPct": 61.514691176470585,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "QNU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chung Thành Đông",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 600000,
+      "ownershipPct": 8.823529411764707,
+      "effectiveDate": "2025-07-14"
+    },
+    {
+      "code": "QNU",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thiên Phú Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 555000,
+      "ownershipPct": 8.161764705882353,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "QNU",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Trường Gia An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 505000,
+      "ownershipPct": 7.426470588235294,
+      "effectiveDate": "2025-05-22"
+    },
+    {
+      "code": "QNU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Nam Thái",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 206000,
+      "ownershipPct": 3.0294117647058822,
+      "effectiveDate": "2025-05-22"
+    },
+    {
+      "code": "QNU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Được",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 105100,
+      "ownershipPct": 1.5455882352941177,
+      "effectiveDate": "2021-08-13"
+    },
+    {
+      "code": "QNU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Kim Thịnh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 104300,
+      "ownershipPct": 1.5338235294117648,
+      "effectiveDate": "2021-08-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

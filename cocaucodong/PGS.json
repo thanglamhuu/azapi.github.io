@@ -1,1 +1,98 @@
-{"data":[{"code":"PGS","shareholderType":"COMPANY","shareholderName":"TCT Khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17631579,"ownershipPct":35.264008567886655,"effectiveDate":"2022-12-31"},{"code":"PGS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH 1 thành viên Tổng công ty Khí Việt Nam (PVGAS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17631579,"ownershipPct":35.264008567886655,"effectiveDate":"2020-06-30"},{"code":"PGS","shareholderType":"PERSON","shareholderName":"Trần Văn Quý","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13400000,"ownershipPct":26.80064643159193,"effectiveDate":"2011-05-18"},{"code":"PGS","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2435000,"ownershipPct":4.870117467233309,"effectiveDate":"2016-03-15"},{"code":"PGS","shareholderType":"COMPANY","shareholderName":"Ngân hàng Thương mại Cổ phần Đại Á ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2412105,"ownershipPct":4.8243263627518695,"effectiveDate":"2020-06-30"},{"code":"PGS","shareholderType":"COMPANY","shareholderName":"Halley Sicav - Halley Asian Prosperity","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2131973,"ownershipPct":4.264048848858234,"effectiveDate":"2017-04-10"},{"code":"PGS","shareholderType":"COMPANY","shareholderName":"Công ty quản lý Quỹ Đầu tư Chứng khoán Đông Á","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1993632,"ownershipPct":3.987360175127424,"effectiveDate":"2020-06-30"},{"code":"PGS","shareholderType":"COMPANY","shareholderName":"Dầu khí An Pha","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1914605,"ownershipPct":3.82930236277299,"effectiveDate":"2020-06-30"},{"code":"PGS","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":757580,"ownershipPct":1.5151965465407025,"effectiveDate":"2010-10-19"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH 1 thành viên Tổng công ty Khí Việt Nam (PVGAS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17631579,
+      "ownershipPct": 35.264008567886655,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17631579,
+      "ownershipPct": 35.264008567886655,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Quý",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13400000,
+      "ownershipPct": 26.80064643159193,
+      "effectiveDate": "2011-05-18"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2435000,
+      "ownershipPct": 4.870117467233309,
+      "effectiveDate": "2016-03-15"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Thương mại Cổ phần Đại Á ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2412105,
+      "ownershipPct": 4.8243263627518695,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Halley Sicav - Halley Asian Prosperity",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2131973,
+      "ownershipPct": 4.264048848858234,
+      "effectiveDate": "2017-04-10"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty quản lý Quỹ Đầu tư Chứng khoán Đông Á",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1993632,
+      "ownershipPct": 3.987360175127424,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dầu khí An Pha",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1914605,
+      "ownershipPct": 3.82930236277299,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 757580,
+      "ownershipPct": 1.5151965465407025,
+      "effectiveDate": "2010-10-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

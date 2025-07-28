@@ -1,1 +1,48 @@
-{"data":[{"code":"VTQ","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Quảng Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10581461,"ownershipPct":61.945852165033514,"effectiveDate":"2020-12-31"},{"code":"VTQ","shareholderType":"PERSON","shareholderName":"Lê Vũ Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3239230,"ownershipPct":18.963058381875765,"effectiveDate":"2021-12-31"},{"code":"VTQ","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1000000,"ownershipPct":5.854187069728227,"effectiveDate":"2020-12-31"},{"code":"VTQ","shareholderType":"PERSON","shareholderName":"Trần Hoàng Ly Na","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":800000,"ownershipPct":4.683349655782582,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VTQ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Quảng Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10581461,
+      "ownershipPct": 61.945852165033514,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "VTQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Vũ Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3239230,
+      "ownershipPct": 18.963058381875765,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "VTQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 5.854187069728227,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "VTQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hoàng Ly Na",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 800000,
+      "ownershipPct": 4.683349655782582,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

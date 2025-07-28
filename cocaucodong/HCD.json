@@ -1,1 +1,109 @@
-{"data":[{"code":"HCD","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Dũng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":7581237,"ownershipPct":20.512661985708633,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Phùng Chí Công","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2340000,"ownershipPct":6.331371654330052,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Trần Hòa Nguy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1959840,"ownershipPct":5.302767274795816,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Lâm Thị Yến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1487825,"ownershipPct":4.025629500685303,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Phạm Thị Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":585112,"ownershipPct":1.5831459535933186,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Trần Thị Ánh Nguyệt","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":585000,"ownershipPct":1.582842913582513,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Quang","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":561249,"ownershipPct":1.518579491291063,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Quyên","roleType":"Anh của Thành viên HĐQT","enRoleType":"Elder Brother of Board member","numberOfShares":509230,"ownershipPct":1.3778309348438003,"groupPct":2.4112054888338412,"effectiveDate":"2023-09-05"},{"code":"HCD","shareholderType":"PERSON","shareholderName":"Lê Thị Thu Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":456869,"ownershipPct":1.2361570240778277,"effectiveDate":"2023-09-05"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 7581237,
+      "ownershipPct": 20.512661985708633,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phương Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4863000,
+      "ownershipPct": 13.157889040601301,
+      "effectiveDate": "2024-11-06"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Chí Công",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2340000,
+      "ownershipPct": 6.331371654330052,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hòa Nguy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1959840,
+      "ownershipPct": 5.302767274795816,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Thị Yến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1487825,
+      "ownershipPct": 4.025629500685303,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 585112,
+      "ownershipPct": 1.5831459535933186,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Ánh Nguyệt",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 585000,
+      "ownershipPct": 1.582842913582513,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Quang",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 561249,
+      "ownershipPct": 1.518579491291063,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Quyên",
+      "roleType": "Anh của Thành viên HĐQT",
+      "enRoleType": "Elder Brother of Board member",
+      "numberOfShares": 509230,
+      "ownershipPct": 1.3778309348438003,
+      "groupPct": 2.4112054888338412,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 456869,
+      "ownershipPct": 1.2361570240778277,
+      "effectiveDate": "2023-09-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

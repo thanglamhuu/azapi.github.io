@@ -1,1 +1,110 @@
-{"data":[{"code":"GVT","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Giấy Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3365479,"ownershipPct":29,"effectiveDate":"2020-06-30"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Lê Xuân Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1045366,"ownershipPct":9.007815529379325,"effectiveDate":"2024-07-11"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng Nhung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":991099,"ownershipPct":8.540202152501918,"effectiveDate":"2022-07-13"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Đức","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":973290,"ownershipPct":8.386743759209313,"groupPct":17.74005394180145,"effectiveDate":"2022-12-31"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Phạm Đức Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":966744,"ownershipPct":8.330337524019612,"effectiveDate":"2020-06-30"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hiện","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":836600,"ownershipPct":7.208899535549026,"effectiveDate":"2022-12-31"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Lê Thị Minh Loan","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":774898,"ownershipPct":6.677219498324012,"effectiveDate":"2022-12-31"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Đoàn Thế Rong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":630145,"ownershipPct":5.429897200368804,"effectiveDate":"2020-06-30"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":620128,"ownershipPct":5.343581701148633,"effectiveDate":"2020-06-30"},{"code":"GVT","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Hưng","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":567016,"ownershipPct":4.885920845145669,"groupPct":17.74005394180145,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":17,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "GVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Giấy Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3365479,
+      "ownershipPct": 29,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1045366,
+      "ownershipPct": 9.007815529379325,
+      "effectiveDate": "2024-07-11"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 991099,
+      "ownershipPct": 8.540202152501918,
+      "effectiveDate": "2022-07-13"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Đức",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 973290,
+      "ownershipPct": 8.386743759209313,
+      "groupPct": 17.74005394180145,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đức Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 966744,
+      "ownershipPct": 8.330337524019612,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hiện",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 836600,
+      "ownershipPct": 7.208899535549026,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh Loan",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 774898,
+      "ownershipPct": 6.677219498324012,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Thế Rong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 630145,
+      "ownershipPct": 5.429897200368804,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 620128,
+      "ownershipPct": 5.343581701148633,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Hưng",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 567016,
+      "ownershipPct": 4.885920845145669,
+      "groupPct": 17.74005394180145,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 17,
+  "totalPages": 2
+}

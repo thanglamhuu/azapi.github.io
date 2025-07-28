@@ -1,1 +1,68 @@
-{"data":[{"code":"QCC","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":490000,"ownershipPct":36.85041738738061,"effectiveDate":"2020-12-22"},{"code":"QCC","shareholderType":"COMPANY","shareholderName":"ĐTPT H.tầng V.thông","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":170300,"ownershipPct":12.807400165450854,"effectiveDate":"2020-05-05"},{"code":"QCC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn Quốc tế ABC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":32000,"ownershipPct":2.406557870196285,"effectiveDate":"2019-03-28"},{"code":"QCC","shareholderType":"PERSON","shareholderName":"Phạm Thị Trúc Linh","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":22200,"ownershipPct":1.6695495224486727,"effectiveDate":"2023-06-30"},{"code":"QCC","shareholderType":"PERSON","shareholderName":"Trần Hoài Thanh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":20500,"ownershipPct":1.541701135594495,"effectiveDate":"2020-06-30"},{"code":"QCC","shareholderType":"COMPANY","shareholderName":"Bưu điện tỉnh Quảng Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18000,"ownershipPct":1.3536888019854103,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "QCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 490000,
+      "ownershipPct": 36.85041738738061,
+      "effectiveDate": "2020-12-22"
+    },
+    {
+      "code": "QCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ĐTPT H.tầng V.thông",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 170300,
+      "ownershipPct": 12.807400165450854,
+      "effectiveDate": "2020-05-05"
+    },
+    {
+      "code": "QCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn Quốc tế ABC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 32000,
+      "ownershipPct": 2.406557870196285,
+      "effectiveDate": "2019-03-28"
+    },
+    {
+      "code": "QCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Trúc Linh",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 22200,
+      "ownershipPct": 1.6695495224486727,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "QCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hoài Thanh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 20500,
+      "ownershipPct": 1.541701135594495,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "QCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bưu điện tỉnh Quảng Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18000,
+      "ownershipPct": 1.3536888019854103,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

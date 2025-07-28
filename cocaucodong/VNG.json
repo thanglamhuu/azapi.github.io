@@ -1,1 +1,98 @@
-{"data":[{"code":"VNG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư Thành Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29532425,"ownershipPct":30.35922572464698,"effectiveDate":"2020-06-30"},{"code":"VNG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần giao dịch hàng hóa Sơn Tín","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":21132719,"ownershipPct":21.724358439800863,"effectiveDate":"2022-01-10"},{"code":"VNG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Khu công nghiệp Thành Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17845010,"ownershipPct":18.34460551913981,"effectiveDate":"2022-12-30"},{"code":"VNG","shareholderType":"COMPANY","shareholderName":"Đường TTC Biên Hòa - Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6588880,"ownershipPct":6.773344728467506,"effectiveDate":"2018-01-05"},{"code":"VNG","shareholderType":"PERSON","shareholderName":"Vũ Quốc Vương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3706720,"ownershipPct":3.810494708039162,"effectiveDate":"2019-05-16"},{"code":"VNG","shareholderType":"PERSON","shareholderName":"Nguyễn Trí Tân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3671210,"ownershipPct":3.7739905569075765,"effectiveDate":"2018-03-01"},{"code":"VNG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần XNK Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000000,"ownershipPct":2.055992741852183,"effectiveDate":"2020-11-20"},{"code":"VNG","shareholderType":"PERSON","shareholderName":"Đặng Văn Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1877455,"ownershipPct":1.930016926577045,"effectiveDate":"2019-07-15"},{"code":"VNG","shareholderType":"PERSON","shareholderName":"Đặng Huỳnh Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1799360,"ownershipPct":1.849735549989572,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29532425,
+      "ownershipPct": 30.35922572464698,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần giao dịch hàng hóa Sơn Tín",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 21132719,
+      "ownershipPct": 21.724358439800863,
+      "effectiveDate": "2022-01-10"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Khu công nghiệp Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17845010,
+      "ownershipPct": 18.34460551913981,
+      "effectiveDate": "2022-12-30"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đường TTC Biên Hòa - Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6588880,
+      "ownershipPct": 6.773344728467506,
+      "effectiveDate": "2018-01-05"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Quốc Vương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3706720,
+      "ownershipPct": 3.810494708039162,
+      "effectiveDate": "2019-05-16"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trí Tân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3671210,
+      "ownershipPct": 3.7739905569075765,
+      "effectiveDate": "2018-03-01"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần XNK Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 2.055992741852183,
+      "effectiveDate": "2020-11-20"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Văn Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1877455,
+      "ownershipPct": 1.930016926577045,
+      "effectiveDate": "2019-07-15"
+    },
+    {
+      "code": "VNG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Huỳnh Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1799360,
+      "ownershipPct": 1.849735549989572,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

@@ -1,1 +1,59 @@
-{"data":[{"code":"HUG","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5692135,"ownershipPct":29.173398162478335,"effectiveDate":"2020-08-04"},{"code":"HUG","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Dương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":615466,"ownershipPct":3.1543935698273455,"effectiveDate":"2023-06-30"},{"code":"HUG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hiên","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":227049,"ownershipPct":1.163674200745011,"groupPct":2.0297222304367977,"effectiveDate":"2023-06-30"},{"code":"HUG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":224893,"ownershipPct":1.15262424422987,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HUG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5692135,
+      "ownershipPct": 29.173398162478335,
+      "effectiveDate": "2020-08-04"
+    },
+    {
+      "code": "HUG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Tuấn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1560521,
+      "ownershipPct": 7.998000552395322,
+      "effectiveDate": "2024-10-01"
+    },
+    {
+      "code": "HUG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 615466,
+      "ownershipPct": 3.1543935698273455,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HUG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hiên",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 227049,
+      "ownershipPct": 1.163674200745011,
+      "groupPct": 2.0297222304367977,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HUG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 224893,
+      "ownershipPct": 1.15262424422987,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

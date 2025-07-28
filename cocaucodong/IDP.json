@@ -1,1 +1,68 @@
-{"data":[{"code":"IDP","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Bluepoint","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":31998532,"ownershipPct":51.77381339007313,"effectiveDate":"2022-11-15"},{"code":"IDP","shareholderType":"COMPANY","shareholderName":"Chứng khoán Vietcap","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8841821,"ownershipPct":14.306118495761925,"effectiveDate":"2020-12-04"},{"code":"IDP","shareholderType":"COMPANY","shareholderName":"DAYTONA INVESTMENTS PTE. LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7705000,"ownershipPct":12.466735416815792,"effectiveDate":"2023-08-28"},{"code":"IDP","shareholderType":"PERSON","shareholderName":"Đặng Phạm Minh Loan","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2947000,"ownershipPct":4.768263370974191,"effectiveDate":"2020-12-04"},{"code":"IDP","shareholderType":"PERSON","shareholderName":"Đinh Quang Hoàn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1500000,"ownershipPct":2.4270088416902906,"effectiveDate":"2023-09-25"},{"code":"IDP","shareholderType":"PERSON","shareholderName":"Nguyễn Phan Minh Khôi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1163400,"ownershipPct":1.8823880576149894,"effectiveDate":"2020-12-04"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "IDP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Bluepoint",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 31998532,
+      "ownershipPct": 51.77381339007313,
+      "effectiveDate": "2022-11-15"
+    },
+    {
+      "code": "IDP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán Vietcap",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8841821,
+      "ownershipPct": 14.306118495761925,
+      "effectiveDate": "2020-12-04"
+    },
+    {
+      "code": "IDP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DAYTONA INVESTMENTS PTE. LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7705000,
+      "ownershipPct": 12.466735416815792,
+      "effectiveDate": "2023-08-28"
+    },
+    {
+      "code": "IDP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Phạm Minh Loan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2722000,
+      "ownershipPct": 4.404212044720647,
+      "effectiveDate": "2024-09-24"
+    },
+    {
+      "code": "IDP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Quang Hoàn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1500000,
+      "ownershipPct": 2.4270088416902906,
+      "effectiveDate": "2023-09-25"
+    },
+    {
+      "code": "IDP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phan Minh Khôi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1163400,
+      "ownershipPct": 1.8823880576149894,
+      "effectiveDate": "2020-12-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

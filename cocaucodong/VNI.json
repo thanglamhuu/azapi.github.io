@@ -1,1 +1,110 @@
-{"data":[{"code":"VNI","shareholderType":"PERSON","shareholderName":"Trần Minh Hoàng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1885865,"ownershipPct":18.208117655646138,"effectiveDate":"2022-12-31"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Hồ Đắc Hưng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1758935,"ownershipPct":16.982602375373602,"effectiveDate":"2022-12-31"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Trần Bình Long","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":1249515,"ownershipPct":12.064127672179442,"groupPct":19.665701676772926,"effectiveDate":"2022-12-31"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Như Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":740000,"ownershipPct":7.144735739397116,"effectiveDate":"2016-07-29"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Lê Ngọc Diệp","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":569490,"ownershipPct":5.49845345436387,"groupPct":19.665701676772926,"effectiveDate":"2020-06-30"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Hứa Huệ Tuyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":530431,"ownershipPct":5.121336922951556,"effectiveDate":"2020-06-30"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Phạm Văn Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":528000,"ownershipPct":5.097865500542807,"effectiveDate":"2023-08-18"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Thái","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":246939,"ownershipPct":2.384207971285114,"effectiveDate":"2020-06-30"},{"code":"VNI","shareholderType":"COMPANY","shareholderName":"ĐT bất động sản VN","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":202720,"ownershipPct":1.9572713906629504,"effectiveDate":"2018-09-21"},{"code":"VNI","shareholderType":"PERSON","shareholderName":"Đinh Thị Kim Huế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":172000,"ownershipPct":1.6606683069950052,"effectiveDate":"2023-08-18"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Minh Hoàng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1885865,
+      "ownershipPct": 18.208117655646138,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Đắc Hưng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1758935,
+      "ownershipPct": 16.982602375373602,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Bình Long",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 1233315,
+      "ownershipPct": 11.907715889776425,
+      "groupPct": 19.420231728883156,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Như Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 740000,
+      "ownershipPct": 7.144735739397116,
+      "effectiveDate": "2016-07-29"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Ngọc Diệp",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 569490,
+      "ownershipPct": 5.49845345436387,
+      "groupPct": 19.420231728883156,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hứa Huệ Tuyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 530431,
+      "ownershipPct": 5.121336922951556,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 528000,
+      "ownershipPct": 5.097865500542807,
+      "effectiveDate": "2023-08-18"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Thái",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 246939,
+      "ownershipPct": 2.384207971285114,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ĐT bất động sản VN",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 202720,
+      "ownershipPct": 1.9572713906629504,
+      "effectiveDate": "2018-09-21"
+    },
+    {
+      "code": "VNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Kim Huế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 172000,
+      "ownershipPct": 1.6606683069950052,
+      "effectiveDate": "2023-08-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

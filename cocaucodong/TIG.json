@@ -1,1 +1,109 @@
-{"data":[{"code":"TIG","shareholderType":"PERSON","shareholderName":"Nguyễn Phúc Long","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":34645541,"ownershipPct":17.894669369961747,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Nghĩa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24312785,"ownershipPct":12.557727097924822,"effectiveDate":"2024-02-26"},{"code":"TIG","shareholderType":"PERSON","shareholderName":"Park Jin Ku","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13323443,"ownershipPct":6.881653467455776,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn Trường Thành Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10368193,"ownershipPct":5.355245735633102,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư xây dựng và Quản lý kinh doanh Bất động sản Thăng Long ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6579665,"ownershipPct":3.398443965418504,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư khoáng sản và Vật liệu xây dựng Hà Nội ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5428222,"ownershipPct":2.8037154321461597,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5365275,"ownershipPct":2.771202857069587,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"COMPANY","shareholderName":"ASEAN Deep Value Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4739897,"ownershipPct":2.448190653529514,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"PERSON","shareholderName":"Hồ Thanh Hương","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":3072953,"ownershipPct":1.5872021719745135,"groupPct":2.1766773111041053,"effectiveDate":"2022-10-03"},{"code":"TIG","shareholderType":"COMPANY","shareholderName":"Chứng khoán VICS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2900000,"ownershipPct":1.4978707122191877,"effectiveDate":"2022-12-21"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phúc Long",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 38110093,
+      "ownershipPct": 19.684334497440307,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16468033,
+      "ownershipPct": 8.505942771823868,
+      "effectiveDate": "2025-04-11"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Park Jin Ku",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13323443,
+      "ownershipPct": 6.881723134855105,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tập đoàn Trường Thành Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10368193,
+      "ownershipPct": 5.355299950226286,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư xây dựng và Quản lý kinh doanh Bất động sản Thăng Long ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6579665,
+      "ownershipPct": 3.398478370050175,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư khoáng sản và Vật liệu xây dựng Hà Nội ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5428222,
+      "ownershipPct": 2.803743815958791,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5365275,
+      "ownershipPct": 2.7712309117365326,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ASEAN Deep Value Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4739897,
+      "ownershipPct": 2.4482154381363963,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Thanh Hương",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 3380248,
+      "ownershipPct": 1.7459399093123074,
+      "groupPct": 2.3942316311607885,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "TIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán VICS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2900000,
+      "ownershipPct": 1.497885876126749,
+      "effectiveDate": "2022-12-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

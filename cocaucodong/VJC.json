@@ -1,1 +1,88 @@
-{"data":[{"code":"VJC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Hướng Dương Sunny","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":154740160,"ownershipPct":28.57033268805265,"effectiveDate":"2020-06-30"},{"code":"VJC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Phương Thảo","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":47470914,"ownershipPct":8.764756388942185,"effectiveDate":"2020-06-30"},{"code":"VJC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Sovico","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":41106000,"ownershipPct":7.589575294966039,"effectiveDate":"2021-12-31"},{"code":"VJC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Quản lý nợ & Khai thác tài sản-Ngân hàng TMCP Phát triển T.P Hồ Chí Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":26809020,"ownershipPct":4.949863179931165,"effectiveDate":"2023-06-23"},{"code":"VJC","shareholderType":"COMPANY","shareholderName":"Government of Singapore","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":26125408,"ownershipPct":4.823644994105681,"effectiveDate":"2020-05-12"},{"code":"VJC","shareholderType":"COMPANY","shareholderName":"Ngân hàng TMCP Phát Triển Tp.HCM","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10809020,"ownershipPct":1.9957152521479544,"effectiveDate":"2023-12-05"},{"code":"VJC","shareholderType":"PERSON","shareholderName":"Nguyễn Tịnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10000000,"ownershipPct":1.8463424548645062,"effectiveDate":"2020-12-31"},{"code":"VJC","shareholderType":"COMPANY","shareholderName":"HDBank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7541100,"ownershipPct":1.3923453086378728,"effectiveDate":"2023-12-29"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Hướng Dương Sunny",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 154740160,
+      "ownershipPct": 26.155712561111955,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phương Thảo",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 47470914,
+      "ownershipPct": 8.024003475227538,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Sovico",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 41106000,
+      "ownershipPct": 6.948142748056277,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý nợ & Khai thác tài sản-Ngân hàng TMCP Phát triển T.P Hồ Chí Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 26809020,
+      "ownershipPct": 4.531525760120072,
+      "effectiveDate": "2023-06-23"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Government of Singapore",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 26125408,
+      "ownershipPct": 4.415974897465369,
+      "effectiveDate": "2020-05-12"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tịnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10000000,
+      "ownershipPct": 1.6902989218255917,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "HDBank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7541100,
+      "ownershipPct": 1.274671319937897,
+      "effectiveDate": "2023-12-29"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng TMCP Phát Triển Tp.HCM",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6000000,
+      "ownershipPct": 1.014179353095355,
+      "effectiveDate": "2024-10-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

@@ -1,1 +1,58 @@
-{"data":[{"code":"NBT","shareholderType":"COMPANY","shareholderName":"ủy ban nhân dân tỉnh Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18816000,"ownershipPct":64,"effectiveDate":"2020-06-30"},{"code":"NBT","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Cấp thoát nước Thủy Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5109510,"ownershipPct":17.379285714285714,"effectiveDate":"2020-06-30"},{"code":"NBT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Hoàn Cầu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4410000,"ownershipPct":15,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ủy ban nhân dân tỉnh Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18816000,
+      "ownershipPct": 64,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Cấp thoát nước Thủy Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5109510,
+      "ownershipPct": 17.379285714285714,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Hoàn Cầu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4410000,
+      "ownershipPct": 15,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH VP Invest",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1050925,
+      "ownershipPct": 3.5745748299319726,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Kim Yến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 780000,
+      "ownershipPct": 2.6530612244897958,
+      "effectiveDate": "2024-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

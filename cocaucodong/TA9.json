@@ -1,1 +1,68 @@
-{"data":[{"code":"TA9","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Thành An - Công ty TNHH một thành viên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6334374,"ownershipPct":51.00227564289146,"effectiveDate":"2020-06-30"},{"code":"TA9","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":596800,"ownershipPct":4.805235387692236,"effectiveDate":"2024-04-02"},{"code":"TA9","shareholderType":"PERSON","shareholderName":"Nguyễn Khắc Xuyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":167001,"ownershipPct":1.34463658676272,"effectiveDate":"2016-02-01"},{"code":"TA9","shareholderType":"PERSON","shareholderName":"Phạm Văn Lê","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":145943,"ownershipPct":1.1750845646547723,"effectiveDate":"2020-12-31"},{"code":"TA9","shareholderType":"PERSON","shareholderName":"Hoàng Đức Trúc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":125404,"ownershipPct":1.009711358173856,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TA9",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Thành An - Công ty TNHH một thành viên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6334374,
+      "ownershipPct": 51.00227564289146,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TA9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Cửu Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 737274,
+      "ownershipPct": 5.936285380739621,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "TA9",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 596800,
+      "ownershipPct": 4.805235387692236,
+      "effectiveDate": "2024-04-02"
+    },
+    {
+      "code": "TA9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khắc Xuyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 167001,
+      "ownershipPct": 1.34463658676272,
+      "effectiveDate": "2016-02-01"
+    },
+    {
+      "code": "TA9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Lê",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 145943,
+      "ownershipPct": 1.1750845646547723,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "TA9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Đức Trúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 125404,
+      "ownershipPct": 1.009711358173856,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

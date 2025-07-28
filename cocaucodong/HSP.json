@@ -1,1 +1,60 @@
-{"data":[{"code":"HSP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quản lý đầu tư HAP Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3700000,"ownershipPct":30.76389409704063,"effectiveDate":"2020-06-30"},{"code":"HSP","shareholderType":"PERSON","shareholderName":"Tôn Nữ Cẩm Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1599661,"ownershipPct":13.300486917612462,"effectiveDate":"2020-06-30"},{"code":"HSP","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Anh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":583980,"ownershipPct":4.855540236429672,"groupPct":6.327883578782092,"effectiveDate":"2020-06-30"},{"code":"HSP","shareholderType":"PERSON","shareholderName":"Nguyễn Thiện Ái","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":199818,"ownershipPct":1.6613999434276931,"effectiveDate":"2020-06-30"},{"code":"HSP","shareholderType":"PERSON","shareholderName":"Nguyễn Ái Vân Anh","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":177080,"ownershipPct":1.4723433423524201,"groupPct":6.327883578782092,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quản lý đầu tư HAP Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3700000,
+      "ownershipPct": 30.76389409704063,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tôn Nữ Cẩm Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1599661,
+      "ownershipPct": 13.300486917612462,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Anh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 583980,
+      "ownershipPct": 4.855540236429672,
+      "groupPct": 6.327883578782092,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thiện Ái",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 199818,
+      "ownershipPct": 1.6613999434276931,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ái Vân Anh",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 177080,
+      "ownershipPct": 1.4723433423524201,
+      "groupPct": 6.327883578782092,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

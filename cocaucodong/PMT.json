@@ -1,1 +1,58 @@
-{"data":[{"code":"PMT","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2490000,"ownershipPct":50.40485829959514,"effectiveDate":"2020-06-30"},{"code":"PMT","shareholderType":"PERSON","shareholderName":"Nguyễn Thúy Hà","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":850000,"ownershipPct":17.206477732793523,"effectiveDate":"2021-12-13"},{"code":"PMT","shareholderType":"PERSON","shareholderName":"Tô Chí Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":152300,"ownershipPct":3.082995951417004,"effectiveDate":"2019-08-22"},{"code":"PMT","shareholderType":"COMPANY","shareholderName":"Create Capital VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":150000,"ownershipPct":3.0364372469635628,"effectiveDate":"2019-12-16"},{"code":"PMT","shareholderType":"COMPANY","shareholderName":"V.liệu b.điện TELVINA","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":60000,"ownershipPct":1.214574898785425,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2490000,
+      "ownershipPct": 50.40485829959514,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thúy Hà",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 850000,
+      "ownershipPct": 17.206477732793523,
+      "effectiveDate": "2021-12-13"
+    },
+    {
+      "code": "PMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tô Chí Thành",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 152300,
+      "ownershipPct": 3.082995951417004,
+      "effectiveDate": "2019-08-22"
+    },
+    {
+      "code": "PMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Create Capital VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 150000,
+      "ownershipPct": 3.0364372469635628,
+      "effectiveDate": "2019-12-16"
+    },
+    {
+      "code": "PMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "V.liệu b.điện TELVINA",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 60000,
+      "ownershipPct": 1.214574898785425,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

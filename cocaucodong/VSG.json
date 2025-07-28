@@ -1,1 +1,38 @@
-{"data":[{"code":"VSG","shareholderType":"COMPANY","shareholderName":"CTCP Mua bán nợ Phương Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2750000,"ownershipPct":24.900398406374503,"effectiveDate":"2020-06-30"},{"code":"VSG","shareholderType":"PERSON","shareholderName":"Vũ Khắc Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":553470,"ownershipPct":5.01149945671858,"effectiveDate":"2024-04-05"},{"code":"VSG","shareholderType":"COMPANY","shareholderName":"CTCP quản lý quỹ Tín Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":523900,"ownershipPct":4.743752263672582,"effectiveDate":"2014-01-10"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VSG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Mua bán nợ Phương Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2750000,
+      "ownershipPct": 24.900398406374503,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Khắc Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 553470,
+      "ownershipPct": 5.01149945671858,
+      "effectiveDate": "2024-04-05"
+    },
+    {
+      "code": "VSG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP quản lý quỹ Tín Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 523900,
+      "ownershipPct": 4.743752263672582,
+      "effectiveDate": "2014-01-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

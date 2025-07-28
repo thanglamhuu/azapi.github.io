@@ -1,1 +1,58 @@
-{"data":[{"code":"SGP","shareholderType":"COMPANY","shareholderName":"Hàng hải Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":141564906,"ownershipPct":65.45492572189147,"effectiveDate":"2020-06-30"},{"code":"SGP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Phát triển Dịch vụ Thương mại Toàn Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":21270320,"ownershipPct":9.834691768035098,"effectiveDate":"2023-08-01"},{"code":"SGP","shareholderType":"COMPANY","shareholderName":"Vietinbank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19616627,"ownershipPct":9.070078873919858,"effectiveDate":"2020-06-30"},{"code":"SGP","shareholderType":"COMPANY","shareholderName":"Ng.hàng Thịnh Vượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16090000,"ownershipPct":7.439483305737042,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hàng hải Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 141564906,
+      "ownershipPct": 65.45492572189147,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phát triển Dịch vụ Thương mại Toàn Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 21270320,
+      "ownershipPct": 9.834691768035098,
+      "effectiveDate": "2023-08-01"
+    },
+    {
+      "code": "SGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietinbank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19616627,
+      "ownershipPct": 9.070078873919858,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ng.hàng Thịnh Vượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16090000,
+      "ownershipPct": 7.439483305737042,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Chứng khoán Asean",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6600000,
+      "ownershipPct": 3.0516214927199803,
+      "effectiveDate": "2025-02-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

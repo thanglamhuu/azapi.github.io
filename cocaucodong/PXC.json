@@ -1,1 +1,38 @@
-{"data":[{"code":"PXC","shareholderType":"COMPANY","shareholderName":"Xây lắp D.khí VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15000000,"ownershipPct":53.43992817673653,"effectiveDate":"2020-06-30"},{"code":"PXC","shareholderType":"COMPANY","shareholderName":"Đạm Phú Mỹ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10000000,"ownershipPct":35.62661878449102,"effectiveDate":"2020-06-30"},{"code":"PXC","shareholderType":"COMPANY","shareholderName":"PVPOWER","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1820200,"ownershipPct":6.4847571511530555,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PXC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xây lắp D.khí VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15000000,
+      "ownershipPct": 53.43992817673653,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PXC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đạm Phú Mỹ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10000000,
+      "ownershipPct": 35.62661878449102,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PXC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PVPOWER",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1820200,
+      "ownershipPct": 6.4847571511530555,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

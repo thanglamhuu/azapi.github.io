@@ -1,1 +1,91 @@
-{"data":[{"code":"CMC","shareholderType":"PERSON","shareholderName":"Ngô Trọng Vinh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1427650,"ownershipPct":31.300906589491454,"effectiveDate":"2013-02-08"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Ngô Trọng Quang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":585420,"ownershipPct":12.83520242049528,"groupPct":19.70861972572105,"effectiveDate":"2020-06-30"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Ngô Thị Thanh Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":382700,"ownershipPct":8.390611810876882,"effectiveDate":"2022-12-31"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Ngô Phương Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":280300,"ownershipPct":6.1455147389307285,"effectiveDate":"2024-01-16"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Ngô Thu Hương","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":255700,"ownershipPct":5.606165247037414,"groupPct":10.280527510112803,"effectiveDate":"2022-04-29"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Lê Thị Tuyết Nhung","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":226000,"ownershipPct":4.954999397068657,"groupPct":19.70861972572105,"effectiveDate":"2020-06-30"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Lê Thị Tuyết Nhung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":226000,"ownershipPct":4.954999397068657,"effectiveDate":"2020-06-30"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Ngô Thị Mùi","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":213200,"ownershipPct":4.6743622630753885,"groupPct":10.280527510112803,"effectiveDate":"2022-05-06"},{"code":"CMC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị La","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":82500,"ownershipPct":1.8087940276909922,"groupPct":19.70861972572105,"effectiveDate":"2008-02-25"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Trọng Vinh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1598968,
+      "ownershipPct": 31.301084284211704,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Anh Phương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1428000,
+      "ownershipPct": 27.954248213756816,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Trọng Quang",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 655670,
+      "ownershipPct": 12.835267455401913,
+      "groupPct": 19.70872378090212,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Tuyết Nhung",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 253120,
+      "ownershipPct": 4.955027526516894,
+      "groupPct": 19.70872378090212,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Tuyết Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 253120,
+      "ownershipPct": 4.955027526516894,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thị Thanh Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 211344,
+      "ownershipPct": 4.137228735636009,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị La",
+      "roleType": "Mẹ của Phó chủ tịch HĐQT",
+      "enRoleType": "Mother of Vice-chairman",
+      "numberOfShares": 92400,
+      "ownershipPct": 1.8088042961842647,
+      "groupPct": 19.70872378090212,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "CMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Phương Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 79072,
+      "ownershipPct": 1.5478979795225345,
+      "effectiveDate": "2025-06-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

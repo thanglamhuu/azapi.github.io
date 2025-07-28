@@ -1,1 +1,98 @@
-{"data":[{"code":"NT2","shareholderType":"COMPANY","shareholderName":"PVPOWER","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":170926080,"ownershipPct":59.374891544026404,"effectiveDate":"2020-06-30"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Phát triển Công nghệ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":23796115,"ownershipPct":8.266098112670576,"effectiveDate":"2020-06-30"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Samarang Unicts - Samarang Asian Properity","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14400840,"ownershipPct":5.0024449934315305,"effectiveDate":"2020-01-09"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Electric Power Development Co.,Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13910000,"ownershipPct":4.83194104362194,"effectiveDate":"2020-06-30"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11420261,"ownershipPct":3.967076049947875,"effectiveDate":"2020-06-30"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Apollo Asia Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9435790,"ownershipPct":3.2777268856935637,"effectiveDate":"2018-07-23"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4997325,"ownershipPct":1.73592953097182,"effectiveDate":"2020-06-30"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Panah Master Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4814809,"ownershipPct":1.6725286286340986,"effectiveDate":"2019-09-12"},{"code":"NT2","shareholderType":"COMPANY","shareholderName":"Amersham Industries Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4783220,"ownershipPct":1.6615555024208006,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PVPOWER",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 170926080,
+      "ownershipPct": 59.374891544026404,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phát triển Công nghệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 23796115,
+      "ownershipPct": 8.266098112670576,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Samarang Unicts - Samarang Asian Properity",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14400840,
+      "ownershipPct": 5.0024449934315305,
+      "effectiveDate": "2020-01-09"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Electric Power Development Co.,Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13910000,
+      "ownershipPct": 4.83194104362194,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11420261,
+      "ownershipPct": 3.967076049947875,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Apollo Asia Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9435790,
+      "ownershipPct": 3.2777268856935637,
+      "effectiveDate": "2018-07-23"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Norges Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4997325,
+      "ownershipPct": 1.73592953097182,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Panah Master Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4814809,
+      "ownershipPct": 1.6725286286340986,
+      "effectiveDate": "2019-09-12"
+    },
+    {
+      "code": "NT2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Amersham Industries Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4783220,
+      "ownershipPct": 1.6615555024208006,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

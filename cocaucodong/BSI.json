@@ -1,1 +1,48 @@
-{"data":[{"code":"BSI","shareholderType":"COMPANY","shareholderName":"Ngân hàng BIDV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":115923897,"ownershipPct":51.969664078120154,"effectiveDate":"2024-07-09"},{"code":"BSI","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Chứng khoán Hana","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":70988445,"ownershipPct":31.824720662022845,"effectiveDate":"2023-07-05"},{"code":"BSI","shareholderType":"PERSON","shareholderName":"Lê Ngọc Lâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15807802,"ownershipPct":7.0867714165392135,"effectiveDate":"2023-07-05"},{"code":"BSI","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7023668,"ownershipPct":3.1487698050406467,"effectiveDate":"2023-07-05"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 115923897,
+      "ownershipPct": 47.24530861236924,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "BSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Chứng khoán Hana",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 70988445,
+      "ownershipPct": 28.931661881045976,
+      "effectiveDate": "2023-07-05"
+    },
+    {
+      "code": "BSI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Ngọc Lâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15807802,
+      "ownershipPct": 6.442541212820232,
+      "effectiveDate": "2023-07-05"
+    },
+    {
+      "code": "BSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7023668,
+      "ownershipPct": 2.862527665463336,
+      "effectiveDate": "2023-07-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

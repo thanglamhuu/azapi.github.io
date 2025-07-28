@@ -1,1 +1,40 @@
-{"data":[{"code":"AAT","shareholderType":"PERSON","shareholderName":"Trịnh Xuân Lâm","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":8331465,"ownershipPct":11.764431695781292,"groupPct":11.765300105537909,"effectiveDate":"2023-07-04"},{"code":"AAT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3234496,"ownershipPct":4.567264852253212,"effectiveDate":"2024-02-01"},{"code":"AAT","shareholderType":"PERSON","shareholderName":"Trịnh Xuân Lượng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1256853,"ownershipPct":1.774737248507652,"groupPct":3.5917596979447763,"effectiveDate":"2023-07-04"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AAT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Xuân Lâm",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 8331465,
+      "ownershipPct": 11.764431695781292,
+      "groupPct": 11.765300105537909,
+      "effectiveDate": "2023-07-04"
+    },
+    {
+      "code": "AAT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3234496,
+      "ownershipPct": 4.567264852253212,
+      "effectiveDate": "2024-02-01"
+    },
+    {
+      "code": "AAT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Xuân Lượng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1256853,
+      "ownershipPct": 1.774737248507652,
+      "groupPct": 3.5753799366817733,
+      "effectiveDate": "2023-07-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

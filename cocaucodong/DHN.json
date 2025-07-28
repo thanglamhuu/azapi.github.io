@@ -1,1 +1,88 @@
-{"data":[{"code":"DHN","shareholderType":"COMPANY","shareholderName":"K.doanh Đầu tư Việt Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2516360,"ownershipPct":40,"effectiveDate":"2020-06-30"},{"code":"DHN","shareholderType":"PERSON","shareholderName":"Đỗ Thị Nga","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1221223,"ownershipPct":19.412532388052583,"effectiveDate":"2023-06-30"},{"code":"DHN","shareholderType":"PERSON","shareholderName":"Nguyễn Diệu Trinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":978824,"ownershipPct":15.559363525091799,"effectiveDate":"2021-10-08"},{"code":"DHN","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":606222,"ownershipPct":9.636490804177463,"effectiveDate":"2020-11-26"},{"code":"DHN","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Cúc","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":314545,"ownershipPct":5,"effectiveDate":"2021-12-31"},{"code":"DHN","shareholderType":"PERSON","shareholderName":"Tô Đông Tiến","roleType":"Chồng của Thành viên HĐQT","enRoleType":"Husband of Board member","numberOfShares":185316,"ownershipPct":2.945778823379803,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "K.doanh Đầu tư Việt Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2516360,
+      "ownershipPct": 40,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Loan",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1258180,
+      "ownershipPct": 20,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "DHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Nga",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1221223,
+      "ownershipPct": 19.412532388052583,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "DHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Diệu Trinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 978824,
+      "ownershipPct": 15.559363525091799,
+      "effectiveDate": "2021-10-08"
+    },
+    {
+      "code": "DHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thơm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 943635,
+      "ownershipPct": 15,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "DHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 606222,
+      "ownershipPct": 9.636490804177463,
+      "effectiveDate": "2020-11-26"
+    },
+    {
+      "code": "DHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Cúc",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 314545,
+      "ownershipPct": 5,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "DHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tô Đông Tiến",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 185316,
+      "ownershipPct": 2.945778823379803,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

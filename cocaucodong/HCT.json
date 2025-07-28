@@ -1,1 +1,68 @@
-{"data":[{"code":"HCT","shareholderType":"COMPANY","shareholderName":"Tổng công ty Công nghiệp xi măng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1086040,"ownershipPct":53.860745839708194,"effectiveDate":"2020-06-30"},{"code":"HCT","shareholderType":"PERSON","shareholderName":"Nguyễn Tuấn Anh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":497900,"ownershipPct":24.692705014171402,"effectiveDate":"2021-06-17"},{"code":"HCT","shareholderType":"COMPANY","shareholderName":"Công ty Kiểm toán AFC Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":285500,"ownershipPct":14.159002373058717,"effectiveDate":"2016-05-05"},{"code":"HCT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Huyền Nhung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":105400,"ownershipPct":5.227176357689627,"effectiveDate":"2021-06-17"},{"code":"HCT","shareholderType":"COMPANY","shareholderName":"CK Hải Phòng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25000,"ownershipPct":1.2398425895848264,"effectiveDate":"2009-10-22"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HCT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Công nghiệp xi măng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1086040,
+      "ownershipPct": 53.860745839708194,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tuấn Anh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 497900,
+      "ownershipPct": 24.692705014171402,
+      "effectiveDate": "2021-06-17"
+    },
+    {
+      "code": "HCT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Kiểm toán AFC Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 285500,
+      "ownershipPct": 14.159002373058717,
+      "effectiveDate": "2016-05-05"
+    },
+    {
+      "code": "HCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Huyền Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 105400,
+      "ownershipPct": 5.227176357689627,
+      "effectiveDate": "2021-06-17"
+    },
+    {
+      "code": "HCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đặng Bảo Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 101200,
+      "ownershipPct": 5.018882802639377,
+      "effectiveDate": "2024-10-15"
+    },
+    {
+      "code": "HCT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Hải Phòng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25000,
+      "ownershipPct": 1.2398425895848264,
+      "effectiveDate": "2009-10-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

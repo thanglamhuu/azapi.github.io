@@ -1,1 +1,78 @@
-{"data":[{"code":"CIA","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dịch vụ Hàng Không ASG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9623152,"ownershipPct":51.56758314545285,"effectiveDate":"2021-09-30"},{"code":"CIA","shareholderType":"COMPANY","shareholderName":"DV S.bay Cam Ranh","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":1048661,"ownershipPct":5.619459539753059,"effectiveDate":"2022-06-23"},{"code":"CIA","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Dịch vụ Thương mại Hàng Không Tân Sơn Nhất","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":726000,"ownershipPct":3.8904160885745926,"effectiveDate":"2020-06-30"},{"code":"CIA","shareholderType":"COMPANY","shareholderName":"Công ty CP Dịch vụ Sân bay Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":566662,"ownershipPct":3.0365715724295534,"effectiveDate":"2022-06-30"},{"code":"CIA","shareholderType":"PERSON","shareholderName":"Trương Minh Hoàng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":548626,"ownershipPct":2.939922061997692,"effectiveDate":"2020-12-31"},{"code":"CIA","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Quản lý Quỹ đầu tư FPT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":496685,"ownershipPct":2.66158583326952,"effectiveDate":"2020-06-30"},{"code":"CIA","shareholderType":"PERSON","shareholderName":"Đống Lương Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":196912,"ownershipPct":1.0551923041782372,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CIA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Dịch vụ Hàng Không ASG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9623152,
+      "ownershipPct": 51.56758314545285,
+      "effectiveDate": "2021-09-30"
+    },
+    {
+      "code": "CIA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Dịch vụ Thương mại Hàng Không Tân Sơn Nhất",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1082756,
+      "ownershipPct": 5.802164411020209,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "CIA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DV S.bay Cam Ranh",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 1048661,
+      "ownershipPct": 5.619459539753059,
+      "effectiveDate": "2022-06-23"
+    },
+    {
+      "code": "CIA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Dịch vụ Sân bay Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 566662,
+      "ownershipPct": 3.0365715724295534,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "CIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Minh Hoàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 548626,
+      "ownershipPct": 2.939922061997692,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "CIA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Quản lý Quỹ đầu tư FPT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 496685,
+      "ownershipPct": 2.66158583326952,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đống Lương Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 196912,
+      "ownershipPct": 1.0551923041782372,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

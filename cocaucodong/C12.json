@@ -1,1 +1,78 @@
-{"data":[{"code":"C12","shareholderType":"COMPANY","shareholderName":"Tổng công ty Xây dựng công trình giao thông 1 (CIENCO 1)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":950600,"ownershipPct":19.6,"effectiveDate":"2017-04-17"},{"code":"C12","shareholderType":"COMPANY","shareholderName":"CTCP Thương mại nước giải khát Khánh An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":900000,"ownershipPct":18.556701030927837,"effectiveDate":"2020-06-30"},{"code":"C12","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư và Vận tải Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":873000,"ownershipPct":18,"effectiveDate":"2017-04-17"},{"code":"C12","shareholderType":"PERSON","shareholderName":"Trần Thị Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":266600,"ownershipPct":5.496907216494845,"effectiveDate":"2020-06-30"},{"code":"C12","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thế Kỷ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":194000,"ownershipPct":4,"effectiveDate":"2017-04-17"},{"code":"C12","shareholderType":"PERSON","shareholderName":"Trần Đức Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":193900,"ownershipPct":3.997938144329897,"effectiveDate":"2018-09-05"},{"code":"C12","shareholderType":"PERSON","shareholderName":"Quách Bá Vương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":94900,"ownershipPct":1.956701030927835,"effectiveDate":"2018-02-09"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "C12",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Xây dựng công trình giao thông 1 (CIENCO 1)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 950600,
+      "ownershipPct": 19.6,
+      "effectiveDate": "2017-04-17"
+    },
+    {
+      "code": "C12",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thương mại nước giải khát Khánh An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 900000,
+      "ownershipPct": 18.556701030927837,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "C12",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư và Vận tải Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 873000,
+      "ownershipPct": 18,
+      "effectiveDate": "2017-04-17"
+    },
+    {
+      "code": "C12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 266600,
+      "ownershipPct": 5.496907216494845,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "C12",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thế Kỷ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 194000,
+      "ownershipPct": 4,
+      "effectiveDate": "2017-04-17"
+    },
+    {
+      "code": "C12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đức Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 193900,
+      "ownershipPct": 3.997938144329897,
+      "effectiveDate": "2018-09-05"
+    },
+    {
+      "code": "C12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Quách Bá Vương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 94900,
+      "ownershipPct": 1.956701030927835,
+      "effectiveDate": "2018-02-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

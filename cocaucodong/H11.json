@@ -1,1 +1,78 @@
-{"data":[{"code":"H11","shareholderType":"COMPANY","shareholderName":"ĐT Xây dựng HUD1","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":540600,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"H11","shareholderType":"PERSON","shareholderName":"Hồ Văn Nhân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":55100,"ownershipPct":5.19811320754717,"effectiveDate":"2024-06-28"},{"code":"H11","shareholderType":"PERSON","shareholderName":"Hà Minh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":48300,"ownershipPct":4.556603773584905,"effectiveDate":"2024-01-22"},{"code":"H11","shareholderType":"PERSON","shareholderName":"Trần Thế Tài","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":20200,"ownershipPct":1.9056603773584906,"effectiveDate":"2021-06-30"},{"code":"H11","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Khương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":20000,"ownershipPct":1.8867924528301887,"effectiveDate":"2020-06-30"},{"code":"H11","shareholderType":"PERSON","shareholderName":"Vũ Thị Hồng Liễu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":16100,"ownershipPct":1.5188679245283019,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "H11",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ĐT Xây dựng HUD1",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 540600,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "H11",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Bá",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 99000,
+      "ownershipPct": 9.339622641509434,
+      "effectiveDate": "2025-07-03"
+    },
+    {
+      "code": "H11",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Văn Nhân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 55100,
+      "ownershipPct": 5.19811320754717,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "H11",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Minh Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 48300,
+      "ownershipPct": 4.556603773584905,
+      "effectiveDate": "2024-01-22"
+    },
+    {
+      "code": "H11",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thế Tài",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 20200,
+      "ownershipPct": 1.9056603773584906,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "H11",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Khương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 20000,
+      "ownershipPct": 1.8867924528301887,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "H11",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Hồng Liễu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 16100,
+      "ownershipPct": 1.5188679245283019,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

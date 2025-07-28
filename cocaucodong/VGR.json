@@ -1,1 +1,38 @@
-{"data":[{"code":"VGR","shareholderType":"COMPANY","shareholderName":"Container Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":47025000,"ownershipPct":74.34782608695652,"effectiveDate":"2020-06-30"},{"code":"VGR","shareholderType":"COMPANY","shareholderName":"Evergreen Marine Corp. (Taiwan) Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13750000,"ownershipPct":21.73913043478261,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VGR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Container Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 52910000,
+      "ownershipPct": 64.34782608695652,
+      "effectiveDate": "2025-07-25"
+    },
+    {
+      "code": "VGR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Evergreen Marine Corp. (Taiwan) Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17875000,
+      "ownershipPct": 21.73913043478261,
+      "effectiveDate": "2025-07-25"
+    },
+    {
+      "code": "VGR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quản lý Quỹ Leadvisors",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6565000,
+      "ownershipPct": 7.984189723320158,
+      "effectiveDate": "2025-07-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

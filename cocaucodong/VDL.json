@@ -1,1 +1,48 @@
-{"data":[{"code":"VDL","shareholderType":"COMPANY","shareholderName":"CTCP MEGRAM","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7475282,"ownershipPct":51.0009244634871,"effectiveDate":"2020-06-30"},{"code":"VDL","shareholderType":"COMPANY","shareholderName":"TCT Chăn nuôi VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5613217,"ownershipPct":38.296783481099666,"effectiveDate":"2022-07-25"},{"code":"VDL","shareholderType":"PERSON","shareholderName":"Đỗ Thành Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":324822,"ownershipPct":2.2161334229369283,"effectiveDate":"2017-02-03"},{"code":"VDL","shareholderType":"PERSON","shareholderName":"Trần Việt Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":233983,"ownershipPct":1.5963744657044514,"effectiveDate":"2020-10-09"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VDL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP MEGRAM",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7475282,
+      "ownershipPct": 51.0009244634871,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VDL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Chăn nuôi VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5613217,
+      "ownershipPct": 38.296783481099666,
+      "effectiveDate": "2022-07-25"
+    },
+    {
+      "code": "VDL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thành Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 324822,
+      "ownershipPct": 2.2161334229369283,
+      "effectiveDate": "2017-02-03"
+    },
+    {
+      "code": "VDL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Việt Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 233983,
+      "ownershipPct": 1.5963744657044514,
+      "effectiveDate": "2020-10-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

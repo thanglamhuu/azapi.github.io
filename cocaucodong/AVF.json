@@ -1,1 +1,68 @@
-{"data":[{"code":"AVF","shareholderType":"PERSON","shareholderName":"Lê Văn Lợi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5660950,"ownershipPct":13.062324057409201,"effectiveDate":"2015-06-03"},{"code":"AVF","shareholderType":"COMPANY","shareholderName":"CTCP Thủy sản BA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4339910,"ownershipPct":10.014098481701971,"effectiveDate":"2015-06-03"},{"code":"AVF","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Đĩnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2337500,"ownershipPct":5.393649914624579,"effectiveDate":"2022-06-17"},{"code":"AVF","shareholderType":"PERSON","shareholderName":"Ngô Văn Thu","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":1079900,"ownershipPct":2.4918085744612117,"effectiveDate":"2020-06-30"},{"code":"AVF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Phương Song","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":783930,"ownershipPct":1.8088744289076562,"effectiveDate":"2015-06-01"},{"code":"AVF","shareholderType":"PERSON","shareholderName":"Lê Thị Lài","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":658436,"ownershipPct":1.5193040749457751,"effectiveDate":"2012-10-24"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AVF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Lợi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5660950,
+      "ownershipPct": 13.062324057409201,
+      "effectiveDate": "2015-06-03"
+    },
+    {
+      "code": "AVF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thủy sản BA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4339910,
+      "ownershipPct": 10.014098481701971,
+      "effectiveDate": "2015-06-03"
+    },
+    {
+      "code": "AVF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Đĩnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2337500,
+      "ownershipPct": 5.393649914624579,
+      "effectiveDate": "2022-06-17"
+    },
+    {
+      "code": "AVF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Văn Thu",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 1079900,
+      "ownershipPct": 2.4918085744612117,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "AVF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phương Song",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 783930,
+      "ownershipPct": 1.8088744289076562,
+      "effectiveDate": "2015-06-01"
+    },
+    {
+      "code": "AVF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Lài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 658436,
+      "ownershipPct": 1.5193040749457751,
+      "effectiveDate": "2012-10-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

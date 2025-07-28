@@ -1,1 +1,113 @@
-{"data":[{"code":"CAP","shareholderType":"PERSON","shareholderName":"Hoàng Thị Bình","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1782949,"ownershipPct":11.67618262386325,"groupPct":16.636351163869726,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Trương Ngọc Biên","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":928662,"ownershipPct":6.081624941510999,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Lê Xuân Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800496,"ownershipPct":5.242290994118192,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Trương Thị Hoàng Yến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":764640,"ownershipPct":5.007477096378413,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Trương Thị Hoàng Anh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":757416,"ownershipPct":4.960168540006476,"groupPct":16.636351163869726,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Hứa Minh Hồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":726711,"ownershipPct":4.759087529015292,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Trinh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":725802,"ownershipPct":4.7531346666478935,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Trần Công Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":678364,"ownershipPct":4.442472526950782,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Trần Thị Bính","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":404422,"ownershipPct":2.6484802028033463,"groupPct":3.062921231319129,"effectiveDate":"2024-03-18"},{"code":"CAP","shareholderType":"PERSON","shareholderName":"Lưu Quang Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":324537,"ownershipPct":2.125329036445074,"effectiveDate":"2024-03-18"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Bình",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1788116,
+      "ownershipPct": 11.710020291467597,
+      "groupPct": 22.217680263183315,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Bình",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1788116,
+      "ownershipPct": 11.710020291467597,
+      "groupPct": 16.670188831474075,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1437302,
+      "ownershipPct": 9.412608345860649,
+      "effectiveDate": "2024-12-06"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Ngọc Biên",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1014955,
+      "ownershipPct": 6.646740840597866,
+      "effectiveDate": "2024-11-20"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Hoàng Yến",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 764640,
+      "ownershipPct": 5.007477096378413,
+      "groupPct": 22.217680263183315,
+      "effectiveDate": "2024-03-18"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Hoàng Anh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 757416,
+      "ownershipPct": 4.960168540006476,
+      "groupPct": 16.670188831474075,
+      "effectiveDate": "2024-03-18"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Hoàng Anh",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 757416,
+      "ownershipPct": 4.960168540006476,
+      "groupPct": 22.217680263183315,
+      "effectiveDate": "2024-03-18"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Trinh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 730969,
+      "ownershipPct": 4.78697233425224,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hứa Minh Hồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 726711,
+      "ownershipPct": 4.759087529015292,
+      "effectiveDate": "2024-03-18"
+    },
+    {
+      "code": "CAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Công Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 678364,
+      "ownershipPct": 4.442472526950782,
+      "effectiveDate": "2024-03-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

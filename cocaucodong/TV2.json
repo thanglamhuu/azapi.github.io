@@ -1,1 +1,78 @@
-{"data":[{"code":"TV2","shareholderType":"COMPANY","shareholderName":"Tập đoàn Điện lực Việt Nam (EVN)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":34659061,"ownershipPct":51.42189776126938,"effectiveDate":"2022-11-15"},{"code":"TV2","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3330280,"ownershipPct":4.940968183656222,"effectiveDate":"2022-11-15"},{"code":"TV2","shareholderType":"COMPANY","shareholderName":"Công ty CP Đầu tư Toàn Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3195304,"ownershipPct":4.740711111711165,"effectiveDate":"2022-11-15"},{"code":"TV2","shareholderType":"COMPANY","shareholderName":"Tư vấn XD điện 2","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":872801,"ownershipPct":1.294930748064227,"effectiveDate":"2024-06-19"},{"code":"TV2","shareholderType":"PERSON","shareholderName":"Tạ Công Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":781343,"ownershipPct":1.1592391341035897,"effectiveDate":"2020-06-26"},{"code":"TV2","shareholderType":"COMPANY","shareholderName":"Công đoàn CTCP Tư vấn Xây dựng Điện 2","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":690496,"ownershipPct":1.0244540299740221,"effectiveDate":"2022-11-15"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Điện lực Việt Nam (EVN)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 34659061,
+      "ownershipPct": 51.3268612248304,
+      "effectiveDate": "2022-11-15"
+    },
+    {
+      "code": "TV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3330280,
+      "ownershipPct": 4.931836422222408,
+      "effectiveDate": "2022-11-15"
+    },
+    {
+      "code": "TV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Đầu tư Toàn Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3195304,
+      "ownershipPct": 4.731949459887142,
+      "effectiveDate": "2022-11-15"
+    },
+    {
+      "code": "TV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tư vấn XD điện 2",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 872801,
+      "ownershipPct": 1.292537492688945,
+      "effectiveDate": "2024-06-19"
+    },
+    {
+      "code": "TV2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Công Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 781343,
+      "ownershipPct": 1.1570966602353325,
+      "effectiveDate": "2020-06-26"
+    },
+    {
+      "code": "TV2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Lam Phương",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 723848,
+      "ownershipPct": 1.0719518870944322,
+      "effectiveDate": "2025-05-09"
+    },
+    {
+      "code": "TV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn CTCP Tư vấn Xây dựng Điện 2",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 690496,
+      "ownershipPct": 1.0225606622262644,
+      "effectiveDate": "2022-11-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

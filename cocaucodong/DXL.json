@@ -1,1 +1,108 @@
-{"data":[{"code":"DXL","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tú Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1145000,"ownershipPct":28.92948280653882,"effectiveDate":"2024-01-05"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Nguyễn Kim Thảo","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":784301,"ownershipPct":19.81608934030673,"effectiveDate":"2022-08-05"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Nguyễn Tiêu Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":750000,"ownershipPct":18.949442886379142,"effectiveDate":"2018-09-19"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":703193,"ownershipPct":17.766820788802143,"effectiveDate":"2021-06-16"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Đậu Trường Sinh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":558042,"ownershipPct":14.099446676267718,"effectiveDate":"2023-02-01"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Trần Việt Di","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":211815,"ownershipPct":5.351701659971197,"effectiveDate":"2020-06-30"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Trang","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":200000,"ownershipPct":5.0531847697011045,"effectiveDate":"2019-01-17"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Vũ Mộng Nương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":162897,"ownershipPct":4.115743197150004,"effectiveDate":"2021-06-16"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Xoan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":146482,"ownershipPct":3.7010030571767856,"effectiveDate":"2022-11-16"},{"code":"DXL","shareholderType":"PERSON","shareholderName":"Nguyễn Mai Thương","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":106913,"ownershipPct":2.701255716415271,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tú Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1145000,
+      "ownershipPct": 28.92948280653882,
+      "effectiveDate": "2024-01-05"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Kim Thảo",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 784301,
+      "ownershipPct": 19.81608934030673,
+      "effectiveDate": "2022-08-05"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiêu Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 750000,
+      "ownershipPct": 18.949442886379142,
+      "effectiveDate": "2018-09-19"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 703193,
+      "ownershipPct": 17.766820788802143,
+      "effectiveDate": "2021-06-16"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đậu Trường Sinh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 590751,
+      "ownershipPct": 14.925869779428485,
+      "effectiveDate": "2025-05-28"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Việt Di",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 211815,
+      "ownershipPct": 5.351701659971197,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Trang",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 200000,
+      "ownershipPct": 5.0531847697011045,
+      "effectiveDate": "2019-01-17"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Mộng Nương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 162897,
+      "ownershipPct": 4.115743197150004,
+      "effectiveDate": "2021-06-16"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Xoan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 146482,
+      "ownershipPct": 3.7010030571767856,
+      "effectiveDate": "2022-11-16"
+    },
+    {
+      "code": "DXL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mai Thương",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 106913,
+      "ownershipPct": 2.701255716415271,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

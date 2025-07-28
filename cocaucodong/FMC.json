@@ -1,1 +1,78 @@
-{"data":[{"code":"FMC","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn PAN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24684678,"ownershipPct":37.750569519540235,"effectiveDate":"2021-10-12"},{"code":"FMC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chăn nuôi C.P Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16281833,"ownershipPct":24.899999447918436,"effectiveDate":"2021-12-28"},{"code":"FMC","shareholderType":"COMPANY","shareholderName":"Thủy sản Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8089000,"ownershipPct":12.370603207526587,"effectiveDate":"2018-09-25"},{"code":"FMC","shareholderType":"COMPANY","shareholderName":"Văn phòng tỉnh ủy tỉnh Sóc Trăng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1380000,"ownershipPct":2.1104502937800333,"effectiveDate":"2020-06-30"},{"code":"FMC","shareholderType":"COMPANY","shareholderName":"Citigroup Global Market LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1093082,"ownershipPct":1.6716632087142511,"effectiveDate":"2010-04-19"},{"code":"FMC","shareholderType":"COMPANY","shareholderName":"Citigroup Global Market Financial Products Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":864062,"ownershipPct":1.3214202186551909,"effectiveDate":"2010-04-19"},{"code":"FMC","shareholderType":"PERSON","shareholderName":"Hồ Quốc Lực","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":710000,"ownershipPct":1.0858113830317564,"effectiveDate":"2021-10-07"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "FMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tập đoàn PAN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24684678,
+      "ownershipPct": 37.750569519540235,
+      "effectiveDate": "2021-10-12"
+    },
+    {
+      "code": "FMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chăn nuôi C.P Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16281833,
+      "ownershipPct": 24.899999447918436,
+      "effectiveDate": "2021-12-28"
+    },
+    {
+      "code": "FMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thủy sản Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8089000,
+      "ownershipPct": 12.370603207526587,
+      "effectiveDate": "2018-09-25"
+    },
+    {
+      "code": "FMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Văn phòng tỉnh ủy tỉnh Sóc Trăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1380000,
+      "ownershipPct": 2.1104502937800333,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "FMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Citigroup Global Market LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1093082,
+      "ownershipPct": 1.6716632087142511,
+      "effectiveDate": "2010-04-19"
+    },
+    {
+      "code": "FMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Citigroup Global Market Financial Products Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 864062,
+      "ownershipPct": 1.3214202186551909,
+      "effectiveDate": "2010-04-19"
+    },
+    {
+      "code": "FMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Quốc Lực",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 710000,
+      "ownershipPct": 1.0858113830317564,
+      "effectiveDate": "2021-10-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

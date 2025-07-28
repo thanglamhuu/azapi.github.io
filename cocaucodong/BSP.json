@@ -1,1 +1,108 @@
-{"data":[{"code":"BSP","shareholderType":"COMPANY","shareholderName":"SABECO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3378750,"ownershipPct":27.03,"effectiveDate":"2020-06-30"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Võ Sỹ Dởng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1053676,"ownershipPct":8.429408,"effectiveDate":"2020-06-30"},{"code":"BSP","shareholderType":"COMPANY","shareholderName":"Bia SG Đồng Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":853050,"ownershipPct":6.8244,"effectiveDate":"2020-06-30"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Vũ Hoài Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":675000,"ownershipPct":5.4,"effectiveDate":"2023-03-01"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Hương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":655266,"ownershipPct":5.242128,"effectiveDate":"2020-06-30"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Lê Hoài Thanh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":254230,"ownershipPct":2.03384,"effectiveDate":"2020-06-30"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Hoàng Công Thái","roleType":"Chồng của Thành viên HĐQT","enRoleType":"Husband of Board member","numberOfShares":234300,"ownershipPct":1.8744,"effectiveDate":"2020-06-30"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Vũ Thị Ngọc Trâm","roleType":"Mẹ chồng/vợ của Thành viên HĐQT","enRoleType":"Mother in law of Board member","numberOfShares":227200,"ownershipPct":1.8176,"effectiveDate":"2020-12-31"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":225000,"ownershipPct":1.8,"effectiveDate":"2023-02-24"},{"code":"BSP","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hương Giang","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":185932,"ownershipPct":1.487456,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "BSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SABECO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3378750,
+      "ownershipPct": 27.03,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Sỹ Dởng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1053676,
+      "ownershipPct": 8.429408,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bia SG Đồng Xuân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 853050,
+      "ownershipPct": 6.8244,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hoài Thanh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 684230,
+      "ownershipPct": 5.47384,
+      "effectiveDate": "2024-08-27"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hoài Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 675000,
+      "ownershipPct": 5.4,
+      "effectiveDate": "2023-03-01"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Hương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 655266,
+      "ownershipPct": 5.242128,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Công Thái",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 234300,
+      "ownershipPct": 1.8744,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 225000,
+      "ownershipPct": 1.8,
+      "effectiveDate": "2023-02-24"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hương Giang",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 185932,
+      "ownershipPct": 1.487456,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Văn Thiềng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 153370,
+      "ownershipPct": 1.22696,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

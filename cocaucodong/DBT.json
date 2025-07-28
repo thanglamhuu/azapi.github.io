@@ -1,1 +1,108 @@
-{"data":[{"code":"DBT","shareholderType":"PERSON","shareholderName":"Phạm Thứ Triệu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3659210,"ownershipPct":19.661914011600885,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"PERSON","shareholderName":"Nguyễn Khắc Hoan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1776661,"ownershipPct":9.5464747335531,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"PERSON","shareholderName":"Nguyễn Khắc Hanh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1412317,"ownershipPct":7.588756975172818,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"PERSON","shareholderName":"Lê Cộng Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1408753,"ownershipPct":7.569606649955805,"effectiveDate":"2023-01-30"},{"code":"DBT","shareholderType":"PERSON","shareholderName":"Bùi Hồng Hạnh","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":1377419,"ownershipPct":7.4012406874558385,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"PERSON","shareholderName":"Đậu Thị Thúy Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":805432,"ownershipPct":4.327801554486276,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"COMPANY","shareholderName":"CTCP Thương mại và Rang xay cà phê Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":684000,"ownershipPct":3.675314940638828,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"PERSON","shareholderName":"Võ Thị Ngọc Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":579890,"ownershipPct":3.1159040656828214,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dược phẩm Tín Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":271623,"ownershipPct":1.4595030264928952,"effectiveDate":"2024-07-05"},{"code":"DBT","shareholderType":"PERSON","shareholderName":"Lê Văn Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":209000,"ownershipPct":1.1230128985285308,"effectiveDate":"2023-01-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thứ Triệu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4049210,
+      "ownershipPct": 19.722755977039206,
+      "effectiveDate": "2024-12-19"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khắc Hanh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1612317,
+      "ownershipPct": 7.853219454815118,
+      "effectiveDate": "2024-12-20"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Cộng Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1408753,
+      "ownershipPct": 6.861706765250978,
+      "effectiveDate": "2023-01-30"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hồng Hạnh",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 1377419,
+      "ownershipPct": 6.709086171163602,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khắc Hoan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1036800,
+      "ownershipPct": 5.0500105939169,
+      "effectiveDate": "2024-07-31"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Ngọc Tú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 931121,
+      "ownershipPct": 4.5352728725101255,
+      "effectiveDate": "2024-10-14"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đậu Thị Thúy Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 805432,
+      "ownershipPct": 3.923071115624688,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thương mại và Rang xay cà phê Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 684000,
+      "ownershipPct": 3.3316042112646214,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Ngọc Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 579890,
+      "ownershipPct": 2.8245087223249143,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "DBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Xuân An",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 305193,
+      "ownershipPct": 1.4865238070884264,
+      "effectiveDate": "2024-12-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

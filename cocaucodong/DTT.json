@@ -1,1 +1,108 @@
-{"data":[{"code":"DTT","shareholderType":"PERSON","shareholderName":"Lê Quang Hiệp","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1985817,"ownershipPct":24.36041276671958,"effectiveDate":"2023-08-18"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Phạm Đỗ Huy Cương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1269870,"ownershipPct":15.577748281978748,"effectiveDate":"2016-04-06"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Ngô Trân Trân","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":1000000,"ownershipPct":12.26719922667576,"effectiveDate":"2020-06-30"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Ngô Ngọc Trân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":12.26719922667576,"effectiveDate":"2016-04-05"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Lê Công Nghiệp","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1000000,"ownershipPct":12.26719922667576,"effectiveDate":"2021-06-30"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Phạm Thị Hằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":802530,"ownershipPct":9.844795395384098,"effectiveDate":"2023-01-04"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Phạm Đỗ Huy Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":525810,"ownershipPct":6.450216025378381,"effectiveDate":"2010-02-09"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Lục Như Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":398470,"ownershipPct":4.88811087585349,"effectiveDate":"2022-03-01"},{"code":"DTT","shareholderType":"COMPANY","shareholderName":"Vietnam Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":233307,"ownershipPct":2.8620234499780417,"effectiveDate":"2009-03-26"},{"code":"DTT","shareholderType":"PERSON","shareholderName":"Tôn Chương Dương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":188450,"ownershipPct":2.311753694267047,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quang Hiệp",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1985817,
+      "ownershipPct": 24.36041276671958,
+      "effectiveDate": "2023-08-18"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đỗ Huy Cương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1269870,
+      "ownershipPct": 15.577748281978748,
+      "effectiveDate": "2016-04-06"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lục Như Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1164700,
+      "ownershipPct": 14.287606939309258,
+      "effectiveDate": "2024-08-21"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Công Nghiệp",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1000000,
+      "ownershipPct": 12.26719922667576,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Trân Trân",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 1000000,
+      "ownershipPct": 12.26719922667576,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Ngọc Trân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 12.26719922667576,
+      "effectiveDate": "2016-04-05"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đỗ Huy Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 525810,
+      "ownershipPct": 6.450216025378381,
+      "effectiveDate": "2010-02-09"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 233307,
+      "ownershipPct": 2.8620234499780417,
+      "effectiveDate": "2009-03-26"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tôn Chương Dương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 188450,
+      "ownershipPct": 2.311753694267047,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "DTT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chu Thị Thanh Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 152980,
+      "ownershipPct": 1.8766361376968579,
+      "effectiveDate": "2012-09-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

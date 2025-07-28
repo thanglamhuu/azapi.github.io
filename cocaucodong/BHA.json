@@ -1,1 +1,48 @@
-{"data":[{"code":"BHA","shareholderType":"COMPANY","shareholderName":"LICOGI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":28657607,"ownershipPct":43.42061666666667,"effectiveDate":"2020-06-30"},{"code":"BHA","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Bắc Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15966600,"ownershipPct":24.19181818181818,"effectiveDate":"2019-05-27"},{"code":"BHA","shareholderType":"COMPANY","shareholderName":"CK Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6095362,"ownershipPct":9.23539696969697,"effectiveDate":"2019-06-26"},{"code":"BHA","shareholderType":"PERSON","shareholderName":"Hồ Thị Kim Ánh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1321500,"ownershipPct":2.0022727272727274,"effectiveDate":"2018-05-04"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BHA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LICOGI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 28657607,
+      "ownershipPct": 43.42061666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BHA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Bắc Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15966600,
+      "ownershipPct": 24.19181818181818,
+      "effectiveDate": "2019-05-27"
+    },
+    {
+      "code": "BHA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6095362,
+      "ownershipPct": 9.23539696969697,
+      "effectiveDate": "2019-06-26"
+    },
+    {
+      "code": "BHA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Thị Kim Ánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1321500,
+      "ownershipPct": 2.0022727272727274,
+      "effectiveDate": "2018-05-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

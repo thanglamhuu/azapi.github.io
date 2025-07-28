@@ -1,1 +1,109 @@
-{"data":[{"code":"DHC","shareholderType":"COMPANY","shareholderName":"KWE Beteiligungen AG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11885488,"ownershipPct":14.765856549499778,"effectiveDate":"2023-06-30"},{"code":"DHC","shareholderType":"PERSON","shareholderName":"Lê Bá Phương","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":7515008,"ownershipPct":9.336219942870096,"effectiveDate":"2024-04-03"},{"code":"DHC","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Nghĩa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":6301808,"ownershipPct":7.8290090344199665,"effectiveDate":"2024-06-05"},{"code":"DHC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thủy","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":5689448,"ownershipPct":7.06824768270671,"groupPct":8.006568467875635,"effectiveDate":"2024-07-05"},{"code":"DHC","shareholderType":"PERSON","shareholderName":"Lê Quang Hiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3702005,"ownershipPct":4.599161159855694,"effectiveDate":"2022-12-14"},{"code":"DHC","shareholderType":"COMPANY","shareholderName":"Kingsmead Vietnam and Indochina Growth Master Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3546867,"ownershipPct":4.406426502820467,"effectiveDate":"2022-12-14"},{"code":"DHC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán Âu Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3301693,"ownershipPct":4.101836223172962,"effectiveDate":"2022-12-14"},{"code":"DHC","shareholderType":"PERSON","shareholderName":"Lương Văn Thành","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3061417,"ownershipPct":3.803330941077048,"effectiveDate":"2024-06-20"},{"code":"DHC","shareholderType":"COMPANY","shareholderName":"KIM Vietnam Growth Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2898890,"ownershipPct":3.6014166092952524,"effectiveDate":"2023-09-15"},{"code":"DHC","shareholderType":"PERSON","shareholderName":"Trần Minh Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2718085,"ownershipPct":3.376794726421591,"effectiveDate":"2020-01-10"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KWE Beteiligungen AG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14570025,
+      "ownershipPct": 15.084214809368877,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Bá Phương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 9398009,
+      "ownershipPct": 9.729673527422362,
+      "effectiveDate": "2025-07-03"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thủy",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 7187337,
+      "ownershipPct": 7.4409848449350555,
+      "groupPct": 8.720752487550472,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quang Hiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3702005,
+      "ownershipPct": 3.8326522188779792,
+      "effectiveDate": "2022-12-14"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Văn Thành",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3673700,
+      "ownershipPct": 3.803348308954751,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Kingsmead Vietnam and Indochina Growth Master Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3546867,
+      "ownershipPct": 3.672039253759809,
+      "effectiveDate": "2022-12-14"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KIM Vietnam Growth Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3478668,
+      "ownershipPct": 3.60143344726434,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán Âu Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3301693,
+      "ownershipPct": 3.4182128339923614,
+      "effectiveDate": "2022-12-14"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Minh Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3261702,
+      "ownershipPct": 3.376810514199398,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "DHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thành Công",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2285100,
+      "ownershipPct": 2.365743316218663,
+      "effectiveDate": "2025-07-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

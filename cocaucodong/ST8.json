@@ -1,1 +1,38 @@
-{"data":[{"code":"ST8","shareholderType":"PERSON","shareholderName":"Chu Văn Kiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1191600,"ownershipPct":4.553148378301978,"effectiveDate":"2024-02-15"},{"code":"ST8","shareholderType":"PERSON","shareholderName":"Lìu Đăng Khoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1161100,"ownershipPct":4.436606732163836,"effectiveDate":"2024-02-07"},{"code":"ST8","shareholderType":"PERSON","shareholderName":"Thân Minh Thuận","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":790700,"ownershipPct":3.02129441316161,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ST8",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Tám",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1260000,
+      "ownershipPct": 4.898739554312676,
+      "effectiveDate": "2025-03-13"
+    },
+    {
+      "code": "ST8",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chu Văn Kiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1191600,
+      "ownershipPct": 4.63280797850713,
+      "effectiveDate": "2024-02-15"
+    },
+    {
+      "code": "ST8",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lìu Đăng Khoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1161100,
+      "ownershipPct": 4.514227378184482,
+      "effectiveDate": "2024-02-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,1 +1,98 @@
-{"data":[{"code":"NRC","shareholderType":"PERSON","shareholderName":"Hà Thị Kim Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15232499,"ownershipPct":16.45018051300203,"effectiveDate":"2023-10-02"},{"code":"NRC","shareholderType":"COMPANY","shareholderName":"CTCP ĐẦU TƯ BẤT ĐỘNG SẢN DANH KHÔI SÀI GÒN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6835500,"ownershipPct":7.381927869919793,"effectiveDate":"2022-07-01"},{"code":"NRC","shareholderType":"COMPANY","shareholderName":"Sanei Architecture Planning Co.,Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4545908,"ownershipPct":4.909306555378736,"effectiveDate":"2022-07-01"},{"code":"NRC","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư PiXi ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4543982,"ownershipPct":4.907226591502287,"effectiveDate":"2023-10-17"},{"code":"NRC","shareholderType":"PERSON","shareholderName":"Đào Thị Bạch Phượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3727899,"ownershipPct":4.0259061552697135,"effectiveDate":"2023-10-06"},{"code":"NRC","shareholderType":"PERSON","shareholderName":"Lê Thống Nhất","roleType":"Người ĐD theo pháp luật","enRoleType":"Legal representative","numberOfShares":2706957,"ownershipPct":2.9233503505192706,"effectiveDate":"2023-06-30"},{"code":"NRC","shareholderType":"COMPANY","shareholderName":"G-7 Holdings INC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1630803,"ownershipPct":1.761168914643963,"effectiveDate":"2022-07-01"},{"code":"NRC","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Thủy","roleType":"Vợ của Người ĐD theo pháp luật","enRoleType":"Wife of Legal representative","numberOfShares":1622196,"ownershipPct":1.7518738735823876,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thị Kim Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15232499,
+      "ownershipPct": 16.45018051300203,
+      "effectiveDate": "2023-10-02"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP ĐẦU TƯ BẤT ĐỘNG SẢN DANH KHÔI SÀI GÒN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6835500,
+      "ownershipPct": 7.381927869919793,
+      "effectiveDate": "2022-07-01"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sanei Architecture Planning Co.,Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4545908,
+      "ownershipPct": 4.909306555378736,
+      "effectiveDate": "2022-07-01"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư PiXi ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4543982,
+      "ownershipPct": 4.907226591502287,
+      "effectiveDate": "2023-10-17"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tiến Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3940300,
+      "ownershipPct": 4.25528642906078,
+      "effectiveDate": "2025-04-10"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Bạch Phượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3727899,
+      "ownershipPct": 4.0259061552697135,
+      "effectiveDate": "2023-10-06"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thống Nhất",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 2706957,
+      "ownershipPct": 2.9233503505192706,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "G-7 Holdings INC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1630803,
+      "ownershipPct": 1.761168914643963,
+      "effectiveDate": "2022-07-01"
+    },
+    {
+      "code": "NRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Thủy",
+      "roleType": "Vợ của Người ĐD theo pháp luật",
+      "enRoleType": "Wife of Legal representative",
+      "numberOfShares": 1622196,
+      "ownershipPct": 1.7518738735823876,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

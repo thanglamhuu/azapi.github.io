@@ -1,1 +1,28 @@
-{"data":[{"code":"BHP","shareholderType":"PERSON","shareholderName":"Phạm Anh Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":458965,"ownershipPct":5.000005447044379,"effectiveDate":"2020-06-30"},{"code":"BHP","shareholderType":"PERSON","shareholderName":"Vương Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":298350,"ownershipPct":3.2502513810981024,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Anh Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 458965,
+      "ownershipPct": 5.000005447044379,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vương Toàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 298350,
+      "ownershipPct": 3.2502513810981024,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

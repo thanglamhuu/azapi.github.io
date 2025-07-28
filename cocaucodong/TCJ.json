@@ -1,1 +1,38 @@
-{"data":[{"code":"TCJ","shareholderType":"PERSON","shareholderName":"Lê Phát Tài","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":9200000,"ownershipPct":92,"effectiveDate":"2023-06-30"},{"code":"TCJ","shareholderType":"COMPANY","shareholderName":"L.thực miền Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6540000,"ownershipPct":65.4,"effectiveDate":"2020-06-30"},{"code":"TCJ","shareholderType":"COMPANY","shareholderName":"CTCP BAOMI HOLDINGS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1040100,"ownershipPct":10.401,"effectiveDate":"2024-01-26"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TCJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Phát Tài",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 9200000,
+      "ownershipPct": 92,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "TCJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "L.thực miền Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6540000,
+      "ownershipPct": 65.4,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP BAOMI HOLDINGS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1040100,
+      "ownershipPct": 10.401,
+      "effectiveDate": "2024-01-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

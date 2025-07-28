@@ -1,1 +1,58 @@
-{"data":[{"code":"SDA","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng Ngọc","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":4004766,"ownershipPct":15.28187257951331,"effectiveDate":"2020-06-30"},{"code":"SDA","shareholderType":"PERSON","shareholderName":"Đỗ Tuấn Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1271500,"ownershipPct":4.851944154752406,"effectiveDate":"2020-06-15"},{"code":"SDA","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Công nghệ Smartech Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":3.8159214744415304,"effectiveDate":"2022-06-09"},{"code":"SDA","shareholderType":"PERSON","shareholderName":"Nguyễn Sĩ Hiển","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":646722,"ownershipPct":2.4678403677937752,"effectiveDate":"2017-06-07"},{"code":"SDA","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":486300,"ownershipPct":1.8556826130209163,"effectiveDate":"2017-06-06"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng Ngọc",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 4004766,
+      "ownershipPct": 15.28187257951331,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Tuấn Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1271500,
+      "ownershipPct": 4.851944154752406,
+      "effectiveDate": "2020-06-15"
+    },
+    {
+      "code": "SDA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Công nghệ Smartech Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 3.8159214744415304,
+      "effectiveDate": "2022-06-09"
+    },
+    {
+      "code": "SDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Sĩ Hiển",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 646722,
+      "ownershipPct": 2.4678403677937752,
+      "effectiveDate": "2017-06-07"
+    },
+    {
+      "code": "SDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 486300,
+      "ownershipPct": 1.8556826130209163,
+      "effectiveDate": "2017-06-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

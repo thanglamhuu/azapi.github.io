@@ -1,1 +1,88 @@
-{"data":[{"code":"MTH","shareholderType":"COMPANY","shareholderName":"Ủy Ban nhân dân Thành phố Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1220992,"ownershipPct":25.501565401187573,"effectiveDate":"2020-06-30"},{"code":"MTH","shareholderType":"PERSON","shareholderName":"Trần Văn Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":792755,"ownershipPct":16.557433201543052,"effectiveDate":"2021-12-31"},{"code":"MTH","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":776999,"ownershipPct":16.228354334145795,"effectiveDate":"2020-06-30"},{"code":"MTH","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":651124,"ownershipPct":13.599336662552137,"effectiveDate":"2020-12-31"},{"code":"MTH","shareholderType":"PERSON","shareholderName":"Nguyễn Hoài Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":502739,"ownershipPct":10.500176486191261,"effectiveDate":"2020-06-30"},{"code":"MTH","shareholderType":"PERSON","shareholderName":"Lưu Thị Hồng Tưởng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":147644,"ownershipPct":3.083683694973381,"effectiveDate":"2020-12-31"},{"code":"MTH","shareholderType":"PERSON","shareholderName":"Đinh Văn Tiến","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":66818,"ownershipPct":1.395556725168184,"effectiveDate":"2017-12-18"},{"code":"MTH","shareholderType":"PERSON","shareholderName":"Phạm Trung Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":57186,"ownershipPct":1.1943833530705465,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MTH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy Ban nhân dân Thành phố Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1220992,
+      "ownershipPct": 25.501565401187573,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 792755,
+      "ownershipPct": 16.557433201543052,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "MTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Thành",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 776999,
+      "ownershipPct": 16.228354334145795,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MTH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 652124,
+      "ownershipPct": 13.620222602346326,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "MTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoài Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 502739,
+      "ownershipPct": 10.500176486191261,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Thị Hồng Tưởng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 147644,
+      "ownershipPct": 3.083683694973381,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "MTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Tiến",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 66818,
+      "ownershipPct": 1.395556725168184,
+      "effectiveDate": "2017-12-18"
+    },
+    {
+      "code": "MTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Trung Thành",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 57186,
+      "ownershipPct": 1.1943833530705465,
+      "effectiveDate": "2021-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

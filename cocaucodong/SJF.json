@@ -1,1 +1,108 @@
-{"data":[{"code":"SJF","shareholderType":"PERSON","shareholderName":"Đỗ Cần","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7145880,"ownershipPct":9.022575757575758,"effectiveDate":"2022-09-14"},{"code":"SJF","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư Tonkin","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3931356,"ownershipPct":4.9638333333333335,"effectiveDate":"2019-10-25"},{"code":"SJF","shareholderType":"PERSON","shareholderName":"Nguyễn Trí Thiện","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3871100,"ownershipPct":4.887752525252525,"effectiveDate":"2019-02-12"},{"code":"SJF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng Ngọc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3856600,"ownershipPct":4.8694444444444445,"effectiveDate":"2019-01-23"},{"code":"SJF","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư HAFA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3227750,"ownershipPct":4.07544191919192,"effectiveDate":"2020-07-02"},{"code":"SJF","shareholderType":"PERSON","shareholderName":"Bùi Thị Hạnh Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2975000,"ownershipPct":3.7563131313131315,"effectiveDate":"2018-04-09"},{"code":"SJF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Ban","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2875000,"ownershipPct":3.630050505050505,"effectiveDate":"2017-08-29"},{"code":"SJF","shareholderType":"PERSON","shareholderName":"Nguyễn Tấn Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2668000,"ownershipPct":3.3686868686868685,"effectiveDate":"2019-07-09"},{"code":"SJF","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Nam","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1510000,"ownershipPct":1.9065656565656566,"effectiveDate":"2022-01-18"},{"code":"SJF","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Nghĩa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1200000,"ownershipPct":1.5151515151515151,"effectiveDate":"2022-06-21"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Cần",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7145880,
+      "ownershipPct": 9.022575757575758,
+      "effectiveDate": "2022-09-14"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư Tonkin",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3931356,
+      "ownershipPct": 4.9638333333333335,
+      "effectiveDate": "2019-10-25"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trí Thiện",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3871100,
+      "ownershipPct": 4.887752525252525,
+      "effectiveDate": "2019-02-12"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng Ngọc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3856600,
+      "ownershipPct": 4.8694444444444445,
+      "effectiveDate": "2019-01-23"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư HAFA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3227750,
+      "ownershipPct": 4.07544191919192,
+      "effectiveDate": "2020-07-02"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Hạnh Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2975000,
+      "ownershipPct": 3.7563131313131315,
+      "effectiveDate": "2018-04-09"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Ban",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2875000,
+      "ownershipPct": 3.630050505050505,
+      "effectiveDate": "2017-08-29"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tấn Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2668000,
+      "ownershipPct": 3.3686868686868685,
+      "effectiveDate": "2019-07-09"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Nam",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1510000,
+      "ownershipPct": 1.9065656565656566,
+      "effectiveDate": "2022-01-18"
+    },
+    {
+      "code": "SJF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1200000,
+      "ownershipPct": 1.5151515151515151,
+      "effectiveDate": "2022-06-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

@@ -1,1 +1,28 @@
-{"data":[{"code":"SKV","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Nhà nước MTV Yến sào Khánh Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11730000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"SKV","shareholderType":"COMPANY","shareholderName":"CK Vietinbank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":980000,"ownershipPct":4.260869565217392,"effectiveDate":"2019-06-27"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SKV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Nhà nước MTV Yến sào Khánh Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11730000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SKV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Vietinbank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 980000,
+      "ownershipPct": 4.260869565217392,
+      "effectiveDate": "2019-06-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

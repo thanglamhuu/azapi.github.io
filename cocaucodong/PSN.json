@@ -1,1 +1,28 @@
-{"data":[{"code":"PSN","shareholderType":"COMPANY","shareholderName":"DV KT D.khí VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":21877300,"ownershipPct":54.69325,"effectiveDate":"2020-06-30"},{"code":"PSN","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Quản lý Quỹ Đầu tư Tài chính Dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17500000,"ownershipPct":43.75,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DV KT D.khí VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 21877300,
+      "ownershipPct": 54.69325,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Quản lý Quỹ Đầu tư Tài chính Dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17500000,
+      "ownershipPct": 43.75,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

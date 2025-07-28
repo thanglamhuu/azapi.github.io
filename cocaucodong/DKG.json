@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "DKG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần tập đoàn DLH Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5100000,
+      "ownershipPct": 35.47826086956522,
+      "effectiveDate": "2025-01-16"
+    },
+    {
+      "code": "DKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Đức Minh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4794200,
+      "ownershipPct": 33.35095652173913,
+      "effectiveDate": "2025-01-16"
+    },
+    {
+      "code": "DKG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu Tư TND Global",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2875000,
+      "ownershipPct": 20,
+      "effectiveDate": "2025-01-16"
+    },
+    {
+      "code": "DKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Mạnh Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 703800,
+      "ownershipPct": 4.896,
+      "effectiveDate": "2025-01-16"
+    },
+    {
+      "code": "DKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 200000,
+      "ownershipPct": 1.391304347826087,
+      "effectiveDate": "2025-01-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

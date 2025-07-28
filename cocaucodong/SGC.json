@@ -1,1 +1,48 @@
-{"data":[{"code":"SGC","shareholderType":"COMPANY","shareholderName":"CTCP Vĩnh Hoàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5483327,"ownershipPct":76.71585347768055,"effectiveDate":"2021-04-16"},{"code":"SGC","shareholderType":"PERSON","shareholderName":"Trần Thị Thanh Thúy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":585100,"ownershipPct":8.185987425114515,"effectiveDate":"2021-05-28"},{"code":"SGC","shareholderType":"PERSON","shareholderName":"Phạm Thanh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":238058,"ownershipPct":3.3306098007997114,"effectiveDate":"2018-07-12"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SGC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Vĩnh Hoàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5483327,
+      "ownershipPct": 76.71585347768055,
+      "effectiveDate": "2021-04-16"
+    },
+    {
+      "code": "SGC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thanh Thúy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 569100,
+      "ownershipPct": 7.962135436049684,
+      "effectiveDate": "2024-08-12"
+    },
+    {
+      "code": "SGC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thanh Thúy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 286800,
+      "ownershipPct": 4.012546903987084,
+      "effectiveDate": "2024-12-27"
+    },
+    {
+      "code": "SGC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thanh Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 238058,
+      "ownershipPct": 3.3306098007997114,
+      "effectiveDate": "2018-07-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

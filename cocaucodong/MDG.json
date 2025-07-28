@@ -1,1 +1,108 @@
-{"data":[{"code":"MDG","shareholderType":"COMPANY","shareholderName":"CTCP CIC30","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3485150,"ownershipPct":33.755195388647955,"effectiveDate":"2022-06-30"},{"code":"MDG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Xây dựng Phước Tiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1502600,"ownershipPct":14.553335320138993,"effectiveDate":"2021-10-05"},{"code":"MDG","shareholderType":"PERSON","shareholderName":"Dương Văn Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1344580,"ownershipPct":13.022842808966118,"effectiveDate":"2016-09-08"},{"code":"MDG","shareholderType":"COMPANY","shareholderName":"Hợp tác xã Phúc Tài","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1244640,"ownershipPct":12.054880389230531,"effectiveDate":"2017-11-30"},{"code":"MDG","shareholderType":"COMPANY","shareholderName":"Công ty Tài chính TNHH MTV Cao su","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1033197,"ownershipPct":10.00696285955121,"effectiveDate":"2012-06-12"},{"code":"MDG","shareholderType":"PERSON","shareholderName":"Võ Văn Lãnh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":965260,"ownershipPct":9.348963430798193,"effectiveDate":"2021-12-31"},{"code":"MDG","shareholderType":"COMPANY","shareholderName":"Công đoàn cơ sở Công ty cổ phần CIC39","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800000,"ownershipPct":7.748348366904828,"effectiveDate":"2021-10-09"},{"code":"MDG","shareholderType":"COMPANY","shareholderName":"CTCP Miền Đông","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":564250,"ownershipPct":5.4650069575325615,"effectiveDate":"2013-06-07"},{"code":"MDG","shareholderType":"PERSON","shareholderName":"Nguyễn Lương Quân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":540007,"ownershipPct":5.230202945708969,"effectiveDate":"2016-09-29"},{"code":"MDG","shareholderType":"PERSON","shareholderName":"Lê Thị Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":519150,"ownershipPct":5.028193818348302,"effectiveDate":"2016-04-26"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "MDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP CIC30",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3485150,
+      "ownershipPct": 33.755195388647955,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hợp tác xã Phúc Tài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2213680,
+      "ownershipPct": 21.440454766062352,
+      "effectiveDate": "2025-01-21"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Xây dựng Phước Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1502600,
+      "ownershipPct": 14.553335320138993,
+      "effectiveDate": "2021-10-05"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Văn Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1344580,
+      "ownershipPct": 13.022842808966118,
+      "effectiveDate": "2016-09-08"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Tài chính TNHH MTV Cao su",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1033197,
+      "ownershipPct": 10.00696285955121,
+      "effectiveDate": "2012-06-12"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Miền Đông",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 564250,
+      "ownershipPct": 5.4650069575325615,
+      "effectiveDate": "2013-06-07"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 519150,
+      "ownershipPct": 5.028193818348302,
+      "effectiveDate": "2016-04-26"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Văn Lãnh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 515260,
+      "ownershipPct": 4.9905174744142276,
+      "effectiveDate": "2025-02-21"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Ngọc Đệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 500000,
+      "ownershipPct": 4.842717729315518,
+      "effectiveDate": "2019-03-12"
+    },
+    {
+      "code": "MDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Đức Lợi",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 450400,
+      "ownershipPct": 4.362320130567419,
+      "effectiveDate": "2025-02-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

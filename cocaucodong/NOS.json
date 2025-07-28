@@ -1,1 +1,38 @@
-{"data":[{"code":"NOS","shareholderType":"COMPANY","shareholderName":"Hàng hải Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9827440,"ownershipPct":50.33019678650935,"effectiveDate":"2015-10-01"},{"code":"NOS","shareholderType":"COMPANY","shareholderName":"V.tải biển P.Đông","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":530068,"ownershipPct":2.7146873194068277,"effectiveDate":"2014-12-31"},{"code":"NOS","shareholderType":"COMPANY","shareholderName":"Công đoàn CTCP Vận tải Biển Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":399120,"ownershipPct":2.04405095746518,"effectiveDate":"2016-12-16"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NOS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hàng hải Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9827440,
+      "ownershipPct": 50.33019678650935,
+      "effectiveDate": "2015-10-01"
+    },
+    {
+      "code": "NOS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "V.tải biển P.Đông",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 530068,
+      "ownershipPct": 2.7146873194068277,
+      "effectiveDate": "2014-12-31"
+    },
+    {
+      "code": "NOS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn CTCP Vận tải Biển Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 399120,
+      "ownershipPct": 2.04405095746518,
+      "effectiveDate": "2016-12-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,1 +1,110 @@
-{"data":[{"code":"DIH","shareholderType":"PERSON","shareholderName":"Trần Đình Huy","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":1313685,"ownershipPct":19.05502973239395,"groupPct":23.77702358110425,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Đỗ Thành Quảng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":606813,"ownershipPct":8.80183587161547,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Vũ Văn Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":575000,"ownershipPct":8.340387608997988,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Dương Phú Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":396221,"ownershipPct":5.747194293608333,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hoành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":394458,"ownershipPct":5.721621939948049,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":356385,"ownershipPct":5.169372240056952,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Văn Đức Tiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":328129,"ownershipPct":4.759518340439827,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Phạm Xuân Vỹ","roleType":"Anh/em rể của Chủ tịch HĐQT","enRoleType":"Brother in law of Chairman","numberOfShares":230000,"ownershipPct":3.336155043599195,"groupPct":23.77702358110425,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán Âu Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":165085,"ownershipPct":2.394561545098144,"effectiveDate":"2024-07-09"},{"code":"DIH","shareholderType":"PERSON","shareholderName":"Trương Văn Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":129030,"ownershipPct":1.8715829794591483,"effectiveDate":"2024-07-09"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Huy",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1313685,
+      "ownershipPct": 19.05502973239395,
+      "groupPct": 23.77702358110425,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thành Quảng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 606813,
+      "ownershipPct": 8.80183587161547,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Văn Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 575000,
+      "ownershipPct": 8.340387608997988,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 439390,
+      "ownershipPct": 6.373361585248045,
+      "effectiveDate": "2024-09-23"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Phú Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 396221,
+      "ownershipPct": 5.747194293608333,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hoành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 394458,
+      "ownershipPct": 5.721621939948049,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Đức Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 328129,
+      "ownershipPct": 4.759518340439827,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Xuân Vỹ",
+      "roleType": "Anh/em rể của Thành viên HĐQT",
+      "enRoleType": "Brother in law of Board member",
+      "numberOfShares": 230000,
+      "ownershipPct": 3.336155043599195,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Xuân Vỹ",
+      "roleType": "Anh/em rể của Chủ tịch HĐQT",
+      "enRoleType": "Brother in law of Chairman",
+      "numberOfShares": 230000,
+      "ownershipPct": 3.336155043599195,
+      "groupPct": 23.77702358110425,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán Âu Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 165085,
+      "ownershipPct": 2.394561545098144,
+      "effectiveDate": "2024-07-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

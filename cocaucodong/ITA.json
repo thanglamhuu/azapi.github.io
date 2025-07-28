@@ -1,1 +1,108 @@
-{"data":[{"code":"ITA","shareholderType":"COMPANY","shareholderName":"Công ty CP Tập Đoàn Tân Tạo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":169557595,"ownershipPct":18.070307612824525,"effectiveDate":"2019-07-09"},{"code":"ITA","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đại học Tân Tạo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":166463585,"ownershipPct":17.74056884496128,"effectiveDate":"2023-10-20"},{"code":"ITA","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Xây dựng và Phát triển Tân Đông Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":111093397,"ownershipPct":11.839586764271086,"effectiveDate":"2024-06-18"},{"code":"ITA","shareholderType":"COMPANY","shareholderName":"VOF Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":56268126,"ownershipPct":5.996678270986149,"effectiveDate":"2020-06-30"},{"code":"ITA","shareholderType":"PERSON","shareholderName":"Maya Dangelas","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":54349633,"ownershipPct":5.792218195558383,"effectiveDate":"2021-06-30"},{"code":"ITA","shareholderType":"PERSON","shareholderName":"Đặng Thị Hoàng Yến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54349633,"ownershipPct":5.792218195558383,"effectiveDate":"2020-06-30"},{"code":"ITA","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":50321871,"ownershipPct":5.362966422252414,"effectiveDate":"2014-03-13"},{"code":"ITA","shareholderType":"COMPANY","shareholderName":"Trường Đại học Tân Tạo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":46658000,"ownershipPct":4.972495703298733,"effectiveDate":"2017-11-03"},{"code":"ITA","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":41393851,"ownershipPct":4.411478122518925,"effectiveDate":"2016-01-19"},{"code":"ITA","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Sản Xuất và Xây Dựng Kiên Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":37999799,"ownershipPct":4.049762897117654,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":16,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "ITA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Tập Đoàn Tân Tạo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 169557595,
+      "ownershipPct": 18.06757275777877,
+      "effectiveDate": "2019-07-09"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đại học Tân Tạo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 166463585,
+      "ownershipPct": 17.737883894308542,
+      "effectiveDate": "2023-10-20"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Xây dựng và Phát triển Tân Đông Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 111093397,
+      "ownershipPct": 11.837794899168637,
+      "effectiveDate": "2024-09-24"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VOF Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 56268126,
+      "ownershipPct": 5.995770702272955,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Maya Dangelas",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 54349633,
+      "ownershipPct": 5.791341570904411,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Hoàng Yến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 54349633,
+      "ownershipPct": 5.791341570904411,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 50321871,
+      "ownershipPct": 5.36215476281117,
+      "effectiveDate": "2014-03-13"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Trường Đại học Tân Tạo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 46658000,
+      "ownershipPct": 4.971743139742232,
+      "effectiveDate": "2017-11-03"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 41393851,
+      "ownershipPct": 4.41081046630293,
+      "effectiveDate": "2016-01-19"
+    },
+    {
+      "code": "ITA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Sản Xuất và Xây Dựng Kiên Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 37999799,
+      "ownershipPct": 4.049149984779325,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 16,
+  "totalPages": 2
+}

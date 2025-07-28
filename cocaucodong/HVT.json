@@ -1,1 +1,48 @@
-{"data":[{"code":"HVT","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7526619,"ownershipPct":68.49816696470232,"effectiveDate":"2023-06-30"},{"code":"HVT","shareholderType":"PERSON","shareholderName":"Lê Xuân Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":544900,"ownershipPct":4.959019604827386,"effectiveDate":"2024-05-29"},{"code":"HVT","shareholderType":"PERSON","shareholderName":"Phạm Ngọc Phú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":258328,"ownershipPct":2.3509884684820133,"effectiveDate":"2022-12-31"},{"code":"HVT","shareholderType":"PERSON","shareholderName":"Văn Đình Hoan","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":115560,"ownershipPct":1.0516871087059143,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18816547,
+      "ownershipPct": 68.49841824072665,
+      "effectiveDate": "2025-01-15"
+    },
+    {
+      "code": "HVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1362250,
+      "ownershipPct": 4.959037928076277,
+      "effectiveDate": "2025-01-15"
+    },
+    {
+      "code": "HVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Ngọc Phú",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 645820,
+      "ownershipPct": 2.350997155228644,
+      "effectiveDate": "2025-01-15"
+    },
+    {
+      "code": "HVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Đình Hoan",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 288900,
+      "ownershipPct": 1.0516909946201036,
+      "effectiveDate": "2025-01-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

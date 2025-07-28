@@ -1,1 +1,60 @@
-{"data":[{"code":"AVC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Phát điện 2","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":65630261,"ownershipPct":87.44632458550234,"effectiveDate":"2020-06-30"},{"code":"AVC","shareholderType":"PERSON","shareholderName":"Đặng Thanh Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5546134,"ownershipPct":7.389716672903227,"effectiveDate":"2020-06-30"},{"code":"AVC","shareholderType":"COMPANY","shareholderName":"Th.điện Đa Nhim","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2579069,"ownershipPct":3.4363737316602614,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Phát điện 2",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 65630261,
+      "ownershipPct": 87.44632458550234,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "AVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thanh Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3546134,
+      "ownershipPct": 4.7248994604438,
+      "effectiveDate": "2025-04-22"
+    },
+    {
+      "code": "AVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Th.điện Đa Nhim",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2579069,
+      "ownershipPct": 3.4363737316602614,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "AVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Ngọc Hoàng",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1000000,
+      "ownershipPct": 1.3324086062297138,
+      "groupPct": 2.6648172124594276,
+      "effectiveDate": "2025-04-22"
+    },
+    {
+      "code": "AVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Lan Ngọc",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1000000,
+      "ownershipPct": 1.3324086062297138,
+      "groupPct": 2.6648172124594276,
+      "effectiveDate": "2025-04-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

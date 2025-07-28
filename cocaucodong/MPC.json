@@ -1,1 +1,114 @@
-{"data":[{"code":"MPC","shareholderType":"COMPANY","shareholderName":"MPM Investments PTE.Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":140400000,"ownershipPct":35.10989221213077,"effectiveDate":"2022-12-31"},{"code":"MPC","shareholderType":"PERSON","shareholderName":"Chu Thị Bình","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":70221660,"ownershipPct":17.560362632171614,"groupPct":23.988362721196697,"effectiveDate":"2022-10-20"},{"code":"MPC","shareholderType":"PERSON","shareholderName":"Lê Văn Quang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":64281600,"ownershipPct":16.074929111277104,"effectiveDate":"2022-10-20"},{"code":"MPC","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Long Phụng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16354620,"ownershipPct":4.089807303207679,"effectiveDate":"2022-10-20"},{"code":"MPC","shareholderType":"PERSON","shareholderName":"Lê Thị Dịu Minh","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":13074540,"ownershipPct":3.269556197458634,"groupPct":23.988362721196697,"effectiveDate":"2022-10-20"},{"code":"MPC","shareholderType":"COMPANY","shareholderName":"Earls Court Enterprises Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11713160,"ownershipPct":2.929115278229641,"effectiveDate":"2022-10-20"},{"code":"MPC","shareholderType":"PERSON","shareholderName":"Lê Thị Minh Phú","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":11028136,"ownershipPct":2.757811013252984,"groupPct":8.672734542957478,"effectiveDate":"2024-01-30"},{"code":"MPC","shareholderType":"PERSON","shareholderName":"Lê Thị Minh Phú","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":11028136,"ownershipPct":2.757811013252984,"groupPct":23.988362721196697,"effectiveDate":"2024-01-30"},{"code":"MPC","shareholderType":"PERSON","shareholderName":"Lê Thị Minh Phú","roleType":"Em gái của Phó TGĐ","enRoleType":"Young Sister of Deputy CEO","numberOfShares":11028136,"ownershipPct":2.757811013252984,"groupPct":3.040503661906742,"effectiveDate":"2024-01-30"},{"code":"MPC","shareholderType":"PERSON","shareholderName":"Lê Thị Minh Ngọc","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":11028134,"ownershipPct":2.7578105131120694,"groupPct":8.672734542957478,"effectiveDate":"2024-01-19"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "MPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "MPM Investments PTE.Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 140400000,
+      "ownershipPct": 35.01785686226534,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chu Thị Bình",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 70362860,
+      "ownershipPct": 17.549548147433157,
+      "groupPct": 26.692423746995484,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Quang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 64468800,
+      "ownershipPct": 16.079481556139687,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Long Phụng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16354620,
+      "ownershipPct": 4.0790864828827775,
+      "effectiveDate": "2022-10-20"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Dịu Minh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 13126840,
+      "ownershipPct": 3.274029944258256,
+      "groupPct": 26.692423746995484,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Earls Court Enterprises Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11713160,
+      "ownershipPct": 2.9214370390656117,
+      "effectiveDate": "2022-10-20"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh Phú",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 11041636,
+      "ownershipPct": 2.753948924310798,
+      "groupPct": 26.692423746995484,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh Phú",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 11041636,
+      "ownershipPct": 2.753948924310798,
+      "groupPct": 5.787604227383615,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh Phú",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 11041636,
+      "ownershipPct": 2.753948924310798,
+      "groupPct": 11.421033610408385,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "MPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh Quí",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 11033534,
+      "ownershipPct": 2.7519281645081053,
+      "groupPct": 11.421033610408385,
+      "effectiveDate": "2024-09-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 17,
+  "totalPages": 2
+}

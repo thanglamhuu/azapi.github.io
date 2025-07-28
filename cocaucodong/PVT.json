@@ -1,1 +1,108 @@
-{"data":[{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Tập đoàn Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":165066492,"ownershipPct":46.3653461650426,"effectiveDate":"2020-11-26"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19349393,"ownershipPct":5.435029809250761,"effectiveDate":"2010-09-24"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Yurie VietNam Securities Investment Trust","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19329942,"ownershipPct":5.429566239162555,"effectiveDate":"2020-11-26"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16060707,"ownershipPct":4.511274400320587,"effectiveDate":"2020-11-26"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Ngân hàng TMCP Đại chúng Việt Nam (PVcomBank)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16029155,"ownershipPct":4.502411793594811,"effectiveDate":"2022-02-14"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12728695,"ownershipPct":3.5753491986989516,"effectiveDate":"2016-04-01"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"KIM Vietnam Growth Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11157064,"ownershipPct":3.1338954882831995,"effectiveDate":"2020-11-26"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Societe Generale","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8535596,"ownershipPct":2.397554212668147,"effectiveDate":"2020-11-26"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Ngân hàng Á Châu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8428106,"ownershipPct":2.3673614642859953,"effectiveDate":"2020-11-26"},{"code":"PVT","shareholderType":"COMPANY","shareholderName":"Tundra Vietnam Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5239975,"ownershipPct":1.4718508391828495,"effectiveDate":"2020-11-26"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 165066492,
+      "ownershipPct": 35.125669397140626,
+      "effectiveDate": "2020-11-26"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25541198,
+      "ownershipPct": 5.435092647118892,
+      "effectiveDate": "2025-06-19"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng TMCP Đại chúng Việt Nam (PVcomBank)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 21158484,
+      "ownershipPct": 4.50246385516383,
+      "effectiveDate": "2025-06-19"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Yurie VietNam Securities Investment Trust",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19329942,
+      "ownershipPct": 4.113355435928833,
+      "effectiveDate": "2020-11-26"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16801877,
+      "ownershipPct": 3.5753905568758375,
+      "effectiveDate": "2025-06-19"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16060707,
+      "ownershipPct": 3.4176717365892904,
+      "effectiveDate": "2020-11-26"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KIM Vietnam Growth Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11157064,
+      "ownershipPct": 2.37419076857064,
+      "effectiveDate": "2020-11-26"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Societe Generale",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8535596,
+      "ownershipPct": 1.8163500027828539,
+      "effectiveDate": "2020-11-26"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Á Châu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8428106,
+      "ownershipPct": 1.7934764434204933,
+      "effectiveDate": "2020-11-26"
+    },
+    {
+      "code": "PVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tundra Vietnam Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5239975,
+      "ownershipPct": 1.1150514393877224,
+      "effectiveDate": "2020-11-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

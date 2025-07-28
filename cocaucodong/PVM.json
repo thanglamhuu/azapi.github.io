@@ -1,1 +1,38 @@
-{"data":[{"code":"PVM","shareholderType":"PERSON","shareholderName":"Lê Thị Kiều Vân","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":7000000,"ownershipPct":18.116598427479257,"effectiveDate":"2021-03-17"},{"code":"PVM","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6535100,"ownershipPct":16.91339748334567,"effectiveDate":"2021-03-17"},{"code":"PVM","shareholderType":"PERSON","shareholderName":"Nguyễn Nhật Định","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1804760,"ownershipPct":4.670873168282495,"effectiveDate":"2018-04-24"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PVM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Kiều Vân",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 7000000,
+      "ownershipPct": 18.116598427479257,
+      "effectiveDate": "2021-03-17"
+    },
+    {
+      "code": "PVM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6535100,
+      "ownershipPct": 16.91339748334567,
+      "effectiveDate": "2021-03-17"
+    },
+    {
+      "code": "PVM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Nhật Định",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1804760,
+      "ownershipPct": 4.670873168282495,
+      "effectiveDate": "2018-04-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

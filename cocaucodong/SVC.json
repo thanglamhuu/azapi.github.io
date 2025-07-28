@@ -1,1 +1,88 @@
-{"data":[{"code":"SVC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH SVC Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":36034482,"ownershipPct":54.08953374767097,"effectiveDate":"2022-12-28"},{"code":"SVC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Bến Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":27180180,"ownershipPct":40.79878998615192,"effectiveDate":"2022-12-28"},{"code":"SVC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Dịch vụ phát triển hạ tầng PBC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2592670,"ownershipPct":3.8917254717737886,"effectiveDate":"2012-03-14"},{"code":"SVC","shareholderType":"COMPANY","shareholderName":"JOM SILKKITIE INVESTMENT FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2112080,"ownershipPct":3.170336191811524,"effectiveDate":"2022-12-28"},{"code":"SVC","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1236670,"ownershipPct":1.8563026297903287,"effectiveDate":"2012-10-18"},{"code":"SVC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quản lý quỹ SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1222790,"ownershipPct":1.8354680655965747,"effectiveDate":"2014-03-27"},{"code":"SVC","shareholderType":"COMPANY","shareholderName":"VOF Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1015760,"ownershipPct":1.5247058303636574,"effectiveDate":"2009-09-29"},{"code":"SVC","shareholderType":"COMPANY","shareholderName":"Bridger Horizon VietNam Parners, L.P","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000003,"ownershipPct":1.5010537966460074,"effectiveDate":"2009-06-22"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH SVC Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 36034482,
+      "ownershipPct": 54.08953374767097,
+      "effectiveDate": "2022-12-28"
+    },
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Bến Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 27180180,
+      "ownershipPct": 40.79878998615192,
+      "effectiveDate": "2022-12-28"
+    },
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Dịch vụ phát triển hạ tầng PBC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2592670,
+      "ownershipPct": 3.8917254717737886,
+      "effectiveDate": "2012-03-14"
+    },
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "JOM SILKKITIE INVESTMENT FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2112080,
+      "ownershipPct": 3.170336191811524,
+      "effectiveDate": "2022-12-28"
+    },
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1236670,
+      "ownershipPct": 1.8563026297903287,
+      "effectiveDate": "2012-10-18"
+    },
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quản lý quỹ SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1222790,
+      "ownershipPct": 1.8354680655965747,
+      "effectiveDate": "2014-03-27"
+    },
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VOF Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1015760,
+      "ownershipPct": 1.5247058303636574,
+      "effectiveDate": "2009-09-29"
+    },
+    {
+      "code": "SVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bridger Horizon VietNam Parners, L.P",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000003,
+      "ownershipPct": 1.5010537966460074,
+      "effectiveDate": "2009-06-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

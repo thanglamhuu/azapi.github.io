@@ -1,1 +1,78 @@
-{"data":[{"code":"CCV","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Thi","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":342000,"ownershipPct":19,"effectiveDate":"2022-12-31"},{"code":"CCV","shareholderType":"PERSON","shareholderName":"Hoàng Thị Ngọc Loan","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":298404,"ownershipPct":16.578,"effectiveDate":"2022-12-31"},{"code":"CCV","shareholderType":"PERSON","shareholderName":"Trần Nhật Minh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":290555,"ownershipPct":16.141944444444444,"effectiveDate":"2022-12-31"},{"code":"CCV","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Bằng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":173337,"ownershipPct":9.629833333333334,"effectiveDate":"2022-06-30"},{"code":"CCV","shareholderType":"PERSON","shareholderName":"Mai Đoàn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":112500,"ownershipPct":6.25,"effectiveDate":"2022-01-07"},{"code":"CCV","shareholderType":"PERSON","shareholderName":"Phạm Thị Thăng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":41171,"ownershipPct":2.2872777777777777,"effectiveDate":"2020-06-30"},{"code":"CCV","shareholderType":"PERSON","shareholderName":"Trần Huy Ánh","roleType":"Người ĐD theo pháp luật","enRoleType":"Legal representative","numberOfShares":32447,"ownershipPct":1.8026111111111112,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CCV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Thi",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 342000,
+      "ownershipPct": 19,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "CCV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Ngọc Loan",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 298404,
+      "ownershipPct": 16.578,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "CCV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Nhật Minh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 290555,
+      "ownershipPct": 16.141944444444444,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "CCV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Bằng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 173337,
+      "ownershipPct": 9.629833333333334,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "CCV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Đoàn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 112500,
+      "ownershipPct": 6.25,
+      "effectiveDate": "2022-01-07"
+    },
+    {
+      "code": "CCV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 41171,
+      "ownershipPct": 2.2872777777777777,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CCV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Huy Ánh",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 32447,
+      "ownershipPct": 1.8026111111111112,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

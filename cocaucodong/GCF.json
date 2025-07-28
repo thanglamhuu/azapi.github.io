@@ -1,1 +1,58 @@
-{"data":[{"code":"GCF","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thứ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":12272000,"ownershipPct":40.000001303781005,"effectiveDate":"2023-06-30"},{"code":"GCF","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Nguyên liệu Á Châu AIG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10712600,"ownershipPct":34.91721104684521,"effectiveDate":"2024-07-10"},{"code":"GCF","shareholderType":"PERSON","shareholderName":"Đoàn Minh Quân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2940000,"ownershipPct":9.58279040361116,"effectiveDate":"2024-05-17"},{"code":"GCF","shareholderType":"PERSON","shareholderName":"Bùi Thị Mai Hiên","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":755318,"ownershipPct":2.4619231571682905,"effectiveDate":"2023-06-30"},{"code":"GCF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh Tú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":754070,"ownershipPct":2.4578553604255333,"effectiveDate":"2024-07-10"},{"code":"GCF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Tâm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":495600,"ownershipPct":1.6153846680373098,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GCF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "NGUYÊN LIỆU Á CHÂU AIG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13652600,
+      "ownershipPct": 42.425731585634914,
+      "effectiveDate": "2024-07-22"
+    },
+    {
+      "code": "GCF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thứ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 12272000,
+      "ownershipPct": 38.13548906573925,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "GCF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Mai Hiên",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 909318,
+      "ownershipPct": 2.8257241400162876,
+      "effectiveDate": "2025-02-26"
+    },
+    {
+      "code": "GCF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Tú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 754070,
+      "ownershipPct": 2.343287829188559,
+      "effectiveDate": "2024-07-10"
+    },
+    {
+      "code": "GCF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Tâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 645600,
+      "ownershipPct": 2.006215102741302,
+      "effectiveDate": "2025-02-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

@@ -1,1 +1,108 @@
-{"data":[{"code":"SMT","shareholderType":"PERSON","shareholderName":"Trần Thị Thùy Dương","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":796100,"ownershipPct":14.560766370756875,"effectiveDate":"2024-03-22"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Andreas Karall","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":382310,"ownershipPct":6.992496660223666,"effectiveDate":"2020-03-23"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Phạm Duy Khánh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":273100,"ownershipPct":4.995032402780684,"effectiveDate":"2023-09-20"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Nga","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":267900,"ownershipPct":4.899923766770213,"effectiveDate":"2024-03-22"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Nguyễn Đông Hưng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":267900,"ownershipPct":4.899923766770213,"effectiveDate":"2022-12-31"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Huy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":267900,"ownershipPct":4.899923766770213,"effectiveDate":"2022-12-31"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Trần Thùy Linh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":267900,"ownershipPct":4.899923766770213,"effectiveDate":"2022-12-31"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hải Yến","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":267900,"ownershipPct":4.899923766770213,"effectiveDate":"2023-06-30"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Vũ Thị Phương","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":267900,"ownershipPct":4.899923766770213,"effectiveDate":"2022-12-31"},{"code":"SMT","shareholderType":"PERSON","shareholderName":"Andreas Karall","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":267400,"ownershipPct":4.89077870561536,"effectiveDate":"2020-07-06"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thùy Dương",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 776100,
+      "ownershipPct": 14.194963924562757,
+      "effectiveDate": "2025-03-28"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Andreas Karall",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 382310,
+      "ownershipPct": 6.992496660223666,
+      "effectiveDate": "2020-03-23"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Duy Khánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 273100,
+      "ownershipPct": 4.995032402780684,
+      "effectiveDate": "2023-09-20"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thùy Linh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 267900,
+      "ownershipPct": 4.899923766770213,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Phương",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 267900,
+      "ownershipPct": 4.899923766770213,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Nga",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 267900,
+      "ownershipPct": 4.899923766770213,
+      "effectiveDate": "2024-03-22"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hải Yến",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 267900,
+      "ownershipPct": 4.899923766770213,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đông Hưng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 267900,
+      "ownershipPct": 4.899923766770213,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Huy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 267900,
+      "ownershipPct": 4.899923766770213,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Andreas Karall",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 267400,
+      "ownershipPct": 4.89077870561536,
+      "effectiveDate": "2020-07-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

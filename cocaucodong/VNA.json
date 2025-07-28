@@ -1,1 +1,68 @@
-{"data":[{"code":"VNA","shareholderType":"COMPANY","shareholderName":"Hàng hải Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17340000,"ownershipPct":51.00006000007059,"effectiveDate":"2024-06-28"},{"code":"VNA","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1700595,"ownershipPct":5.001755884418688,"effectiveDate":"2024-06-28"},{"code":"VNA","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư Doanh nghiệp hàng đầu Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1641894,"ownershipPct":4.829105681300802,"effectiveDate":"2024-06-28"},{"code":"VNA","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1105000,"ownershipPct":3.25000382353391,"effectiveDate":"2024-06-28"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hàng hải Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17340000,
+      "ownershipPct": 51.00006000007059,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "VNA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Container Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13603240,
+      "ownershipPct": 40.00957648185469,
+      "effectiveDate": "2024-10-10"
+    },
+    {
+      "code": "VNA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý Quỹ Ngân hàng TMCP Công thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5000000,
+      "ownershipPct": 14.705899653999593,
+      "effectiveDate": "2024-09-19"
+    },
+    {
+      "code": "VNA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1700595,
+      "ownershipPct": 5.001755884418688,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "VNA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư Doanh nghiệp hàng đầu Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1641894,
+      "ownershipPct": 4.829105681300802,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "VNA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1105000,
+      "ownershipPct": 3.25000382353391,
+      "effectiveDate": "2024-06-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

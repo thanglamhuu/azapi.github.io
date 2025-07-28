@@ -1,1 +1,48 @@
-{"data":[{"code":"SHE","shareholderType":"COMPANY","shareholderName":"Quốc tế Sơn Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5794588,"ownershipPct":50.3762753732565,"effectiveDate":"2023-12-15"},{"code":"SHE","shareholderType":"PERSON","shareholderName":"Hoàng Mạnh Tân","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1309680,"ownershipPct":11.385934656760163,"effectiveDate":"2023-12-15"},{"code":"SHE","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Quản lý Quỹ Ngân hàng TMCP Công thương Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1123200,"ownershipPct":9.76473780348865,"effectiveDate":"2023-12-15"},{"code":"SHE","shareholderType":"PERSON","shareholderName":"Trần Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":169588,"ownershipPct":1.4743432644391323,"effectiveDate":"2023-12-15"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SHE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quốc tế Sơn Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5794588,
+      "ownershipPct": 38.751605346724126,
+      "effectiveDate": "2023-12-15"
+    },
+    {
+      "code": "SHE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Mạnh Tân",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1309680,
+      "ownershipPct": 8.758552375164147,
+      "effectiveDate": "2023-12-15"
+    },
+    {
+      "code": "SHE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý Quỹ Ngân hàng TMCP Công thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1123200,
+      "ownershipPct": 7.511457781888987,
+      "effectiveDate": "2023-12-15"
+    },
+    {
+      "code": "SHE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 169588,
+      "ownershipPct": 1.1341284742832884,
+      "effectiveDate": "2023-12-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

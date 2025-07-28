@@ -1,1 +1,100 @@
-{"data":[{"code":"XDH","shareholderType":"COMPANY","shareholderName":"Tổng công ty Đầu tư Phát triển Hạ tầng Đô thị UDIC - Công ty TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11649537,"ownershipPct":43.10347832254723,"effectiveDate":"2023-08-03"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Đỗ Tiến Lợi","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":6756750,"ownershipPct":25.00008602538204,"effectiveDate":"2023-08-03"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Long","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4892787,"ownershipPct":18.103392297165193,"effectiveDate":"2023-08-03"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Phương Kim Thảo","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3907379,"ownershipPct":14.45736650516465,"effectiveDate":"2023-12-15"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Trần Hồng Tâm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3433779,"ownershipPct":12.705038723076969,"effectiveDate":"2023-08-03"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":1357656,"ownershipPct":5.023349508695168,"effectiveDate":"2023-08-03"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Đoàn Trịnh Linh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":710532,"ownershipPct":2.6289800753005146,"effectiveDate":"2023-08-03"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Phương Thị Minh Thu","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":540540,"ownershipPct":2.000006882030563,"groupPct":4.000013764061126,"effectiveDate":"2023-08-03"},{"code":"XDH","shareholderType":"PERSON","shareholderName":"Phương Minh Vũ","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":540540,"ownershipPct":2.000006882030563,"groupPct":4.000013764061126,"effectiveDate":"2023-08-03"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "XDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Đầu tư Phát triển Hạ tầng Đô thị UDIC - Công ty TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11649537,
+      "ownershipPct": 43.10347832254723,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Tiến Lợi",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 6756750,
+      "ownershipPct": 25.00008602538204,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Long",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4892787,
+      "ownershipPct": 18.103392297165193,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phương Kim Thảo",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3949604,
+      "ownershipPct": 14.613599698996262,
+      "effectiveDate": "2024-10-02"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hồng Tâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3433779,
+      "ownershipPct": 12.705038723076969,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 1357656,
+      "ownershipPct": 5.023349508695168,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Trịnh Linh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 710532,
+      "ownershipPct": 2.6289800753005146,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phương Minh Vũ",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 540540,
+      "ownershipPct": 2.000006882030563,
+      "groupPct": 4.000013764061126,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "XDH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phương Thị Minh Thu",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 540540,
+      "ownershipPct": 2.000006882030563,
+      "groupPct": 4.000013764061126,
+      "effectiveDate": "2023-08-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

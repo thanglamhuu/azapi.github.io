@@ -1,1 +1,78 @@
-{"data":[{"code":"L43","shareholderType":"COMPANY","shareholderName":"LILAMA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1429000,"ownershipPct":40.82857142857143,"effectiveDate":"2015-03-25"},{"code":"L43","shareholderType":"PERSON","shareholderName":"Trần Nguyễn Sông Hàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":531600,"ownershipPct":15.188571428571429,"effectiveDate":"2023-11-29"},{"code":"L43","shareholderType":"COMPANY","shareholderName":"Công ty TNHH một thành viên VPID Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":350800,"ownershipPct":10.022857142857143,"effectiveDate":"2014-10-16"},{"code":"L43","shareholderType":"COMPANY","shareholderName":"Hạ tầng Vĩnh Phúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":346400,"ownershipPct":9.897142857142857,"effectiveDate":"2020-08-18"},{"code":"L43","shareholderType":"COMPANY","shareholderName":"Công ty TNHH dịch vụ kỹ thuật Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":175000,"ownershipPct":5,"effectiveDate":"2015-03-25"},{"code":"L43","shareholderType":"PERSON","shareholderName":"Hoàng Việt","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":55000,"ownershipPct":1.5714285714285714,"effectiveDate":"2015-01-23"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "L43",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LILAMA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1429000,
+      "ownershipPct": 40.82857142857143,
+      "effectiveDate": "2015-03-25"
+    },
+    {
+      "code": "L43",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Nguyễn Sông Hàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 531600,
+      "ownershipPct": 15.188571428571429,
+      "effectiveDate": "2023-11-29"
+    },
+    {
+      "code": "L43",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH một thành viên VPID Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 350800,
+      "ownershipPct": 10.022857142857143,
+      "effectiveDate": "2014-10-16"
+    },
+    {
+      "code": "L43",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hạ tầng Vĩnh Phúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 346400,
+      "ownershipPct": 9.897142857142857,
+      "effectiveDate": "2020-08-18"
+    },
+    {
+      "code": "L43",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH dịch vụ kỹ thuật Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 175000,
+      "ownershipPct": 5,
+      "effectiveDate": "2015-03-25"
+    },
+    {
+      "code": "L43",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Việt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 55000,
+      "ownershipPct": 1.5714285714285714,
+      "effectiveDate": "2015-01-23"
+    },
+    {
+      "code": "L43",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Thìn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 35000,
+      "ownershipPct": 1,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

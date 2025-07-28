@@ -1,1 +1,88 @@
-{"data":[{"code":"SDV","shareholderType":"COMPANY","shareholderName":"TCT P.triển KCN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":20,"effectiveDate":"2020-06-30"},{"code":"SDV","shareholderType":"COMPANY","shareholderName":"M.trường Sonadezi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":500000,"ownershipPct":10,"effectiveDate":"2020-06-30"},{"code":"SDV","shareholderType":"COMPANY","shareholderName":"Sonadezi Long Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2020-06-30"},{"code":"SDV","shareholderType":"PERSON","shareholderName":"Lê Xuân Sâm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2021-06-30"},{"code":"SDV","shareholderType":"COMPANY","shareholderName":"Đô thị C.nghiệp 2","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2020-06-30"},{"code":"SDV","shareholderType":"PERSON","shareholderName":"Trần Thị Thúy","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":219700,"ownershipPct":4.394,"effectiveDate":"2023-06-30"},{"code":"SDV","shareholderType":"COMPANY","shareholderName":"Công ty CP Sonadezi An Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":100000,"ownershipPct":2,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT P.triển KCN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 20,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "M.trường Sonadezi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 500000,
+      "ownershipPct": 10,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đô thị C.nghiệp 2",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sonadezi Long Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Sâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Anh Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 248000,
+      "ownershipPct": 4.96,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thúy",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 219700,
+      "ownershipPct": 4.394,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Sonadezi An Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 100000,
+      "ownershipPct": 2,
+      "effectiveDate": "2021-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

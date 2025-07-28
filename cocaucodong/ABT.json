@@ -1,1 +1,108 @@
-{"data":[{"code":"ABT","shareholderType":"COMPANY","shareholderName":"Thủy sản Bến Tre","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":2609950,"ownershipPct":22.160932719732617,"effectiveDate":"2015-01-28"},{"code":"ABT","shareholderType":"COMPANY","shareholderName":"Chứng khoán SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2264069,"ownershipPct":19.224077389157763,"effectiveDate":"2010-08-27"},{"code":"ABT","shareholderType":"PERSON","shareholderName":"Lương Thanh Tùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1239756,"ownershipPct":10.526695647382068,"effectiveDate":"2020-06-30"},{"code":"ABT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1046776,"ownershipPct":8.888113760275418,"effectiveDate":"2017-04-27"},{"code":"ABT","shareholderType":"COMPANY","shareholderName":"Deutsche Asset Management (Asia) Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":853600,"ownershipPct":7.247867648638389,"effectiveDate":"2007-09-05"},{"code":"ABT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Nguyễn Duy Hưng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":568720,"ownershipPct":4.82896823937866,"effectiveDate":"2013-05-29"},{"code":"ABT","shareholderType":"COMPANY","shareholderName":"Vietnam Emerging Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":350000,"ownershipPct":2.9718295185372963,"effectiveDate":"2007-08-24"},{"code":"ABT","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG & Deutsche Asset Management (Asia) Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":341079,"ownershipPct":2.8960818295805213,"effectiveDate":"2009-01-14"},{"code":"ABT","shareholderType":"COMPANY","shareholderName":"Vietnam Lotus Fund Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":319356,"ownershipPct":2.7116331077771334,"effectiveDate":"2007-08-24"},{"code":"ABT","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":317230,"ownershipPct":2.6935813661873897,"effectiveDate":"2007-10-11"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "ABT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thủy sản Bến Tre",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 2609950,
+      "ownershipPct": 22.160932719732617,
+      "effectiveDate": "2015-01-28"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2264069,
+      "ownershipPct": 19.224077389157763,
+      "effectiveDate": "2010-08-27"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Thanh Tùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1239756,
+      "ownershipPct": 10.526695647382068,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1046776,
+      "ownershipPct": 8.888113760275418,
+      "effectiveDate": "2017-04-27"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Asset Management (Asia) Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 853600,
+      "ownershipPct": 7.247867648638389,
+      "effectiveDate": "2007-09-05"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Nguyễn Duy Hưng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 568720,
+      "ownershipPct": 4.82896823937866,
+      "effectiveDate": "2013-05-29"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Emerging Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 350000,
+      "ownershipPct": 2.9718295185372963,
+      "effectiveDate": "2007-08-24"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG & Deutsche Asset Management (Asia) Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 341079,
+      "ownershipPct": 2.8960818295805213,
+      "effectiveDate": "2009-01-14"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Lotus Fund Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 319356,
+      "ownershipPct": 2.7116331077771334,
+      "effectiveDate": "2007-08-24"
+    },
+    {
+      "code": "ABT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 317230,
+      "ownershipPct": 2.6935813661873897,
+      "effectiveDate": "2007-10-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

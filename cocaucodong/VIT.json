@@ -1,1 +1,80 @@
-{"data":[{"code":"VIT","shareholderType":"COMPANY","shareholderName":"TCT Viglacera","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9945000,"ownershipPct":19.890133661698208,"effectiveDate":"2020-06-30"},{"code":"VIT","shareholderType":"COMPANY","shareholderName":"CHỨNG KHOÁN VIX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7067240,"ownershipPct":14.134574984343894,"effectiveDate":"2023-08-21"},{"code":"VIT","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Cúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2478444,"ownershipPct":4.956921310511206,"effectiveDate":"2023-06-28"},{"code":"VIT","shareholderType":"PERSON","shareholderName":"Đinh Quang Huy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2237948,"ownershipPct":4.475926078223246,"effectiveDate":"2021-12-31"},{"code":"VIT","shareholderType":"PERSON","shareholderName":"Đinh Quang Hải","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":797361,"ownershipPct":1.5947327166038556,"groupPct":2.77113262201122,"effectiveDate":"2020-06-30"},{"code":"VIT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":607222,"ownershipPct":1.2144521611185226,"effectiveDate":"2014-08-18"},{"code":"VIT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Yến","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":588194,"ownershipPct":1.1763959053804842,"groupPct":2.77113262201122,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VIT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Viglacera",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9945000,
+      "ownershipPct": 19.890133661698208,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VIT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CHỨNG KHOÁN VIX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9197240,
+      "ownershipPct": 18.394603611736272,
+      "effectiveDate": "2024-11-18"
+    },
+    {
+      "code": "VIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Cúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2478444,
+      "ownershipPct": 4.956921310511206,
+      "effectiveDate": "2023-06-28"
+    },
+    {
+      "code": "VIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Quang Huy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2237948,
+      "ownershipPct": 4.475926078223246,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "VIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Quang Hải",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 797361,
+      "ownershipPct": 1.5947327166038556,
+      "groupPct": 2.77113262201122,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 607222,
+      "ownershipPct": 1.2144521611185226,
+      "effectiveDate": "2014-08-18"
+    },
+    {
+      "code": "VIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Yến",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 588194,
+      "ownershipPct": 1.1763959053804842,
+      "groupPct": 2.77113262201122,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

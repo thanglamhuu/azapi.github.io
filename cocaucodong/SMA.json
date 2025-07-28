@@ -1,1 +1,89 @@
-{"data":[{"code":"SMA","shareholderType":"COMPANY","shareholderName":"CTCP Thủy điện Nậm La","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10594724,"ownershipPct":52.05527131452344,"effectiveDate":"2022-12-31"},{"code":"SMA","shareholderType":"PERSON","shareholderName":"Thiều Thị Thanh Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":975466,"ownershipPct":4.79277679041879,"effectiveDate":"2021-12-31"},{"code":"SMA","shareholderType":"PERSON","shareholderName":"Vũ Hà Nam","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":960624,"ownershipPct":4.719853292189845,"effectiveDate":"2022-12-31"},{"code":"SMA","shareholderType":"PERSON","shareholderName":"Trần Đức Phú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":906159,"ownershipPct":4.452249308155384,"effectiveDate":"2021-12-31"},{"code":"SMA","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":516655,"ownershipPct":2.5384914416840973,"effectiveDate":"2021-01-06"},{"code":"SMA","shareholderType":"PERSON","shareholderName":"Phan Hoàng Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":401480,"ownershipPct":1.9725997890416844,"effectiveDate":"2014-01-24"},{"code":"SMA","shareholderType":"PERSON","shareholderName":"Lê Thị Phương Mai","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":358578,"ownershipPct":1.7618085263400147,"effectiveDate":"2022-12-31"},{"code":"SMA","shareholderType":"PERSON","shareholderName":"Trần Văn Thư","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":348300,"ownershipPct":1.7113094214486866,"effectiveDate":"2012-03-26"},{"code":"SMA","shareholderType":"PERSON","shareholderName":"Lê Phúc Quý","roleType":"Em gái của Thành viên BKS","enRoleType":"Young Sister of Control member","numberOfShares":334141,"ownershipPct":1.6417417209080838,"groupPct":2.360658730802921,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SMA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thủy điện Nậm La",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10594724,
+      "ownershipPct": 52.05527131452344,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SMA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thiều Thị Thanh Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 975466,
+      "ownershipPct": 4.79277679041879,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "SMA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hà Nam",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 960624,
+      "ownershipPct": 4.719853292189845,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SMA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đức Phú",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 906159,
+      "ownershipPct": 4.452249308155384,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "SMA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 516655,
+      "ownershipPct": 2.5384914416840973,
+      "effectiveDate": "2021-01-06"
+    },
+    {
+      "code": "SMA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Hoàng Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 401480,
+      "ownershipPct": 1.9725997890416844,
+      "effectiveDate": "2014-01-24"
+    },
+    {
+      "code": "SMA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Thư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 348300,
+      "ownershipPct": 1.7113094214486866,
+      "effectiveDate": "2012-03-26"
+    },
+    {
+      "code": "SMA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Phúc Quý",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 334141,
+      "ownershipPct": 1.6417417209080838,
+      "groupPct": 2.360658730802921,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

@@ -1,1 +1,78 @@
-{"data":[{"code":"PMS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3324877,"ownershipPct":46.167484891218436,"effectiveDate":"2018-04-27"},{"code":"PMS","shareholderType":"PERSON","shareholderName":"Ngô Minh Tú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1662439,"ownershipPct":23.08374938834498,"effectiveDate":"2023-06-30"},{"code":"PMS","shareholderType":"COMPANY","shareholderName":"Công ty liên doanh phát triển nhà Daewon - Thủ Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1300000,"ownershipPct":18.05111297608422,"effectiveDate":"2017-03-23"},{"code":"PMS","shareholderType":"PERSON","shareholderName":"Đoàn Đắc Học","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":893059,"ownershipPct":12.400545310237536,"effectiveDate":"2023-06-30"},{"code":"PMS","shareholderType":"PERSON","shareholderName":"Hồ Trí Lượng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":831299,"ownershipPct":11.542978589158334,"effectiveDate":"2023-06-30"},{"code":"PMS","shareholderType":"PERSON","shareholderName":"Trần Thị Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":815560,"ownershipPct":11.324435152904035,"effectiveDate":"2017-03-31"},{"code":"PMS","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":235800,"ownershipPct":3.274194184431276,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PMS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3324877,
+      "ownershipPct": 46.167484891218436,
+      "effectiveDate": "2018-04-27"
+    },
+    {
+      "code": "PMS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Minh Tú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1662439,
+      "ownershipPct": 23.08374938834498,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PMS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty liên doanh phát triển nhà Daewon - Thủ Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1300000,
+      "ownershipPct": 18.05111297608422,
+      "effectiveDate": "2017-03-23"
+    },
+    {
+      "code": "PMS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Đắc Học",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 893059,
+      "ownershipPct": 12.400545310237536,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PMS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Trí Lượng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 831299,
+      "ownershipPct": 11.542978589158334,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PMS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 815560,
+      "ownershipPct": 11.324435152904035,
+      "effectiveDate": "2017-03-31"
+    },
+    {
+      "code": "PMS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Hải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 235800,
+      "ownershipPct": 3.274194184431276,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

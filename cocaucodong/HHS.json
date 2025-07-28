@@ -1,1 +1,48 @@
-{"data":[{"code":"HHS","shareholderType":"COMPANY","shareholderName":"T.chính Hoàng Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":177269601,"ownershipPct":51.06269066799618,"effectiveDate":"2023-06-30"},{"code":"HHS","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13832171,"ownershipPct":3.9843710656280393,"effectiveDate":"2023-06-30"},{"code":"HHS","shareholderType":"COMPANY","shareholderName":"The Ton Poh Thailand Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7905882,"ownershipPct":2.2772974314060703,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HHS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.chính Hoàng Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 251905777,
+      "ownershipPct": 58.31341655986382,
+      "effectiveDate": "2025-06-05"
+    },
+    {
+      "code": "HHS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phương Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19828600,
+      "ownershipPct": 4.590102797042704,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HHS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13832171,
+      "ownershipPct": 3.2019954407407973,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HHS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "The Ton Poh Thailand Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7905882,
+      "ownershipPct": 1.8301247229400748,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

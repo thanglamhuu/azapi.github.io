@@ -1,1 +1,78 @@
-{"data":[{"code":"IME","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Cơ khí Sabeco","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":936000,"ownershipPct":26.000375560980324,"effectiveDate":"2020-06-30"},{"code":"IME","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Huệ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":848700,"ownershipPct":23.575340532696583,"effectiveDate":"2018-04-04"},{"code":"IME","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần An Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":588484,"ownershipPct":16.347013901311907,"effectiveDate":"2018-07-12"},{"code":"IME","shareholderType":"PERSON","shareholderName":"Vũ Thị Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":283492,"ownershipPct":7.874891526210934,"effectiveDate":"2018-07-12"},{"code":"IME","shareholderType":"PERSON","shareholderName":"Vũ Thị Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":283492,"ownershipPct":7.874891526210934,"effectiveDate":"2018-04-27"},{"code":"IME","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":184200,"ownershipPct":5.116740575141641,"effectiveDate":"2016-07-15"},{"code":"IME","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54188,"ownershipPct":1.5052439646350446,"effectiveDate":"2016-07-08"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "IME",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Cơ khí Sabeco",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 936000,
+      "ownershipPct": 26.000375560980324,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "IME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Huệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 848700,
+      "ownershipPct": 23.575340532696583,
+      "effectiveDate": "2018-04-04"
+    },
+    {
+      "code": "IME",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần An Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 588484,
+      "ownershipPct": 16.347013901311907,
+      "effectiveDate": "2018-07-12"
+    },
+    {
+      "code": "IME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 283492,
+      "ownershipPct": 7.874891526210934,
+      "effectiveDate": "2018-04-27"
+    },
+    {
+      "code": "IME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 283492,
+      "ownershipPct": 7.874891526210934,
+      "effectiveDate": "2018-07-12"
+    },
+    {
+      "code": "IME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 184200,
+      "ownershipPct": 5.116740575141641,
+      "effectiveDate": "2016-07-15"
+    },
+    {
+      "code": "IME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 54188,
+      "ownershipPct": 1.5052439646350446,
+      "effectiveDate": "2016-07-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,98 @@
-{"data":[{"code":"TBX","shareholderType":"PERSON","shareholderName":"Vũ Tiến Nghĩa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":350000,"ownershipPct":23.670191721790033,"groupPct":47.340383443580066,"effectiveDate":"2023-06-30"},{"code":"TBX","shareholderType":"PERSON","shareholderName":"Vũ Tiến Dũng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":350000,"ownershipPct":23.670191721790033,"groupPct":47.340383443580066,"effectiveDate":"2020-06-30"},{"code":"TBX","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Kiến trúc mỹ thuật Treelife","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":297575,"ownershipPct":20.124735147461912,"effectiveDate":"2018-03-16"},{"code":"TBX","shareholderType":"COMPANY","shareholderName":"Xi măng Thái Bình","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":101627,"ownershipPct":6.8729444974581595,"effectiveDate":"2021-12-10"},{"code":"TBX","shareholderType":"PERSON","shareholderName":"Trương Anh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":49100,"ownershipPct":3.320589752971116,"effectiveDate":"2010-05-24"},{"code":"TBX","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Biền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":40000,"ownershipPct":2.7051647682045754,"effectiveDate":"2015-11-06"},{"code":"TBX","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":37000,"ownershipPct":2.5022774105892323,"effectiveDate":"2010-06-07"},{"code":"TBX","shareholderType":"PERSON","shareholderName":"Nguyễn Nam Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16100,"ownershipPct":1.0888288192023416,"effectiveDate":"2009-12-04"},{"code":"TBX","shareholderType":"PERSON","shareholderName":"Vũ Thị Cấp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15934,"ownershipPct":1.0776023854142927,"effectiveDate":"2011-06-17"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TBX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Nguyên Hạnh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 350000,
+      "ownershipPct": 23.670191721790033,
+      "effectiveDate": "2025-06-09"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Tiến Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 350000,
+      "ownershipPct": 23.670191721790033,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Kiến trúc mỹ thuật Treelife",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 297575,
+      "ownershipPct": 20.124735147461912,
+      "effectiveDate": "2018-03-16"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xi măng Thái Bình",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 101627,
+      "ownershipPct": 6.8729444974581595,
+      "effectiveDate": "2021-12-10"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Anh Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 49100,
+      "ownershipPct": 3.320589752971116,
+      "effectiveDate": "2010-05-24"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Biền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 40000,
+      "ownershipPct": 2.7051647682045754,
+      "effectiveDate": "2015-11-06"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 37000,
+      "ownershipPct": 2.5022774105892323,
+      "effectiveDate": "2010-06-07"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Nam Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16100,
+      "ownershipPct": 1.0888288192023416,
+      "effectiveDate": "2009-12-04"
+    },
+    {
+      "code": "TBX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Cấp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15934,
+      "ownershipPct": 1.0776023854142927,
+      "effectiveDate": "2011-06-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

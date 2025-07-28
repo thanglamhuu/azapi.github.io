@@ -1,1 +1,38 @@
-{"data":[{"code":"HAF","shareholderType":"COMPANY","shareholderName":"Thương mại Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2899550,"ownershipPct":19.996896551724138,"effectiveDate":"2019-12-31"},{"code":"HAF","shareholderType":"COMPANY","shareholderName":"CK Phố Wall","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2140400,"ownershipPct":14.761379310344827,"effectiveDate":"2024-03-06"},{"code":"HAF","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":725000,"ownershipPct":5,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thương mại Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2899550,
+      "ownershipPct": 19.996896551724138,
+      "effectiveDate": "2019-12-31"
+    },
+    {
+      "code": "HAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Phố Wall",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2140400,
+      "ownershipPct": 14.761379310344827,
+      "effectiveDate": "2024-03-06"
+    },
+    {
+      "code": "HAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 725000,
+      "ownershipPct": 5,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,1 +1,78 @@
-{"data":[{"code":"PIA","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1962905,"ownershipPct":50.330897435897434,"effectiveDate":"2020-06-30"},{"code":"PIA","shareholderType":"PERSON","shareholderName":"Hoàng Hải Đường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":391765,"ownershipPct":10.04525641025641,"effectiveDate":"2022-12-31"},{"code":"PIA","shareholderType":"PERSON","shareholderName":"Peter Eric Dennis","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":201600,"ownershipPct":5.1692307692307695,"effectiveDate":"2022-01-10"},{"code":"PIA","shareholderType":"PERSON","shareholderName":"Phan Thanh Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":79039,"ownershipPct":2.0266410256410254,"effectiveDate":"2019-05-24"},{"code":"PIA","shareholderType":"PERSON","shareholderName":"Trần Ngọc Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":68219,"ownershipPct":1.7492051282051282,"effectiveDate":"2019-05-24"},{"code":"PIA","shareholderType":"PERSON","shareholderName":"Hoàng Minh Phương","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":56100,"ownershipPct":1.4384615384615385,"effectiveDate":"2023-08-10"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PIA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1962905,
+      "ownershipPct": 50.330897435897434,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Hải Đường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 390985,
+      "ownershipPct": 10.02525641025641,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "PIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Peter Eric Dennis",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 201600,
+      "ownershipPct": 5.1692307692307695,
+      "effectiveDate": "2022-01-10"
+    },
+    {
+      "code": "PIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thanh Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 79039,
+      "ownershipPct": 2.0266410256410254,
+      "effectiveDate": "2019-05-24"
+    },
+    {
+      "code": "PIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 68219,
+      "ownershipPct": 1.7492051282051282,
+      "effectiveDate": "2019-05-24"
+    },
+    {
+      "code": "PIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đăng Dũng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 60009,
+      "ownershipPct": 1.5386923076923076,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "PIA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Minh Phương",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 56100,
+      "ownershipPct": 1.4384615384615385,
+      "effectiveDate": "2023-08-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

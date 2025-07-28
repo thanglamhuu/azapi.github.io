@@ -1,1 +1,68 @@
-{"data":[{"code":"DLG","shareholderType":"PERSON","shareholderName":"Bùi Pháp","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":74226523,"ownershipPct":24.799235721446,"effectiveDate":"2020-12-31"},{"code":"DLG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17658567,"ownershipPct":5.89976396356256,"effectiveDate":"2020-06-30"},{"code":"DLG","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11565700,"ownershipPct":3.8641244260293317,"effectiveDate":"2021-06-17"},{"code":"DLG","shareholderType":"COMPANY","shareholderName":"AnsenHoldco Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11073028,"ownershipPct":3.6995216860982665,"effectiveDate":"2020-06-30"},{"code":"DLG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Quản lý quỹ ACB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9369486,"ownershipPct":3.13036476062321,"effectiveDate":"2020-06-30"},{"code":"DLG","shareholderType":"COMPANY","shareholderName":"Công ty CP đầu tư và phát triển điện năng Đức Long Gia Lai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5920040,"ownershipPct":1.9778976773624324,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Pháp",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 74226523,
+      "ownershipPct": 24.799235721446,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17658567,
+      "ownershipPct": 5.89976396356256,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11565700,
+      "ownershipPct": 3.8641244260293317,
+      "effectiveDate": "2021-06-17"
+    },
+    {
+      "code": "DLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AnsenHoldco Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11073028,
+      "ownershipPct": 3.6995216860982665,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý quỹ ACB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9369486,
+      "ownershipPct": 3.13036476062321,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP đầu tư và phát triển điện năng Đức Long Gia Lai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5920040,
+      "ownershipPct": 1.9778976773624324,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,108 @@
-{"data":[{"code":"HHC","shareholderType":"PERSON","shareholderName":"Lưu Văn Vũ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3942000,"ownershipPct":24,"effectiveDate":"2017-05-29"},{"code":"HHC","shareholderType":"PERSON","shareholderName":"Trương Thị Bửu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3942000,"ownershipPct":24,"effectiveDate":"2017-05-29"},{"code":"HHC","shareholderType":"COMPANY","shareholderName":"Tài chính Điện lực","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":820000,"ownershipPct":4.992389649923896,"effectiveDate":"2022-06-30"},{"code":"HHC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":735400,"ownershipPct":4.477321156773211,"effectiveDate":"2023-01-10"},{"code":"HHC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần chứng khoán Ngân hàng Phát triển nhà Đồng bằng Sông Cửu Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":542700,"ownershipPct":3.304109589041096,"effectiveDate":"2020-06-30"},{"code":"HHC","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":523900,"ownershipPct":3.189649923896499,"effectiveDate":"2021-12-20"},{"code":"HHC","shareholderType":"PERSON","shareholderName":"Lê Mạnh Linh","roleType":"Người ĐD theo pháp luật","enRoleType":"Legal representative","numberOfShares":400100,"ownershipPct":2.4359208523592084,"effectiveDate":"2023-11-10"},{"code":"HHC","shareholderType":"COMPANY","shareholderName":"CK Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":271800,"ownershipPct":1.6547945205479453,"effectiveDate":"2010-03-19"},{"code":"HHC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH XNK trang thiết bị y tế BMS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":265200,"ownershipPct":1.6146118721461187,"effectiveDate":"2020-06-30"},{"code":"HHC","shareholderType":"PERSON","shareholderName":"Bùi Tuấn Anh","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":221300,"ownershipPct":1.3473363774733638,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Văn Vũ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3942000,
+      "ownershipPct": 24,
+      "effectiveDate": "2017-05-29"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Bửu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3942000,
+      "ownershipPct": 24,
+      "effectiveDate": "2017-05-29"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý Quỹ Ngân hàng Thương mại cổ phần Công thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3000000,
+      "ownershipPct": 18.264840182648403,
+      "effectiveDate": "2024-10-22"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tài chính Điện lực",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 820000,
+      "ownershipPct": 4.992389649923896,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 735400,
+      "ownershipPct": 4.477321156773211,
+      "effectiveDate": "2023-01-10"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần chứng khoán Ngân hàng Phát triển nhà Đồng bằng Sông Cửu Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 542700,
+      "ownershipPct": 3.304109589041096,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 523900,
+      "ownershipPct": 3.189649923896499,
+      "effectiveDate": "2021-12-20"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Mạnh Linh",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 400100,
+      "ownershipPct": 2.4359208523592084,
+      "effectiveDate": "2023-11-10"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 271800,
+      "ownershipPct": 1.6547945205479453,
+      "effectiveDate": "2010-03-19"
+    },
+    {
+      "code": "HHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH XNK trang thiết bị y tế BMS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 265200,
+      "ownershipPct": 1.6146118721461187,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

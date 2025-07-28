@@ -1,1 +1,110 @@
-{"data":[{"code":"SMC","shareholderType":"COMPANY","shareholderName":"Hanwa Co., Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14416476,"ownershipPct":19.585783858638024,"effectiveDate":"2022-06-28"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Ngọc Loan","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":10490194,"ownershipPct":14.251657084517841,"effectiveDate":"2022-06-28"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10181821,"ownershipPct":13.832710947761552,"effectiveDate":"2022-06-28"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Nguyễn Dương Ngọc My","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5141773,"ownershipPct":6.9854557124904035,"effectiveDate":"2012-09-21"},{"code":"SMC","shareholderType":"COMPANY","shareholderName":"KIM Vietnam Growth Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3588726,"ownershipPct":4.875533505128063,"effectiveDate":"2022-06-28"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Kinh Luân","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3547780,"ownershipPct":4.819905520461367,"effectiveDate":"2023-06-30"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Lê Thị Kim Son","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3542536,"ownershipPct":4.812781182269794,"effectiveDate":"2011-12-28"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Nguyễn Cẩm Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3018854,"ownershipPct":4.101322815976999,"effectiveDate":"2019-12-19"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Thắng","roleType":"Người ĐD theo pháp luật","enRoleType":"Legal representative","numberOfShares":1720467,"ownershipPct":2.337373904546394,"groupPct":3.3589338990344064,"effectiveDate":"2023-07-31"},{"code":"SMC","shareholderType":"PERSON","shareholderName":"Nguyễn Nghĩa Dũng","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":1702861,"ownershipPct":2.313454930823885,"groupPct":4.15156678991654,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":16,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hanwa Co., Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14416476,
+      "ownershipPct": 19.585783858638024,
+      "effectiveDate": "2022-06-28"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Ngọc Loan",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 10490194,
+      "ownershipPct": 14.251657084517841,
+      "effectiveDate": "2022-06-28"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10181821,
+      "ownershipPct": 13.832710947761552,
+      "effectiveDate": "2022-06-28"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Dương Ngọc My",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5141773,
+      "ownershipPct": 6.9854557124904035,
+      "effectiveDate": "2012-09-21"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KIM Vietnam Growth Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3588726,
+      "ownershipPct": 4.875533505128063,
+      "effectiveDate": "2022-06-28"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Kinh Luân",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3547780,
+      "ownershipPct": 4.819905520461367,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Kim Son",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3542536,
+      "ownershipPct": 4.812781182269794,
+      "effectiveDate": "2011-12-28"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Cẩm Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3018854,
+      "ownershipPct": 4.101322815976999,
+      "effectiveDate": "2019-12-19"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Thắng",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 1720467,
+      "ownershipPct": 2.337373904546394,
+      "groupPct": 3.3589338990344064,
+      "effectiveDate": "2023-07-31"
+    },
+    {
+      "code": "SMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Nghĩa Dũng",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 1702861,
+      "ownershipPct": 2.313454930823885,
+      "groupPct": 4.15156678991654,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 16,
+  "totalPages": 2
+}

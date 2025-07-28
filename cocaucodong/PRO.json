@@ -1,1 +1,28 @@
-{"data":[{"code":"PRO","shareholderType":"COMPANY","shareholderName":"CTCP Tonkin Spices","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1410000,"ownershipPct":47,"effectiveDate":"2018-12-11"},{"code":"PRO","shareholderType":"PERSON","shareholderName":"Ngô Lương Quỳnh Mai","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":304100,"ownershipPct":10.136666666666667,"effectiveDate":"2023-12-12"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PRO",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tonkin Spices",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1410000,
+      "ownershipPct": 47,
+      "effectiveDate": "2018-12-11"
+    },
+    {
+      "code": "PRO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Lương Quỳnh Mai",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 409000,
+      "ownershipPct": 13.633333333333333,
+      "effectiveDate": "2025-03-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

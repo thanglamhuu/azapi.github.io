@@ -1,1 +1,114 @@
-{"data":[{"code":"HAM","shareholderType":"PERSON","shareholderName":"Lê Hoàng Nam","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":704568,"ownershipPct":7.310267075504087,"effectiveDate":"2023-09-29"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Vũ Thị Thủy","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":521307,"ownershipPct":5.408836901945318,"groupPct":14.761869633321474,"effectiveDate":"2023-08-29"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Trần Thị Phượng","roleType":"Mẹ của Thành viên HĐQT","enRoleType":"Mother of Board member","numberOfShares":398625,"ownershipPct":4.1359460165275985,"groupPct":5.585252054329185,"effectiveDate":"2021-11-04"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Trần Thị Phượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":398625,"ownershipPct":4.1359460165275985,"effectiveDate":"2021-11-04"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Đào Thị Vững","roleType":"Mẹ của Kế toán trưởng","enRoleType":"Mother of Chief Accountant","numberOfShares":380370,"ownershipPct":3.946540699420765,"groupPct":7.436506160315856,"effectiveDate":"2021-11-04"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Đào Thị Vững","roleType":"Chị của Thành viên HĐQT","enRoleType":"Elder Sister of Board member","numberOfShares":380370,"ownershipPct":3.946540699420765,"groupPct":14.761869633321474,"effectiveDate":"2021-11-04"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Quách Yến Vân","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":354433,"ownershipPct":3.677430553718222,"effectiveDate":"2021-11-04"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Lâm Thị Trúc Hà","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":309300,"ownershipPct":3.209151716304763,"effectiveDate":"2023-06-30"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Liên","roleType":"Mẹ của Tổng Giám đốc","enRoleType":"Mother of CEO","numberOfShares":268557,"ownershipPct":2.786421459669118,"groupPct":3.4159567987793396,"effectiveDate":"2021-11-04"},{"code":"HAM","shareholderType":"PERSON","shareholderName":"Đào Vũ Hồng Ngọc","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":265146,"ownershipPct":2.7510305236706842,"groupPct":14.761869633321474,"effectiveDate":"2021-11-04"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hoàng Nam",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 704568,
+      "ownershipPct": 7.310267075504087,
+      "effectiveDate": "2023-09-29"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Thủy",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 521307,
+      "ownershipPct": 5.408836901945318,
+      "groupPct": 14.761869633321474,
+      "effectiveDate": "2023-08-29"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Phượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 398625,
+      "ownershipPct": 4.1359460165275985,
+      "effectiveDate": "2021-11-04"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Phượng",
+      "roleType": "Mẹ của Thành viên HĐQT",
+      "enRoleType": "Mother of Board member",
+      "numberOfShares": 398625,
+      "ownershipPct": 4.1359460165275985,
+      "groupPct": 5.585252054329185,
+      "effectiveDate": "2021-11-04"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Vững",
+      "roleType": "Mẹ của Kế toán trưởng",
+      "enRoleType": "Mother of Chief Accountant",
+      "numberOfShares": 380370,
+      "ownershipPct": 3.946540699420765,
+      "groupPct": 7.436506160315856,
+      "effectiveDate": "2021-11-04"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Vững",
+      "roleType": "Chị của Thành viên HĐQT",
+      "enRoleType": "Elder Sister of Board member",
+      "numberOfShares": 380370,
+      "ownershipPct": 3.946540699420765,
+      "groupPct": 14.761869633321474,
+      "effectiveDate": "2021-11-04"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Quách Yến Vân",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 354433,
+      "ownershipPct": 3.677430553718222,
+      "effectiveDate": "2021-11-04"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Thị Trúc Hà",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 309300,
+      "ownershipPct": 3.209151716304763,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Liên",
+      "roleType": "Mẹ của Tổng Giám đốc",
+      "enRoleType": "Mother of CEO",
+      "numberOfShares": 268557,
+      "ownershipPct": 2.786421459669118,
+      "groupPct": 3.4159567987793396,
+      "effectiveDate": "2021-11-04"
+    },
+    {
+      "code": "HAM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Vũ Hồng Ngọc",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 265146,
+      "ownershipPct": 2.7510305236706842,
+      "groupPct": 14.761869633321474,
+      "effectiveDate": "2021-11-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

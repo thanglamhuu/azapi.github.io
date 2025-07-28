@@ -1,1 +1,28 @@
-{"data":[{"code":"CDP","shareholderType":"COMPANY","shareholderName":"Dược Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12122500,"ownershipPct":66.57495277008918,"effectiveDate":"2020-06-30"},{"code":"CDP","shareholderType":"COMPANY","shareholderName":"Dược phẩm Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3470000,"ownershipPct":19.05671982777558,"effectiveDate":"2024-07-12"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CDP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12122500,
+      "ownershipPct": 66.57495277008918,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CDP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược phẩm Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3470000,
+      "ownershipPct": 19.05671982777558,
+      "effectiveDate": "2024-07-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

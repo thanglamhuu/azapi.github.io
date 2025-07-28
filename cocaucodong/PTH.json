@@ -1,1 +1,108 @@
-{"data":[{"code":"PTH","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Dịch vụ Xăng dầu Petrolimex","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1786713,"ownershipPct":51.00283629313386,"effectiveDate":"2020-12-31"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Bùi Trung Định","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":173523,"ownershipPct":4.9533221967341525,"effectiveDate":"2022-06-30"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Trần Mai Phương","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":165385,"ownershipPct":4.721017914091376,"effectiveDate":"2022-03-04"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Vũ Quang Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":125202,"ownershipPct":3.573969131904758,"effectiveDate":"2022-09-05"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Nguyễn Tiến Cường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":115024,"ownershipPct":3.2834317776729836,"effectiveDate":"2022-03-29"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Nguyễn Tử Bình","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":110147,"ownershipPct":3.1442147727026195,"effectiveDate":"2023-12-07"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Lê Tự Cường","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":106211,"ownershipPct":3.0318591992838475,"effectiveDate":"2023-12-06"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Bùi Trương Định","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":98903,"ownershipPct":2.8232477840032613,"effectiveDate":"2020-06-30"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Dương Tú Oanh","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":61329,"ownershipPct":1.7506745330792393,"effectiveDate":"2020-12-31"},{"code":"PTH","shareholderType":"PERSON","shareholderName":"Bùi Quốc Hoài","roleType":"Chồng của Trưởng BKS","enRoleType":"Husband of Head of Control","numberOfShares":48298,"ownershipPct":1.3786965154928517,"effectiveDate":"2022-03-16"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PTH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Dịch vụ Xăng dầu Petrolimex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1786713,
+      "ownershipPct": 51.00283629313386,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Trung Định",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 173523,
+      "ownershipPct": 4.9533221967341525,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Mai Phương",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 165385,
+      "ownershipPct": 4.721017914091376,
+      "effectiveDate": "2022-03-04"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Quang Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 125202,
+      "ownershipPct": 3.573969131904758,
+      "effectiveDate": "2022-09-05"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiến Cường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 115024,
+      "ownershipPct": 3.2834317776729836,
+      "effectiveDate": "2022-03-29"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tử Bình",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 110147,
+      "ownershipPct": 3.1442147727026195,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tự Cường",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 108743,
+      "ownershipPct": 3.1041367175501917,
+      "effectiveDate": "2024-07-31"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Trương Định",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 98903,
+      "ownershipPct": 2.8232477840032613,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Tú Oanh",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 61329,
+      "ownershipPct": 1.7506745330792393,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Quốc Hoài",
+      "roleType": "Chồng của Trưởng BKS",
+      "enRoleType": "Husband of Head of Control",
+      "numberOfShares": 48298,
+      "ownershipPct": 1.3786965154928517,
+      "effectiveDate": "2022-03-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

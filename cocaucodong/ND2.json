@@ -1,1 +1,48 @@
-{"data":[{"code":"ND2","shareholderType":"COMPANY","shareholderName":"XNK & Xây dựng VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25546575,"ownershipPct":51.099322798194024,"effectiveDate":"2021-06-23"},{"code":"ND2","shareholderType":"COMPANY","shareholderName":"Toyota Tsusho Corporation","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17497886,"ownershipPct":35,"effectiveDate":"2022-12-31"},{"code":"ND2","shareholderType":"COMPANY","shareholderName":"CTCP VIMECO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":838700,"ownershipPct":1.6776026544006517,"effectiveDate":"2020-06-30"},{"code":"ND2","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán SME","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":700000,"ownershipPct":1.4001691404321641,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ND2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XNK & Xây dựng VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25546575,
+      "ownershipPct": 51.099322798194024,
+      "effectiveDate": "2021-06-23"
+    },
+    {
+      "code": "ND2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Toyota Tsusho Corporation",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17497886,
+      "ownershipPct": 35,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "ND2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP VIMECO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 838700,
+      "ownershipPct": 1.6776026544006517,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ND2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán SME",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 700000,
+      "ownershipPct": 1.4001691404321641,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

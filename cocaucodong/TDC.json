@@ -1,1 +1,38 @@
-{"data":[{"code":"TDC","shareholderType":"COMPANY","shareholderName":"Công ty Đầu tư và Phát triển công nghiệp (Becamex IDC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":60700500,"ownershipPct":60.7005,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Đầu tư và Phát triển công nghiệp (Becamex IDC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 60700500,
+      "ownershipPct": 47.71001666299871,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY CỔ PHẦN AN PHÚ GIA HOLDINGS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10150000,
+      "ownershipPct": 7.977803628132172,
+      "effectiveDate": "2025-05-12"
+    },
+    {
+      "code": "TDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY CỔ PHẦN ĐẦU TƯ HẢI ĐĂNG TBCONS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9700000,
+      "ownershipPct": 7.624107900776559,
+      "effectiveDate": "2025-05-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

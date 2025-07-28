@@ -1,1 +1,110 @@
-{"data":[{"code":"PNT","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Xây dựng Sài Gòn - TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3635809,"ownershipPct":39.169386546742004,"effectiveDate":"2020-06-30"},{"code":"PNT","shareholderType":"PERSON","shareholderName":"Dương Dũng Nhân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2707582,"ownershipPct":29.1693887013869,"effectiveDate":"2021-12-31"},{"code":"PNT","shareholderType":"COMPANY","shareholderName":"Công Ty Cổ Phần Đầu Tư Xây Dựng Kinh Doanh Nhà Bến Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":929000,"ownershipPct":10.008325547883105,"effectiveDate":"2023-12-25"},{"code":"PNT","shareholderType":"PERSON","shareholderName":"Lê Hữu Sơn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":266446,"ownershipPct":2.870482571508355,"effectiveDate":"2020-06-30"},{"code":"PNT","shareholderType":"PERSON","shareholderName":"Văn Bá Tuấn","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":249875,"ownershipPct":2.6919594685439083,"groupPct":3.8462458329167686,"effectiveDate":"2020-12-31"},{"code":"PNT","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Nhơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":138904,"ownershipPct":1.496443974061523,"effectiveDate":"2023-12-31"},{"code":"PNT","shareholderType":"PERSON","shareholderName":"Văn Bá Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":137574,"ownershipPct":1.4821155854945858,"effectiveDate":"2020-06-30"},{"code":"PNT","shareholderType":"PERSON","shareholderName":"Trần Thúy Vân","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":106699,"ownershipPct":1.149492279476404,"groupPct":3.8462458329167686,"effectiveDate":"2023-06-30"},{"code":"PNT","shareholderType":"PERSON","shareholderName":"Đỗ Quý Nhật Quang","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":102800,"ownershipPct":1.107487477203857,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PNT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Xây dựng Sài Gòn - TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3635809,
+      "ownershipPct": 39.169386546742004,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Dũng Nhân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2707582,
+      "ownershipPct": 29.1693887013869,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công Ty Cổ Phần Đầu Tư Xây Dựng Kinh Doanh Nhà Bến Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 929000,
+      "ownershipPct": 10.008325547883105,
+      "effectiveDate": "2023-12-25"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hữu Sơn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 266446,
+      "ownershipPct": 2.870482571508355,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Bá Tuấn",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 249875,
+      "ownershipPct": 2.6919594685439083,
+      "groupPct": 3.8462458329167686,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Bá Duy An",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 213485,
+      "ownershipPct": 2.2999218294831265,
+      "effectiveDate": "2024-09-30"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Nhơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 138904,
+      "ownershipPct": 1.496443974061523,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Bá Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 137574,
+      "ownershipPct": 1.4821155854945858,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thúy Vân",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 106699,
+      "ownershipPct": 1.149492279476404,
+      "groupPct": 3.8462458329167686,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Quý Nhật Quang",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 102800,
+      "ownershipPct": 1.107487477203857,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

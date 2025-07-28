@@ -1,1 +1,108 @@
-{"data":[{"code":"CMG","shareholderType":"COMPANY","shareholderName":"Samsung SDS Asia Pacific Pte. Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":56792116,"ownershipPct":29.82163723184526,"effectiveDate":"2023-12-05"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư MVI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25652208,"ownershipPct":13.470018288662441,"effectiveDate":"2023-12-05"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Xuất nhập khẩu tổng hợp Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14391647,"ownershipPct":7.557078450867619,"effectiveDate":"2023-12-05"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"XNK Tổng hợp I VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13641546,"ownershipPct":7.163199133019269,"effectiveDate":"2023-12-05"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"Tập đoàn GELEXIMCO - CTCP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11362689,"ownershipPct":5.966567425244,"effectiveDate":"2024-03-05"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10959279,"ownershipPct":5.75473614437222,"effectiveDate":"2024-05-30"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Mỹ Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9716878,"ownershipPct":5.102349254641227,"effectiveDate":"2023-12-05"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư CMC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9217189,"ownershipPct":4.839961706222648,"effectiveDate":"2024-03-26"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7151669,"ownershipPct":3.755353621975162,"effectiveDate":"2023-12-05"},{"code":"CMG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6957773,"ownershipPct":3.6535385007934496,"effectiveDate":"2023-12-05"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Samsung SDS Asia Pacific Pte. Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 56792116,
+      "ownershipPct": 26.87737770921055,
+      "effectiveDate": "2023-12-05"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư MVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25652208,
+      "ownershipPct": 12.14013725939059,
+      "effectiveDate": "2023-12-05"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Xuất nhập khẩu tổng hợp Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14391647,
+      "ownershipPct": 6.8109758804659934,
+      "effectiveDate": "2023-12-05"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XNK Tổng hợp I VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13641546,
+      "ownershipPct": 6.4559838619073515,
+      "effectiveDate": "2023-12-05"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn GELEXIMCO - CTCP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12612584,
+      "ownershipPct": 5.96901837672584,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10244499,
+      "ownershipPct": 4.848300934316829,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư CMC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10231079,
+      "ownershipPct": 4.841949799084298,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Mỹ Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9716878,
+      "ownershipPct": 4.598599569002119,
+      "effectiveDate": "2023-12-05"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7151669,
+      "ownershipPct": 3.384591427518779,
+      "effectiveDate": "2023-12-05"
+    },
+    {
+      "code": "CMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6957773,
+      "ownershipPct": 3.292828408364763,
+      "effectiveDate": "2023-12-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

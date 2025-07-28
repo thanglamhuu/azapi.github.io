@@ -1,1 +1,48 @@
-{"data":[{"code":"SVD","shareholderType":"PERSON","shareholderName":"Vũ Tuấn Phương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":5519060,"ownershipPct":19.99231468858043,"effectiveDate":"2022-11-09"},{"code":"SVD","shareholderType":"PERSON","shareholderName":"Vũ Phương Linh","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":1000000,"ownershipPct":3.622412999420269,"effectiveDate":"2023-06-21"},{"code":"SVD","shareholderType":"PERSON","shareholderName":"Trần Kim Phượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":391700,"ownershipPct":1.4188991718729194,"effectiveDate":"2021-11-02"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SVD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Tuấn Phương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 5519060,
+      "ownershipPct": 19.99231468858043,
+      "effectiveDate": "2024-12-06"
+    },
+    {
+      "code": "SVD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1370285,
+      "ownershipPct": 4.963738196910604,
+      "effectiveDate": "2025-06-25"
+    },
+    {
+      "code": "SVD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Phương Linh",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 1000000,
+      "ownershipPct": 3.622412999420269,
+      "effectiveDate": "2024-12-13"
+    },
+    {
+      "code": "SVD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Kim Phượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 391700,
+      "ownershipPct": 1.4188991718729194,
+      "effectiveDate": "2021-11-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"VND","shareholderType":"COMPANY","shareholderName":"Tập đoàn I.P.A","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330387521,"ownershipPct":21.70318209071323,"effectiveDate":"2024-05-29"},{"code":"VND","shareholderType":"PERSON","shareholderName":"Phạm Minh Hương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":37717018,"ownershipPct":2.477633861881571,"effectiveDate":"2024-05-29"},{"code":"VND","shareholderType":"COMPANY","shareholderName":"Yurie VietNam Securities Investment Trust","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20539830,"ownershipPct":1.3492630389096758,"effectiveDate":"2022-03-10"},{"code":"VND","shareholderType":"COMPANY","shareholderName":"VI (VIETNAM INVESTMENTS) FUND I, L.P.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16730155,"ownershipPct":1.0990051902440239,"effectiveDate":"2022-03-10"},{"code":"VND","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15808284,"ownershipPct":1.0384474121639373,"effectiveDate":"2022-03-10"},{"code":"VND","shareholderType":"COMPANY","shareholderName":"Pure Heart Value Investment Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15315678,"ownershipPct":1.006088085502269,"effectiveDate":"2022-03-10"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn I.P.A",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330387521,
+      "ownershipPct": 21.70318209071323,
+      "effectiveDate": "2024-05-29"
+    },
+    {
+      "code": "VND",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Hương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 37717018,
+      "ownershipPct": 2.477633861881571,
+      "effectiveDate": "2024-05-29"
+    },
+    {
+      "code": "VND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Yurie VietNam Securities Investment Trust",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20539830,
+      "ownershipPct": 1.3492630389096758,
+      "effectiveDate": "2022-03-10"
+    },
+    {
+      "code": "VND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VI (VIETNAM INVESTMENTS) FUND I, L.P.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16730155,
+      "ownershipPct": 1.0990051902440239,
+      "effectiveDate": "2022-03-10"
+    },
+    {
+      "code": "VND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15808284,
+      "ownershipPct": 1.0384474121639373,
+      "effectiveDate": "2022-03-10"
+    },
+    {
+      "code": "VND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Pure Heart Value Investment Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15315678,
+      "ownershipPct": 1.006088085502269,
+      "effectiveDate": "2022-03-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,38 @@
-{"data":[{"code":"DCH","shareholderType":"COMPANY","shareholderName":"Ủy Ban nhân dân Thành phố Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1561100,"ownershipPct":54.204861111111114,"effectiveDate":"2020-06-30"},{"code":"DCH","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thành Lê Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":747100,"ownershipPct":25.94097222222222,"effectiveDate":"2020-12-31"},{"code":"DCH","shareholderType":"PERSON","shareholderName":"Bùi Thị Minh Diệu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":288000,"ownershipPct":10,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy Ban nhân dân Thành phố Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1561100,
+      "ownershipPct": 54.204861111111114,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thành Lê Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 747100,
+      "ownershipPct": 25.94097222222222,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Minh Diệu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 288000,
+      "ownershipPct": 10,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

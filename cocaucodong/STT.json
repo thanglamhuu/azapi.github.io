@@ -1,1 +1,108 @@
-{"data":[{"code":"STT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Upraise","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1828881,"ownershipPct":22.8610125,"effectiveDate":"2019-05-24"},{"code":"STT","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hồng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1744368,"ownershipPct":21.8046,"effectiveDate":"2015-04-20"},{"code":"STT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Du lịch Thủy Thiên Tấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":966615,"ownershipPct":12.0826875,"effectiveDate":"2016-06-20"},{"code":"STT","shareholderType":"PERSON","shareholderName":"Shimabukuro Yoshinori","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":904600,"ownershipPct":11.3075,"effectiveDate":"2023-06-30"},{"code":"STT","shareholderType":"COMPANY","shareholderName":"Công đoàn và CTPC Vietnam Manpower Supply","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":904400,"ownershipPct":11.305,"effectiveDate":"2022-03-18"},{"code":"STT","shareholderType":"PERSON","shareholderName":"Shimabukuro Yoshihiko","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":819740,"ownershipPct":10.24675,"effectiveDate":"2023-06-30"},{"code":"STT","shareholderType":"PERSON","shareholderName":"Cao Thủy Tiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":482299,"ownershipPct":6.0287375,"effectiveDate":"2016-12-08"},{"code":"STT","shareholderType":"PERSON","shareholderName":"Ngô Nhã Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":444305,"ownershipPct":5.5538125,"effectiveDate":"2024-04-26"},{"code":"STT","shareholderType":"COMPANY","shareholderName":"New-S Securities Co., Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":332830,"ownershipPct":4.160375,"effectiveDate":"2020-06-30"},{"code":"STT","shareholderType":"PERSON","shareholderName":"Kakazu Shogo","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":300300,"ownershipPct":3.75375,"effectiveDate":"2021-02-09"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "STT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Upraise",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1828881,
+      "ownershipPct": 22.8610125,
+      "effectiveDate": "2019-05-24"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hồng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1744368,
+      "ownershipPct": 21.8046,
+      "effectiveDate": "2015-04-20"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Du lịch Thủy Thiên Tấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 966615,
+      "ownershipPct": 12.0826875,
+      "effectiveDate": "2016-06-20"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Shimabukuro Yoshinori",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 904600,
+      "ownershipPct": 11.3075,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn và CTPC Vietnam Manpower Supply",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 904400,
+      "ownershipPct": 11.305,
+      "effectiveDate": "2022-03-18"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Shimabukuro Yoshihiko",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 819740,
+      "ownershipPct": 10.24675,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Thủy Tiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 482299,
+      "ownershipPct": 6.0287375,
+      "effectiveDate": "2016-12-08"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Nhã Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 444305,
+      "ownershipPct": 5.5538125,
+      "effectiveDate": "2024-04-26"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "New-S Securities Co., Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 332830,
+      "ownershipPct": 4.160375,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "STT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kakazu Shogo",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 300300,
+      "ownershipPct": 3.75375,
+      "effectiveDate": "2021-02-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

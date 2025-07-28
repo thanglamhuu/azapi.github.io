@@ -1,1 +1,68 @@
-{"data":[{"code":"NTW","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Một Thành viên Xây dựng Cấp nước Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5243736,"ownershipPct":52.43736,"effectiveDate":"2020-06-30"},{"code":"NTW","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1467405,"ownershipPct":14.67405,"effectiveDate":"2020-06-30"},{"code":"NTW","shareholderType":"COMPANY","shareholderName":"KCN Tín Nghĩa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":382467,"ownershipPct":3.82467,"effectiveDate":"2020-06-30"},{"code":"NTW","shareholderType":"PERSON","shareholderName":"Đặng Nguyễn Thanh Liêm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":166600,"ownershipPct":1.666,"effectiveDate":"2020-06-30"},{"code":"NTW","shareholderType":"COMPANY","shareholderName":"Cấp nước Nhơn Trạch","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":150000,"ownershipPct":1.5,"effectiveDate":"2020-06-30"},{"code":"NTW","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Nguyễn Hoàng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":147000,"ownershipPct":1.47,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Một Thành viên Xây dựng Cấp nước Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5243736,
+      "ownershipPct": 52.43736,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NTW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Văn Hoàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1498905,
+      "ownershipPct": 14.98905,
+      "effectiveDate": "2024-09-26"
+    },
+    {
+      "code": "NTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KCN Tín Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 382467,
+      "ownershipPct": 3.82467,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NTW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Nguyễn Thanh Liêm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 166600,
+      "ownershipPct": 1.666,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cấp nước Nhơn Trạch",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 150000,
+      "ownershipPct": 1.5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Nguyễn Hoàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 147000,
+      "ownershipPct": 1.47,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

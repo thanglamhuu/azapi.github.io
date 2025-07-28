@@ -1,1 +1,108 @@
-{"data":[{"code":"SHI","shareholderType":"PERSON","shareholderName":"Lê Vĩnh Sơn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":17354178,"ownershipPct":10.72188094930785,"effectiveDate":"2022-08-26"},{"code":"SHI","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Đầu tư và Phát triển Hoàng Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12601359,"ownershipPct":7.785460711391172,"effectiveDate":"2022-08-26"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Đinh Văn Mạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8277895,"ownershipPct":5.11430761519622,"effectiveDate":"2022-08-26"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Đặng Hồng Nhung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8085500,"ownershipPct":4.995440776026881,"effectiveDate":"2023-12-26"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Nguyễn Thương Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7983039,"ownershipPct":4.932137596588072,"effectiveDate":"2023-07-13"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7919000,"ownershipPct":4.89257256884013,"effectiveDate":"2024-01-18"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Lê Phương Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7879125,"ownershipPct":4.867936714416276,"effectiveDate":"2024-01-15"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Đoàn Thị Tuyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6879957,"ownershipPct":4.250623676347978,"effectiveDate":"2023-11-23"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Trần Đa Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4312125,"ownershipPct":2.6641475550460596,"effectiveDate":"2020-05-11"},{"code":"SHI","shareholderType":"PERSON","shareholderName":"Dương Đình Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4223761,"ownershipPct":2.609553883815729,"effectiveDate":"2020-03-25"}],"currentPage":1,"size":10,"totalElements":18,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Vĩnh Sơn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 17354178,
+      "ownershipPct": 10.211370434410508,
+      "effectiveDate": "2022-08-26"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Đầu tư và Phát triển Hoàng Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12601359,
+      "ownershipPct": 7.414764601699531,
+      "effectiveDate": "2022-08-26"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Hồng Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8489775,
+      "ownershipPct": 4.995467802035768,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thương Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8382190,
+      "ownershipPct": 4.932163721128792,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8314950,
+      "ownershipPct": 4.892599038318131,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Mạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8277895,
+      "ownershipPct": 4.870795508848334,
+      "effectiveDate": "2022-08-26"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Phương Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8273081,
+      "ownershipPct": 4.8679629035084995,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Thị Tuyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7223954,
+      "ownershipPct": 4.250646172647389,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đa Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4527731,
+      "ownershipPct": 2.664161821341462,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "SHI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Đình Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4434949,
+      "ownershipPct": 2.6095679724339838,
+      "effectiveDate": "2025-06-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 18,
+  "totalPages": 2
+}

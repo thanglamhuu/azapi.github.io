@@ -1,1 +1,49 @@
-{"data":[{"code":"VAF","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25256888,"ownershipPct":67.0560325103063,"effectiveDate":"2020-06-30"},{"code":"VAF","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Hoàng Ngân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9215597,"ownershipPct":24.46704328870133,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25256888,
+      "ownershipPct": 67.0560325103063,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Hoàng Ngân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9215597,
+      "ownershipPct": 24.46704328870133,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nghiêm Thị Nhung",
+      "roleType": "Chị của Phó TGĐ",
+      "enRoleType": "Elder Sister of Deputy CEO",
+      "numberOfShares": 1010024,
+      "ownershipPct": 2.681573524821807,
+      "groupPct": 2.723150201612368,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "VAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Thạch",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 436107,
+      "ownershipPct": 1.1578467295722317,
+      "effectiveDate": "2025-07-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

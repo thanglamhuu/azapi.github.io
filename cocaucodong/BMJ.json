@@ -1,1 +1,78 @@
-{"data":[{"code":"BMJ","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25437707,"ownershipPct":24.226392695053708,"effectiveDate":"2022-05-20"},{"code":"BMJ","shareholderType":"PERSON","shareholderName":"Nguyễn Hải Đăng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13227500,"ownershipPct":12.597621687120734,"effectiveDate":"2022-05-20"},{"code":"BMJ","shareholderType":"PERSON","shareholderName":"Đào Quang Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5251400,"ownershipPct":5.001334381231966,"effectiveDate":"2022-08-09"},{"code":"BMJ","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4479600,"ownershipPct":4.266286608174337,"effectiveDate":"2022-06-30"},{"code":"BMJ","shareholderType":"COMPANY","shareholderName":"Bình Dương ACC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4479600,"ownershipPct":4.266286608174337,"effectiveDate":"2014-06-02"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BMJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25437707,
+      "ownershipPct": 24.226392695053708,
+      "effectiveDate": "2022-05-20"
+    },
+    {
+      "code": "BMJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hải Đăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13227500,
+      "ownershipPct": 12.597621687120734,
+      "effectiveDate": "2022-05-20"
+    },
+    {
+      "code": "BMJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Công Hân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10913750,
+      "ownershipPct": 10.39404979684853,
+      "effectiveDate": "2025-07-08"
+    },
+    {
+      "code": "BMJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Mạnh Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8377500,
+      "ownershipPct": 7.978573100272459,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "BMJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Quang Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5251400,
+      "ownershipPct": 5.001334381231966,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "BMJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4479600,
+      "ownershipPct": 4.266286608174337,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "BMJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bình Dương ACC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4479600,
+      "ownershipPct": 4.266286608174337,
+      "effectiveDate": "2014-06-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

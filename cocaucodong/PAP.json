@@ -1,1 +1,98 @@
-{"data":[{"code":"PAP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Hoành Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":40197900,"ownershipPct":20.09895,"effectiveDate":"2022-06-09"},{"code":"PAP","shareholderType":"COMPANY","shareholderName":"Tập đoàn Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":35000000,"ownershipPct":17.5,"effectiveDate":"2021-03-19"},{"code":"PAP","shareholderType":"PERSON","shareholderName":"Bùi Hữu Quốc Bảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16501100,"ownershipPct":8.25055,"effectiveDate":"2022-11-14"},{"code":"PAP","shareholderType":"PERSON","shareholderName":"Hoàng Thanh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12500000,"ownershipPct":6.25,"effectiveDate":"2022-11-14"},{"code":"PAP","shareholderType":"PERSON","shareholderName":"Võ Trung Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12500000,"ownershipPct":6.25,"effectiveDate":"2022-11-14"},{"code":"PAP","shareholderType":"PERSON","shareholderName":"Hà Văn Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12500000,"ownershipPct":6.25,"effectiveDate":"2022-11-14"},{"code":"PAP","shareholderType":"PERSON","shareholderName":"Trần Văn Nguyện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12000000,"ownershipPct":6,"effectiveDate":"2022-06-08"},{"code":"PAP","shareholderType":"PERSON","shareholderName":"Trần Nhân Tâm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":5208384,"ownershipPct":2.604192,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PAP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Hoành Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 40197900,
+      "ownershipPct": 17.326681034482757,
+      "effectiveDate": "2022-06-09"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35000000,
+      "ownershipPct": 15.086206896551724,
+      "effectiveDate": "2021-03-19"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hữu Quốc Bảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16501100,
+      "ownershipPct": 7.112543103448276,
+      "effectiveDate": "2022-11-14"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Văn Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12500000,
+      "ownershipPct": 5.387931034482759,
+      "effectiveDate": "2022-11-14"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Trung Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12500000,
+      "ownershipPct": 5.387931034482759,
+      "effectiveDate": "2022-11-14"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thanh Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12500000,
+      "ownershipPct": 5.387931034482759,
+      "effectiveDate": "2022-11-14"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Nguyện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12000000,
+      "ownershipPct": 5.172413793103448,
+      "effectiveDate": "2022-06-08"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Nhân Tâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 5208384,
+      "ownershipPct": 2.2449931034482757,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PAP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Mạnh Cường",
+      "roleType": "Bố của Thành viên BKS",
+      "enRoleType": "Father of Control member",
+      "numberOfShares": 5052632,
+      "ownershipPct": 2.1778586206896553,
+      "effectiveDate": "2024-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

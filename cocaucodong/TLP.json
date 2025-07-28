@@ -1,1 +1,38 @@
-{"data":[{"code":"TLP","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":85176000,"ownershipPct":36.00305858612672,"effectiveDate":"2018-12-25"},{"code":"TLP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH TM DV Thiết bị Hướng Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":37856000,"ownershipPct":16.001359371611873,"effectiveDate":"2020-12-31"},{"code":"TLP","shareholderType":"PERSON","shareholderName":"Lê Trọng Hiếu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":11724000,"ownershipPct":4.955619644779628,"effectiveDate":"2021-12-03"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TLP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 85176000,
+      "ownershipPct": 36.00305858612672,
+      "effectiveDate": "2018-12-25"
+    },
+    {
+      "code": "TLP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Trọng Hiếu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 11724000,
+      "ownershipPct": 4.955619644779628,
+      "effectiveDate": "2021-12-03"
+    },
+    {
+      "code": "TLP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH TM DV Thiết bị Hướng Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6700000,
+      "ownershipPct": 2.832024191404257,
+      "effectiveDate": "2024-10-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,1 +1,28 @@
-{"data":[{"code":"POW","shareholderType":"COMPANY","shareholderName":"Tập đoàn Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":584112097,"ownershipPct":24.94210600615337,"effectiveDate":"2022-06-30"},{"code":"POW","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29690000,"ownershipPct":1.267789403996359,"effectiveDate":"2019-10-07"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "POW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 584112097,
+      "ownershipPct": 24.94210600615337,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "POW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Norges Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29690000,
+      "ownershipPct": 1.267789403996359,
+      "effectiveDate": "2019-10-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

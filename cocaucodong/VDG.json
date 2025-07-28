@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "VDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3149999,
+      "ownershipPct": 54.54551279032075,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "VDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lai A Chánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1501500,
+      "ownershipPct": 26.00003601736591,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "VDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Sáng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 220000,
+      "ownershipPct": 3.8095290867935403,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "VDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "GUO GUOXING",
+      "roleType": "Em trai của Thành viên HĐQT",
+      "enRoleType": "Young Brother of Board member",
+      "numberOfShares": 200000,
+      "ownershipPct": 3.4632082607214003,
+      "effectiveDate": "2025-06-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

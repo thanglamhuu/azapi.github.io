@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "code": "BMK",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Minh Kha",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4097780,
+      "ownershipPct": 60.26147058823529,
+      "effectiveDate": "2024-10-30"
+    },
+    {
+      "code": "BMK",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Mẫn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1279400,
+      "ownershipPct": 18.814705882352943,
+      "effectiveDate": "2025-05-30"
+    },
+    {
+      "code": "BMK",
+      "shareholderType": "PERSON",
+      "shareholderName": "Johan Robert Fredriksson",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 326203,
+      "ownershipPct": 4.797102941176471,
+      "effectiveDate": "2024-10-30"
+    },
+    {
+      "code": "BMK",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Ngọc Anh Tâm",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 132908,
+      "ownershipPct": 1.9545294117647058,
+      "groupPct": 2.0359264705882354,
+      "effectiveDate": "2024-10-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

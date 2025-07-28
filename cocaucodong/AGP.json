@@ -1,1 +1,58 @@
-{"data":[{"code":"AGP","shareholderType":"COMPANY","shareholderName":"Dược Imexpharm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6521622,"ownershipPct":28.17852845373223,"effectiveDate":"2023-06-30"},{"code":"AGP","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Kha","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":3543123,"ownershipPct":15.309073765786042,"effectiveDate":"2024-06-30"},{"code":"AGP","shareholderType":"PERSON","shareholderName":"Phạm Uyên Nguyên","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3468591,"ownershipPct":14.987036995989577,"effectiveDate":"2024-06-13"},{"code":"AGP","shareholderType":"PERSON","shareholderName":"Phạm Thị Bích Thủy","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":405254,"ownershipPct":1.7510155249704447,"effectiveDate":"2024-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược Imexpharm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6521622,
+      "ownershipPct": 24.503311407572525,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Uyên Nguyên",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3815450,
+      "ownershipPct": 14.335568591682037,
+      "effectiveDate": "2025-05-05"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Kha",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 3359535,
+      "ownershipPct": 12.622585652716328,
+      "effectiveDate": "2025-05-05"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Liên phát Vũng Tàu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1815438,
+      "ownershipPct": 6.8210397129948115,
+      "effectiveDate": "2025-07-08"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Bích Thủy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 445779,
+      "ownershipPct": 1.6748995351089457,
+      "effectiveDate": "2025-05-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

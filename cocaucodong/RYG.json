@@ -1,0 +1,69 @@
+{
+  "data": [
+    {
+      "code": "RYG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Việt Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 9360000,
+      "ownershipPct": 20.8,
+      "effectiveDate": "2024-07-08"
+    },
+    {
+      "code": "RYG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Na Vi",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 8874000,
+      "ownershipPct": 19.72,
+      "groupPct": 19.776666666666667,
+      "effectiveDate": "2024-07-08"
+    },
+    {
+      "code": "RYG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lê",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4816600,
+      "ownershipPct": 10.703555555555555,
+      "effectiveDate": "2025-04-24"
+    },
+    {
+      "code": "RYG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Vi Na",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2674000,
+      "ownershipPct": 5.942222222222222,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "RYG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Bá Hiệu",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1840600,
+      "ownershipPct": 4.090222222222223,
+      "effectiveDate": "2024-11-06"
+    },
+    {
+      "code": "RYG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Xuân Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 720000,
+      "ownershipPct": 1.6,
+      "effectiveDate": "2024-11-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"V12","shareholderType":"PERSON","shareholderName":"Lê Phùng Hòa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2310000,"ownershipPct":19.852182880715024,"effectiveDate":"2023-05-11"},{"code":"V12","shareholderType":"COMPANY","shareholderName":"XNK & Xây dựng VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2094480,"ownershipPct":18,"effectiveDate":"2017-12-20"},{"code":"V12","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Tới","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1525049,"ownershipPct":13.106299415606738,"effectiveDate":"2023-05-11"},{"code":"V12","shareholderType":"PERSON","shareholderName":"Đinh Thị Hằng","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":1245600,"ownershipPct":10.704709522172568,"effectiveDate":"2023-05-11"},{"code":"V12","shareholderType":"PERSON","shareholderName":"Ngô Văn Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":182175,"ownershipPct":1.5656153317291166,"effectiveDate":"2013-02-20"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "V12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Phùng Hòa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2310000,
+      "ownershipPct": 19.852182880715024,
+      "effectiveDate": "2023-05-11"
+    },
+    {
+      "code": "V12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1803580,
+      "ownershipPct": 15.5,
+      "effectiveDate": "2025-05-21"
+    },
+    {
+      "code": "V12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Tới",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1525049,
+      "ownershipPct": 13.106299415606738,
+      "effectiveDate": "2023-05-11"
+    },
+    {
+      "code": "V12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Hằng",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 1245600,
+      "ownershipPct": 10.704709522172568,
+      "effectiveDate": "2023-05-11"
+    },
+    {
+      "code": "V12",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XNK & Xây dựng VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 290900,
+      "ownershipPct": 2.5,
+      "effectiveDate": "2025-05-21"
+    },
+    {
+      "code": "V12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Văn Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 182175,
+      "ownershipPct": 1.5656153317291166,
+      "effectiveDate": "2013-02-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

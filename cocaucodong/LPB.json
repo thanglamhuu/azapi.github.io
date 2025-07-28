@@ -1,1 +1,48 @@
-{"data":[{"code":"LPB","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Bưu điện Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":167196958,"ownershipPct":6.537217893740638,"effectiveDate":"2023-08-22"},{"code":"LPB","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Thụy","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":61629839,"ownershipPct":2.4096591894880923,"effectiveDate":"2023-09-26"},{"code":"LPB","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38312034,"ownershipPct":1.497958558614444,"effectiveDate":"2023-08-22"},{"code":"LPB","shareholderType":"PERSON","shareholderName":"Phạm Doãn Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38003273,"ownershipPct":1.4858863417617352,"effectiveDate":"2023-08-22"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LPB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Bưu điện Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 167196958,
+      "ownershipPct": 5.596959122139821,
+      "effectiveDate": "2023-08-22"
+    },
+    {
+      "code": "LPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Thụy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 82592801,
+      "ownershipPct": 2.7648142436899414,
+      "effectiveDate": "2024-12-27"
+    },
+    {
+      "code": "LPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38312034,
+      "ownershipPct": 1.2825047222691155,
+      "effectiveDate": "2023-08-22"
+    },
+    {
+      "code": "LPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Doãn Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38003273,
+      "ownershipPct": 1.272168872166442,
+      "effectiveDate": "2023-08-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

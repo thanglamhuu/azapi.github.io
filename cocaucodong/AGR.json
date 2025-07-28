@@ -1,1 +1,28 @@
-{"data":[{"code":"AGR","shareholderType":"COMPANY","shareholderName":"Ngân hàng Nông nghiệp và Phát triển nông thôn ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":161377399,"ownershipPct":74.92290889683352,"effectiveDate":"2022-12-28"},{"code":"AGR","shareholderType":"PERSON","shareholderName":"Hà Huy Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3553155,"ownershipPct":1.6496282007948864,"effectiveDate":"2012-07-06"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AGR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Nông nghiệp và Phát triển nông thôn ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 161377399,
+      "ownershipPct": 70.68290643054698,
+      "effectiveDate": "2022-12-28"
+    },
+    {
+      "code": "AGR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Huy Toàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3766344,
+      "ownershipPct": 1.6496494688035714,
+      "effectiveDate": "2025-06-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

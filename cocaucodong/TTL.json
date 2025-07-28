@@ -1,1 +1,48 @@
-{"data":[{"code":"TTL","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư và Xây dựng TNG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20995908,"ownershipPct":50.16499855448861,"effectiveDate":"2022-07-05"},{"code":"TTL","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10500000,"ownershipPct":25.08738773393989,"effectiveDate":"2022-08-16"},{"code":"TTL","shareholderType":"COMPANY","shareholderName":"Bảo hiểm Sài Gòn - Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3000000,"ownershipPct":7.167825066839969,"effectiveDate":"2020-06-30"},{"code":"TTL","shareholderType":"COMPANY","shareholderName":"Ngân hàng SG HN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3000000,"ownershipPct":7.167825066839969,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TTL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư và Xây dựng TNG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20995908,
+      "ownershipPct": 50.16499855448861,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "TTL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Tuấn Vũ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10500000,
+      "ownershipPct": 25.08738773393989,
+      "effectiveDate": "2025-01-08"
+    },
+    {
+      "code": "TTL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bảo hiểm Sài Gòn - Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3000000,
+      "ownershipPct": 7.167825066839969,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TTL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng SG HN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3000000,
+      "ownershipPct": 7.167825066839969,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

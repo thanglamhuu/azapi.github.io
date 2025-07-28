@@ -1,1 +1,48 @@
-{"data":[{"code":"PDV","shareholderType":"COMPANY","shareholderName":"TCT V.tải dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22350244,"ownershipPct":51.871962085560604,"effectiveDate":"2023-12-31"},{"code":"PDV","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tân Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8040000,"ownershipPct":18.65977727884793,"effectiveDate":"2023-06-30"},{"code":"PDV","shareholderType":"PERSON","shareholderName":"Võ Thị Minh Ngọc","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":570620,"ownershipPct":1.3243335958776374,"effectiveDate":"2023-10-03"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT V.tải dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 34285274,
+      "ownershipPct": 51.87196144466668,
+      "effectiveDate": "2024-09-16"
+    },
+    {
+      "code": "PDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tân Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15081703,
+      "ownershipPct": 22.817887251999615,
+      "effectiveDate": "2024-09-16"
+    },
+    {
+      "code": "PDV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Thủy",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 2000000,
+      "ownershipPct": 3.0259032752467827,
+      "effectiveDate": "2024-09-16"
+    },
+    {
+      "code": "PDV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Minh Ngọc",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 875331,
+      "ownershipPct": 1.3243334699125209,
+      "effectiveDate": "2024-09-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

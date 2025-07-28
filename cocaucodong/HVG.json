@@ -1,1 +1,88 @@
-{"data":[{"code":"HVG","shareholderType":"PERSON","shareholderName":"Dương Ngọc Minh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":86880636,"ownershipPct":38.26695295200227,"effectiveDate":"2020-06-30"},{"code":"HVG","shareholderType":"PERSON","shareholderName":"Nguyễn Vũ Lê","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11909000,"ownershipPct":5.2453707026890894,"effectiveDate":"2022-01-28"},{"code":"HVG","shareholderType":"PERSON","shareholderName":"Phạm Thị Thu Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11766060,"ownershipPct":5.1824121597180275,"effectiveDate":"2021-09-24"},{"code":"HVG","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8644525,"ownershipPct":3.807518529991049,"effectiveDate":"2020-06-30"},{"code":"HVG","shareholderType":"COMPANY","shareholderName":"Chứng khoán SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7979982,"ownershipPct":3.5148176833307825,"effectiveDate":"2020-06-30"},{"code":"HVG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quản lý quỹ SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6908021,"ownershipPct":3.0426678114838346,"effectiveDate":"2020-06-30"},{"code":"HVG","shareholderType":"PERSON","shareholderName":"Lê Nam Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4086689,"ownershipPct":1.7999998951718676,"effectiveDate":"2020-06-30"},{"code":"HVG","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2433610,"ownershipPct":1.0718940797523886,"effectiveDate":"2010-07-26"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HVG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Ngọc Minh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 86880636,
+      "ownershipPct": 38.26695295200227,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HVG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Vũ Lê",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11909000,
+      "ownershipPct": 5.2453707026890894,
+      "effectiveDate": "2022-01-28"
+    },
+    {
+      "code": "HVG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thu Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11766060,
+      "ownershipPct": 5.1824121597180275,
+      "effectiveDate": "2021-09-24"
+    },
+    {
+      "code": "HVG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8644525,
+      "ownershipPct": 3.807518529991049,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HVG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7979982,
+      "ownershipPct": 3.5148176833307825,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HVG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quản lý quỹ SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6908021,
+      "ownershipPct": 3.0426678114838346,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HVG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Nam Thành",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4086689,
+      "ownershipPct": 1.7999998951718676,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HVG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2433610,
+      "ownershipPct": 1.0718940797523886,
+      "effectiveDate": "2010-07-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

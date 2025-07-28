@@ -1,1 +1,78 @@
-{"data":[{"code":"VGP","shareholderType":"PERSON","shareholderName":"Trần Thị Anh Thơ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1112759,"ownershipPct":14.218886924761069,"effectiveDate":"2021-11-15"},{"code":"VGP","shareholderType":"PERSON","shareholderName":"Võ Văn Nhu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":912433,"ownershipPct":11.659111859279967,"effectiveDate":"2012-07-18"},{"code":"VGP","shareholderType":"PERSON","shareholderName":"Lê Anh Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":508332,"ownershipPct":6.495490243833251,"effectiveDate":"2016-11-18"},{"code":"VGP","shareholderType":"PERSON","shareholderName":"Phạm Ngọc Quỳnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":416000,"ownershipPct":5.315667598015927,"effectiveDate":"2024-04-12"},{"code":"VGP","shareholderType":"COMPANY","shareholderName":"Cảng rau quả","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":388770,"ownershipPct":4.967721375193875,"effectiveDate":"2015-08-21"},{"code":"VGP","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần VINACAM","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":200000,"ownershipPct":2.555609422123042,"effectiveDate":"2007-09-12"},{"code":"VGP","shareholderType":"PERSON","shareholderName":"Huỳnh Kim Sắt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":129592,"ownershipPct":1.6559326811588462,"effectiveDate":"2020-06-30"},{"code":"VGP","shareholderType":"PERSON","shareholderName":"Huỳnh Nguyễn Đức Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":100000,"ownershipPct":1.277804711061521,"effectiveDate":"2014-05-05"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phù Đổng Invest",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1471322,
+      "ownershipPct": 18.80062183088459,
+      "effectiveDate": "2024-12-20"
+    },
+    {
+      "code": "VGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Ngọc Quỳnh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1278759,
+      "ownershipPct": 16.340042745123196,
+      "effectiveDate": "2024-09-30"
+    },
+    {
+      "code": "VGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Văn Nhu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 912433,
+      "ownershipPct": 11.659111859279967,
+      "effectiveDate": "2012-07-18"
+    },
+    {
+      "code": "VGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng rau quả",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 388770,
+      "ownershipPct": 4.967721375193875,
+      "effectiveDate": "2015-08-21"
+    },
+    {
+      "code": "VGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần VINACAM",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 200000,
+      "ownershipPct": 2.555609422123042,
+      "effectiveDate": "2007-09-12"
+    },
+    {
+      "code": "VGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Kim Sắt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 129592,
+      "ownershipPct": 1.6559326811588462,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Nguyễn Đức Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 100000,
+      "ownershipPct": 1.277804711061521,
+      "effectiveDate": "2014-05-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

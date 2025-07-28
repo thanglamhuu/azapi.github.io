@@ -1,1 +1,58 @@
-{"data":[{"code":"PWA","shareholderType":"COMPANY","shareholderName":"TCT Môi trường VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2490000,"ownershipPct":24.9,"effectiveDate":"2020-06-30"},{"code":"PWA","shareholderType":"PERSON","shareholderName":"Huỳnh Văn Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":507700,"ownershipPct":5.077,"effectiveDate":"2022-01-18"},{"code":"PWA","shareholderType":"COMPANY","shareholderName":"CK Dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":464750,"ownershipPct":4.6475,"effectiveDate":"2019-07-29"},{"code":"PWA","shareholderType":"PERSON","shareholderName":"Lê Thị Hiền","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":341600,"ownershipPct":3.416,"effectiveDate":"2021-12-31"},{"code":"PWA","shareholderType":"PERSON","shareholderName":"Vũ Thị Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":334100,"ownershipPct":3.341,"effectiveDate":"2021-08-24"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PWA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Môi trường VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2490000,
+      "ownershipPct": 24.9,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PWA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Văn Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 507700,
+      "ownershipPct": 5.077,
+      "effectiveDate": "2022-01-18"
+    },
+    {
+      "code": "PWA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 464750,
+      "ownershipPct": 4.6475,
+      "effectiveDate": "2019-07-29"
+    },
+    {
+      "code": "PWA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hiền",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 341600,
+      "ownershipPct": 3.416,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "PWA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 334100,
+      "ownershipPct": 3.341,
+      "effectiveDate": "2021-08-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

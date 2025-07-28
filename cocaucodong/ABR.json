@@ -1,1 +1,78 @@
-{"data":[{"code":"ABR","shareholderType":"COMPANY","shareholderName":"Đầu tư Kinh doanh và Phát triển Quang Thái","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7940350,"ownershipPct":39.70175,"effectiveDate":"2021-04-06"},{"code":"ABR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Phát triển Đổng Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4950000,"ownershipPct":24.75,"effectiveDate":"2021-03-16"},{"code":"ABR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Phát triển Đồng Thịnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2870000,"ownershipPct":14.35,"effectiveDate":"2021-04-06"},{"code":"ABR","shareholderType":"PERSON","shareholderName":"Lan Wan-Chen","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":977300,"ownershipPct":4.8865,"effectiveDate":"2020-12-31"},{"code":"ABR","shareholderType":"PERSON","shareholderName":"Tsai Hsiu-Li","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":872300,"ownershipPct":4.3615,"effectiveDate":"2023-08-30"},{"code":"ABR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Phát triển Vũ Thịnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":730050,"ownershipPct":3.65025,"effectiveDate":"2019-06-10"},{"code":"ABR","shareholderType":"PERSON","shareholderName":"Phạm Hải Thùy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":474700,"ownershipPct":2.3735,"effectiveDate":"2018-12-24"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ABR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư Kinh doanh và Phát triển Quang Thái",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7940350,
+      "ownershipPct": 39.70175,
+      "effectiveDate": "2021-04-06"
+    },
+    {
+      "code": "ABR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phát triển Đổng Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4950000,
+      "ownershipPct": 24.75,
+      "effectiveDate": "2021-03-16"
+    },
+    {
+      "code": "ABR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phát triển Đồng Thịnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2870000,
+      "ownershipPct": 14.35,
+      "effectiveDate": "2021-04-06"
+    },
+    {
+      "code": "ABR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lan Wan-Chen",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 977300,
+      "ownershipPct": 4.8865,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "ABR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tsai Hsiu-Li",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 872300,
+      "ownershipPct": 4.3615,
+      "effectiveDate": "2023-08-30"
+    },
+    {
+      "code": "ABR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phát triển Vũ Thịnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 730050,
+      "ownershipPct": 3.65025,
+      "effectiveDate": "2019-06-10"
+    },
+    {
+      "code": "ABR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Hải Thùy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 474700,
+      "ownershipPct": 2.3735,
+      "effectiveDate": "2018-12-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

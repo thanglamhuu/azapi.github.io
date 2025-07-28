@@ -1,1 +1,69 @@
-{"data":[{"code":"MBG","shareholderType":"PERSON","shareholderName":"Phạm Huy Thành","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":11513484,"ownershipPct":9.577128452899196,"effectiveDate":"2022-09-29"},{"code":"MBG","shareholderType":"PERSON","shareholderName":"Đặng Thị Tuyết Lan","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":11220629,"ownershipPct":9.333526259759934,"groupPct":9.333637723432675,"effectiveDate":"2022-09-29"},{"code":"MBG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH AAI Quốc tế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4628820,"ownershipPct":3.8503378929739123,"effectiveDate":"2022-09-29"},{"code":"MBG","shareholderType":"COMPANY","shareholderName":"CÔNG TY TNHH QUANG NGÂN VIỆT NAM","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4628820,"ownershipPct":3.8503378929739123,"effectiveDate":"2022-09-29"},{"code":"MBG","shareholderType":"PERSON","shareholderName":"Trần Thị Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4050217,"ownershipPct":3.3690452404429467,"effectiveDate":"2022-09-29"},{"code":"MBG","shareholderType":"PERSON","shareholderName":"Trần Minh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4050217,"ownershipPct":3.3690452404429467,"effectiveDate":"2022-09-29"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MBG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Huy Thành",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 11513484,
+      "ownershipPct": 9.577128452899196,
+      "effectiveDate": "2022-09-29"
+    },
+    {
+      "code": "MBG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Tuyết Lan",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 11220629,
+      "ownershipPct": 9.333526259759934,
+      "groupPct": 9.333637723432675,
+      "effectiveDate": "2022-09-29"
+    },
+    {
+      "code": "MBG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH AAI Quốc tế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4628820,
+      "ownershipPct": 3.8503378929739123,
+      "effectiveDate": "2022-09-29"
+    },
+    {
+      "code": "MBG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY TNHH QUANG NGÂN VIỆT NAM",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4628820,
+      "ownershipPct": 3.8503378929739123,
+      "effectiveDate": "2022-09-29"
+    },
+    {
+      "code": "MBG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4050217,
+      "ownershipPct": 3.3690452404429467,
+      "effectiveDate": "2022-09-29"
+    },
+    {
+      "code": "MBG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4050217,
+      "ownershipPct": 3.3690452404429467,
+      "effectiveDate": "2022-09-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

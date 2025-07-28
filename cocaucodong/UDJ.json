@@ -1,1 +1,28 @@
-{"data":[{"code":"UDJ","shareholderType":"COMPANY","shareholderName":"TCT ĐTPT C.Nghiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8415000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"UDJ","shareholderType":"PERSON","shareholderName":"Nguyen Susan Ha","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":787200,"ownershipPct":4.7709090909090905,"effectiveDate":"2022-04-04"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "UDJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT ĐTPT C.Nghiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8415000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "UDJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyen Susan Ha",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 787200,
+      "ownershipPct": 4.7709090909090905,
+      "effectiveDate": "2022-04-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

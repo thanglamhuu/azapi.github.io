@@ -1,1 +1,109 @@
-{"data":[{"code":"THG","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Nghĩa","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1279205,"ownershipPct":4.93104067564553,"effectiveDate":"2024-06-17"},{"code":"THG","shareholderType":"PERSON","shareholderName":"Trần Hoàng Huân","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1192937,"ownershipPct":4.598497403060926,"groupPct":5.749601021699,"effectiveDate":"2024-06-17"},{"code":"THG","shareholderType":"PERSON","shareholderName":"Vũ Huy Giáp","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1035005,"ownershipPct":3.9897059146082934,"effectiveDate":"2023-06-15"},{"code":"THG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1019067,"ownershipPct":3.928268595110294,"effectiveDate":"2024-06-17"},{"code":"THG","shareholderType":"PERSON","shareholderName":"Nguyễn Hoài Bắc","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":676603,"ownershipPct":2.608148744152652,"effectiveDate":"2024-06-17"},{"code":"THG","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Xây dựng Gia Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":655400,"ownershipPct":2.5264160621777436,"effectiveDate":"2024-06-17"},{"code":"THG","shareholderType":"PERSON","shareholderName":"Nguyễn Chí Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":543751,"ownershipPct":2.0960348798065462,"effectiveDate":"2023-06-15"},{"code":"THG","shareholderType":"COMPANY","shareholderName":"BCH Công đoàn Cơ sở CTCP Đầu tư và Xây dựng Tiền Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":425500,"ownershipPct":1.6402045078679126,"effectiveDate":"2023-06-15"},{"code":"THG","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Gia Thy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":417719,"ownershipPct":1.6102105448227417,"effectiveDate":"2024-06-17"},{"code":"THG","shareholderType":"PERSON","shareholderName":"Lê Quốc Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":414828,"ownershipPct":1.599066405616523,"effectiveDate":"2023-06-15"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "THG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Nghĩa",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1279205,
+      "ownershipPct": 4.109247740444583,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hoàng Huân",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1192937,
+      "ownershipPct": 3.832125165038238,
+      "groupPct": 4.791389193677964,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Huy Giáp",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1035005,
+      "ownershipPct": 3.324793100088606,
+      "effectiveDate": "2023-06-15"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1019067,
+      "ownershipPct": 3.2735947460427686,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoài Bắc",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 676603,
+      "ownershipPct": 2.173482240085073,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Xây dựng Gia Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 655400,
+      "ownershipPct": 2.1053708898006023,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Chí Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 543751,
+      "ownershipPct": 1.7467157868476768,
+      "effectiveDate": "2023-06-15"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "BCH Công đoàn Cơ sở CTCP Đầu tư và Xây dựng Tiền Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 444000,
+      "ownershipPct": 1.426281164283594,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Gia Thy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 417719,
+      "ownershipPct": 1.3418575262688706,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "THG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quốc Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 414828,
+      "ownershipPct": 1.3325706369762043,
+      "effectiveDate": "2023-06-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

@@ -1,1 +1,108 @@
-{"data":[{"code":"TDH","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Nghĩa","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":20741296,"ownershipPct":18.411705768398924,"effectiveDate":"2023-10-27"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Việt Thái Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6896029,"ownershipPct":6.121491006075332,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"Công ty Đầu tư Tài chính nhà nước TP.HCM (HFIC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6757430,"ownershipPct":5.998458963728782,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"PXP VietNam Emerging Equity Fund Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5410742,"ownershipPct":4.803026276309751,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"Vietnam Equity Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5147409,"ownershipPct":4.5692699230370435,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"Grinling International Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3784698,"ownershipPct":3.359613883252419,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"J.P MORGAN SECURITIES PLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3651122,"ownershipPct":3.241040675015111,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"Citigroup Global Market LTD & Citigroup Global Market Financial Products LTD.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3589425,"ownershipPct":3.1862732674821914,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"Red River Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3418291,"ownershipPct":3.034360443183788,"effectiveDate":"2020-08-13"},{"code":"TDH","shareholderType":"COMPANY","shareholderName":"Yurie VietNam Securities Investment Trust","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2991408,"ownershipPct":2.655423457108692,"effectiveDate":"2020-08-13"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Việt Thái Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6896029,
+      "ownershipPct": 6.121491006075332,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Đầu tư Tài chính nhà nước TP.HCM (HFIC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6757430,
+      "ownershipPct": 5.998458963728782,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PXP VietNam Emerging Equity Fund Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5410742,
+      "ownershipPct": 4.803026276309751,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Equity Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5147409,
+      "ownershipPct": 4.5692699230370435,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Grinling International Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3784698,
+      "ownershipPct": 3.359613883252419,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "J.P MORGAN SECURITIES PLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3651122,
+      "ownershipPct": 3.241040675015111,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Citigroup Global Market LTD & Citigroup Global Market Financial Products LTD.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3589425,
+      "ownershipPct": 3.1862732674821914,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Red River Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3418291,
+      "ownershipPct": 3.034360443183788,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Yurie VietNam Securities Investment Trust",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2991408,
+      "ownershipPct": 2.655423457108692,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "TDH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP DBA - RHINO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2920087,
+      "ownershipPct": 2.5921129837849435,
+      "effectiveDate": "2020-08-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

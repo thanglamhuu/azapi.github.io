@@ -1,1 +1,78 @@
-{"data":[{"code":"VIE","shareholderType":"COMPANY","shareholderName":"CTCP Phát triển Dịch vụ Viễn thông ITC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1500000,"ownershipPct":29.636982528406058,"effectiveDate":"2022-12-19"},{"code":"VIE","shareholderType":"PERSON","shareholderName":"Đỗ Nam Anh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":950000,"ownershipPct":18.77008893465717,"effectiveDate":"2022-12-19"},{"code":"VIE","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Đồng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":752900,"ownershipPct":14.875789430424614,"effectiveDate":"2024-04-01"},{"code":"VIE","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng Thái","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":633365,"ownershipPct":12.514018292735937,"effectiveDate":"2023-09-22"},{"code":"VIE","shareholderType":"PERSON","shareholderName":"Đinh Thị Hương Loan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":435100,"ownershipPct":8.596700732072984,"effectiveDate":"2023-09-27"},{"code":"VIE","shareholderType":"PERSON","shareholderName":"Ngô Quang Vinh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":300000,"ownershipPct":5.927396505681212,"effectiveDate":"2023-09-22"},{"code":"VIE","shareholderType":"PERSON","shareholderName":"Đỗ Mạnh Tuấn","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":59900,"ownershipPct":1.1835035023010154,"effectiveDate":"2023-09-08"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VIE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Phát triển Dịch vụ Viễn thông ITC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1500000,
+      "ownershipPct": 29.636982528406058,
+      "effectiveDate": "2022-12-19"
+    },
+    {
+      "code": "VIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Nam Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 950000,
+      "ownershipPct": 18.77008893465717,
+      "effectiveDate": "2022-12-19"
+    },
+    {
+      "code": "VIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Đồng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 752900,
+      "ownershipPct": 14.875789430424614,
+      "effectiveDate": "2024-04-01"
+    },
+    {
+      "code": "VIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng Thái",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 633365,
+      "ownershipPct": 12.514018292735937,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "VIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Hương Loan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 435100,
+      "ownershipPct": 8.596700732072984,
+      "effectiveDate": "2023-09-27"
+    },
+    {
+      "code": "VIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Quang Vinh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 300000,
+      "ownershipPct": 5.927396505681212,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "VIE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Mạnh Tuấn",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 59900,
+      "ownershipPct": 1.1835035023010154,
+      "effectiveDate": "2023-09-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"MFS","shareholderType":"COMPANY","shareholderName":"Tổng công ty Viễn thông MobiFone","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2208000,"ownershipPct":31.261596558619246,"effectiveDate":"2020-06-30"},{"code":"MFS","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":338940,"ownershipPct":4.798824971729351,"effectiveDate":"2024-07-12"},{"code":"MFS","shareholderType":"COMPANY","shareholderName":"Công ty tài chính TNHH MTV Bưu điện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":309120,"ownershipPct":4.376623518206694,"effectiveDate":"2020-06-30"},{"code":"MFS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thiên Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":299400,"ownershipPct":4.239004533356251,"effectiveDate":"2019-06-17"},{"code":"MFS","shareholderType":"PERSON","shareholderName":"Lê Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":245800,"ownershipPct":3.480117950230349,"effectiveDate":"2019-04-16"},{"code":"MFS","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Chiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":230598,"ownershipPct":3.2648829905907975,"effectiveDate":"2020-06-30"},{"code":"MFS","shareholderType":"PERSON","shareholderName":"Phan Tiến Dũng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":139345,"ownershipPct":1.972892741150724,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MFS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Viễn thông MobiFone",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2208000,
+      "ownershipPct": 31.261596558619246,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MFS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 338940,
+      "ownershipPct": 4.798824971729351,
+      "effectiveDate": "2024-07-12"
+    },
+    {
+      "code": "MFS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty tài chính TNHH MTV Bưu điện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 309120,
+      "ownershipPct": 4.376623518206694,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MFS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thiên Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 299400,
+      "ownershipPct": 4.239004533356251,
+      "effectiveDate": "2019-06-17"
+    },
+    {
+      "code": "MFS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 245800,
+      "ownershipPct": 3.480117950230349,
+      "effectiveDate": "2019-04-16"
+    },
+    {
+      "code": "MFS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Chiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 230598,
+      "ownershipPct": 3.2648829905907975,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

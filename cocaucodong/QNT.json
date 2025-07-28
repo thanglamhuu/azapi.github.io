@@ -1,1 +1,48 @@
-{"data":[{"code":"QNT","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Dũng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2492100,"ownershipPct":77.3463687150838,"effectiveDate":"2022-06-30"},{"code":"QNT","shareholderType":"PERSON","shareholderName":"Dương Lan Hương","roleType":"Chị của Thành viên HĐQT","enRoleType":"Elder Sister of Board member","numberOfShares":159000,"ownershipPct":4.934823091247672,"effectiveDate":"2022-06-30"},{"code":"QNT","shareholderType":"PERSON","shareholderName":"Hoàng Văn Anh","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":145200,"ownershipPct":4.506517690875233,"effectiveDate":"2022-06-30"},{"code":"QNT","shareholderType":"PERSON","shareholderName":"Lê Thị Nhung","roleType":"Vợ của Thành viên BKS","enRoleType":"Wife of Control member","numberOfShares":144500,"ownershipPct":4.484792054624457,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "QNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Dũng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2492100,
+      "ownershipPct": 77.3463687150838,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "QNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Lan Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 159000,
+      "ownershipPct": 4.934823091247672,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "QNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 145200,
+      "ownershipPct": 4.506517690875233,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "QNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 144500,
+      "ownershipPct": 4.484792054624457,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

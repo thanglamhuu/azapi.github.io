@@ -1,1 +1,109 @@
-{"data":[{"code":"SBT","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư Thành Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":166570976,"ownershipPct":21.856486283886714,"effectiveDate":"2023-07-24"},{"code":"SBT","shareholderType":"PERSON","shareholderName":"Đặng Huỳnh Ức My","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":123361826,"ownershipPct":16.18682991882223,"groupPct":16.202273836468564,"effectiveDate":"2023-06-20"},{"code":"SBT","shareholderType":"PERSON","shareholderName":"Huỳnh Bích Ngọc","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":69265703,"ownershipPct":9.088647517820096,"effectiveDate":"2024-04-09"},{"code":"SBT","shareholderType":"PERSON","shareholderName":"Huỳnh Bích Ngọc","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":69265703,"ownershipPct":9.088647517820096,"effectiveDate":"2024-04-09"},{"code":"SBT","shareholderType":"COMPANY","shareholderName":"Legendary Venture Fund 1","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":52006033,"ownershipPct":6.82393280173768,"effectiveDate":"2023-06-20"},{"code":"SBT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại Đầu tư Thuận Thiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":44607127,"ownershipPct":5.853090873641112,"effectiveDate":"2023-06-20"},{"code":"SBT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đặng Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38561237,"ownershipPct":5.059783930065973,"effectiveDate":"2023-06-20"},{"code":"SBT","shareholderType":"COMPANY","shareholderName":"Agri Asia Pacific Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29943752,"ownershipPct":3.9290470680564744,"effectiveDate":"2023-06-20"},{"code":"SBT","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần xuất nhập khẩu Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25215597,"ownershipPct":3.3086457389222175,"effectiveDate":"2023-06-20"},{"code":"SBT","shareholderType":"COMPANY","shareholderName":"Sacombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16364590,"ownershipPct":2.1472674619882737,"effectiveDate":"2023-06-20"}],"currentPage":1,"size":10,"totalElements":18,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 183228073,
+      "ownershipPct": 22.494529393965813,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Legendary Venture Fund 1",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 134211036,
+      "ownershipPct": 16.476809720618544,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Huỳnh Ức My",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 82470473,
+      "ownershipPct": 10.124728425391256,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Huỳnh Ức My",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 82470473,
+      "ownershipPct": 10.124728425391256,
+      "groupPct": 10.139178209566357,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Bích Ngọc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 76192273,
+      "ownershipPct": 9.353966870521898,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Bích Ngọc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 76192273,
+      "ownershipPct": 9.353966870521898,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại Đầu tư Thuận Thiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 44607127,
+      "ownershipPct": 5.476324195593467,
+      "effectiveDate": "2023-06-20"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đặng Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38561237,
+      "ownershipPct": 4.734082856201747,
+      "effectiveDate": "2023-06-20"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Agri Asia Pacific Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29943752,
+      "ownershipPct": 3.6761321477720426,
+      "effectiveDate": "2023-06-20"
+    },
+    {
+      "code": "SBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần xuất nhập khẩu Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25215597,
+      "ownershipPct": 3.095666393341899,
+      "effectiveDate": "2023-06-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 17,
+  "totalPages": 2
+}

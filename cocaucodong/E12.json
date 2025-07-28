@@ -1,1 +1,58 @@
-{"data":[{"code":"E12","shareholderType":"COMPANY","shareholderName":"Xây dựng điện VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":788700,"ownershipPct":65.725,"effectiveDate":"2020-06-30"},{"code":"E12","shareholderType":"PERSON","shareholderName":"Nguyễn Tịnh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":420000,"ownershipPct":35,"effectiveDate":"2020-12-31"},{"code":"E12","shareholderType":"PERSON","shareholderName":"Võ Quang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":368700,"ownershipPct":30.725,"effectiveDate":"2020-12-31"},{"code":"E12","shareholderType":"PERSON","shareholderName":"Trương Xuân Phúc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":26100,"ownershipPct":2.175,"effectiveDate":"2020-06-30"},{"code":"E12","shareholderType":"PERSON","shareholderName":"Hoàng Văn Chu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18500,"ownershipPct":1.5416666666666667,"effectiveDate":"2020-06-30"},{"code":"E12","shareholderType":"PERSON","shareholderName":"Đào Hữu Chuộng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15000,"ownershipPct":1.25,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "E12",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xây dựng điện VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 788700,
+      "ownershipPct": 65.725,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "E12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tịnh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 420000,
+      "ownershipPct": 35,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "E12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Quang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 368700,
+      "ownershipPct": 30.725,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "E12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Chu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18500,
+      "ownershipPct": 1.5416666666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "E12",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Hữu Chuộng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15000,
+      "ownershipPct": 1.25,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

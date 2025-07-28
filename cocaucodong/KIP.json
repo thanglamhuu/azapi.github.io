@@ -1,1 +1,68 @@
-{"data":[{"code":"KIP","shareholderType":"PERSON","shareholderName":"Nguyễn Hoa Cương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":4075619,"ownershipPct":41.587948979591836,"effectiveDate":"2021-09-07"},{"code":"KIP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Công nghệ cao Grantex Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2400000,"ownershipPct":24.489795918367346,"effectiveDate":"2020-06-30"},{"code":"KIP","shareholderType":"PERSON","shareholderName":"Nguyễn Vân Chi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1626726,"ownershipPct":16.599244897959185,"effectiveDate":"2021-09-07"},{"code":"KIP","shareholderType":"PERSON","shareholderName":"Lê Xuân Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":118584,"ownershipPct":1.2100408163265306,"effectiveDate":"2020-06-30"},{"code":"KIP","shareholderType":"PERSON","shareholderName":"Phùng Đệ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":100000,"ownershipPct":1.0204081632653061,"effectiveDate":"2020-06-30"},{"code":"KIP","shareholderType":"PERSON","shareholderName":"Hoàng Anh Dũng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":100000,"ownershipPct":1.0204081632653061,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KIP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoa Cương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4075619,
+      "ownershipPct": 41.587948979591836,
+      "effectiveDate": "2021-09-07"
+    },
+    {
+      "code": "KIP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Công nghệ cao Grantex Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2400000,
+      "ownershipPct": 24.489795918367346,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KIP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Vân Chi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1626726,
+      "ownershipPct": 16.599244897959185,
+      "effectiveDate": "2021-09-07"
+    },
+    {
+      "code": "KIP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 118584,
+      "ownershipPct": 1.2100408163265306,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KIP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Đệ",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 100000,
+      "ownershipPct": 1.0204081632653061,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KIP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Anh Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 100000,
+      "ownershipPct": 1.0204081632653061,
+      "effectiveDate": "2021-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

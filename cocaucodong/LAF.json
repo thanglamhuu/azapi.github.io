@@ -1,1 +1,88 @@
-{"data":[{"code":"LAF","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn PAN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11858841,"ownershipPct":80.51891432242178,"effectiveDate":"2021-05-17"},{"code":"LAF","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Nhựt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":733440,"ownershipPct":4.979895802687381,"effectiveDate":"2011-09-08"},{"code":"LAF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Quế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":659370,"ownershipPct":4.476976842574687,"effectiveDate":"2011-02-15"},{"code":"LAF","shareholderType":"COMPANY","shareholderName":"New-S Securities Co., Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":593983,"ownershipPct":4.033013536986882,"effectiveDate":"2014-06-03"},{"code":"LAF","shareholderType":"COMPANY","shareholderName":"Citigroup Global Market LTD & Citigroup Global Market Financial Products LTD.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":529340,"ownershipPct":3.5941018272722216,"effectiveDate":"2008-02-28"},{"code":"LAF","shareholderType":"COMPANY","shareholderName":"CK Vietinbank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":270129,"ownershipPct":1.8341163193773717,"effectiveDate":"2007-12-07"},{"code":"LAF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Ngọc Phương","roleType":"Mẹ chồng/vợ của Kế toán trưởng","enRoleType":"Mother in law of Chief Accountant","numberOfShares":173000,"ownershipPct":1.174631836094182,"effectiveDate":"2022-06-08"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tập đoàn PAN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11858841,
+      "ownershipPct": 77.87513924168337,
+      "effectiveDate": "2021-05-17"
+    },
+    {
+      "code": "LAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Nhựt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 733440,
+      "ownershipPct": 4.816384849532956,
+      "effectiveDate": "2011-09-08"
+    },
+    {
+      "code": "LAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Quế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 659370,
+      "ownershipPct": 4.329978837037174,
+      "effectiveDate": "2011-02-15"
+    },
+    {
+      "code": "LAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Ngọc Sơn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 605000,
+      "ownershipPct": 3.972939618738327,
+      "effectiveDate": "2024-08-12"
+    },
+    {
+      "code": "LAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "New-S Securities Co., Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 593983,
+      "ownershipPct": 3.9005927166232195,
+      "effectiveDate": "2014-06-03"
+    },
+    {
+      "code": "LAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Citigroup Global Market LTD & Citigroup Global Market Financial Products LTD.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 529340,
+      "ownershipPct": 3.4760923269139603,
+      "effectiveDate": "2008-02-28"
+    },
+    {
+      "code": "LAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Vietinbank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 270129,
+      "ownershipPct": 1.7738945558184553,
+      "effectiveDate": "2007-12-07"
+    },
+    {
+      "code": "LAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Ngọc Phương",
+      "roleType": "Mẹ chồng/vợ của Kế toán trưởng",
+      "enRoleType": "Mother in law of Chief Accountant",
+      "numberOfShares": 173000,
+      "ownershipPct": 1.1360637256888109,
+      "effectiveDate": "2022-06-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

@@ -1,1 +1,88 @@
-{"data":[{"code":"FLC","shareholderType":"PERSON","shareholderName":"Trịnh Văn Quyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":215436257,"ownershipPct":30.343228510845247,"effectiveDate":"2021-03-03"},{"code":"FLC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Bất động sản SGINVEST","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":66861155,"ownershipPct":9.417093171387782,"effectiveDate":"2020-06-30"},{"code":"FLC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đào tạo Golf VPGA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":46737600,"ownershipPct":6.58278089582888,"effectiveDate":"2020-06-30"},{"code":"FLC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH đầu tư thương mại và xuất nhập khẩu Vietexco","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38948000,"ownershipPct":5.485650746524066,"effectiveDate":"2020-06-30"},{"code":"FLC","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư tài chính và Quản lý tài sản Magnus Capital","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":27789954,"ownershipPct":3.914090117745955,"effectiveDate":"2020-06-30"},{"code":"FLC","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25980722,"ownershipPct":3.6592679222176807,"effectiveDate":"2016-06-21"},{"code":"FLC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư Fujikaen","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17916080,"ownershipPct":2.5233993434010706,"effectiveDate":"2020-06-30"},{"code":"FLC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư tài chính Ninh Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7221627,"ownershipPct":1.0171337050341058,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "FLC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Văn Quyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 215436257,
+      "ownershipPct": 30.343228510845247,
+      "effectiveDate": "2021-03-03"
+    },
+    {
+      "code": "FLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Bất động sản SGINVEST",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 66861155,
+      "ownershipPct": 9.417093171387782,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "FLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đào tạo Golf VPGA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 46737600,
+      "ownershipPct": 6.58278089582888,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "FLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH đầu tư thương mại và xuất nhập khẩu Vietexco",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38948000,
+      "ownershipPct": 5.485650746524066,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "FLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư tài chính và Quản lý tài sản Magnus Capital",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 27789954,
+      "ownershipPct": 3.914090117745955,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "FLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25980722,
+      "ownershipPct": 3.6592679222176807,
+      "effectiveDate": "2016-06-21"
+    },
+    {
+      "code": "FLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư Fujikaen",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17916080,
+      "ownershipPct": 2.5233993434010706,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "FLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư tài chính Ninh Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7221627,
+      "ownershipPct": 1.0171337050341058,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

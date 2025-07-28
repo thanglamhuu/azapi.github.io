@@ -1,1 +1,88 @@
-{"data":[{"code":"CMI","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Xuất khẩu và Khai thác khoáng sản Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1897500,"ownershipPct":11.859375,"effectiveDate":"2020-06-30"},{"code":"CMI","shareholderType":"PERSON","shareholderName":"Lê Tuấn Điệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1449100,"ownershipPct":9.056875,"effectiveDate":"2022-01-28"},{"code":"CMI","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Cavico Xây dựng Cầu hầm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":883799,"ownershipPct":5.52374375,"effectiveDate":"2011-10-14"},{"code":"CMI","shareholderType":"COMPANY","shareholderName":"Chứng khoán MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":810000,"ownershipPct":5.0625,"effectiveDate":"2020-06-30"},{"code":"CMI","shareholderType":"PERSON","shareholderName":"Ngũ Thị Lam","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":794800,"ownershipPct":4.9675,"effectiveDate":"2023-06-30"},{"code":"CMI","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Siêu Thị Thuốc Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":502099,"ownershipPct":3.13811875,"effectiveDate":"2020-06-30"},{"code":"CMI","shareholderType":"PERSON","shareholderName":"Trần Thanh Hiệp","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":460200,"ownershipPct":2.87625,"effectiveDate":"2023-06-30"},{"code":"CMI","shareholderType":"PERSON","shareholderName":"Trần Thanh Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":292700,"ownershipPct":1.829375,"effectiveDate":"2012-06-22"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CMI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Xuất khẩu và Khai thác khoáng sản Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1897500,
+      "ownershipPct": 11.859375,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tuấn Điệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1449100,
+      "ownershipPct": 9.056875,
+      "effectiveDate": "2022-01-28"
+    },
+    {
+      "code": "CMI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Cavico Xây dựng Cầu hầm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 883799,
+      "ownershipPct": 5.52374375,
+      "effectiveDate": "2011-10-14"
+    },
+    {
+      "code": "CMI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 810000,
+      "ownershipPct": 5.0625,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngũ Thị Lam",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 794800,
+      "ownershipPct": 4.9675,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "CMI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Siêu Thị Thuốc Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 502099,
+      "ownershipPct": 3.13811875,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thanh Hiệp",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 460200,
+      "ownershipPct": 2.87625,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "CMI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thanh Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 292700,
+      "ownershipPct": 1.829375,
+      "effectiveDate": "2012-06-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

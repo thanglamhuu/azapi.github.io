@@ -1,1 +1,28 @@
-{"data":[{"code":"SD6","shareholderType":"COMPANY","shareholderName":"Tổng CT Sông Đà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22601540,"ownershipPct":64.9999794372484,"effectiveDate":"2014-05-13"},{"code":"SD6","shareholderType":"COMPANY","shareholderName":"American LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1656900,"ownershipPct":4.765094145335976,"effectiveDate":"2020-06-09"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SD6",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng CT Sông Đà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22601540,
+      "ownershipPct": 64.9999794372484,
+      "effectiveDate": "2014-05-13"
+    },
+    {
+      "code": "SD6",
+      "shareholderType": "COMPANY",
+      "shareholderName": "American LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1656900,
+      "ownershipPct": 4.765094145335976,
+      "effectiveDate": "2020-06-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

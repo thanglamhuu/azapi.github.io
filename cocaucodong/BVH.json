@@ -1,1 +1,48 @@
-{"data":[{"code":"BVH","shareholderType":"COMPANY","shareholderName":"Bộ Tài Chính (MOF)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":482509800,"ownershipPct":65.00000045802179,"effectiveDate":"2020-06-30"},{"code":"BVH","shareholderType":"COMPANY","shareholderName":"Sumitomo Life Insurance Company","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":163945421,"ownershipPct":22.085463217722364,"effectiveDate":"2019-12-13"},{"code":"BVH","shareholderType":"PERSON","shareholderName":"Inami Ryota","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":81972710,"ownershipPct":11.042731541505038,"effectiveDate":"2023-06-30"},{"code":"BVH","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22154400,"ownershipPct":2.9844699737646736,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BVH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ Tài Chính (MOF)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 482509800,
+      "ownershipPct": 65.00000045802179,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BVH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sumitomo Life Insurance Company",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 163945421,
+      "ownershipPct": 22.085463217722364,
+      "effectiveDate": "2019-12-13"
+    },
+    {
+      "code": "BVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Inami Ryota",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 81972710,
+      "ownershipPct": 11.042731541505038,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BVH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22154400,
+      "ownershipPct": 2.9844699737646736,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

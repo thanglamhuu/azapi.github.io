@@ -1,1 +1,91 @@
-{"data":[{"code":"HLO","shareholderType":"PERSON","shareholderName":"Kỷ Minh Du","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3567190,"ownershipPct":44.589875,"groupPct":44.593,"effectiveDate":"2024-03-22"},{"code":"HLO","shareholderType":"PERSON","shareholderName":"Tsai Ya Hui","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":1000000,"ownershipPct":12.5,"effectiveDate":"2024-03-22"},{"code":"HLO","shareholderType":"PERSON","shareholderName":"Tôn Nữ Bảo Vy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":800000,"ownershipPct":10,"effectiveDate":"2024-03-22"},{"code":"HLO","shareholderType":"PERSON","shareholderName":"Chi Wei Shiu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":620000,"ownershipPct":7.75,"effectiveDate":"2024-03-22"},{"code":"HLO","shareholderType":"PERSON","shareholderName":"Chao Leng Tso","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":400000,"ownershipPct":5,"groupPct":9.103125,"effectiveDate":"2024-03-22"},{"code":"HLO","shareholderType":"PERSON","shareholderName":"Chi Tsui Ling","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":328200,"ownershipPct":4.1025,"groupPct":9.103125,"effectiveDate":"2024-03-22"},{"code":"HLO","shareholderType":"PERSON","shareholderName":"Hà Lệ Phương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":238010,"ownershipPct":2.975125,"effectiveDate":"2024-03-22"},{"code":"HLO","shareholderType":"PERSON","shareholderName":"Lê Thị Hồng Thắm","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":80000,"ownershipPct":1,"effectiveDate":"2024-03-22"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kỷ Minh Du",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4458987,
+      "ownershipPct": 44.59010632756354,
+      "groupPct": 44.59320634399362,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tsai Ya Hui",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 1250000,
+      "ownershipPct": 12.500066250351127,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tôn Nữ Bảo Vy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 999750,
+      "ownershipPct": 9.997552987030831,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chi Wei Shiu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 775000,
+      "ownershipPct": 7.750041075217698,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chao Leng Tso",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 499500,
+      "ownershipPct": 4.99502647364031,
+      "groupPct": 9.098168220291567,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chi Tsui Ling",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 410250,
+      "ownershipPct": 4.10252174336524,
+      "groupPct": 9.098168220291567,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Lệ Phương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 297512,
+      "ownershipPct": 2.9751357682195714,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "HLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hồng Thắm",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 100000,
+      "ownershipPct": 1.0000053000280902,
+      "effectiveDate": "2025-06-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

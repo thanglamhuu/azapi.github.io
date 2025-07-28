@@ -1,1 +1,58 @@
-{"data":[{"code":"VMT","shareholderType":"COMPANY","shareholderName":"VINAFREIGHT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":878400,"ownershipPct":27.885714285714286,"effectiveDate":"2022-10-24"},{"code":"VMT","shareholderType":"COMPANY","shareholderName":"Công ty CO Giao nhận kho vận NGoại Thương Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":304800,"ownershipPct":9.676190476190476,"effectiveDate":"2022-10-24"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VINAFREIGHT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1712880,
+      "ownershipPct": 27.885714285714286,
+      "effectiveDate": "2025-03-06"
+    },
+    {
+      "code": "VMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP TRANSIMEX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1381497,
+      "ownershipPct": 22.490793650793652,
+      "effectiveDate": "2025-03-07"
+    },
+    {
+      "code": "VMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VINALINK LOGISTICS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 878400,
+      "ownershipPct": 14.300366300366301,
+      "effectiveDate": "2023-12-15"
+    },
+    {
+      "code": "VMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Giao nhận Kho vận ngoại thương VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 304800,
+      "ownershipPct": 4.962148962148962,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CO Giao nhận kho vận NGoại Thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 304800,
+      "ownershipPct": 4.962148962148962,
+      "effectiveDate": "2022-10-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

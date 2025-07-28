@@ -1,1 +1,39 @@
-{"data":[{"code":"GSP","shareholderType":"COMPANY","shareholderName":"TCT V.tải dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":41725581,"ownershipPct":67.97992937843097,"effectiveDate":"2024-06-27"},{"code":"GSP","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Hiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1650079,"ownershipPct":2.6883329410998975,"effectiveDate":"2024-06-27"},{"code":"GSP","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hiên","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":1116973,"ownershipPct":1.8197888163046592,"groupPct":1.8305416332372177,"effectiveDate":"2024-06-27"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT V.tải dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 41725581,
+      "ownershipPct": 67.97992937843097,
+      "effectiveDate": "2024-06-27"
+    },
+    {
+      "code": "GSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Hiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1650079,
+      "ownershipPct": 2.6883329410998975,
+      "effectiveDate": "2024-06-27"
+    },
+    {
+      "code": "GSP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hiên",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1116973,
+      "ownershipPct": 1.8197888163046592,
+      "groupPct": 1.8305416332372177,
+      "effectiveDate": "2024-06-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

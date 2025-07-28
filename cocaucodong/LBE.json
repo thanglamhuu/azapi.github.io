@@ -1,1 +1,108 @@
-{"data":[{"code":"LBE","shareholderType":"PERSON","shareholderName":"Trương Thanh Minh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":495127,"ownershipPct":24.75882588258826,"effectiveDate":"2024-01-08"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Bùi Quốc Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":289700,"ownershipPct":14.486448644864486,"effectiveDate":"2024-01-10"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Bùi Thị Vân Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":285800,"ownershipPct":14.291429142914291,"effectiveDate":"2024-03-27"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Đào Thị Kim Oanh","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":226100,"ownershipPct":11.306130613061306,"effectiveDate":"2024-04-12"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Mai Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":217069,"ownershipPct":10.854535453545354,"effectiveDate":"2023-01-30"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Yến Nhi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":97000,"ownershipPct":4.850485048504851,"effectiveDate":"2023-07-24"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hồ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":67000,"ownershipPct":3.35033503350335,"effectiveDate":"2014-04-10"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Phạm Văn Duy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":45450,"ownershipPct":2.272727272727273,"effectiveDate":"2023-01-30"},{"code":"LBE","shareholderType":"PERSON","shareholderName":"Đặng Thúy Hoan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":36900,"ownershipPct":1.8451845184518452,"effectiveDate":"2019-11-29"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Quốc Hưng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 289700,
+      "ownershipPct": 14.486448644864486,
+      "effectiveDate": "2024-01-10"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Vân Anh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 285800,
+      "ownershipPct": 14.291429142914291,
+      "effectiveDate": "2024-03-27"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Vân Anh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 272300,
+      "ownershipPct": 13.616361636163616,
+      "effectiveDate": "2024-10-09"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Kim Oanh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 226100,
+      "ownershipPct": 11.306130613061306,
+      "effectiveDate": "2024-04-12"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thanh Minh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 222827,
+      "ownershipPct": 11.142464246424643,
+      "effectiveDate": "2024-10-09"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Mai Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 217069,
+      "ownershipPct": 10.854535453545354,
+      "effectiveDate": "2023-01-30"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Yến Nhi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 97000,
+      "ownershipPct": 4.850485048504851,
+      "effectiveDate": "2023-07-24"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hồ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 67000,
+      "ownershipPct": 3.35033503350335,
+      "effectiveDate": "2014-04-10"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Duy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 45450,
+      "ownershipPct": 2.272727272727273,
+      "effectiveDate": "2023-01-30"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thúy Hoan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 36900,
+      "ownershipPct": 1.8451845184518452,
+      "effectiveDate": "2019-11-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

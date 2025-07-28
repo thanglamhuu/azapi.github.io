@@ -1,1 +1,58 @@
-{"data":[{"code":"BXH","shareholderType":"COMPANY","shareholderName":"Tổng công ty Công nghiệp xi măng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1475450,"ownershipPct":48.98507323939921,"effectiveDate":"2015-10-27"},{"code":"BXH","shareholderType":"COMPANY","shareholderName":"CTCP Cơ điện IDC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":543400,"ownershipPct":18.040929071327074,"effectiveDate":"2016-12-22"},{"code":"BXH","shareholderType":"COMPANY","shareholderName":"Bao bì Hải Phòng","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":331000,"ownershipPct":10.989229890705303,"effectiveDate":"2020-06-30"},{"code":"BXH","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hạnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":74400,"ownershipPct":2.4700867186358746,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BXH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Công nghiệp xi măng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1475450,
+      "ownershipPct": 48.98507323939921,
+      "effectiveDate": "2015-10-27"
+    },
+    {
+      "code": "BXH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Cơ điện IDC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 543400,
+      "ownershipPct": 18.040929071327074,
+      "effectiveDate": "2016-12-22"
+    },
+    {
+      "code": "BXH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bao bì Hải Phòng",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 331000,
+      "ownershipPct": 10.989229890705303,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BXH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Hải Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 147000,
+      "ownershipPct": 4.880413274724107,
+      "effectiveDate": "2024-08-15"
+    },
+    {
+      "code": "BXH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hạnh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 74400,
+      "ownershipPct": 2.4700867186358746,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

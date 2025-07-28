@@ -1,1 +1,80 @@
-{"data":[{"code":"TKG","shareholderType":"PERSON","shareholderName":"Vũ Khánh Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":399400,"ownershipPct":6.32431145127905,"effectiveDate":"2024-02-23"},{"code":"TKG","shareholderType":"PERSON","shareholderName":"Trần Thị Vân","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":272936,"ownershipPct":4.321813395759386,"groupPct":4.325740359304497,"effectiveDate":"2022-06-30"},{"code":"TKG","shareholderType":"PERSON","shareholderName":"Bùi Văn Sỹ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":264800,"ownershipPct":4.192983656231077,"effectiveDate":"2024-01-24"},{"code":"TKG","shareholderType":"PERSON","shareholderName":"Đinh Thị Thùy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":251200,"ownershipPct":3.977634042466944,"effectiveDate":"2024-01-12"},{"code":"TKG","shareholderType":"PERSON","shareholderName":"Đào Thị Khuyên","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":124000,"ownershipPct":1.9634817725553386,"groupPct":1.967408736100449,"effectiveDate":"2022-04-21"},{"code":"TKG","shareholderType":"PERSON","shareholderName":"Vũ Hoàng Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":85000,"ownershipPct":1.3459350860258368,"effectiveDate":"2024-01-17"},{"code":"TKG","shareholderType":"PERSON","shareholderName":"Trần Phú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":75000,"ownershipPct":1.1875897817875032,"effectiveDate":"2023-08-31"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Khánh Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 399400,
+      "ownershipPct": 6.32431145127905,
+      "effectiveDate": "2024-02-23"
+    },
+    {
+      "code": "TKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Vân",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 272936,
+      "ownershipPct": 4.321813395759386,
+      "groupPct": 4.325740359304497,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "TKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Văn Sỹ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 264800,
+      "ownershipPct": 4.192983656231077,
+      "effectiveDate": "2024-01-24"
+    },
+    {
+      "code": "TKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Thùy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 251200,
+      "ownershipPct": 3.977634042466944,
+      "effectiveDate": "2024-01-12"
+    },
+    {
+      "code": "TKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Khuyên",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 124000,
+      "ownershipPct": 1.9634817725553386,
+      "groupPct": 1.967408736100449,
+      "effectiveDate": "2022-04-21"
+    },
+    {
+      "code": "TKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hoàng Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 85000,
+      "ownershipPct": 1.3459350860258368,
+      "effectiveDate": "2024-01-17"
+    },
+    {
+      "code": "TKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 75000,
+      "ownershipPct": 1.1875897817875032,
+      "effectiveDate": "2023-08-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

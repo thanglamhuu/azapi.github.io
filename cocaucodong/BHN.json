@@ -1,1 +1,28 @@
-{"data":[{"code":"BHN","shareholderType":"COMPANY","shareholderName":"Bộ Công Thương Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":85279220,"ownershipPct":36.79,"effectiveDate":"2020-12-31"},{"code":"BHN","shareholderType":"COMPANY","shareholderName":"Carlsberg Breweries A/S","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":40198200,"ownershipPct":17.34176013805004,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ Công Thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 85279220,
+      "ownershipPct": 36.79,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "BHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Carlsberg Breweries A/S",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 40198200,
+      "ownershipPct": 17.34176013805004,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,1 +1,108 @@
-{"data":[{"code":"YEG","shareholderType":"PERSON","shareholderName":"Lê Phương Thảo","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":7892748,"ownershipPct":5.761068783985315,"effectiveDate":"2024-07-02"},{"code":"YEG","shareholderType":"PERSON","shareholderName":"Chu Thị Dung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7716650,"ownershipPct":5.632531462038352,"effectiveDate":"2023-12-14"},{"code":"YEG","shareholderType":"PERSON","shareholderName":"Chế Đoàn Viên","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":6833725,"ownershipPct":4.988067498904063,"effectiveDate":"2024-07-02"},{"code":"YEG","shareholderType":"PERSON","shareholderName":"Nguyễn Viết Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6522574,"ownershipPct":4.760952391060025,"effectiveDate":"2023-12-14"},{"code":"YEG","shareholderType":"PERSON","shareholderName":"Đào Phúc Trí","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":6027000,"ownershipPct":4.399223383424821,"effectiveDate":"2023-12-14"},{"code":"YEG","shareholderType":"PERSON","shareholderName":"Ancla Assets Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5585735,"ownershipPct":4.077135560911638,"effectiveDate":"2023-12-14"},{"code":"YEG","shareholderType":"COMPANY","shareholderName":"Ancla Asset Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4233621,"ownershipPct":3.090201509832151,"effectiveDate":"2023-12-14"},{"code":"YEG","shareholderType":"COMPANY","shareholderName":"MACQUARIE BANK LIMITED OBU","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2621056,"ownershipPct":1.913159257419268,"effectiveDate":"2023-12-14"},{"code":"YEG","shareholderType":"PERSON","shareholderName":"Hồ Ngọc Tấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1567020,"ownershipPct":1.1437980796904534,"effectiveDate":"2023-12-14"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "YEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12249380,
+      "ownershipPct": 6.386470299963189,
+      "effectiveDate": "2025-06-12"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Phương Thảo",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 11049847,
+      "ownershipPct": 5.761068697733056,
+      "effectiveDate": "2025-02-28"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chế Đoàn Viên",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 9567215,
+      "ownershipPct": 4.988067514507862,
+      "effectiveDate": "2025-02-28"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chu Thị Dung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7716650,
+      "ownershipPct": 4.023236771184414,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Viết Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6522574,
+      "ownershipPct": 3.4006802899666835,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Phúc Trí",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 6027000,
+      "ownershipPct": 3.1423024265618453,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ancla Assets Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5585735,
+      "ownershipPct": 2.912239695475598,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Tiến",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 4304554,
+      "ownershipPct": 2.2442692018361536,
+      "effectiveDate": "2025-02-28"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ancla Asset Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4233621,
+      "ownershipPct": 2.2072867996421413,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "YEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "MACQUARIE BANK LIMITED OBU",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2621056,
+      "ownershipPct": 1.366542331002901,
+      "effectiveDate": "2023-12-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

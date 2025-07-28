@@ -1,1 +1,38 @@
-{"data":[{"code":"MTB","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Thái Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4586959,"ownershipPct":73.06100305833193,"effectiveDate":"2020-09-11"},{"code":"MTB","shareholderType":"PERSON","shareholderName":"Vũ Đình Hành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":396500,"ownershipPct":6.315445093934481,"effectiveDate":"2020-09-11"},{"code":"MTB","shareholderType":"PERSON","shareholderName":"Lương Việt Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":368900,"ownershipPct":5.875832774659345,"effectiveDate":"2020-09-11"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MTB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Thái Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4586959,
+      "ownershipPct": 73.06100305833193,
+      "effectiveDate": "2020-09-11"
+    },
+    {
+      "code": "MTB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đình Hành",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 396500,
+      "ownershipPct": 6.315445093934481,
+      "effectiveDate": "2020-09-11"
+    },
+    {
+      "code": "MTB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Việt Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 368900,
+      "ownershipPct": 5.875832774659345,
+      "effectiveDate": "2020-09-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

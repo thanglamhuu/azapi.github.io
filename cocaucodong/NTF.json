@@ -1,1 +1,58 @@
-{"data":[{"code":"NTF","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thung lũng Vua","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1497190,"ownershipPct":24.953166666666668,"effectiveDate":"2022-08-01"},{"code":"NTF","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Thương mại và Dịch vụ Vang Thăng Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1400000,"ownershipPct":23.333333333333332,"effectiveDate":"2024-05-06"},{"code":"NTF","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư tài chính và Thương mại Phúc Khang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1185705,"ownershipPct":19.76175,"effectiveDate":"2022-11-30"},{"code":"NTF","shareholderType":"PERSON","shareholderName":"Trần Thị Út","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":156862,"ownershipPct":2.6143666666666667,"effectiveDate":"2020-03-17"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thung lũng Vua",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1497190,
+      "ownershipPct": 24.953166666666668,
+      "effectiveDate": "2022-08-01"
+    },
+    {
+      "code": "NTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Thương mại và Dịch vụ Vang Thăng Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1400000,
+      "ownershipPct": 23.333333333333332,
+      "effectiveDate": "2024-05-06"
+    },
+    {
+      "code": "NTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại và Sản xuất Hồng Ngân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1306955,
+      "ownershipPct": 21.782583333333335,
+      "effectiveDate": "2024-05-06"
+    },
+    {
+      "code": "NTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư tài chính và Thương mại Phúc Khang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1185705,
+      "ownershipPct": 19.76175,
+      "effectiveDate": "2022-11-30"
+    },
+    {
+      "code": "NTF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Út",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 156862,
+      "ownershipPct": 2.6143666666666667,
+      "effectiveDate": "2020-03-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

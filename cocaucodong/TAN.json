@@ -1,1 +1,28 @@
-{"data":[{"code":"TAN","shareholderType":"PERSON","shareholderName":"Trần Đình Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":273500,"ownershipPct":16.948732408331217,"effectiveDate":"2020-09-23"},{"code":"TAN","shareholderType":"PERSON","shareholderName":"Lê Văn Một","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":177600,"ownershipPct":11.005831355464805,"effectiveDate":"2023-05-12"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TAN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Phù Đổng Invest",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 303500,
+      "ownershipPct": 18.80782554270027,
+      "effectiveDate": "2024-12-18"
+    },
+    {
+      "code": "TAN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Một",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 177600,
+      "ownershipPct": 11.005831355464805,
+      "effectiveDate": "2023-05-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

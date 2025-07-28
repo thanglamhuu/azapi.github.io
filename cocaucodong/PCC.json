@@ -1,1 +1,108 @@
-{"data":[{"code":"PCC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3450202,"ownershipPct":30.001756521739132,"effectiveDate":"2018-06-29"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Trương Hùng Sơn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1610094,"ownershipPct":14.000817391304349,"effectiveDate":"2023-06-30"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Phạm Minh Tâm","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1200000,"ownershipPct":10.434782608695652,"effectiveDate":"2020-06-30"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hương Giang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1150066,"ownershipPct":10.000573913043478,"effectiveDate":"2023-06-30"},{"code":"PCC","shareholderType":"COMPANY","shareholderName":"Bảo hiểm Petro","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1150066,"ownershipPct":10.000573913043478,"effectiveDate":"2020-06-30"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Đoàn Văn Mầu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":291360,"ownershipPct":2.5335652173913044,"effectiveDate":"2020-06-30"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Lê Thị Minh","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":287713,"ownershipPct":2.5018521739130435,"effectiveDate":"2020-06-30"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Lê Thị Minh","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":287713,"ownershipPct":2.5018521739130435,"effectiveDate":"2020-06-30"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Lê Quốc Bình","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":281702,"ownershipPct":2.449582608695652,"effectiveDate":"2020-12-31"},{"code":"PCC","shareholderType":"PERSON","shareholderName":"Nghiêm Văn Cương","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":203696,"ownershipPct":1.7712695652173913,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3450202,
+      "ownershipPct": 30.001756521739132,
+      "effectiveDate": "2018-06-29"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Hùng Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1610094,
+      "ownershipPct": 14.000817391304349,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Tâm",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1200000,
+      "ownershipPct": 10.434782608695652,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hương Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1150066,
+      "ownershipPct": 10.000573913043478,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bảo hiểm Petro",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1150066,
+      "ownershipPct": 10.000573913043478,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Văn Mầu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 291360,
+      "ownershipPct": 2.5335652173913044,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 287713,
+      "ownershipPct": 2.5018521739130435,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Minh",
+      "roleType": "Em gái của Phó TGĐ",
+      "enRoleType": "Young Sister of Deputy CEO",
+      "numberOfShares": 287713,
+      "ownershipPct": 2.5018521739130435,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quốc Bình",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 281702,
+      "ownershipPct": 2.449582608695652,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nghiêm Văn Cương",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 203696,
+      "ownershipPct": 1.7712695652173913,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

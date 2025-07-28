@@ -1,1 +1,108 @@
-{"data":[{"code":"SBD","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Quang","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2999278,"ownershipPct":22.192741522551774,"effectiveDate":"2024-05-22"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Đỗ Văn Hào","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":1054911,"ownershipPct":7.805667614771493,"effectiveDate":"2024-05-22"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Mai Thị Thúy Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1015290,"ownershipPct":7.512497521213969,"effectiveDate":"2023-02-07"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Thắng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":657420,"ownershipPct":4.864488097387434,"effectiveDate":"2023-02-07"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Hoàng Minh Châu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":653913,"ownershipPct":4.838538537353456,"effectiveDate":"2023-02-07"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Lê Hồng Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":559945,"ownershipPct":4.143235355924077,"effectiveDate":"2023-02-07"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh Huấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":519072,"ownershipPct":3.840801262035061,"effectiveDate":"2023-04-17"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Trần Tuyên Đức","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":464305,"ownershipPct":3.4355604424226103,"effectiveDate":"2023-02-07"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Hoàng Hải Thịnh","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":406022,"ownershipPct":3.004303468524597,"effectiveDate":"2023-02-07"},{"code":"SBD","shareholderType":"PERSON","shareholderName":"Trần Phương Lan","roleType":"Vợ của Phó TGĐ","enRoleType":"Wife of Deputy CEO","numberOfShares":345321,"ownershipPct":2.5551548390342944,"effectiveDate":"2023-02-07"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Quang",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2291087,
+      "ownershipPct": 16.463121421508887,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Thị Thúy Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1015290,
+      "ownershipPct": 7.295594863068822,
+      "effectiveDate": "2023-02-07"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Thắng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 657420,
+      "ownershipPct": 4.724039412265171,
+      "effectiveDate": "2023-02-07"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Minh Châu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 653913,
+      "ownershipPct": 4.698839074248661,
+      "effectiveDate": "2023-02-07"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Hào",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 610110,
+      "ownershipPct": 4.38408275655913,
+      "effectiveDate": "2024-10-04"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hồng Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 559945,
+      "ownershipPct": 4.023610855618662,
+      "effectiveDate": "2023-02-07"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Huấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 519072,
+      "ownershipPct": 3.7299087125480006,
+      "effectiveDate": "2023-04-17"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Tuyên Đức",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 464305,
+      "ownershipPct": 3.336368104578169,
+      "effectiveDate": "2023-02-07"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Hải Thịnh",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 406022,
+      "ownershipPct": 2.9175624870656947,
+      "effectiveDate": "2023-02-07"
+    },
+    {
+      "code": "SBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Phương Lan",
+      "roleType": "Vợ của Phó TGĐ",
+      "enRoleType": "Wife of Deputy CEO",
+      "numberOfShares": 345321,
+      "ownershipPct": 2.481381786198809,
+      "effectiveDate": "2023-02-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

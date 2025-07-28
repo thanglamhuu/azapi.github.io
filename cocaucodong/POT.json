@@ -1,1 +1,68 @@
-{"data":[{"code":"POT","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9714200,"ownershipPct":49.995867216922115,"effectiveDate":"2009-06-23"},{"code":"POT","shareholderType":"PERSON","shareholderName":"Dương Trung Lợi","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2381772,"ownershipPct":12.258215463237633,"effectiveDate":"2022-04-20"},{"code":"POT","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán LPBank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2200000,"ownershipPct":11.322693364067927,"effectiveDate":"2016-08-02"},{"code":"POT","shareholderType":"PERSON","shareholderName":"Phạm Thị Thanh Hồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":882320,"ownershipPct":4.5410176404474605,"effectiveDate":"2020-06-22"},{"code":"POT","shareholderType":"PERSON","shareholderName":"Nguyễn Tuấn Hà","roleType":"Em trai của Thành viên HĐQT","enRoleType":"Young Brother of Board member","numberOfShares":574280,"ownershipPct":2.955634702325877,"effectiveDate":"2022-05-11"},{"code":"POT","shareholderType":"PERSON","shareholderName":"Trần Hải Vân","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":203323,"ownershipPct":1.046438174028356,"effectiveDate":"2020-08-20"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "POT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9714200,
+      "ownershipPct": 49.995867216922115,
+      "effectiveDate": "2009-06-23"
+    },
+    {
+      "code": "POT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Trung Lợi",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2381772,
+      "ownershipPct": 12.258215463237633,
+      "effectiveDate": "2022-04-20"
+    },
+    {
+      "code": "POT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán LPBank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2200000,
+      "ownershipPct": 11.322693364067927,
+      "effectiveDate": "2016-08-02"
+    },
+    {
+      "code": "POT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thanh Hồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 882320,
+      "ownershipPct": 4.5410176404474605,
+      "effectiveDate": "2020-06-22"
+    },
+    {
+      "code": "POT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tuấn Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 574280,
+      "ownershipPct": 2.955634702325877,
+      "effectiveDate": "2022-05-11"
+    },
+    {
+      "code": "POT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hải Vân",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 203323,
+      "ownershipPct": 1.046438174028356,
+      "effectiveDate": "2020-08-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

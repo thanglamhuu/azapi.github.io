@@ -1,1 +1,38 @@
-{"data":[{"code":"VTV","shareholderType":"COMPANY","shareholderName":"Tổng công ty Công nghiệp xi măng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19641718,"ownershipPct":62.95457746958517,"effectiveDate":"2020-06-30"},{"code":"VTV","shareholderType":"PERSON","shareholderName":"Trần Tuấn Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2026966,"ownershipPct":6.496722337384905,"effectiveDate":"2022-12-31"},{"code":"VTV","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Long Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":643197,"ownershipPct":2.061540409281142,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VTV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Công nghiệp xi măng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19641718,
+      "ownershipPct": 62.95457746958517,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VTV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Tuấn Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2026966,
+      "ownershipPct": 6.496722337384905,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "VTV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Long Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 643197,
+      "ownershipPct": 2.061540409281142,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

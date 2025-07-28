@@ -1,1 +1,108 @@
-{"data":[{"code":"KDM","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Hùng","roleType":"Bố chồng/vợ của Thành viên HĐQT","enRoleType":"Father in law of Board member","numberOfShares":369364,"ownershipPct":4.861983990745798,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Lê Thị Bích Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":364763,"ownershipPct":4.801420458995488,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Đỗ Yến Vy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":359948,"ownershipPct":4.738040018791676,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Trần Thị Mến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":353635,"ownershipPct":4.6549412194133435,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Trịnh Thị Chung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":321000,"ownershipPct":4.225362680254169,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Lê Thị Hạnh Nguyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":267500,"ownershipPct":3.5211355668784745,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Trường Tiền Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":246100,"ownershipPct":3.2394447215281965,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Trịnh Bá Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":245779,"ownershipPct":3.2352193588479423,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Mai Lệ Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":245137,"ownershipPct":3.226768633487434,"effectiveDate":"2024-07-05"},{"code":"KDM","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":240750,"ownershipPct":3.169022010190627,"effectiveDate":"2024-07-05"}],"currentPage":1,"size":10,"totalElements":17,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Mài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 479800,
+      "ownershipPct": 6.315666710236606,
+      "effectiveDate": "2025-06-09"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 364924,
+      "ownershipPct": 4.8035397218974225,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Bích Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 364763,
+      "ownershipPct": 4.801420458995488,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Yến Vy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 359948,
+      "ownershipPct": 4.738040018791676,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Mến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 353635,
+      "ownershipPct": 4.6549412194133435,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Thị Chung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 321000,
+      "ownershipPct": 4.225362680254169,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hạnh Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 267500,
+      "ownershipPct": 3.5211355668784745,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Trường Tiền Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 246100,
+      "ownershipPct": 3.2394447215281965,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Bá Toàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 245779,
+      "ownershipPct": 3.2352193588479423,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "KDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Lệ Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 245137,
+      "ownershipPct": 3.226768633487434,
+      "effectiveDate": "2024-07-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 18,
+  "totalPages": 2
+}

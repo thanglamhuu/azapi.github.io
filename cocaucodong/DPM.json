@@ -1,1 +1,108 @@
-{"data":[{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Tập đoàn Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":233204253,"ownershipPct":59.59208708176994,"effectiveDate":"2020-06-30"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Tổng công ty cổ phần Vật tư Nông nghiệp Nghệ An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":23480620,"ownershipPct":6.000144224530712,"effectiveDate":"2023-06-30"},{"code":"DPM","shareholderType":"PERSON","shareholderName":"Khưu Liêm Sỹ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18195660,"ownershipPct":4.649646570683589,"effectiveDate":"2011-04-15"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17631200,"ownershipPct":4.5054067078103515,"effectiveDate":"2014-09-24"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG, London Branch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17507010,"ownershipPct":4.473671689261247,"effectiveDate":"2016-01-14"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG & Deutsche Asset Management (Asia) Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17222370,"ownershipPct":4.400935916012056,"effectiveDate":"2020-06-30"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Vật tư Nông nghiệp Nghệ An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15395980,"ownershipPct":3.934227481130837,"effectiveDate":"2020-03-12"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Edgbaston Asian Equity Trust","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15366910,"ownershipPct":3.926799048976698,"effectiveDate":"2019-06-03"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Deutsche Bank Aktiengesellschaf","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14830150,"ownershipPct":3.7896375339077135,"effectiveDate":"2011-09-16"},{"code":"DPM","shareholderType":"COMPANY","shareholderName":"Ngân hàng BIDV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14000000,"ownershipPct":3.5775043053986635,"effectiveDate":"2008-01-25"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 233204253,
+      "ownershipPct": 59.59208708176994,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty cổ phần Vật tư Nông nghiệp Nghệ An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 23480620,
+      "ownershipPct": 6.000144224530712,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Khưu Liêm Sỹ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18195660,
+      "ownershipPct": 4.649646570683589,
+      "effectiveDate": "2011-04-15"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17631200,
+      "ownershipPct": 4.5054067078103515,
+      "effectiveDate": "2014-09-24"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, London Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17507010,
+      "ownershipPct": 4.473671689261247,
+      "effectiveDate": "2016-01-14"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG & Deutsche Asset Management (Asia) Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17222370,
+      "ownershipPct": 4.400935916012056,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Vật tư Nông nghiệp Nghệ An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15395980,
+      "ownershipPct": 3.934227481130837,
+      "effectiveDate": "2020-03-12"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Edgbaston Asian Equity Trust",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15366910,
+      "ownershipPct": 3.926799048976698,
+      "effectiveDate": "2019-06-03"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank Aktiengesellschaf",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14830150,
+      "ownershipPct": 3.7896375339077135,
+      "effectiveDate": "2011-09-16"
+    },
+    {
+      "code": "DPM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14000000,
+      "ownershipPct": 3.5775043053986635,
+      "effectiveDate": "2008-01-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

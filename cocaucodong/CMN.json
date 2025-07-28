@@ -1,1 +1,78 @@
-{"data":[{"code":"CMN","shareholderType":"COMPANY","shareholderName":"L.thực miền Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1474400,"ownershipPct":30.716666666666665,"effectiveDate":"2020-06-30"},{"code":"CMN","shareholderType":"COMPANY","shareholderName":"Công ty TNHH TM&DV Mesa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":980300,"ownershipPct":20.422916666666666,"effectiveDate":"2020-06-30"},{"code":"CMN","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Thuốc lá Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":960000,"ownershipPct":20,"effectiveDate":"2020-06-30"},{"code":"CMN","shareholderType":"PERSON","shareholderName":"Trịnh Việt Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":466100,"ownershipPct":9.710416666666667,"effectiveDate":"2020-06-30"},{"code":"CMN","shareholderType":"PERSON","shareholderName":"Trịnh Việt Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":466100,"ownershipPct":9.710416666666667,"effectiveDate":"2020-06-30"},{"code":"CMN","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư và Thương mại Thiên Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":240500,"ownershipPct":5.010416666666667,"effectiveDate":"2022-12-08"},{"code":"CMN","shareholderType":"PERSON","shareholderName":"Lưu Thị Tuyết Hương","roleType":"Chị của Chủ tịch HĐQT","enRoleType":"Elder Sister of Chairman","numberOfShares":55200,"ownershipPct":1.15,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CMN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "L.thực miền Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1474400,
+      "ownershipPct": 30.716666666666665,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH TM&DV Mesa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 980300,
+      "ownershipPct": 20.422916666666666,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Thuốc lá Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 960000,
+      "ownershipPct": 20,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Việt Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 466100,
+      "ownershipPct": 9.710416666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Việt Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 466100,
+      "ownershipPct": 9.710416666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư và Thương mại Thiên Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 240500,
+      "ownershipPct": 5.010416666666667,
+      "effectiveDate": "2022-12-08"
+    },
+    {
+      "code": "CMN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Thị Tuyết Hương",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 55200,
+      "ownershipPct": 1.15,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,98 @@
-{"data":[{"code":"MCO","shareholderType":"PERSON","shareholderName":"Trần Thị Hồng Thái","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":610014,"ownershipPct":14.864146041512901,"effectiveDate":"2020-06-30"},{"code":"MCO","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":353058,"ownershipPct":8.602926610085117,"effectiveDate":"2020-06-30"},{"code":"MCO","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Tú","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":222370,"ownershipPct":5.418466060207182,"effectiveDate":"2010-10-07"},{"code":"MCO","shareholderType":"PERSON","shareholderName":"Vũ Khánh Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":208000,"ownershipPct":5.068313803674479,"effectiveDate":"2024-02-23"},{"code":"MCO","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thiên An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":203376,"ownershipPct":4.955641289115869,"effectiveDate":"2020-06-30"},{"code":"MCO","shareholderType":"PERSON","shareholderName":"Lê Thị Tú Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":200500,"ownershipPct":4.885562104022755,"effectiveDate":"2024-02-21"},{"code":"MCO","shareholderType":"COMPANY","shareholderName":"Công ty Xây dựng đường thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":164820,"ownershipPct":4.016151351546286,"effectiveDate":"2024-05-07"},{"code":"MCO","shareholderType":"PERSON","shareholderName":"Đặng Hoàng Phi Vũ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":130000,"ownershipPct":3.167696127296549,"effectiveDate":"2021-04-07"},{"code":"MCO","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Hương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":114341,"ownershipPct":2.7861349453170363,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MCO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Hồng Thái",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 610014,
+      "ownershipPct": 14.864146041512901,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 353058,
+      "ownershipPct": 8.602926610085117,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Tú",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 222370,
+      "ownershipPct": 5.418466060207182,
+      "effectiveDate": "2010-10-07"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Khánh Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 208000,
+      "ownershipPct": 5.068313803674479,
+      "effectiveDate": "2024-02-23"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thiên An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 203376,
+      "ownershipPct": 4.955641289115869,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Tú Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 200500,
+      "ownershipPct": 4.885562104022755,
+      "effectiveDate": "2024-02-21"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Xây dựng đường thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 164820,
+      "ownershipPct": 4.016151351546286,
+      "effectiveDate": "2024-05-07"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Hoàng Phi Vũ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 130000,
+      "ownershipPct": 3.167696127296549,
+      "effectiveDate": "2021-04-07"
+    },
+    {
+      "code": "MCO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Hương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 114341,
+      "ownershipPct": 2.7861349453170363,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

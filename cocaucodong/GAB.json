@@ -1,1 +1,48 @@
-{"data":[{"code":"GAB","shareholderType":"PERSON","shareholderName":"Trịnh Văn Quyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7614000,"ownershipPct":51.08700108232784,"effectiveDate":"2022-01-14"},{"code":"GAB","shareholderType":"PERSON","shareholderName":"Trần Thế Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":680000,"ownershipPct":4.562537527709867,"effectiveDate":"2020-10-09"},{"code":"GAB","shareholderType":"PERSON","shareholderName":"Nguyễn Công Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":345000,"ownershipPct":2.3148168339116237,"effectiveDate":"2020-01-13"},{"code":"GAB","shareholderType":"PERSON","shareholderName":"Trần Thị Thúy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":335000,"ownershipPct":2.2477206937982435,"effectiveDate":"2020-09-07"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Văn Quyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7614000,
+      "ownershipPct": 51.08700108232784,
+      "effectiveDate": "2022-01-14"
+    },
+    {
+      "code": "GAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thế Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 680000,
+      "ownershipPct": 4.562537527709867,
+      "effectiveDate": "2020-10-09"
+    },
+    {
+      "code": "GAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Công Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 345000,
+      "ownershipPct": 2.3148168339116237,
+      "effectiveDate": "2020-01-13"
+    },
+    {
+      "code": "GAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thúy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 335000,
+      "ownershipPct": 2.2477206937982435,
+      "effectiveDate": "2020-09-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

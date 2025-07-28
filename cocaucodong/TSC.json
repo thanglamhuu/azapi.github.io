@@ -1,1 +1,38 @@
-{"data":[{"code":"TSC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Dũng Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":129912423,"ownershipPct":65.99265082850575,"effectiveDate":"2020-12-31"},{"code":"TSC","shareholderType":"COMPANY","shareholderName":"Tập đoàn F.I.T","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":80857223,"ownershipPct":41.07368919138413,"effectiveDate":"2022-04-29"},{"code":"TSC","shareholderType":"PERSON","shareholderName":"Kiều Anh Kiệt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5592055,"ownershipPct":2.8406408294670915,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TSC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Dũng Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 129912423,
+      "ownershipPct": 65.99265082850575,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "TSC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn F.I.T",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 80857223,
+      "ownershipPct": 41.07368919138413,
+      "effectiveDate": "2022-04-29"
+    },
+    {
+      "code": "TSC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Anh Kiệt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5592055,
+      "ownershipPct": 2.8406408294670915,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

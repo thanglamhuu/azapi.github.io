@@ -1,1 +1,58 @@
-{"data":[{"code":"HAD","shareholderType":"COMPANY","shareholderName":"TCT Bia Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2200000,"ownershipPct":55,"effectiveDate":"2020-06-30"},{"code":"HAD","shareholderType":"COMPANY","shareholderName":"Chứng khoán BIDV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":409130,"ownershipPct":10.22825,"effectiveDate":"2012-01-31"},{"code":"HAD","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":220000,"ownershipPct":5.5,"effectiveDate":"2020-06-30"},{"code":"HAD","shareholderType":"COMPANY","shareholderName":"AFC Vietnam Fund (AVF)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":135000,"ownershipPct":3.375,"effectiveDate":"2020-06-30"},{"code":"HAD","shareholderType":"PERSON","shareholderName":"Đặng Đình Thụ","roleType":"Anh của Kế toán trưởng","enRoleType":"Elder Brother of Chief Accountant","numberOfShares":112600,"ownershipPct":2.815,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HAD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Bia Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2200000,
+      "ownershipPct": 55,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 409130,
+      "ownershipPct": 10.22825,
+      "effectiveDate": "2012-01-31"
+    },
+    {
+      "code": "HAD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 220000,
+      "ownershipPct": 5.5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC Vietnam Fund (AVF)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 135000,
+      "ownershipPct": 3.375,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Đình Thụ",
+      "roleType": "Anh của Kế toán trưởng",
+      "enRoleType": "Elder Brother of Chief Accountant",
+      "numberOfShares": 112600,
+      "ownershipPct": 2.815,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

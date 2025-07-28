@@ -1,1 +1,58 @@
-{"data":[{"code":"ACB","shareholderType":"COMPANY","shareholderName":"Dragon Financial holdings (DC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":268750687,"ownershipPct":6.016818218336843,"effectiveDate":"2023-06-01"},{"code":"ACB","shareholderType":"COMPANY","shareholderName":"Sather Gate Investments Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":193907186,"ownershipPct":4.341214165496182,"effectiveDate":"2023-06-01"},{"code":"ACB","shareholderType":"COMPANY","shareholderName":"Whistler Investments Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":193907186,"ownershipPct":4.341214165496182,"effectiveDate":"2023-06-01"},{"code":"ACB","shareholderType":"COMPANY","shareholderName":"Dragon Financial Holding Ltd.Co","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":169936286,"ownershipPct":3.80455117333821,"effectiveDate":"2024-05-31"},{"code":"ACB","shareholderType":"PERSON","shareholderName":"Trần Hùng Huy","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":133097530,"ownershipPct":2.9798012881717186,"effectiveDate":"2023-06-01"},{"code":"ACB","shareholderType":"COMPANY","shareholderName":"CTCP đầu tư Thương mại Giang Sen","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":69823091,"ownershipPct":1.56320659373567,"effectiveDate":"2023-06-01"},{"code":"ACB","shareholderType":"COMPANY","shareholderName":"CTCP đầu tư Thương mại Bách Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":48621071,"ownershipPct":1.0885335738243123,"effectiveDate":"2023-06-01"},{"code":"ACB","shareholderType":"COMPANY","shareholderName":"BCH Công đoàn Ngân hàng TMCP Á Châu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":48105372,"ownershipPct":1.0769880511950878,"effectiveDate":"2023-06-01"},{"code":"ACB","shareholderType":"PERSON","shareholderName":"Đặng Thu Thủy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":46391336,"ownershipPct":1.0386140356835099,"effectiveDate":"2023-06-01"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ACB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sather Gate Investments Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 193907186,
+      "ownershipPct": 3.774968839414916,
+      "effectiveDate": "2023-06-01"
+    },
+    {
+      "code": "ACB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dragon Financial Holding Ltd.Co",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 169936286,
+      "ownershipPct": 3.308305367991371,
+      "effectiveDate": "2024-05-31"
+    },
+    {
+      "code": "ACB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dragon Financial holdings (DC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 161886286,
+      "ownershipPct": 3.151588642922244,
+      "effectiveDate": "2025-05-23"
+    },
+    {
+      "code": "ACB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hùng Huy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 133097530,
+      "ownershipPct": 2.5911315548310414,
+      "effectiveDate": "2023-06-01"
+    },
+    {
+      "code": "ACB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP đầu tư Thương mại Giang Sen",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 69823091,
+      "ownershipPct": 1.3593100814563523,
+      "effectiveDate": "2023-06-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

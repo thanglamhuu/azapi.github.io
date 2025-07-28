@@ -1,1 +1,48 @@
-{"data":[{"code":"BCP","shareholderType":"COMPANY","shareholderName":"CTCP Dược Đại Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4040200,"ownershipPct":67.33666666666667,"effectiveDate":"2019-04-26"},{"code":"BCP","shareholderType":"PERSON","shareholderName":"Trần Thiện Thể","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":377800,"ownershipPct":6.296666666666667,"effectiveDate":"2020-06-30"},{"code":"BCP","shareholderType":"PERSON","shareholderName":"An Mạnh Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":129600,"ownershipPct":2.16,"effectiveDate":"2018-06-22"},{"code":"BCP","shareholderType":"PERSON","shareholderName":"Phan Thanh Phương","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":100000,"ownershipPct":1.6666666666666667,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BCP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Dược Đại Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4040200,
+      "ownershipPct": 67.33666666666667,
+      "effectiveDate": "2019-04-26"
+    },
+    {
+      "code": "BCP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thiện Thể",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 377800,
+      "ownershipPct": 6.296666666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BCP",
+      "shareholderType": "PERSON",
+      "shareholderName": "An Mạnh Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 253100,
+      "ownershipPct": 4.218333333333334,
+      "effectiveDate": "2025-07-02"
+    },
+    {
+      "code": "BCP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thanh Phương",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 100000,
+      "ownershipPct": 1.6666666666666667,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

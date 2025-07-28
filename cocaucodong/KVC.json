@@ -1,1 +1,78 @@
-{"data":[{"code":"KVC","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2697400,"ownershipPct":5.4492929292929295,"effectiveDate":"2021-02-01"},{"code":"KVC","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2277800,"ownershipPct":4.601616161616161,"effectiveDate":"2021-09-08"},{"code":"KVC","shareholderType":"PERSON","shareholderName":"Nguyễn Tuấn Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2200900,"ownershipPct":4.446262626262627,"effectiveDate":"2021-05-25"},{"code":"KVC","shareholderType":"PERSON","shareholderName":"Nguyễn Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1229400,"ownershipPct":2.4836363636363634,"effectiveDate":"2021-08-11"},{"code":"KVC","shareholderType":"PERSON","shareholderName":"Đỗ Hùng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1100000,"ownershipPct":2.2222222222222223,"effectiveDate":"2021-04-06"},{"code":"KVC","shareholderType":"PERSON","shareholderName":"Huỳnh Văn Bé Tư","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":663600,"ownershipPct":1.3406060606060606,"effectiveDate":"2015-10-09"},{"code":"KVC","shareholderType":"PERSON","shareholderName":"Nguyễn Yến Phi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":592300,"ownershipPct":1.1965656565656566,"effectiveDate":"2015-11-02"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2697400,
+      "ownershipPct": 5.4492929292929295,
+      "effectiveDate": "2021-02-01"
+    },
+    {
+      "code": "KVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2277800,
+      "ownershipPct": 4.601616161616161,
+      "effectiveDate": "2021-09-08"
+    },
+    {
+      "code": "KVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tuấn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2200900,
+      "ownershipPct": 4.446262626262627,
+      "effectiveDate": "2021-05-25"
+    },
+    {
+      "code": "KVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1229400,
+      "ownershipPct": 2.4836363636363634,
+      "effectiveDate": "2021-08-11"
+    },
+    {
+      "code": "KVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Hùng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1100000,
+      "ownershipPct": 2.2222222222222223,
+      "effectiveDate": "2021-04-06"
+    },
+    {
+      "code": "KVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Văn Bé Tư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 663600,
+      "ownershipPct": 1.3406060606060606,
+      "effectiveDate": "2015-10-09"
+    },
+    {
+      "code": "KVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Yến Phi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 592300,
+      "ownershipPct": 1.1965656565656566,
+      "effectiveDate": "2015-11-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

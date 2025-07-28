@@ -1,1 +1,108 @@
-{"data":[{"code":"VHC","shareholderType":"PERSON","shareholderName":"Trương Thị Lệ Khanh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":94980340,"ownershipPct":42.31628593684798,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"COMPANY","shareholderName":"Mitsubishi Corporation","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14400000,"ownershipPct":6.415585767439988,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"COMPANY","shareholderName":"Quỹ Đầu Tư Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10902840,"ownershipPct":4.8575073006024585,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"PERSON","shareholderName":"Lâm Mẫu Diệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10030980,"ownershipPct":4.469070313991331,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"COMPANY","shareholderName":"Red River Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7965576,"ownershipPct":3.548877501045941,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5154840,"ownershipPct":2.29661931509933,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"PERSON","shareholderName":"Lâm Quang Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5068128,"ownershipPct":2.2579867961363953,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"PERSON","shareholderName":"Võ Phú Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3548018,"ownershipPct":1.5807370682931174,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"COMPANY","shareholderName":"CTBC Vietnam Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3480000,"ownershipPct":1.5504332271313304,"effectiveDate":"2024-01-04"},{"code":"VHC","shareholderType":"COMPANY","shareholderName":"Hanoi Investments Holdings Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2612040,"ownershipPct":1.163733794998885,"effectiveDate":"2024-01-04"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Lệ Khanh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 94980340,
+      "ownershipPct": 42.31633024153605,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Mitsubishi Corporation",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14400000,
+      "ownershipPct": 6.4155924844880445,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ Đầu Tư Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10902840,
+      "ownershipPct": 4.857512386359419,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Mẫu Diệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10030980,
+      "ownershipPct": 4.46907499305902,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Red River Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7965576,
+      "ownershipPct": 3.548881216681829,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Norges Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5154840,
+      "ownershipPct": 2.2966217196346075,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Quang Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5068128,
+      "ownershipPct": 2.2579891602238487,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Phú Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3548018,
+      "ownershipPct": 1.580738723307521,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTBC Vietnam Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3480000,
+      "ownershipPct": 1.550434850417944,
+      "effectiveDate": "2024-01-04"
+    },
+    {
+      "code": "VHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hanoi Investments Holdings Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2612040,
+      "ownershipPct": 1.1637350134154272,
+      "effectiveDate": "2024-01-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

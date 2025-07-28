@@ -1,1 +1,82 @@
-{"data":[{"code":"TOS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Tổng công ty Tân cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11161955,"ownershipPct":36.00643886238807,"effectiveDate":"2022-05-24"},{"code":"TOS","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tân Cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11161955,"ownershipPct":36.00643886238807,"effectiveDate":"2022-05-24"},{"code":"TOS","shareholderType":"PERSON","shareholderName":"Lê Đăng Phúc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1454865,"ownershipPct":4.693130161833499,"effectiveDate":"2022-06-30"},{"code":"TOS","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Băng","roleType":"Mẹ của Thành viên HĐQT","enRoleType":"Mother of Board member","numberOfShares":1086425,"ownershipPct":3.504609662112951,"groupPct":7.771093093697183,"effectiveDate":"2022-06-30"},{"code":"TOS","shareholderType":"PERSON","shareholderName":"Lê Thị Ân","roleType":"Mẹ của Phó chủ tịch HĐQT","enRoleType":"Mother of Vice-chairman","numberOfShares":1086425,"ownershipPct":3.504609662112951,"groupPct":6.247348780572935,"effectiveDate":"2022-06-30"},{"code":"TOS","shareholderType":"PERSON","shareholderName":"Lê Thị Thu","roleType":"Chị của Thành viên HĐQT","enRoleType":"Elder Sister of Board member","numberOfShares":944718,"ownershipPct":3.0474886262484966,"groupPct":7.771093093697183,"effectiveDate":"2022-06-30"},{"code":"TOS","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Thương","roleType":"Chị của Phó chủ tịch HĐQT","enRoleType":"Elder Sister of Vice-chairman","numberOfShares":850246,"ownershipPct":2.742739118459984,"groupPct":6.247348780572935,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TOS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tân Cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11161955,
+      "ownershipPct": 36.00643886238807,
+      "effectiveDate": "2022-05-24"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Tổng công ty Tân cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11161955,
+      "ownershipPct": 36.00643886238807,
+      "effectiveDate": "2022-05-24"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đăng Phúc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1454865,
+      "ownershipPct": 4.693130161833499,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Băng",
+      "roleType": "Mẹ của Chủ tịch HĐQT",
+      "enRoleType": "Mother of Chairman",
+      "numberOfShares": 1086425,
+      "ownershipPct": 3.504609662112951,
+      "groupPct": 7.771093093697183,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Ân",
+      "roleType": "Mẹ của Phó chủ tịch HĐQT",
+      "enRoleType": "Mother of Vice-chairman",
+      "numberOfShares": 1086425,
+      "ownershipPct": 3.504609662112951,
+      "groupPct": 6.247348780572935,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 944718,
+      "ownershipPct": 3.0474886262484966,
+      "groupPct": 7.771093093697183,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Thương",
+      "roleType": "Chị của Phó chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Vice-chairman",
+      "numberOfShares": 850246,
+      "ownershipPct": 2.742739118459984,
+      "groupPct": 6.247348780572935,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

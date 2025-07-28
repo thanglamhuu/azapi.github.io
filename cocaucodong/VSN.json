@@ -1,1 +1,28 @@
-{"data":[{"code":"VSN","shareholderType":"COMPANY","shareholderName":"Tổng công ty thương mại Sài Gòn - TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54829878,"ownershipPct":67.76340471391124,"effectiveDate":"2020-06-30"},{"code":"VSN","shareholderType":"COMPANY","shareholderName":"Masan MEATLife","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20180026,"ownershipPct":24.940184418707833,"effectiveDate":"2021-12-07"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty thương mại Sài Gòn - TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 54829878,
+      "ownershipPct": 67.76340471391124,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Masan MEATLife",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20180026,
+      "ownershipPct": 24.940184418707833,
+      "effectiveDate": "2021-12-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

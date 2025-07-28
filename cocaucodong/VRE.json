@@ -1,1 +1,68 @@
-{"data":[{"code":"VRE","shareholderType":"COMPANY","shareholderName":"CTCP Kinh doanh Thương mại SADO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":943219292,"ownershipPct":41.509116321422574,"effectiveDate":"2021-04-19"},{"code":"VRE","shareholderType":"COMPANY","shareholderName":"Tập đoàn VINGROUP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":427715101,"ownershipPct":18.822850667305907,"effectiveDate":"2020-06-30"},{"code":"VRE","shareholderType":"COMPANY","shareholderName":"WP Investments III B.V.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":92996397,"ownershipPct":4.092577721094994,"effectiveDate":"2017-11-07"},{"code":"VRE","shareholderType":"COMPANY","shareholderName":"Vincom Retail","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":56500000,"ownershipPct":2.4864473108766476,"effectiveDate":"2019-12-13"},{"code":"VRE","shareholderType":"COMPANY","shareholderName":"RWC Emerging Equities","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":46258811,"ownershipPct":2.0357539153150634,"effectiveDate":"2022-05-06"},{"code":"VRE","shareholderType":"COMPANY","shareholderName":"Credit Suisse (Singapore) Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":30998798,"ownershipPct":1.3641925296904143,"effectiveDate":"2017-11-07"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Kinh doanh Thương mại SADO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 943219292,
+      "ownershipPct": 41.509116321422574,
+      "effectiveDate": "2021-04-19"
+    },
+    {
+      "code": "VRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn VINGROUP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 427715101,
+      "ownershipPct": 18.822850667305907,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "WP Investments III B.V.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 92996397,
+      "ownershipPct": 4.092577721094994,
+      "effectiveDate": "2017-11-07"
+    },
+    {
+      "code": "VRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vincom Retail",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 56500000,
+      "ownershipPct": 2.4864473108766476,
+      "effectiveDate": "2019-12-13"
+    },
+    {
+      "code": "VRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "RWC Emerging Equities",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 46258811,
+      "ownershipPct": 2.0357539153150634,
+      "effectiveDate": "2022-05-06"
+    },
+    {
+      "code": "VRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Credit Suisse (Singapore) Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 30998798,
+      "ownershipPct": 1.3641925296904143,
+      "effectiveDate": "2017-11-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,48 @@
-{"data":[{"code":"HVX","shareholderType":"COMPANY","shareholderName":"Tổng công ty Công nghiệp xi măng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":31455760,"ownershipPct":75.75092263141102,"effectiveDate":"2020-06-30"},{"code":"HVX","shareholderType":"PERSON","shareholderName":"Dương Xuân Chung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1568671,"ownershipPct":3.777631681928465,"effectiveDate":"2022-12-31"},{"code":"HVX","shareholderType":"PERSON","shareholderName":"Vũ Viết Hoàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1506820,"ownershipPct":3.6286837526565163,"effectiveDate":"2022-12-31"},{"code":"HVX","shareholderType":"COMPANY","shareholderName":"CK Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":803240,"ownershipPct":1.934341153876256,"effectiveDate":"2011-02-18"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Công nghiệp xi măng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 31455760,
+      "ownershipPct": 75.75092263141102,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HVX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Xuân Chung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1568671,
+      "ownershipPct": 3.777631681928465,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HVX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Viết Hoàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1506820,
+      "ownershipPct": 3.6286837526565163,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 803240,
+      "ownershipPct": 1.934341153876256,
+      "effectiveDate": "2011-02-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

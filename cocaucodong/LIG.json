@@ -1,1 +1,78 @@
-{"data":[{"code":"LIG","shareholderType":"PERSON","shareholderName":"Phạm Văn Thăng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3655712,"ownershipPct":3.879940348646897,"effectiveDate":"2022-06-03"},{"code":"LIG","shareholderType":"COMPANY","shareholderName":"Tổng công ty Xây dựng và Phát triển hạ tầng LICOGI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2853451,"ownershipPct":3.0284715173916426,"effectiveDate":"2022-06-03"},{"code":"LIG","shareholderType":"PERSON","shareholderName":"Lâm Thị Kiều Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2134400,"ownershipPct":2.2653164910561707,"effectiveDate":"2017-12-01"},{"code":"LIG","shareholderType":"PERSON","shareholderName":"Bùi Đình Sơn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1981875,"ownershipPct":2.103436151008222,"effectiveDate":"2022-06-03"},{"code":"LIG","shareholderType":"COMPANY","shareholderName":"Tài chính Giáo dục","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1823557,"ownershipPct":1.9354074889809398,"effectiveDate":"2022-06-03"},{"code":"LIG","shareholderType":"PERSON","shareholderName":"Tạ Quỳnh Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1175000,"ownershipPct":1.2470703134328152,"effectiveDate":"2019-09-24"},{"code":"LIG","shareholderType":"COMPANY","shareholderName":"Công ty Tài chính Thành Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":952560,"ownershipPct":1.0109866363945212,"effectiveDate":"2022-06-03"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Thăng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3655712,
+      "ownershipPct": 3.8799473079476696,
+      "effectiveDate": "2022-06-03"
+    },
+    {
+      "code": "LIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Xây dựng và Phát triển hạ tầng LICOGI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2853451,
+      "ownershipPct": 3.0284769494453028,
+      "effectiveDate": "2022-06-03"
+    },
+    {
+      "code": "LIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Thị Kiều Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2134400,
+      "ownershipPct": 2.265320554267816,
+      "effectiveDate": "2017-12-01"
+    },
+    {
+      "code": "LIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đình Sơn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1981875,
+      "ownershipPct": 2.1034399238612855,
+      "effectiveDate": "2022-06-03"
+    },
+    {
+      "code": "LIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tài chính Giáo dục",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1823557,
+      "ownershipPct": 1.935410960447412,
+      "effectiveDate": "2022-06-03"
+    },
+    {
+      "code": "LIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Quỳnh Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1175000,
+      "ownershipPct": 1.247072550255193,
+      "effectiveDate": "2019-09-24"
+    },
+    {
+      "code": "LIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Tài chính Thành Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 952560,
+      "ownershipPct": 1.010988449762627,
+      "effectiveDate": "2022-06-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

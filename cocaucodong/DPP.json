@@ -1,1 +1,68 @@
-{"data":[{"code":"DPP","shareholderType":"COMPANY","shareholderName":"N.sản Th.phẩm Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1544988,"ownershipPct":51.49942833523888,"effectiveDate":"2020-06-30"},{"code":"DPP","shareholderType":"COMPANY","shareholderName":"CTCP KCN Tín Nghĩa - Phương Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":404091,"ownershipPct":13.469655101149662,"effectiveDate":"2019-10-18"},{"code":"DPP","shareholderType":"PERSON","shareholderName":"Đỗ Thị Nga","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":180131,"ownershipPct":6.004346652177826,"effectiveDate":"2021-12-31"},{"code":"DPP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dược phẩm Ngọc Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":75595,"ownershipPct":2.5198249339168868,"effectiveDate":"2012-11-02"},{"code":"DPP","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Khoa","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":55440,"ownershipPct":1.8479938400205334,"effectiveDate":"2021-12-31"},{"code":"DPP","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Phước","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":36689,"ownershipPct":1.2229625901246997,"effectiveDate":"2015-06-12"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DPP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "N.sản Th.phẩm Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1544988,
+      "ownershipPct": 51.49942833523888,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DPP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP KCN Tín Nghĩa - Phương Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 404091,
+      "ownershipPct": 13.469655101149662,
+      "effectiveDate": "2019-10-18"
+    },
+    {
+      "code": "DPP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Nga",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 180131,
+      "ownershipPct": 6.004346652177826,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "DPP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Dược phẩm Ngọc Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 75595,
+      "ownershipPct": 2.5198249339168868,
+      "effectiveDate": "2012-11-02"
+    },
+    {
+      "code": "DPP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Khoa",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 55440,
+      "ownershipPct": 1.8479938400205334,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "DPP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Phước",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 36689,
+      "ownershipPct": 1.2229625901246997,
+      "effectiveDate": "2015-06-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,110 @@
-{"data":[{"code":"GMX","shareholderType":"PERSON","shareholderName":"Dư Thị Thanh Hương","roleType":"Chị của Chủ tịch HĐQT","enRoleType":"Elder Sister of Chairman","numberOfShares":615161,"ownershipPct":6.8090579051233995,"groupPct":11.16580299123876,"effectiveDate":"2021-11-12"},{"code":"GMX","shareholderType":"COMPANY","shareholderName":"Reverie LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":458100,"ownershipPct":5.070590343563765,"effectiveDate":"2024-03-11"},{"code":"GMX","shareholderType":"PERSON","shareholderName":"Đặng Thị Mai Thi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":452650,"ownershipPct":5.010265704025624,"effectiveDate":"2023-05-31"},{"code":"GMX","shareholderType":"COMPANY","shareholderName":"CTCP Xây dựng Gia Thy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":451520,"ownershipPct":4.997758026470009,"effectiveDate":"2021-07-29"},{"code":"GMX","shareholderType":"PERSON","shareholderName":"Phan Hoàng Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":432530,"ownershipPct":4.787562631088486,"effectiveDate":"2021-12-31"},{"code":"GMX","shareholderType":"PERSON","shareholderName":"Phạm Văn Hậu","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":335563,"ownershipPct":3.714260003181156,"effectiveDate":"2021-12-31"},{"code":"GMX","shareholderType":"PERSON","shareholderName":"Trần Thị Ngọc Chăm","roleType":"Chị/em dâu của Chủ tịch HĐQT","enRoleType":"Sister in law of Chairman","numberOfShares":294950,"ownershipPct":3.264725216839407,"groupPct":11.16580299123876,"effectiveDate":"2023-06-30"},{"code":"GMX","shareholderType":"PERSON","shareholderName":"Peter Eric Dennis","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":268100,"ownershipPct":2.9675295156285646,"effectiveDate":"2024-03-06"},{"code":"GMX","shareholderType":"PERSON","shareholderName":"Phan Hoàng Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":255900,"ownershipPct":2.832490872992725,"effectiveDate":"2020-12-31"},{"code":"GMX","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Sơn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":223927,"ownershipPct":2.47859001061603,"effectiveDate":"2021-07-29"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dư Thị Thanh Hương",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 615161,
+      "ownershipPct": 6.8090579051233995,
+      "groupPct": 11.16580299123876,
+      "effectiveDate": "2021-11-12"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Reverie LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 458100,
+      "ownershipPct": 5.070590343563765,
+      "effectiveDate": "2024-03-11"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phan Ngọc Dung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 453940,
+      "ownershipPct": 5.024544380173184,
+      "effectiveDate": "2025-03-13"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Mai Thi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 453350,
+      "ownershipPct": 5.0180138228653846,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Xây dựng Gia Thy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 451520,
+      "ownershipPct": 4.997758026470009,
+      "effectiveDate": "2021-07-29"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Hoàng Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 432530,
+      "ownershipPct": 4.787562631088486,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Hậu",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 335563,
+      "ownershipPct": 3.714260003181156,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Ngọc Chăm",
+      "roleType": "Chị/em dâu của Chủ tịch HĐQT",
+      "enRoleType": "Sister in law of Chairman",
+      "numberOfShares": 294950,
+      "ownershipPct": 3.264725216839407,
+      "groupPct": 11.16580299123876,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Peter Eric Dennis",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 268100,
+      "ownershipPct": 2.9675295156285646,
+      "effectiveDate": "2024-03-06"
+    },
+    {
+      "code": "GMX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Hoàng Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 255900,
+      "ownershipPct": 2.832490872992725,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

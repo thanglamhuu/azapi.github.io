@@ -1,1 +1,48 @@
-{"data":[{"code":"MQN","shareholderType":"COMPANY","shareholderName":"CTCP Tổng công ty đầu tư Hợp Nghĩa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1217106,"ownershipPct":17.339996897023493,"effectiveDate":"2024-07-18"},{"code":"MQN","shareholderType":"PERSON","shareholderName":"Trần Thị Thanh Nga","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":365123,"ownershipPct":5.2018736963188985,"effectiveDate":"2024-07-18"},{"code":"MQN","shareholderType":"PERSON","shareholderName":"Tống Sơn Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":356568,"ownershipPct":5.0799914005664855,"effectiveDate":"2024-07-18"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MQN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tổng công ty đầu tư Hợp Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1217106,
+      "ownershipPct": 17.340347702817738,
+      "effectiveDate": "2024-07-18"
+    },
+    {
+      "code": "MQN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư Mầm Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 677339,
+      "ownershipPct": 9.650181473658716,
+      "effectiveDate": "2025-06-20"
+    },
+    {
+      "code": "MQN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thanh Nga",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 365123,
+      "ownershipPct": 5.201978935520753,
+      "effectiveDate": "2024-07-18"
+    },
+    {
+      "code": "MQN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tống Sơn Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 356568,
+      "ownershipPct": 5.080094173965387,
+      "effectiveDate": "2024-07-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

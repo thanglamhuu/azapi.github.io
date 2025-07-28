@@ -1,1 +1,48 @@
-{"data":[{"code":"PVG","shareholderType":"COMPANY","shareholderName":"TCT Khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20522679,"ownershipPct":51.3066975,"effectiveDate":"2024-06-27"},{"code":"PVG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH 1 thành viên Tổng công ty Khí Việt Nam (PVGAS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10900512,"ownershipPct":27.25128,"effectiveDate":"2024-06-27"},{"code":"PVG","shareholderType":"PERSON","shareholderName":"Nguyễn Hải Long","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":6000052,"ownershipPct":15.00013,"effectiveDate":"2024-06-27"},{"code":"PVG","shareholderType":"COMPANY","shareholderName":"CK Dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1311838,"ownershipPct":3.279595,"effectiveDate":"2024-06-27"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PVG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20522679,
+      "ownershipPct": 51.308593352524376,
+      "effectiveDate": "2024-06-27"
+    },
+    {
+      "code": "PVG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH 1 thành viên Tổng công ty Khí Việt Nam (PVGAS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10900512,
+      "ownershipPct": 27.252286972003617,
+      "effectiveDate": "2024-06-27"
+    },
+    {
+      "code": "PVG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hải Long",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 6000052,
+      "ownershipPct": 15.000684275283971,
+      "effectiveDate": "2024-06-27"
+    },
+    {
+      "code": "PVG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1311838,
+      "ownershipPct": 3.2797161855130548,
+      "effectiveDate": "2024-06-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

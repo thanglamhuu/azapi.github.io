@@ -1,1 +1,48 @@
-{"data":[{"code":"PLO","shareholderType":"COMPANY","shareholderName":"TCT T.mại K.thuật","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2020000,"ownershipPct":28.08461533114125,"effectiveDate":"2020-06-30"},{"code":"PLO","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Bất động sản và Kỹ thuật Xăng dầu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800000,"ownershipPct":11.122619933125248,"effectiveDate":"2020-06-30"},{"code":"PLO","shareholderType":"PERSON","shareholderName":"Huỳnh Xuân Hồng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":618487,"ownershipPct":8.598994793223543,"effectiveDate":"2020-06-30"},{"code":"PLO","shareholderType":"COMPANY","shareholderName":"Ngân hàng Thương mại Cổ phần Đông Á ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":540000,"ownershipPct":7.5077684548595425,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PLO",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT T.mại K.thuật",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2020000,
+      "ownershipPct": 28.08461533114125,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PLO",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Bất động sản và Kỹ thuật Xăng dầu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 800000,
+      "ownershipPct": 11.122619933125248,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PLO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Xuân Hồng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 627787,
+      "ownershipPct": 8.728295249946125,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "PLO",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Thương mại Cổ phần Đông Á ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 540000,
+      "ownershipPct": 7.5077684548595425,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

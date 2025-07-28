@@ -1,1 +1,109 @@
-{"data":[{"code":"HPM","shareholderType":"PERSON","shareholderName":"Nguyễn Thạc Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":760000,"ownershipPct":20,"effectiveDate":"2023-08-16"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Phạm Duy Tân","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":456000,"ownershipPct":12,"effectiveDate":"2024-01-30"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Lý Tấn Khoa","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":456000,"ownershipPct":12,"effectiveDate":"2024-01-15"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Hoàng Thanh Thủy","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":456000,"ownershipPct":12,"effectiveDate":"2024-01-16"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Lê Thanh Hồng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":151900,"ownershipPct":3.9973684210526317,"effectiveDate":"2023-12-31"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Bùi Thị Lệ Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":136000,"ownershipPct":3.5789473684210527,"effectiveDate":"2022-06-30"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Phạm Thị Tính","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":80000,"ownershipPct":2.1052631578947367,"effectiveDate":"2020-06-30"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":75000,"ownershipPct":1.9736842105263157,"effectiveDate":"2020-06-30"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Phạm Thị Thu Hằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":70200,"ownershipPct":1.8473684210526315,"effectiveDate":"2020-06-30"},{"code":"HPM","shareholderType":"PERSON","shareholderName":"Phạm Đình Trường","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":70000,"ownershipPct":1.8421052631578947,"groupPct":4.394736842105263,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thạc Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 760000,
+      "ownershipPct": 20,
+      "effectiveDate": "2024-09-20"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lý Tấn Khoa",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 456000,
+      "ownershipPct": 12,
+      "effectiveDate": "2024-01-15"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Duy Tân",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 456000,
+      "ownershipPct": 12,
+      "effectiveDate": "2024-01-30"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thanh Thủy",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 456000,
+      "ownershipPct": 12,
+      "effectiveDate": "2024-01-16"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thanh Hồng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 158300,
+      "ownershipPct": 4.16578947368421,
+      "effectiveDate": "2024-10-03"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Lệ Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 136000,
+      "ownershipPct": 3.5789473684210527,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Tính",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 80000,
+      "ownershipPct": 2.1052631578947367,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 75000,
+      "ownershipPct": 1.9736842105263157,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thu Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 70200,
+      "ownershipPct": 1.8473684210526315,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đình Trường",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 70000,
+      "ownershipPct": 1.8421052631578947,
+      "groupPct": 4.394736842105263,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

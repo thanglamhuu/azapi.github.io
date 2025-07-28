@@ -1,1 +1,109 @@
-{"data":[{"code":"DIG","shareholderType":"PERSON","shareholderName":"Nguyễn Hùng Cường","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":61956984,"ownershipPct":10.159347597116575,"effectiveDate":"2023-06-12"},{"code":"DIG","shareholderType":"PERSON","shareholderName":"Nguyễn Thiện Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":46816133,"ownershipPct":7.676638493246218,"effectiveDate":"2022-11-16"},{"code":"DIG","shareholderType":"COMPANY","shareholderName":"Chứng khoán Vietcap","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":46193671,"ownershipPct":7.574570777619576,"effectiveDate":"2022-07-21"},{"code":"DIG","shareholderType":"COMPANY","shareholderName":"CTCP Kinh doanh Địa ốc Him Lam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":30413473,"ownershipPct":4.987025253561727,"effectiveDate":"2022-07-21"},{"code":"DIG","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư phát triển Thiên Tân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":28684074,"ownershipPct":4.703448416201377,"effectiveDate":"2023-03-27"},{"code":"DIG","shareholderType":"PERSON","shareholderName":"Trương Minh Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24897132,"ownershipPct":4.0824875878285845,"effectiveDate":"2021-06-08"},{"code":"DIG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18974459,"ownershipPct":3.1113219527961045,"effectiveDate":"2022-07-21"},{"code":"DIG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Huyền","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":18191649,"ownershipPct":2.9829613003069704,"groupPct":3.0874451759397785,"effectiveDate":"2022-11-16"},{"code":"DIG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Huyền","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":18191649,"ownershipPct":2.9829613003069704,"groupPct":3.204794304231144,"effectiveDate":"2022-11-16"},{"code":"DIG","shareholderType":"COMPANY","shareholderName":"Deutsche Asset Management (Asia) Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16354336,"ownershipPct":2.6816893498889023,"effectiveDate":"2022-07-21"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hùng Cường",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 63942402,
+      "ownershipPct": 9.891602213854188,
+      "effectiveDate": "2025-05-29"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán Vietcap",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 46193671,
+      "ownershipPct": 7.1459532960562235,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thiện Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 43997030,
+      "ownershipPct": 6.806142805692679,
+      "effectiveDate": "2025-05-29"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Kinh doanh Địa ốc Him Lam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 30413473,
+      "ownershipPct": 4.704827586204763,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư phát triển Thiên Tân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 30405118,
+      "ownershipPct": 4.703535105254536,
+      "effectiveDate": "2025-05-29"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Minh Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24897132,
+      "ownershipPct": 3.851474425527836,
+      "effectiveDate": "2021-06-08"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18974459,
+      "ownershipPct": 2.9352635306237875,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hà Thành",
+      "roleType": "Mẹ của Chủ tịch HĐQT",
+      "enRoleType": "Mother of Chairman",
+      "numberOfShares": 16600679,
+      "ownershipPct": 2.5680504330738585,
+      "effectiveDate": "2025-05-29"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hà Thành",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 16600679,
+      "ownershipPct": 2.5680504330738585,
+      "groupPct": 5.0300366771751275,
+      "effectiveDate": "2025-05-29"
+    },
+    {
+      "code": "DIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Asset Management (Asia) Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16354336,
+      "ownershipPct": 2.5299422781101537,
+      "effectiveDate": "2022-07-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 16,
+  "totalPages": 2
+}

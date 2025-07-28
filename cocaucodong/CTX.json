@@ -1,1 +1,108 @@
-{"data":[{"code":"CTX","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19308530,"ownershipPct":24.46989806111163,"effectiveDate":"2020-12-08"},{"code":"CTX","shareholderType":"COMPANY","shareholderName":"Công ty CP Đầu tư và QL BĐS Thăng Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18228352,"ownershipPct":23.100977405429635,"effectiveDate":"2020-06-30"},{"code":"CTX","shareholderType":"PERSON","shareholderName":"Phan Minh Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":17177603,"ownershipPct":21.769352423216333,"effectiveDate":"2023-06-30"},{"code":"CTX","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Thăng Long Fundings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15121679,"ownershipPct":19.1638588563113,"effectiveDate":"2023-11-20"},{"code":"CTX","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Hòa Bình Fundings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11836100,"ownershipPct":15.000010898868185,"effectiveDate":"2023-11-20"},{"code":"CTX","shareholderType":"PERSON","shareholderName":"Lê Quang Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10721884,"ownershipPct":13.58795353675623,"effectiveDate":"2020-06-30"},{"code":"CTX","shareholderType":"PERSON","shareholderName":"Chu Thị Hồng Hạnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":5063112,"ownershipPct":6.4165337553915816,"effectiveDate":"2021-12-31"},{"code":"CTX","shareholderType":"PERSON","shareholderName":"Đồng Thị Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800000,"ownershipPct":1.0138482033013028,"effectiveDate":"2015-12-10"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Đầu tư và QL BĐS Thăng Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18228352,
+      "ownershipPct": 23.100977405429635,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Thăng Long Fundings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15121679,
+      "ownershipPct": 19.1638588563113,
+      "effectiveDate": "2023-11-20"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Hòa Bình Fundings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11836100,
+      "ownershipPct": 15.000010898868185,
+      "effectiveDate": "2023-11-20"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư AMAI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11800000,
+      "ownershipPct": 14.954260998694215,
+      "effectiveDate": "2025-04-17"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư FTM",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11461718,
+      "ownershipPct": 14.52555275130775,
+      "effectiveDate": "2025-06-18"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quang Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10721884,
+      "ownershipPct": 13.58795353675623,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Xây dựng PENS ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6610633,
+      "ownershipPct": 8.377722987167875,
+      "effectiveDate": "2025-06-18"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "MBV Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3741997,
+      "ownershipPct": 4.74227116901108,
+      "effectiveDate": "2025-06-18"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Minh Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1177603,
+      "ownershipPct": 1.4923883571902798,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "CTX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đồng Thị Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 800000,
+      "ownershipPct": 1.0138482033013028,
+      "effectiveDate": "2015-12-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

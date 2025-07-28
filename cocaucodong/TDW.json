@@ -1,1 +1,28 @@
-{"data":[{"code":"TDW","shareholderType":"COMPANY","shareholderName":"Tổng Công ty cấp nước Sài Gòn - TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4335000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"TDW","shareholderType":"COMPANY","shareholderName":"CÔNG TY TNHH NƯỚC SẠCH REE","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3754720,"ownershipPct":44.17317647058824,"effectiveDate":"2020-12-28"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty cấp nước Sài Gòn - TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4335000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY TNHH NƯỚC SẠCH REE",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3754720,
+      "ownershipPct": 44.17317647058824,
+      "effectiveDate": "2020-12-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

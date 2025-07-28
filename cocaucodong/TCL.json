@@ -1,1 +1,68 @@
-{"data":[{"code":"TCL","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tân Cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15381274,"ownershipPct":51.001563874200905,"effectiveDate":"2020-06-30"},{"code":"TCL","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Tổng công ty Tân cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15381273,"ownershipPct":51.00156055837909,"effectiveDate":"2022-12-31"},{"code":"TCL","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2211278,"ownershipPct":7.332203831790216,"effectiveDate":"2020-06-30"},{"code":"TCL","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2108700,"ownershipPct":6.9920734616344165,"effectiveDate":"2024-06-26"},{"code":"TCL","shareholderType":"COMPANY","shareholderName":"Vietnam Equity Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1424130,"ownershipPct":4.722161321628217,"effectiveDate":"2020-06-30"},{"code":"TCL","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1350711,"ownershipPct":4.478716999780758,"effectiveDate":"2020-11-03"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tân Cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15381274,
+      "ownershipPct": 51.001563874200905,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Tổng công ty Tân cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15381273,
+      "ownershipPct": 51.00156055837909,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "TCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2211278,
+      "ownershipPct": 7.332203831790216,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1505100,
+      "ownershipPct": 4.990643414001973,
+      "effectiveDate": "2024-12-12"
+    },
+    {
+      "code": "TCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Equity Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1424130,
+      "ownershipPct": 4.722161321628217,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1350711,
+      "ownershipPct": 4.478716999780758,
+      "effectiveDate": "2020-11-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

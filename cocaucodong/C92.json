@@ -1,1 +1,98 @@
-{"data":[{"code":"C92","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Hưng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3815978,"ownershipPct":71.82449575751188,"effectiveDate":"2018-12-05"},{"code":"C92","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Xây dựng công trình 4","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1094380,"ownershipPct":20.598465627188062,"effectiveDate":"2011-04-21"},{"code":"C92","shareholderType":"PERSON","shareholderName":"Phan Thị Phương Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":264389,"ownershipPct":4.976340694006309,"effectiveDate":"2015-05-19"},{"code":"C92","shareholderType":"PERSON","shareholderName":"Nguyễn Vĩnh Lộc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":4.705510340829525,"effectiveDate":"2017-03-14"},{"code":"C92","shareholderType":"PERSON","shareholderName":"Văn Nam Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":231000,"ownershipPct":4.347891554926481,"effectiveDate":"2018-01-10"},{"code":"C92","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Phượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":168188,"ownershipPct":3.1656414928137444,"effectiveDate":"2011-01-06"},{"code":"C92","shareholderType":"PERSON","shareholderName":"Nguyễn Thiềm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":120682,"ownershipPct":2.271481595807955,"effectiveDate":"2014-11-28"},{"code":"C92","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Lục","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":101552,"ownershipPct":1.9114159445276797,"effectiveDate":"2020-06-30"},{"code":"C92","shareholderType":"PERSON","shareholderName":"Nguyễn Tăng Bảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":60020,"ownershipPct":1.1296989226263523,"effectiveDate":"2015-08-05"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Hưng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3815978,
+      "ownershipPct": 71.82449575751188,
+      "effectiveDate": "2018-12-05"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Xây dựng công trình 4",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1094380,
+      "ownershipPct": 20.598465627188062,
+      "effectiveDate": "2011-04-21"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thị Phương Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 264389,
+      "ownershipPct": 4.976340694006309,
+      "effectiveDate": "2015-05-19"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Vĩnh Lộc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 4.705510340829525,
+      "effectiveDate": "2017-03-14"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Nam Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 231000,
+      "ownershipPct": 4.347891554926481,
+      "effectiveDate": "2018-01-10"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Phượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 168188,
+      "ownershipPct": 3.1656414928137444,
+      "effectiveDate": "2011-01-06"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thiềm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 120682,
+      "ownershipPct": 2.271481595807955,
+      "effectiveDate": "2014-11-28"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Lục",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 101552,
+      "ownershipPct": 1.9114159445276797,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "C92",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tăng Bảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 60020,
+      "ownershipPct": 1.1296989226263523,
+      "effectiveDate": "2015-08-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

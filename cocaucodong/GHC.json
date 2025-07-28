@@ -1,1 +1,48 @@
-{"data":[{"code":"GHC","shareholderType":"COMPANY","shareholderName":"CTCP Điện Gia Lai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29804891,"ownershipPct":62.53320954628901,"effectiveDate":"2021-10-22"},{"code":"GHC","shareholderType":"PERSON","shareholderName":"Trần Đình Lợi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":977250,"ownershipPct":2.050354051927616,"effectiveDate":"2020-10-29"},{"code":"GHC","shareholderType":"COMPANY","shareholderName":"Tổng công ty Điện lực Miền Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":900000,"ownershipPct":1.8882769472856018,"effectiveDate":"2020-10-29"},{"code":"GHC","shareholderType":"PERSON","shareholderName":"Nguyễn Thái Hà","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":481000,"ownershipPct":1.009179124049305,"effectiveDate":"2023-12-31"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Điện Gia Lai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29804891,
+      "ownershipPct": 62.53320954628901,
+      "effectiveDate": "2021-10-22"
+    },
+    {
+      "code": "GHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Lợi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 977250,
+      "ownershipPct": 2.050354051927616,
+      "effectiveDate": "2020-10-29"
+    },
+    {
+      "code": "GHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Điện lực Miền Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 900000,
+      "ownershipPct": 1.8882769472856018,
+      "effectiveDate": "2020-10-29"
+    },
+    {
+      "code": "GHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thái Hà",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 481000,
+      "ownershipPct": 1.009179124049305,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

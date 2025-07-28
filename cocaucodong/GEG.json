@@ -1,1 +1,88 @@
-{"data":[{"code":"GEG","shareholderType":"COMPANY","shareholderName":"AVH Pte. Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":119768226,"ownershipPct":35.09697765007945,"effectiveDate":"2023-07-06"},{"code":"GEG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư Thành Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":57297126,"ownershipPct":16.79039606577947,"effectiveDate":"2023-07-06"},{"code":"GEG","shareholderType":"COMPANY","shareholderName":"Thành Thành Công - Biên Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":37501438,"ownershipPct":10.989451670861687,"effectiveDate":"2023-11-27"},{"code":"GEG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần xuất nhập khẩu Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":21589459,"ownershipPct":6.326592497081043,"effectiveDate":"2023-07-06"},{"code":"GEG","shareholderType":"COMPANY","shareholderName":"Đường TTC Biên Hòa - Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17479943,"ownershipPct":5.122336610343237,"effectiveDate":"2023-07-06"},{"code":"GEG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Đường Biên Hòa - Ninh Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16992796,"ownershipPct":4.979582660131907,"effectiveDate":"2022-12-31"},{"code":"GEG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Khu công nghiệp Thành Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13086515,"ownershipPct":3.8348829218897293,"effectiveDate":"2023-07-06"},{"code":"GEG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Thành Thành Công Gia Lai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9605656,"ownershipPct":2.814849190020996,"effectiveDate":"2023-07-06"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AVH Pte. Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 119768226,
+      "ownershipPct": 33.42601951099825,
+      "effectiveDate": "2023-07-06"
+    },
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 57297126,
+      "ownershipPct": 15.991009598824025,
+      "effectiveDate": "2023-07-06"
+    },
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thành Thành Công - Biên Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 39376509,
+      "ownershipPct": 10.989558767523185,
+      "effectiveDate": "2024-08-29"
+    },
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần xuất nhập khẩu Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 21589459,
+      "ownershipPct": 6.025385044660315,
+      "effectiveDate": "2023-07-06"
+    },
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Đường Biên Hòa - Ninh Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17842435,
+      "ownershipPct": 4.979631078727993,
+      "effectiveDate": "2024-08-29"
+    },
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đường TTC Biên Hòa - Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17479943,
+      "ownershipPct": 4.878463473017771,
+      "effectiveDate": "2023-07-06"
+    },
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Khu công nghiệp Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13086515,
+      "ownershipPct": 3.6523051257432106,
+      "effectiveDate": "2023-07-06"
+    },
+    {
+      "code": "GEG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Thành Thành Công Gia Lai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9605656,
+      "ownershipPct": 2.680834939242879,
+      "effectiveDate": "2023-07-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

@@ -1,1 +1,90 @@
-{"data":[{"code":"SDU","shareholderType":"COMPANY","shareholderName":"Tổng CT Sông Đà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6000000,"ownershipPct":30,"effectiveDate":"2020-06-30"},{"code":"SDU","shareholderType":"PERSON","shareholderName":"Hoàng Văn Anh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":4998000,"ownershipPct":24.99,"effectiveDate":"2019-06-27"},{"code":"SDU","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư xây dựng An Phú Thịnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4602500,"ownershipPct":23.0125,"effectiveDate":"2015-11-05"},{"code":"SDU","shareholderType":"PERSON","shareholderName":"Lê Văn Lành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1997000,"ownershipPct":9.985,"effectiveDate":"2015-11-05"},{"code":"SDU","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":968600,"ownershipPct":4.843,"effectiveDate":"2018-09-24"},{"code":"SDU","shareholderType":"PERSON","shareholderName":"Hoàng Viết Tường","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":300000,"ownershipPct":1.5,"groupPct":2.58,"effectiveDate":"2020-06-30"},{"code":"SDU","shareholderType":"PERSON","shareholderName":"Hoàng Thị Phương Thúy","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":210000,"ownershipPct":1.05,"groupPct":2.58,"effectiveDate":"2020-06-30"},{"code":"SDU","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Lợi","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":200000,"ownershipPct":1,"effectiveDate":"2016-06-14"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SDU",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng CT Sông Đà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6000000,
+      "ownershipPct": 30,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4998000,
+      "ownershipPct": 24.99,
+      "effectiveDate": "2019-06-27"
+    },
+    {
+      "code": "SDU",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư xây dựng An Phú Thịnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4602500,
+      "ownershipPct": 23.0125,
+      "effectiveDate": "2015-11-05"
+    },
+    {
+      "code": "SDU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Lành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1997000,
+      "ownershipPct": 9.985,
+      "effectiveDate": "2015-11-05"
+    },
+    {
+      "code": "SDU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 968600,
+      "ownershipPct": 4.843,
+      "effectiveDate": "2018-09-24"
+    },
+    {
+      "code": "SDU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Viết Tường",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 300000,
+      "ownershipPct": 1.5,
+      "groupPct": 2.58,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Phương Thúy",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 210000,
+      "ownershipPct": 1.05,
+      "groupPct": 2.58,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDU",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Lợi",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 200000,
+      "ownershipPct": 1,
+      "effectiveDate": "2016-06-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

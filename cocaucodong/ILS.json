@@ -1,1 +1,68 @@
-{"data":[{"code":"ILS","shareholderType":"COMPANY","shareholderName":"Ủy Ban nhân dân Thành phố Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16200000,"ownershipPct":45,"effectiveDate":"2020-06-30"},{"code":"ILS","shareholderType":"COMPANY","shareholderName":"CTCP Logistics hàng không ALS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9720000,"ownershipPct":27,"effectiveDate":"2020-06-30"},{"code":"ILS","shareholderType":"COMPANY","shareholderName":"CK Phố Wall","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1710400,"ownershipPct":4.751111111111111,"effectiveDate":"2018-03-23"},{"code":"ILS","shareholderType":"PERSON","shareholderName":"Phùng Tiến Toàn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1620000,"ownershipPct":4.5,"effectiveDate":"2020-12-31"},{"code":"ILS","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Hảo","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":688503,"ownershipPct":1.9125083333333333,"effectiveDate":"2020-05-22"},{"code":"ILS","shareholderType":"PERSON","shareholderName":"Phùng Thúy Hoa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":641700,"ownershipPct":1.7825,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ILS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy Ban nhân dân Thành phố Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16200000,
+      "ownershipPct": 45,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ILS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Logistics hàng không ALS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9720000,
+      "ownershipPct": 27,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ILS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Phố Wall",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1710400,
+      "ownershipPct": 4.751111111111111,
+      "effectiveDate": "2018-03-23"
+    },
+    {
+      "code": "ILS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Tiến Toàn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1620000,
+      "ownershipPct": 4.5,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "ILS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Hảo",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 688503,
+      "ownershipPct": 1.9125083333333333,
+      "effectiveDate": "2020-05-22"
+    },
+    {
+      "code": "ILS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Thúy Hoa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 641700,
+      "ownershipPct": 1.7825,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

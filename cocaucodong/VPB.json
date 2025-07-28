@@ -1,1 +1,112 @@
-{"data":[{"code":"VPB","shareholderType":"COMPANY","shareholderName":"Sumitomo Mitsui Banking Corporation","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1190500000,"ownershipPct":15.00518608283483,"effectiveDate":"2023-10-30"},{"code":"VPB","shareholderType":"COMPANY","shareholderName":"Composite Capital Master Fund LP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":328979398,"ownershipPct":4.146490621091122,"effectiveDate":"2022-09-28"},{"code":"VPB","shareholderType":"PERSON","shareholderName":"Ngô Chí Dũng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":219035933,"ownershipPct":2.7607517290989856,"effectiveDate":"2023-06-30"},{"code":"VPB","shareholderType":"PERSON","shareholderName":"Hoàng Anh Minh","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":217835462,"ownershipPct":2.7456208674928986,"groupPct":6.89490910816246,"effectiveDate":"2023-06-30"},{"code":"VPB","shareholderType":"PERSON","shareholderName":"Vũ Thị Quyên","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":217259302,"ownershipPct":2.738358886801184,"groupPct":6.89490910816246,"effectiveDate":"2023-06-30"},{"code":"VPB","shareholderType":"PERSON","shareholderName":"Kim Ngọc Cẩm Ly","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":191069309,"ownershipPct":2.4082574853117746,"effectiveDate":"2023-06-30"},{"code":"VPB","shareholderType":"PERSON","shareholderName":"Lý Thị Thu Hà","roleType":"Mẹ của Phó chủ tịch HĐQT","enRoleType":"Mother of Vice-chairman","numberOfShares":188085055,"ownershipPct":2.370643636854451,"groupPct":4.116107633792175,"effectiveDate":"2023-06-30"},{"code":"VPB","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Thủy","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":135566274,"ownershipPct":1.708691447229377,"groupPct":4.116107633792175,"effectiveDate":"2023-06-30"},{"code":"VPB","shareholderType":"COMPANY","shareholderName":"Vietnam Enterprise Investments Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":130856132,"ownershipPct":1.6493243265350672,"effectiveDate":"2023-05-24"},{"code":"VPB","shareholderType":"PERSON","shareholderName":"Bùi Hải Quân","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":104219468,"ownershipPct":1.3135930372062579,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "VPB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sumitomo Mitsui Banking Corporation",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1190500000,
+      "ownershipPct": 15.00518608283483,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Composite Capital Master Fund LP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 328979398,
+      "ownershipPct": 4.146490621091122,
+      "effectiveDate": "2022-09-28"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Chí Dũng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 328533899,
+      "ownershipPct": 4.140875505261876,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Anh Minh",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 326753193,
+      "ownershipPct": 4.118431301239347,
+      "groupPct": 9.901219995375149,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Quyên",
+      "roleType": "Mẹ của Chủ tịch HĐQT",
+      "enRoleType": "Mother of Chairman",
+      "numberOfShares": 325888953,
+      "ownershipPct": 4.107538330201776,
+      "groupPct": 9.901219995375149,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kim Ngọc Cẩm Ly",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 286603963,
+      "ownershipPct": 3.6123862216656097,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lý Thị Thu Hà",
+      "roleType": "Mẹ của Phó chủ tịch HĐQT",
+      "enRoleType": "Mother of Vice-chairman",
+      "numberOfShares": 282127582,
+      "ownershipPct": 3.555965448979624,
+      "groupPct": 6.17416144438621,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Thủy",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 203349411,
+      "ownershipPct": 2.5630371708440656,
+      "groupPct": 6.17416144438621,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hải Quân",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 156329202,
+      "ownershipPct": 1.9703895558093867,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VPB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Enterprise Investments Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 130856132,
+      "ownershipPct": 1.6493243265350672,
+      "effectiveDate": "2023-05-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

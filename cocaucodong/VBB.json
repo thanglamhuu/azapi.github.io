@@ -1,1 +1,81 @@
-{"data":[{"code":"VBB","shareholderType":"COMPANY","shareholderName":"CÔNG TY TNHH VŨ QUANG DUNG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":28636045,"ownershipPct":5.013723374112872,"effectiveDate":"2024-03-18"},{"code":"VBB","shareholderType":"PERSON","shareholderName":"Dương Nhất Nguyên","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":27891952,"ownershipPct":4.883444333602432,"groupPct":8.088639324432126,"effectiveDate":"2024-03-20"},{"code":"VBB","shareholderType":"COMPANY","shareholderName":"CÔNG TY TNHH SỸ PHÁT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":27486222,"ownershipPct":4.812407359586683,"effectiveDate":"2024-03-19"},{"code":"VBB","shareholderType":"PERSON","shareholderName":"Dương Ngọc Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":21742080,"ownershipPct":3.8066979814367516,"effectiveDate":"2021-12-31"},{"code":"VBB","shareholderType":"PERSON","shareholderName":"Đặng Đình Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11520000,"ownershipPct":2.0169717315984204,"effectiveDate":"2020-06-30"},{"code":"VBB","shareholderType":"PERSON","shareholderName":"Dương Mai Anh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":10068480,"ownershipPct":1.7628332934170192,"groupPct":8.088639324432126,"effectiveDate":"2021-12-31"},{"code":"VBB","shareholderType":"PERSON","shareholderName":"Dương Bảo Anh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":8124096,"ownershipPct":1.4224020813187326,"groupPct":8.088639324432126,"effectiveDate":"2021-12-31"},{"code":"VBB","shareholderType":"PERSON","shareholderName":"Lương Thị Hương Giang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":6840000,"ownershipPct":1.197576965636562,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY TNHH VŨ QUANG DUNG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 32931451,
+      "ownershipPct": 4.010982787917503,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VBB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Nhất Nguyên",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 32075744,
+      "ownershipPct": 3.906759440804723,
+      "groupPct": 6.470918056942411,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY TNHH SỸ PHÁT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 31609155,
+      "ownershipPct": 3.849929863267078,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VBB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Ngọc Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25003392,
+      "ownershipPct": 3.045361558819689,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VBB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Đình Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13248000,
+      "ownershipPct": 1.6135790668419403,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VBB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Mai Anh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 11578752,
+      "ownershipPct": 1.410268104419856,
+      "groupPct": 6.470918056942411,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VBB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Bảo Anh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 9342710,
+      "ownershipPct": 1.137922802202209,
+      "groupPct": 6.470918056942411,
+      "effectiveDate": "2025-06-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

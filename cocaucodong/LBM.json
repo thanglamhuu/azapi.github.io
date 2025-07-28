@@ -1,1 +1,48 @@
-{"data":[{"code":"LBM","shareholderType":"COMPANY","shareholderName":"Th.lợi Lâm Đồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12980172,"ownershipPct":32.45043,"effectiveDate":"2022-07-22"},{"code":"LBM","shareholderType":"COMPANY","shareholderName":"AFC VF Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5025800,"ownershipPct":12.5645,"effectiveDate":"2024-07-19"},{"code":"LBM","shareholderType":"COMPANY","shareholderName":"AFC Vietnam Fund (AVF)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1200240,"ownershipPct":3.0006,"effectiveDate":"2022-07-22"},{"code":"LBM","shareholderType":"COMPANY","shareholderName":"Công đoàn Cơ sở Ngân hàng ĐT và PT Lâm Đồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":439854,"ownershipPct":1.099635,"effectiveDate":"2022-07-22"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Th.lợi Lâm Đồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12980172,
+      "ownershipPct": 32.45043,
+      "effectiveDate": "2022-07-22"
+    },
+    {
+      "code": "LBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC VF Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4789400,
+      "ownershipPct": 11.9735,
+      "effectiveDate": "2025-03-03"
+    },
+    {
+      "code": "LBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC Vietnam Fund (AVF)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1200240,
+      "ownershipPct": 3.0006,
+      "effectiveDate": "2022-07-22"
+    },
+    {
+      "code": "LBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn Cơ sở Ngân hàng ĐT và PT Lâm Đồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 439854,
+      "ownershipPct": 1.099635,
+      "effectiveDate": "2022-07-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

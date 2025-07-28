@@ -1,1 +1,88 @@
-{"data":[{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Tập đoàn Công nghiệp - Viễn thông Quân đội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":780137989,"ownershipPct":14.702041966433603,"effectiveDate":"2024-03-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":521425325,"ownershipPct":9.826488542543311,"effectiveDate":"2024-03-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Trực thăng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":427159652,"ownershipPct":8.050010663012557,"effectiveDate":"2023-07-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tân Cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":375973254,"ownershipPct":7.085380582030085,"effectiveDate":"2023-07-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Vietcombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":248778185,"ownershipPct":4.688333817574397,"effectiveDate":"2023-07-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Ngân hàng MSB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":242460928,"ownershipPct":4.56928234355786,"effectiveDate":"2023-07-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Công ty TNHH nhà nước một thành viên Thương mại và xuất nhập khẩu Viettel","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":228200095,"ownershipPct":4.30053070192706,"effectiveDate":"2023-07-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":140772315,"ownershipPct":2.652915909780174,"effectiveDate":"2023-07-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"CTBC Vietnam Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":56581039,"ownershipPct":1.0662944525348788,"effectiveDate":"2023-07-14"},{"code":"MBB","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54496918,"ownershipPct":1.0270182798101,"effectiveDate":"2023-07-14"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Công nghiệp - Viễn thông Quân đội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 897158687,
+      "ownershipPct": 14.70205929736655,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 599639123,
+      "ownershipPct": 9.826500117661876,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Trực thăng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 427159652,
+      "ownershipPct": 7.000017526605591,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tân Cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 375973254,
+      "ownershipPct": 6.161207771409402,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietcombank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 248778185,
+      "ownershipPct": 4.076816822664535,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng MSB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 242460928,
+      "ownershipPct": 3.973293679706098,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH nhà nước một thành viên Thương mại và xuất nhập khẩu Viettel",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 228200095,
+      "ownershipPct": 3.739596324451217,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "MBB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 140772315,
+      "ownershipPct": 2.30688612008899,
+      "effectiveDate": "2023-07-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"NBP","shareholderType":"COMPANY","shareholderName":"Phát điện 3","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7045440,"ownershipPct":54.76227119039291,"effectiveDate":"2013-12-20"},{"code":"NBP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Năng lượng R.E.E","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3789400,"ownershipPct":29.453966033189538,"effectiveDate":"2020-11-10"},{"code":"NBP","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":642600,"ownershipPct":4.994753410283316,"effectiveDate":"2021-05-28"},{"code":"NBP","shareholderType":"COMPANY","shareholderName":"Chứng khoán SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":513000,"ownershipPct":3.987408184679958,"effectiveDate":"2010-02-26"},{"code":"NBP","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":422700,"ownershipPct":3.285531071470211,"effectiveDate":"2009-10-15"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NBP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Phát điện 3",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7045440,
+      "ownershipPct": 54.76227119039291,
+      "effectiveDate": "2013-12-20"
+    },
+    {
+      "code": "NBP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Dịch vụ Vận tải Thuận Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3806700,
+      "ownershipPct": 29.588434184446776,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "NBP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Năng lượng R.E.E",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3789400,
+      "ownershipPct": 29.453966033189538,
+      "effectiveDate": "2020-11-10"
+    },
+    {
+      "code": "NBP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 642600,
+      "ownershipPct": 4.994753410283316,
+      "effectiveDate": "2021-05-28"
+    },
+    {
+      "code": "NBP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 513000,
+      "ownershipPct": 3.987408184679958,
+      "effectiveDate": "2010-02-26"
+    },
+    {
+      "code": "NBP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 422700,
+      "ownershipPct": 3.285531071470211,
+      "effectiveDate": "2009-10-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

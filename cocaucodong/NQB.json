@@ -1,1 +1,38 @@
-{"data":[{"code":"NQB","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Quảng Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8986504,"ownershipPct":52.15552874475543,"effectiveDate":"2020-01-06"},{"code":"NQB","shareholderType":"COMPANY","shareholderName":"M.trường Bình Dg","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7065000,"ownershipPct":41.003577206630865,"effectiveDate":"2023-06-05"},{"code":"NQB","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư cơ hội PVI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2392004,"ownershipPct":13.88262147099361,"effectiveDate":"2020-01-03"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NQB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Quảng Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8986504,
+      "ownershipPct": 52.15552874475543,
+      "effectiveDate": "2020-01-06"
+    },
+    {
+      "code": "NQB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "M.trường Bình Dg",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7065000,
+      "ownershipPct": 41.003577206630865,
+      "effectiveDate": "2023-06-05"
+    },
+    {
+      "code": "NQB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư cơ hội PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2392004,
+      "ownershipPct": 13.88262147099361,
+      "effectiveDate": "2020-01-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

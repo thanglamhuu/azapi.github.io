@@ -1,1 +1,38 @@
-{"data":[{"code":"VC3","shareholderType":"PERSON","shareholderName":"Kiều Xuân Nam","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":57153657,"ownershipPct":45.667781206180166,"effectiveDate":"2024-07-17"},{"code":"VC3","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5890474,"ownershipPct":4.706695808331091,"effectiveDate":"2023-06-29"},{"code":"VC3","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1573711,"ownershipPct":1.25745041353625,"effectiveDate":"2023-06-29"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VC3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Xuân Nam",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 56898506,
+      "ownershipPct": 45.46390658722904,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VC3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5890474,
+      "ownershipPct": 4.706695808331091,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "VC3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1573711,
+      "ownershipPct": 1.25745041353625,
+      "effectiveDate": "2023-06-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

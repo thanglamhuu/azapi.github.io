@@ -1,1 +1,68 @@
-{"data":[{"code":"VDS","shareholderType":"PERSON","shareholderName":"Nguyễn Miên Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":40795536,"ownershipPct":16.788286419753085,"effectiveDate":"2024-06-21"},{"code":"VDS","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Đô","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38810362,"ownershipPct":15.971342386831276,"effectiveDate":"2024-06-21"},{"code":"VDS","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Hiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38810362,"ownershipPct":15.971342386831276,"effectiveDate":"2024-06-21"},{"code":"VDS","shareholderType":"PERSON","shareholderName":"Phạm Mỹ Linh","roleType":"Mẹ của Thành viên HĐQT","enRoleType":"Mother of Board member","numberOfShares":27272018,"ownershipPct":11.223052674897119,"effectiveDate":"2024-06-21"},{"code":"VDS","shareholderType":"PERSON","shareholderName":"Trần Lệ Nguyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20109025,"ownershipPct":8.275318930041152,"effectiveDate":"2024-06-21"},{"code":"VDS","shareholderType":"COMPANY","shareholderName":"Eximbank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6364050,"ownershipPct":2.6189506172839505,"effectiveDate":"2022-07-29"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VDS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Miên Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 45401329,
+      "ownershipPct": 16.985158623269733,
+      "effectiveDate": "2025-06-10"
+    },
+    {
+      "code": "VDS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Đô",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38810362,
+      "ownershipPct": 14.519402169846614,
+      "effectiveDate": "2024-06-21"
+    },
+    {
+      "code": "VDS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Hiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38810362,
+      "ownershipPct": 14.519402169846614,
+      "effectiveDate": "2024-06-21"
+    },
+    {
+      "code": "VDS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Mỹ Linh",
+      "roleType": "Mẹ của Thành viên HĐQT",
+      "enRoleType": "Mother of Board member",
+      "numberOfShares": 27272018,
+      "ownershipPct": 10.202775158997381,
+      "effectiveDate": "2024-06-21"
+    },
+    {
+      "code": "VDS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Lệ Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20109025,
+      "ownershipPct": 7.52301720912832,
+      "effectiveDate": "2024-06-21"
+    },
+    {
+      "code": "VDS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Eximbank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6364050,
+      "ownershipPct": 2.380864197530864,
+      "effectiveDate": "2022-07-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

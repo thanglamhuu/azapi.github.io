@@ -1,1 +1,49 @@
-{"data":[{"code":"VPG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Bình","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":21715126,"ownershipPct":24.560246058420066,"effectiveDate":"2023-07-06"},{"code":"VPG","shareholderType":"PERSON","shareholderName":"Lê Thị Thanh Lệ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3811500,"ownershipPct":4.310883475954414,"groupPct":4.311732872121394,"effectiveDate":"2023-07-06"},{"code":"VPG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Đức","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2835388,"ownershipPct":3.2068810906780625,"effectiveDate":"2023-07-06"},{"code":"VPG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1312500,"ownershipPct":1.4844640068713548,"effectiveDate":"2023-07-06"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Bình",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 22800880,
+      "ownershipPct": 25.78825575999462,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thanh Lệ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4002075,
+      "ownershipPct": 4.526427649752136,
+      "groupPct": 4.527318893666356,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Đức",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2977157,
+      "ownershipPct": 3.3672246928038874,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1312500,
+      "ownershipPct": 1.4844640068713548,
+      "effectiveDate": "2023-07-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

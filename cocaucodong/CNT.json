@@ -1,1 +1,28 @@
-{"data":[{"code":"CNT","shareholderType":"COMPANY","shareholderName":"CTCP Hồng Mã","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":35264325,"ownershipPct":88.3484004499654,"effectiveDate":"2022-05-20"},{"code":"CNT","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Hiếu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":596500,"ownershipPct":1.4944230711463884,"effectiveDate":"2022-05-20"},{"code":"CNT","shareholderType":"PERSON","shareholderName":"Nguyễn Viết Tân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":500000,"ownershipPct":1.2526597411118092,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CNT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hồng Mã",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 44433049,
+      "ownershipPct": 67.96093097363925,
+      "effectiveDate": "2024-08-07"
+    },
+    {
+      "code": "CNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Hiếu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 751590,
+      "ownershipPct": 1.1495667585287141,
+      "effectiveDate": "2024-08-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

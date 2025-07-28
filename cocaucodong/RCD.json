@@ -1,1 +1,68 @@
-{"data":[{"code":"RCD","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1632600,"ownershipPct":33.663021729412485,"effectiveDate":"2016-06-20"},{"code":"RCD","shareholderType":"PERSON","shareholderName":"Phạm Văn Khương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1316550,"ownershipPct":27.14630115022541,"effectiveDate":"2020-06-30"},{"code":"RCD","shareholderType":"PERSON","shareholderName":"Trần Xuân Lực","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":648490,"ownershipPct":13.371391009008146,"effectiveDate":"2020-06-30"},{"code":"RCD","shareholderType":"COMPANY","shareholderName":"XD - địa ốc cao su","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":450230,"ownershipPct":9.283414353321929,"effectiveDate":"2019-10-30"},{"code":"RCD","shareholderType":"PERSON","shareholderName":"Trịnh Thị Hồng Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":261100,"ownershipPct":5.383691641277471,"effectiveDate":"2019-12-02"},{"code":"RCD","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Toàn Thành Vina Nha Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":236000,"ownershipPct":4.86614794079465,"effectiveDate":"2021-12-04"},{"code":"RCD","shareholderType":"PERSON","shareholderName":"Trần Xuân Chương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":100000,"ownershipPct":2.0619270935570553,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "RCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Khương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1316550,
+      "ownershipPct": 27.14630115022541,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "RCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Thị Hồng Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1088500,
+      "ownershipPct": 22.444076413368546,
+      "effectiveDate": "2024-08-16"
+    },
+    {
+      "code": "RCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Xuân Lực",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 1085190,
+      "ownershipPct": 22.375826626571808,
+      "effectiveDate": "2024-08-16"
+    },
+    {
+      "code": "RCD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XD - địa ốc cao su",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 450230,
+      "ownershipPct": 9.283414353321929,
+      "effectiveDate": "2019-10-30"
+    },
+    {
+      "code": "RCD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Toàn Thành Vina Nha Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 236000,
+      "ownershipPct": 4.86614794079465,
+      "effectiveDate": "2021-12-04"
+    },
+    {
+      "code": "RCD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Xuân Chương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 100000,
+      "ownershipPct": 2.0619270935570553,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

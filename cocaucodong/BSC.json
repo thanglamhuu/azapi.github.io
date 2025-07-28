@@ -1,1 +1,68 @@
-{"data":[{"code":"BSC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Bến Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1484420,"ownershipPct":47.11327186854419,"effectiveDate":"2020-06-30"},{"code":"BSC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư và Thương mại Thiên Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1349000,"ownershipPct":42.815243496224866,"effectiveDate":"2022-06-01"},{"code":"BSC","shareholderType":"COMPANY","shareholderName":"Đầu tư Nam Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":323115,"ownershipPct":10.255187103248849,"effectiveDate":"2012-06-19"},{"code":"BSC","shareholderType":"PERSON","shareholderName":"Bùi Minh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":152000,"ownershipPct":4.824252788307027,"effectiveDate":"2020-06-30"},{"code":"BSC","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":145000,"ownershipPct":4.602083252003414,"effectiveDate":"2011-03-16"},{"code":"BSC","shareholderType":"PERSON","shareholderName":"Phạm Phú Quốc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":60150,"ownershipPct":1.9090710869517609,"effectiveDate":"2013-06-19"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BSC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Bến Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1484420,
+      "ownershipPct": 47.11327186854419,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư và Thương mại Thiên Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1349000,
+      "ownershipPct": 42.815243496224866,
+      "effectiveDate": "2022-06-01"
+    },
+    {
+      "code": "BSC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư Nam Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 323115,
+      "ownershipPct": 10.255187103248849,
+      "effectiveDate": "2012-06-19"
+    },
+    {
+      "code": "BSC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 152000,
+      "ownershipPct": 4.824252788307027,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 145000,
+      "ownershipPct": 4.602083252003414,
+      "effectiveDate": "2011-03-16"
+    },
+    {
+      "code": "BSC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Phú Quốc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 60150,
+      "ownershipPct": 1.9090710869517609,
+      "effectiveDate": "2013-06-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

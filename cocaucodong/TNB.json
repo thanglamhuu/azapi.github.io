@@ -1,1 +1,68 @@
-{"data":[{"code":"TNB","shareholderType":"COMPANY","shareholderName":"TCT Thép Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10008002,"ownershipPct":69.06892308333605,"effectiveDate":"2022-08-30"},{"code":"TNB","shareholderType":"PERSON","shareholderName":"Nguyễn Thúy Ly","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2123503,"ownershipPct":14.655079542773207,"effectiveDate":"2023-10-27"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TNB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thép Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24947002,
+      "ownershipPct": 84.77048580548963,
+      "effectiveDate": "2025-03-28"
+    },
+    {
+      "code": "TNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Việt",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 3603000,
+      "ownershipPct": 12.243076757567065,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "TNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Tính",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3503000,
+      "ownershipPct": 11.903274460659848,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "TNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thúy Ly",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2124103,
+      "ownershipPct": 7.217750782675125,
+      "effectiveDate": "2024-08-27"
+    },
+    {
+      "code": "TNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Khánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1501002,
+      "ownershipPct": 5.100439272623281,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "TNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Công Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1401000,
+      "ownershipPct": 4.760630179670125,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

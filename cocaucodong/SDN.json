@@ -1,1 +1,98 @@
-{"data":[{"code":"SDN","shareholderType":"COMPANY","shareholderName":"TCT P.triển KCN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":911088,"ownershipPct":30.00517712212607,"effectiveDate":"2023-09-05"},{"code":"SDN","shareholderType":"COMPANY","shareholderName":"Petrolimex Inter Trading","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330380,"ownershipPct":10.880519134933191,"effectiveDate":"2023-09-05"},{"code":"SDN","shareholderType":"PERSON","shareholderName":"Liu Chien Hung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":298106,"ownershipPct":9.817628298439354,"effectiveDate":"2023-09-05"},{"code":"SDN","shareholderType":"PERSON","shareholderName":"Nguyễn Phú Thưởng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":182400,"ownershipPct":6.0070424668921065,"effectiveDate":"2023-09-05"},{"code":"SDN","shareholderType":"PERSON","shareholderName":"Chen Miao Lien","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":158928,"ownershipPct":5.234030949442043,"effectiveDate":"2023-09-05"},{"code":"SDN","shareholderType":"PERSON","shareholderName":"Đào Đình Đề","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":155768,"ownershipPct":5.1299615733708865,"effectiveDate":"2024-05-15"},{"code":"SDN","shareholderType":"PERSON","shareholderName":"Liu Cheng Min","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":104202,"ownershipPct":3.4317206092932637,"effectiveDate":"2023-09-05"},{"code":"SDN","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Dung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":44000,"ownershipPct":1.4490672617502889,"effectiveDate":"2023-09-05"},{"code":"SDN","shareholderType":"PERSON","shareholderName":"Phạm Đình Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":32720,"ownershipPct":1.0775791091924876,"effectiveDate":"2023-09-05"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SDN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT P.triển KCN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 911088,
+      "ownershipPct": 30.00517712212607,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Petrolimex Inter Trading",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330380,
+      "ownershipPct": 10.880519134933191,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Liu Chien Hung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 298106,
+      "ownershipPct": 9.817628298439354,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phú Thưởng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 182400,
+      "ownershipPct": 6.0070424668921065,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chen Miao Lien",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 158928,
+      "ownershipPct": 5.234030949442043,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Đình Đề",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 149168,
+      "ownershipPct": 4.912601484108343,
+      "effectiveDate": "2024-07-19"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Liu Cheng Min",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 104202,
+      "ownershipPct": 3.4317206092932637,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Dung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 44000,
+      "ownershipPct": 1.4490672617502889,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "SDN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đình Toàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 32720,
+      "ownershipPct": 1.0775791091924876,
+      "effectiveDate": "2023-09-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

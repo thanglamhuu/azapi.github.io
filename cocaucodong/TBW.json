@@ -1,1 +1,28 @@
-{"data":[{"code":"TBW","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Thái Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6895000,"ownershipPct":70,"effectiveDate":"2023-07-21"},{"code":"TBW","shareholderType":"PERSON","shareholderName":"Nguyễn Thiên Bắc","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":105700,"ownershipPct":1.0730964467005075,"effectiveDate":"2023-07-21"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TBW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Thái Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6895000,
+      "ownershipPct": 70,
+      "effectiveDate": "2023-07-21"
+    },
+    {
+      "code": "TBW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thiên Bắc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 105700,
+      "ownershipPct": 1.0730964467005075,
+      "effectiveDate": "2023-07-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

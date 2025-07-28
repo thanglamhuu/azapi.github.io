@@ -1,1 +1,91 @@
-{"data":[{"code":"G36","shareholderType":"COMPANY","shareholderName":"Bộ Quốc Phòng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19065932,"ownershipPct":18.3776757308374,"effectiveDate":"2023-08-14"},{"code":"G36","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Giáp","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":17886131,"ownershipPct":17.240464069486794,"effectiveDate":"2023-08-14"},{"code":"G36","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Xây lắp & Thương mại Trường Lộc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5215757,"ownershipPct":5.027474703929778,"effectiveDate":"2023-11-22"},{"code":"G36","shareholderType":"COMPANY","shareholderName":"Bảo hiểm bưu điện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5173695,"ownershipPct":4.986931089456041,"effectiveDate":"2023-08-14"},{"code":"G36","shareholderType":"COMPANY","shareholderName":"Công ty CP Vận tải & Thương mại Anh Quân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5155786,"ownershipPct":4.969668581928816,"effectiveDate":"2023-08-14"},{"code":"G36","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Trung","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":3439362,"ownershipPct":3.3152053388716785,"groupPct":8.181374059934821,"effectiveDate":"2023-08-14"},{"code":"G36","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hiền","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":2833324,"ownershipPct":2.731044551737578,"groupPct":8.181374059934821,"effectiveDate":"2023-11-22"},{"code":"G36","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Hùng","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":1642031,"ownershipPct":1.582755737195678,"groupPct":8.181374059934821,"effectiveDate":"2023-08-14"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "G36",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ Quốc Phòng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19065932,
+      "ownershipPct": 18.3776757308374,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "G36",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Giáp",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 17886131,
+      "ownershipPct": 17.240464069486794,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "G36",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Thuận",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 13905932,
+      "ownershipPct": 13.403945269031443,
+      "groupPct": 20.08946507307186,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "G36",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Xây lắp & Thương mại Trường Lộc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5215757,
+      "ownershipPct": 5.027474703929778,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "G36",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bảo hiểm bưu điện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5173695,
+      "ownershipPct": 4.986931089456041,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "G36",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Vận tải & Thương mại Anh Quân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5155786,
+      "ownershipPct": 4.969668581928816,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "G36",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Trung",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 3439362,
+      "ownershipPct": 3.3152053388716785,
+      "groupPct": 20.08946507307186,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "G36",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hiền",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 2833324,
+      "ownershipPct": 2.731044551737578,
+      "groupPct": 20.08946507307186,
+      "effectiveDate": "2023-11-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

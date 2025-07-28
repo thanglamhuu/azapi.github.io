@@ -1,1 +1,38 @@
-{"data":[{"code":"HOT","shareholderType":"COMPANY","shareholderName":"Văn phòng Tỉnh Ủy Quảng Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4520238,"ownershipPct":5.6502975,"effectiveDate":"2020-06-30"},{"code":"HOT","shareholderType":"COMPANY","shareholderName":"Tập đoàn I.P.A","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1600475,"ownershipPct":2.00059375,"effectiveDate":"2021-07-05"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HOT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Văn phòng Tỉnh Ủy Quảng Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4520238,
+      "ownershipPct": 56.50341996443222,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HOT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn I.P.A",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1600475,
+      "ownershipPct": 20.006095047998503,
+      "effectiveDate": "2021-07-05"
+    },
+    {
+      "code": "HOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tiến Dũng",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 311484,
+      "ownershipPct": 3.8935806619477127,
+      "effectiveDate": "2015-10-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

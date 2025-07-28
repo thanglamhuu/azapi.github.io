@@ -1,1 +1,48 @@
-{"data":[{"code":"KHD","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Kiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":660000,"ownershipPct":20.22791341717497,"effectiveDate":"2024-03-14"},{"code":"KHD","shareholderType":"PERSON","shareholderName":"Ngô Quang Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":635019,"ownershipPct":19.4622868943349,"effectiveDate":"2024-03-14"},{"code":"KHD","shareholderType":"PERSON","shareholderName":"Đào Văn Dũng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":35500,"ownershipPct":1.0880165550147143,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KHD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Kiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 660000,
+      "ownershipPct": 20.22791341717497,
+      "effectiveDate": "2024-03-14"
+    },
+    {
+      "code": "KHD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Quang Huy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 635019,
+      "ownershipPct": 19.4622868943349,
+      "effectiveDate": "2024-03-14"
+    },
+    {
+      "code": "KHD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Vân Anh",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 162200,
+      "ownershipPct": 4.971162964039061,
+      "effectiveDate": "2024-06-30"
+    },
+    {
+      "code": "KHD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Văn Dũng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 35500,
+      "ownershipPct": 1.0880165550147143,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

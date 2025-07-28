@@ -1,1 +1,108 @@
-{"data":[{"code":"VC9","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư và Xây dựng TNG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6209900,"ownershipPct":37.19572092577507,"effectiveDate":"2022-10-18"},{"code":"VC9","shareholderType":"PERSON","shareholderName":"Dương Văn Mậu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000000,"ownershipPct":11.979491111217596,"effectiveDate":"2020-12-31"},{"code":"VC9","shareholderType":"COMPANY","shareholderName":"CTCP Cơ khí và xây dựng số 20","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1275000,"ownershipPct":7.636925583401217,"effectiveDate":"2020-06-30"},{"code":"VC9","shareholderType":"COMPANY","shareholderName":"Xi măng Yên Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1160000,"ownershipPct":6.948104844506205,"effectiveDate":"2020-06-30"},{"code":"VC9","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Đức Vinh","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":600000,"ownershipPct":3.5938473333652787,"effectiveDate":"2023-12-31"},{"code":"VC9","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":562200,"ownershipPct":3.367434951363266,"effectiveDate":"2019-03-27"},{"code":"VC9","shareholderType":"PERSON","shareholderName":"Nguyễn Tam Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":489635,"ownershipPct":2.9327890651205135,"effectiveDate":"2018-01-22"},{"code":"VC9","shareholderType":"PERSON","shareholderName":"Bùi Huy Thái","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":472203,"ownershipPct":2.828375820595141,"effectiveDate":"2018-02-09"},{"code":"VC9","shareholderType":"PERSON","shareholderName":"Phạm Minh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":456056,"ownershipPct":2.7316593991087257,"effectiveDate":"2018-02-09"},{"code":"VC9","shareholderType":"PERSON","shareholderName":"Trần Trung Hà","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":399119,"ownershipPct":2.3906212564090277,"effectiveDate":"2018-02-09"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "VC9",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư và Xây dựng TNG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6209900,
+      "ownershipPct": 37.19572092577507,
+      "effectiveDate": "2022-10-18"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Văn Mậu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 11.979491111217596,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Cơ khí và xây dựng số 20",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1275000,
+      "ownershipPct": 7.636925583401217,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xi măng Yên Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1160000,
+      "ownershipPct": 6.948104844506205,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Đức Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 600000,
+      "ownershipPct": 3.5938473333652787,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 562200,
+      "ownershipPct": 3.367434951363266,
+      "effectiveDate": "2019-03-27"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tam Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 489635,
+      "ownershipPct": 2.9327890651205135,
+      "effectiveDate": "2018-01-22"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Huy Thái",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 472203,
+      "ownershipPct": 2.828375820595141,
+      "effectiveDate": "2018-02-09"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 456056,
+      "ownershipPct": 2.7316593991087257,
+      "effectiveDate": "2018-02-09"
+    },
+    {
+      "code": "VC9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Trung Hà",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 399119,
+      "ownershipPct": 2.3906212564090277,
+      "effectiveDate": "2018-02-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

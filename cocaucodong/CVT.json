@@ -1,1 +1,59 @@
-{"data":[{"code":"CVT","shareholderType":"COMPANY","shareholderName":"Công ty DNP Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18761964,"ownershipPct":51.135215128486806,"effectiveDate":"2021-04-23"},{"code":"CVT","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Chương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1861780,"ownershipPct":5.074230012482391,"effectiveDate":"2020-06-30"},{"code":"CVT","shareholderType":"PERSON","shareholderName":"Bùi Thị Như Quỳnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1658830,"ownershipPct":4.521095388072793,"effectiveDate":"2024-06-28"},{"code":"CVT","shareholderType":"PERSON","shareholderName":"Trần Thị Loan","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":958600,"ownershipPct":2.6126378465584654,"groupPct":2.6142894828353427,"effectiveDate":"2020-06-30"},{"code":"CVT","shareholderType":"PERSON","shareholderName":"Lê Quốc Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":865000,"ownershipPct":2.3575336295358573,"effectiveDate":"2016-12-14"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CVT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty DNP Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18761964,
+      "ownershipPct": 51.135215128486806,
+      "effectiveDate": "2021-04-23"
+    },
+    {
+      "code": "CVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Chương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1861780,
+      "ownershipPct": 5.074230012482391,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Như Quỳnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1658830,
+      "ownershipPct": 4.521095388072793,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "CVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Loan",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 958600,
+      "ownershipPct": 2.6126378465584654,
+      "groupPct": 2.6142894828353427,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CVT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quốc Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 865000,
+      "ownershipPct": 2.3575336295358573,
+      "effectiveDate": "2016-12-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

@@ -1,1 +1,109 @@
-{"data":[{"code":"VE2","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":560837,"ownershipPct":25.978146075742977,"effectiveDate":"2020-06-30"},{"code":"VE2","shareholderType":"PERSON","shareholderName":"Phan Thúy Phương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":430400,"ownershipPct":19.936263247609872,"effectiveDate":"2022-04-13"},{"code":"VE2","shareholderType":"PERSON","shareholderName":"Chung Việt Hà","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":400000,"ownershipPct":18.528125694804714,"effectiveDate":"2023-10-27"},{"code":"VE2","shareholderType":"PERSON","shareholderName":"Khuất Văn Đăng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":279000,"ownershipPct":12.923367672126288,"effectiveDate":"2022-06-01"},{"code":"VE2","shareholderType":"PERSON","shareholderName":"Lê Minh Đức","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":250000,"ownershipPct":11.580078559252946,"effectiveDate":"2022-05-26"},{"code":"VE2","shareholderType":"PERSON","shareholderName":"Nguyễn Đậu Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":127542,"ownershipPct":5.907785518416957,"effectiveDate":"2020-06-30"},{"code":"VE2","shareholderType":"COMPANY","shareholderName":"XD Điện VNECO 2","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":60800,"ownershipPct":2.8162751056103166,"effectiveDate":"2012-06-29"},{"code":"VE2","shareholderType":"PERSON","shareholderName":"Lê Thị Thu Phượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":46400,"ownershipPct":2.149262580597347,"effectiveDate":"2022-05-13"},{"code":"VE2","shareholderType":"PERSON","shareholderName":"Lê Thị Thúy Xoan","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":33821,"ownershipPct":1.5665993478099756,"groupPct":1.5707681760913066,"effectiveDate":"2022-05-13"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 560837,
+      "ownershipPct": 25.978146075742977,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thúy Phương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 422200,
+      "ownershipPct": 19.556436670866375,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chung Việt Hà",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 400000,
+      "ownershipPct": 18.528125694804714,
+      "effectiveDate": "2023-10-27"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Khuất Văn Đăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 279000,
+      "ownershipPct": 12.923367672126288,
+      "effectiveDate": "2022-06-01"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Minh Đức",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 250000,
+      "ownershipPct": 11.580078559252946,
+      "effectiveDate": "2022-05-26"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đậu Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 127542,
+      "ownershipPct": 5.907785518416957,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hòa",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 107681,
+      "ownershipPct": 4.987817757355666,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XD Điện VNECO 2",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 60800,
+      "ownershipPct": 2.8162751056103166,
+      "effectiveDate": "2012-06-29"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu Phượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 46400,
+      "ownershipPct": 2.149262580597347,
+      "effectiveDate": "2022-05-13"
+    },
+    {
+      "code": "VE2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thúy Xoan",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 33821,
+      "ownershipPct": 1.5665993478099756,
+      "groupPct": 1.5707681760913066,
+      "effectiveDate": "2022-05-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

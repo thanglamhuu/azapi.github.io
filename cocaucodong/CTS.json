@@ -1,1 +1,28 @@
-{"data":[{"code":"CTS","shareholderType":"COMPANY","shareholderName":"Vietinbank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":86925387,"ownershipPct":58.44182740518009,"effectiveDate":"2022-06-30"},{"code":"CTS","shareholderType":"COMPANY","shareholderName":"Yurie VietNam Securities Investment Trust","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5716483,"ownershipPct":3.8433157950812014,"effectiveDate":"2022-03-28"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CTS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietinbank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 124303303,
+      "ownershipPct": 58.442472023984116,
+      "effectiveDate": "2025-06-05"
+    },
+    {
+      "code": "CTS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Yurie VietNam Securities Investment Trust",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5716483,
+      "ownershipPct": 2.6876630768458405,
+      "effectiveDate": "2022-03-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

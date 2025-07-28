@@ -1,1 +1,114 @@
-{"data":[{"code":"PTE","shareholderType":"COMPANY","shareholderName":"UBND Tỉnh Phú Thọ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2295000,"ownershipPct":18.918822670536493,"effectiveDate":"2020-06-30"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Triệu Quang Thuận","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1451650,"ownershipPct":11.966670557596645,"groupPct":20.721675183846443,"effectiveDate":"2021-02-22"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Triệu Quang Thuận","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1451650,"ownershipPct":11.966670557596645,"groupPct":13.455116144259856,"effectiveDate":"2021-02-22"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Triệu Quốc Hoàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1001350,"ownershipPct":8.254624436227328,"effectiveDate":"2018-11-05"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Trần Tuấn Đạt","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":885550,"ownershipPct":7.300027632197644,"groupPct":20.721675183846443,"effectiveDate":"2020-12-31"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Trà Thị Khôi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":700550,"ownershipPct":5.774980924550911,"effectiveDate":"2018-10-12"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Phú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":502650,"ownershipPct":4.1435931221547575,"effectiveDate":"2018-11-05"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Trần Thị Phương Linh","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":180560,"ownershipPct":1.488445586663211,"groupPct":4.425603110633648,"effectiveDate":"2020-12-31"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Trần Thị Phương Linh","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":180560,"ownershipPct":1.488445586663211,"groupPct":13.455116144259856,"effectiveDate":"2020-12-31"},{"code":"PTE","shareholderType":"PERSON","shareholderName":"Triệu Quang Thắng","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":176500,"ownershipPct":1.4549769940521529,"groupPct":4.425603110633648,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "PTE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND Tỉnh Phú Thọ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2295000,
+      "ownershipPct": 18.918822670536493,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Triệu Quang Thuận",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1451650,
+      "ownershipPct": 11.966670557596645,
+      "groupPct": 20.721675183846443,
+      "effectiveDate": "2021-02-22"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Triệu Quang Thuận",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1451650,
+      "ownershipPct": 11.966670557596645,
+      "groupPct": 13.455116144259856,
+      "effectiveDate": "2021-02-22"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Triệu Quốc Hoàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1001350,
+      "ownershipPct": 8.254624436227328,
+      "effectiveDate": "2018-11-05"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Tuấn Đạt",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 885550,
+      "ownershipPct": 7.300027632197644,
+      "groupPct": 20.721675183846443,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trà Thị Khôi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 700550,
+      "ownershipPct": 5.774980924550911,
+      "effectiveDate": "2018-10-12"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 502650,
+      "ownershipPct": 4.1435931221547575,
+      "effectiveDate": "2018-11-05"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Phương Linh",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 180560,
+      "ownershipPct": 1.488445586663211,
+      "groupPct": 4.425603110633648,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Phương Linh",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 180560,
+      "ownershipPct": 1.488445586663211,
+      "groupPct": 13.455116144259856,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Triệu Quang Thắng",
+      "roleType": "Con của Phó TGĐ",
+      "enRoleType": "Child of Deputy CEO",
+      "numberOfShares": 176500,
+      "ownershipPct": 1.4549769940521529,
+      "groupPct": 20.721675183846443,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

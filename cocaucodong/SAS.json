@@ -1,1 +1,78 @@
-{"data":[{"code":"SAS","shareholderType":"COMPANY","shareholderName":"Cảng Hàng không VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":65504200,"ownershipPct":49.0844979288794,"effectiveDate":"2017-02-07"},{"code":"SAS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH xuất nhập khẩu Liên Thái Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":33340200,"ownershipPct":24.98293205395112,"effectiveDate":"2018-04-16"},{"code":"SAS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thời trang và mỹ phẩm Châu Âu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20538400,"ownershipPct":15.390113187589447,"effectiveDate":"2017-12-07"},{"code":"SAS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thời Trang và Mỹ phẩm Duy Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6575000,"ownershipPct":4.926868412748832,"effectiveDate":"2020-06-30"},{"code":"SAS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương Mại Duy Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2948900,"ownershipPct":2.2097098497878376,"effectiveDate":"2020-08-26"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng Hàng không VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 65504200,
+      "ownershipPct": 49.0844979288794,
+      "effectiveDate": "2017-02-07"
+    },
+    {
+      "code": "SAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH xuất nhập khẩu Liên Thái Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 33340200,
+      "ownershipPct": 24.98293205395112,
+      "effectiveDate": "2018-04-16"
+    },
+    {
+      "code": "SAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thời trang và mỹ phẩm Châu Âu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20538400,
+      "ownershipPct": 15.390113187589447,
+      "effectiveDate": "2017-12-07"
+    },
+    {
+      "code": "SAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thời Trang và Mỹ Phẩm Âu Châu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19871400,
+      "ownershipPct": 14.89030767712504,
+      "effectiveDate": "2025-05-26"
+    },
+    {
+      "code": "SAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thời Trang và Mỹ phẩm Duy Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6575000,
+      "ownershipPct": 4.926868412748832,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương Mại Duy Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2948900,
+      "ownershipPct": 2.2097098497878376,
+      "effectiveDate": "2020-08-26"
+    },
+    {
+      "code": "SAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Thương Mại Duy Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2281700,
+      "ownershipPct": 1.7097544726036518,
+      "effectiveDate": "2025-03-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

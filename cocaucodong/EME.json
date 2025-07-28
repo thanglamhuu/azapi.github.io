@@ -1,1 +1,100 @@
-{"data":[{"code":"EME","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Quốc Việt","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1068832,"ownershipPct":28.273749847234267,"effectiveDate":"2022-06-30"},{"code":"EME","shareholderType":"COMPANY","shareholderName":"Tổng công ty Điện Lực Tp.HCM TNHH","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1068432,"ownershipPct":28.263168670829653,"effectiveDate":"2017-08-02"},{"code":"EME","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tư vấn giám sát Aurora","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":566000,"ownershipPct":14.972364612525256,"effectiveDate":"2023-07-10"},{"code":"EME","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":266850,"ownershipPct":7.058967308926439,"effectiveDate":"2020-08-28"},{"code":"EME","shareholderType":"PERSON","shareholderName":"Trần Ngọc Thạch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":247000,"ownershipPct":6.533876429847594,"effectiveDate":"2020-12-31"},{"code":"EME","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hoa","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":230100,"ownershipPct":6.086821726752759,"groupPct":10.943581696469431,"effectiveDate":"2023-07-27"},{"code":"EME","shareholderType":"PERSON","shareholderName":"Lâm Tích Đường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":220000,"ownershipPct":5.819647022536318,"effectiveDate":"2020-06-30"},{"code":"EME","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết","roleType":"Chị của Thành viên HĐQT","enRoleType":"Elder Sister of Board member","numberOfShares":177000,"ownershipPct":4.682170559040584,"groupPct":10.943581696469431,"effectiveDate":"2022-06-30"},{"code":"EME","shareholderType":"PERSON","shareholderName":"Phạm Minh Tiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":176182,"ownershipPct":4.660532053293153,"effectiveDate":"2023-07-10"},{"code":"EME","shareholderType":"PERSON","shareholderName":"Đỗ Thị Mai Trang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":104000,"ownershipPct":2.751105865198987,"effectiveDate":"2023-07-27"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "EME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Quốc Việt",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1068832,
+      "ownershipPct": 28.273749847234267,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Điện Lực Tp.HCM TNHH",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1068432,
+      "ownershipPct": 28.263168670829653,
+      "effectiveDate": "2017-08-02"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán NAVIBANK",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 566000,
+      "ownershipPct": 14.972364612525256,
+      "effectiveDate": "2024-09-25"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Hải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 266850,
+      "ownershipPct": 7.058967308926439,
+      "effectiveDate": "2020-08-28"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Thạch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 247000,
+      "ownershipPct": 6.533876429847594,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoa",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 232900,
+      "ownershipPct": 6.160889961585039,
+      "groupPct": 11.017649931301712,
+      "effectiveDate": "2023-12-29"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Tích Đường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 220000,
+      "ownershipPct": 5.819647022536318,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết",
+      "roleType": "Chị của Thành viên HĐQT",
+      "enRoleType": "Elder Sister of Board member",
+      "numberOfShares": 177000,
+      "ownershipPct": 4.682170559040584,
+      "groupPct": 11.017649931301712,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "EME",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 176182,
+      "ownershipPct": 4.660532053293153,
+      "effectiveDate": "2023-07-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

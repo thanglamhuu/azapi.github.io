@@ -1,1 +1,39 @@
-{"data":[{"code":"BWA","shareholderType":"COMPANY","shareholderName":"UBND Tỉnh Lâm Đồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2050300,"ownershipPct":75.93703703703704,"effectiveDate":"2021-12-31"},{"code":"BWA","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Diễm Loan","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":30000,"ownershipPct":1.1111111111111112,"groupPct":1.8407407407407408,"effectiveDate":"2020-12-31"},{"code":"BWA","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Tiến","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":28200,"ownershipPct":1.0444444444444445,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BWA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND Tỉnh Lâm Đồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2050300,
+      "ownershipPct": 75.93703703703704,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "BWA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Hiếu",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 31700,
+      "ownershipPct": 1.174074074074074,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "BWA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Diễm Loan",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 30000,
+      "ownershipPct": 1.1111111111111112,
+      "groupPct": 1.8407407407407408,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

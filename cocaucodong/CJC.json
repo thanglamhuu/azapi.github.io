@@ -1,1 +1,68 @@
-{"data":[{"code":"CJC","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Thắng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2040000,"ownershipPct":25.5,"effectiveDate":"2020-06-30"},{"code":"CJC","shareholderType":"PERSON","shareholderName":"Đào Thị Minh Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":840000,"ownershipPct":10.5,"effectiveDate":"2020-06-30"},{"code":"CJC","shareholderType":"PERSON","shareholderName":"Lê Thành Lâm","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":799440,"ownershipPct":9.993,"effectiveDate":"2023-06-30"},{"code":"CJC","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Kiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":690000,"ownershipPct":8.625,"effectiveDate":"2022-12-31"},{"code":"CJC","shareholderType":"PERSON","shareholderName":"Đoàn Thị Hồng An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":310000,"ownershipPct":3.875,"effectiveDate":"2022-12-31"},{"code":"CJC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần bất động sản Home Direct","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":140000,"ownershipPct":1.75,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Thắng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2040000,
+      "ownershipPct": 25.5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Minh Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 840000,
+      "ownershipPct": 10.5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thành Lâm",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 799440,
+      "ownershipPct": 9.993,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "CJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Kiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 690000,
+      "ownershipPct": 8.625,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "CJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Thị Hồng An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 310000,
+      "ownershipPct": 3.875,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "CJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần bất động sản Home Direct",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 140000,
+      "ownershipPct": 1.75,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

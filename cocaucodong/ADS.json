@@ -1,1 +1,110 @@
-{"data":[{"code":"ADS","shareholderType":"PERSON","shareholderName":"Vũ Huy Đông","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":9206285,"ownershipPct":12.05094299243978,"effectiveDate":"2023-07-14"},{"code":"ADS","shareholderType":"PERSON","shareholderName":"Đỗ Đức Khang","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":4058174,"ownershipPct":5.312112706417552,"groupPct":5.790082867892178,"effectiveDate":"2024-01-15"},{"code":"ADS","shareholderType":"PERSON","shareholderName":"Hoàng Kim Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3703129,"ownershipPct":4.847362043718017,"effectiveDate":"2024-07-04"},{"code":"ADS","shareholderType":"PERSON","shareholderName":"Đỗ Văn Khôi","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3669500,"ownershipPct":4.803341989820842,"effectiveDate":"2024-01-08"},{"code":"ADS","shareholderType":"PERSON","shareholderName":"Nguyễn Lê Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2507043,"ownershipPct":3.281696392474837,"effectiveDate":"2023-07-14"},{"code":"ADS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH TM và ĐTXD ACC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2201763,"ownershipPct":2.882087660317184,"effectiveDate":"2023-07-14"},{"code":"ADS","shareholderType":"COMPANY","shareholderName":"Tài chính Điện lực","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1838797,"ownershipPct":2.4069684809528806,"effectiveDate":"2023-07-14"},{"code":"ADS","shareholderType":"PERSON","shareholderName":"Vũ Huy Đức","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":1389489,"ownershipPct":1.818828412070901,"groupPct":2.9217605555420074,"effectiveDate":"2024-05-08"},{"code":"ADS","shareholderType":"PERSON","shareholderName":"Vương Quốc Dương","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":1024684,"ownershipPct":1.3413019985004986,"groupPct":1.3413072344639703,"effectiveDate":"2023-07-14"},{"code":"ADS","shareholderType":"PERSON","shareholderName":"Lê Văn Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":828665,"ownershipPct":1.0847149175623076,"effectiveDate":"2023-07-14"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ADS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Huy Đông",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 9206285,
+      "ownershipPct": 12.05094299243978,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP đầu tư xây dựng và thương mại Đức Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4070100,
+      "ownershipPct": 5.3277237315083275,
+      "effectiveDate": "2025-02-21"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Đức Khang",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 4058174,
+      "ownershipPct": 5.312112706417552,
+      "groupPct": 5.790082867892178,
+      "effectiveDate": "2024-01-15"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Kim Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3703129,
+      "ownershipPct": 4.847362043718017,
+      "effectiveDate": "2024-07-04"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Khôi",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3669500,
+      "ownershipPct": 4.803341989820842,
+      "effectiveDate": "2024-01-08"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Lê Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2507043,
+      "ownershipPct": 3.281696392474837,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH TM và ĐTXD ACC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2201763,
+      "ownershipPct": 2.882087660317184,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tài chính Điện lực",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1838797,
+      "ownershipPct": 2.4069684809528806,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Golf Long Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1638865,
+      "ownershipPct": 2.145259318748531,
+      "effectiveDate": "2024-11-28"
+    },
+    {
+      "code": "ADS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Huy Đức",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1389489,
+      "ownershipPct": 1.818828412070901,
+      "groupPct": 2.9217605555420074,
+      "effectiveDate": "2024-05-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

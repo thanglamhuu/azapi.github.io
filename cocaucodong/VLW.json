@@ -1,1 +1,68 @@
-{"data":[{"code":"VLW","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Vĩnh Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14739000,"ownershipPct":51,"effectiveDate":"2019-03-21"},{"code":"VLW","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Đà Nẵng - Miền Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9725962,"ownershipPct":33.653847750865054,"effectiveDate":"2023-03-29"},{"code":"VLW","shareholderType":"COMPANY","shareholderName":"CTCP Xây lắp - Điện BIWASE","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9725962,"ownershipPct":33.653847750865054,"effectiveDate":"2023-06-30"},{"code":"VLW","shareholderType":"COMPANY","shareholderName":"CTCP Nước và Môi trường Đồng Bằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1445000,"ownershipPct":5,"effectiveDate":"2020-06-30"},{"code":"VLW","shareholderType":"PERSON","shareholderName":"Đặng Tấn Chiến","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":322822,"ownershipPct":1.1170311418685122,"effectiveDate":"2024-06-07"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VLW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Vĩnh Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14739000,
+      "ownershipPct": 51,
+      "effectiveDate": "2019-03-21"
+    },
+    {
+      "code": "VLW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Đà Nẵng - Miền Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9725962,
+      "ownershipPct": 33.653847750865054,
+      "effectiveDate": "2023-03-29"
+    },
+    {
+      "code": "VLW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "M.trường Bình Dg",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7100000,
+      "ownershipPct": 24.567474048442907,
+      "effectiveDate": "2025-05-21"
+    },
+    {
+      "code": "VLW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Xây lắp - Điện BIWASE",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2625862,
+      "ownershipPct": 9.0860276816609,
+      "effectiveDate": "2025-05-21"
+    },
+    {
+      "code": "VLW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Nước và Môi trường Đồng Bằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1445000,
+      "ownershipPct": 5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VLW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Tấn Chiến",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 322822,
+      "ownershipPct": 1.1170311418685122,
+      "effectiveDate": "2024-06-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

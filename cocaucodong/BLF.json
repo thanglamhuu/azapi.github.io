@@ -1,1 +1,98 @@
-{"data":[{"code":"BLF","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Đạm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2000000,"ownershipPct":17.391304347826086,"effectiveDate":"2019-04-22"},{"code":"BLF","shareholderType":"PERSON","shareholderName":"Nguyễn Sơn Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1500000,"ownershipPct":13.043478260869565,"effectiveDate":"2020-06-30"},{"code":"BLF","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Trí","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1500000,"ownershipPct":13.043478260869565,"effectiveDate":"2020-06-30"},{"code":"BLF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1102530,"ownershipPct":9.587217391304348,"effectiveDate":"2020-06-30"},{"code":"BLF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Hương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1102530,"ownershipPct":9.587217391304348,"effectiveDate":"2022-12-31"},{"code":"BLF","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":8.695652173913043,"effectiveDate":"2020-12-31"},{"code":"BLF","shareholderType":"COMPANY","shareholderName":"Công ty quản lý Quỹ Đầu tư Chứng khoán Đông Á","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330000,"ownershipPct":2.869565217391304,"effectiveDate":"2020-06-30"},{"code":"BLF","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":300000,"ownershipPct":2.608695652173913,"effectiveDate":"2020-06-30"},{"code":"BLF","shareholderType":"PERSON","shareholderName":"Hideakie Abe","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":200000,"ownershipPct":1.7391304347826086,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Đạm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2000000,
+      "ownershipPct": 17.391304347826086,
+      "effectiveDate": "2019-04-22"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Sơn Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1500000,
+      "ownershipPct": 13.043478260869565,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Trí",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1500000,
+      "ownershipPct": 13.043478260869565,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1102530,
+      "ownershipPct": 9.587217391304348,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Hương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1102530,
+      "ownershipPct": 9.587217391304348,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 8.695652173913043,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty quản lý Quỹ Đầu tư Chứng khoán Đông Á",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330000,
+      "ownershipPct": 2.869565217391304,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 300000,
+      "ownershipPct": 2.608695652173913,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BLF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hideakie Abe",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 200000,
+      "ownershipPct": 1.7391304347826086,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

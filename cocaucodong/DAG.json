@@ -1,1 +1,89 @@
-{"data":[{"code":"DAG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư và phát triển NBH","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6068179,"ownershipPct":10.06129148684656,"effectiveDate":"2022-03-10"},{"code":"DAG","shareholderType":"PERSON","shareholderName":"Nguyễn Bá Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3567300,"ownershipPct":5.914730781842087,"effectiveDate":"2021-12-31"},{"code":"DAG","shareholderType":"PERSON","shareholderName":"Dương Thị Thu Hương","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":3102000,"ownershipPct":5.1432441581235535,"groupPct":5.604357054024026,"effectiveDate":"2022-06-30"},{"code":"DAG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại Dịch vụ Hùng Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3019994,"ownershipPct":5.0072748220722705,"effectiveDate":"2023-07-10"},{"code":"DAG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2658425,"ownershipPct":4.407778481966346,"effectiveDate":"2021-04-14"},{"code":"DAG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại và Sản xuất Tam Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2616874,"ownershipPct":4.338885207300263,"effectiveDate":"2021-04-14"},{"code":"DAG","shareholderType":"COMPANY","shareholderName":"Tập đoàn F.I.T","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1647445,"ownershipPct":2.73153187365566,"effectiveDate":"2021-04-14"},{"code":"DAG","shareholderType":"COMPANY","shareholderName":"Japan Vietnam Growth Fund LP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":845689,"ownershipPct":1.4021873013666506,"effectiveDate":"2021-04-14"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư và phát triển NBH",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6068179,
+      "ownershipPct": 10.060960526120322,
+      "effectiveDate": "2022-03-10"
+    },
+    {
+      "code": "DAG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Bá Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3567300,
+      "ownershipPct": 5.914536219981155,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "DAG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thị Thu Hương",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 3102000,
+      "ownershipPct": 5.143074973896656,
+      "groupPct": 5.604172701738525,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "DAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại Dịch vụ Hùng Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3019994,
+      "ownershipPct": 5.007110110482933,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "DAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2658425,
+      "ownershipPct": 4.407633490483952,
+      "effectiveDate": "2021-04-14"
+    },
+    {
+      "code": "DAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại và Sản xuất Tam Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2616874,
+      "ownershipPct": 4.33874248202477,
+      "effectiveDate": "2021-04-14"
+    },
+    {
+      "code": "DAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn F.I.T",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1647445,
+      "ownershipPct": 2.731442021396253,
+      "effectiveDate": "2021-04-14"
+    },
+    {
+      "code": "DAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Japan Vietnam Growth Fund LP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 845689,
+      "ownershipPct": 1.4021411771759154,
+      "effectiveDate": "2021-04-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

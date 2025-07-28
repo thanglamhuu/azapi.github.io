@@ -1,1 +1,78 @@
-{"data":[{"code":"SQC","shareholderType":"PERSON","shareholderName":"Đặng Thành Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":44000000,"ownershipPct":41.006905935749636,"effectiveDate":"2012-08-08"},{"code":"SQC","shareholderType":"PERSON","shareholderName":"Nguyễn Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8275410,"ownershipPct":7.7124763511309515,"effectiveDate":"2020-06-30"},{"code":"SQC","shareholderType":"COMPANY","shareholderName":"Đô thị Kinh Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7590000,"ownershipPct":7.073691273916812,"effectiveDate":"2020-06-30"},{"code":"SQC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7590000,"ownershipPct":7.073691273916812,"effectiveDate":"2023-06-30"},{"code":"SQC","shareholderType":"COMPANY","shareholderName":"Viễn thông SG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6270000,"ownershipPct":5.843484095844323,"effectiveDate":"2023-06-30"},{"code":"SQC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Tư vấn và Đầu tư Kinh Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3551450,"ownershipPct":3.309863092852683,"effectiveDate":"2022-06-22"},{"code":"SQC","shareholderType":"COMPANY","shareholderName":"K.sản SG - Q.Nhơn","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":2701000,"ownershipPct":2.5172648393740853,"effectiveDate":"2014-07-11"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thành Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 44000000,
+      "ownershipPct": 41.006905935749636,
+      "effectiveDate": "2012-08-08"
+    },
+    {
+      "code": "SQC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Tư vấn và Đầu tư Kinh Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10277150,
+      "ownershipPct": 9.578048257672485,
+      "effectiveDate": "2024-12-27"
+    },
+    {
+      "code": "SQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8275410,
+      "ownershipPct": 7.7124763511309515,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SQC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đô thị Kinh Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7590000,
+      "ownershipPct": 7.073691273916812,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Xuân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7590000,
+      "ownershipPct": 7.073691273916812,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SQC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viễn thông SG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6270000,
+      "ownershipPct": 5.843484095844323,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SQC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "K.sản SG - Q.Nhơn",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 2701000,
+      "ownershipPct": 2.5172648393740853,
+      "effectiveDate": "2014-07-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

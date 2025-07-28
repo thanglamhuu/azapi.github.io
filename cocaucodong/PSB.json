@@ -1,1 +1,68 @@
-{"data":[{"code":"PSB","shareholderType":"COMPANY","shareholderName":"DV KT D.khí VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":25500000,"ownershipPct":51,"effectiveDate":"2015-07-17"},{"code":"PSB","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Tập đoàn Đầu tư và Phát triển Chợ Lớn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4902100,"ownershipPct":9.8042,"effectiveDate":"2023-04-04"},{"code":"PSB","shareholderType":"COMPANY","shareholderName":"CTCP Tư Vấn Và Dịch Vụ Tương Lai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3306000,"ownershipPct":6.612,"effectiveDate":"2020-12-16"},{"code":"PSB","shareholderType":"COMPANY","shareholderName":"CTCP PVI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1424900,"ownershipPct":2.8498,"effectiveDate":"2020-06-30"},{"code":"PSB","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":915200,"ownershipPct":1.8304,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PSB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DV KT D.khí VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 25500000,
+      "ownershipPct": 51,
+      "effectiveDate": "2015-07-17"
+    },
+    {
+      "code": "PSB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tư Vấn Và Dịch Vụ Tương Lai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3306000,
+      "ownershipPct": 6.612,
+      "effectiveDate": "2020-12-16"
+    },
+    {
+      "code": "PSB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Tập đoàn Đầu tư và Phát triển Chợ Lớn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2483100,
+      "ownershipPct": 4.9662,
+      "effectiveDate": "2024-11-13"
+    },
+    {
+      "code": "PSB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1424900,
+      "ownershipPct": 2.8498,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PSB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 915200,
+      "ownershipPct": 1.8304,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PSB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý nợ và khai thác tài sản - Ngân hàng TM TNHH MTV Dầu khí Toàn Cầu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 800000,
+      "ownershipPct": 1.6,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

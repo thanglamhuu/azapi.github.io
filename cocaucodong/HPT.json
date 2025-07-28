@@ -1,1 +1,109 @@
-{"data":[{"code":"HPT","shareholderType":"PERSON","shareholderName":"Ngô Vi Đồng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1348087,"ownershipPct":13.602887904503396,"groupPct":14.90110289294976,"effectiveDate":"2023-09-26"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Hàn Nguyệt Thu Hương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":901851,"ownershipPct":9.100138240012916,"effectiveDate":"2024-04-03"},{"code":"HPT","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư phân phối Satico","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":798415,"ownershipPct":8.056416051986318,"effectiveDate":"2023-09-26"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Đinh Hà Duy Linh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":700040,"ownershipPct":7.063761944643452,"effectiveDate":"2024-04-19"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Tiến","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":629562,"ownershipPct":6.352602847542456,"effectiveDate":"2023-09-26"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Đinh Hà Duy Trinh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":565435,"ownershipPct":5.705528591465445,"effectiveDate":"2023-09-26"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Đàm Thiện Ngọc","roleType":"Mẹ của Thành viên HĐQT","enRoleType":"Mother of Board member","numberOfShares":349554,"ownershipPct":3.5271787937802084,"groupPct":3.692421016518168,"effectiveDate":"2023-09-26"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Trương Thị Thanh Thanh","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":282247,"ownershipPct":2.8480167098876925,"effectiveDate":"2023-09-26"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Nguyễn Quyền","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":234221,"ownershipPct":2.3634097857784324,"effectiveDate":"2023-09-26"},{"code":"HPT","shareholderType":"PERSON","shareholderName":"Ngô Thị Ngọc Hoa","roleType":"Em gái của Chủ tịch HĐQT","enRoleType":"Young Sister of Chairman","numberOfShares":226961,"ownershipPct":2.290152669444921,"effectiveDate":"2023-09-26"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Vi Đồng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1358086,
+      "ownershipPct": 13.119421097282173,
+      "groupPct": 14.362277116792741,
+      "effectiveDate": "2024-08-29"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư phân phối Satico",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1147969,
+      "ownershipPct": 11.089642863284002,
+      "effectiveDate": "2024-11-06"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hàn Nguyệt Thu Hương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 917851,
+      "ownershipPct": 8.866650398841854,
+      "effectiveDate": "2024-08-29"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Hà Duy Linh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 715040,
+      "ownershipPct": 6.907449794343395,
+      "effectiveDate": "2024-08-27"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Tiến",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 629562,
+      "ownershipPct": 6.081712781699508,
+      "effectiveDate": "2023-09-26"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Hà Duy Trinh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 574935,
+      "ownershipPct": 5.554003478841492,
+      "effectiveDate": "2024-08-26"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Thanh Thanh",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 282247,
+      "ownershipPct": 2.7265705164802534,
+      "effectiveDate": "2023-09-26"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quyền",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 234221,
+      "ownershipPct": 2.262628382021851,
+      "effectiveDate": "2023-09-26"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thị Ngọc Hoa",
+      "roleType": "Em gái của Chủ tịch HĐQT",
+      "enRoleType": "Young Sister of Chairman",
+      "numberOfShares": 226961,
+      "ownershipPct": 2.1924951230336363,
+      "effectiveDate": "2023-09-26"
+    },
+    {
+      "code": "HPT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công nghệ HPT",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 155660,
+      "ownershipPct": 1.5037111699869838,
+      "effectiveDate": "2010-12-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

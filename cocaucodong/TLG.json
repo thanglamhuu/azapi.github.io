@@ -1,1 +1,90 @@
-{"data":[{"code":"TLG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Thiên Long An Thịnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":37350953,"ownershipPct":47.52365030137687,"effectiveDate":"2020-06-30"},{"code":"TLG","shareholderType":"COMPANY","shareholderName":"NWL Cayman Holdings Ltd.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5500000,"ownershipPct":6.997949333650811,"effectiveDate":"2020-06-30"},{"code":"TLG","shareholderType":"PERSON","shareholderName":"Cô Gia Thọ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":4924605,"ownershipPct":6.2658429596806275,"effectiveDate":"2023-10-06"},{"code":"TLG","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3131224,"ownershipPct":3.9840267098748052,"effectiveDate":"2020-06-30"},{"code":"TLG","shareholderType":"PERSON","shareholderName":"Trần Thái Như","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1043950,"ownershipPct":1.328274401248139,"groupPct":4.581832257296835,"effectiveDate":"2023-09-18"},{"code":"TLG","shareholderType":"PERSON","shareholderName":"Cô Ngân Bình","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":967129,"ownershipPct":1.2305308620189774,"groupPct":4.581832257296835,"effectiveDate":"2023-10-04"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Thiên Long An Thịnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 37350953,
+      "ownershipPct": 43.2034800180328,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cô Gia Thọ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4924605,
+      "ownershipPct": 5.696242173906631,
+      "effectiveDate": "2023-10-06"
+    },
+    {
+      "code": "TLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "NWL Cayman Holdings Ltd.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3500000,
+      "ownershipPct": 4.048415580269526,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "TLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3131224,
+      "ownershipPct": 3.621856007689676,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KITMC WORLDWIDE VIETNAM RSP BALANCED FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2535000,
+      "ownershipPct": 2.932209570280928,
+      "effectiveDate": "2025-04-09"
+    },
+    {
+      "code": "TLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thái Như",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 1043950,
+      "ownershipPct": 1.2075266985778206,
+      "groupPct": 4.165317628565389,
+      "effectiveDate": "2023-09-18"
+    },
+    {
+      "code": "TLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TMAM VIETNAM EQUITY MOTHER FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1040000,
+      "ownershipPct": 1.202957772422945,
+      "effectiveDate": "2025-04-09"
+    },
+    {
+      "code": "TLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cô Ngân Bình",
+      "roleType": "Em gái của Chủ tịch HĐQT",
+      "enRoleType": "Young Sister of Chairman",
+      "numberOfShares": 967129,
+      "ownershipPct": 1.1186686033515676,
+      "groupPct": 4.165317628565389,
+      "effectiveDate": "2023-10-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

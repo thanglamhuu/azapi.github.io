@@ -1,1 +1,98 @@
-{"data":[{"code":"SBM","shareholderType":"PERSON","shareholderName":"Nguyễn Phúc Vinh","roleType":"Chồng của Thành viên HĐQT","enRoleType":"Husband of Board member","numberOfShares":9355500,"ownershipPct":20.769252439890437,"effectiveDate":"2022-10-03"},{"code":"SBM","shareholderType":"COMPANY","shareholderName":"Tổng CT Điện lực Miền Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8385108,"ownershipPct":18.614977797845633,"effectiveDate":"2022-10-03"},{"code":"SBM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Linh Lam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4283925,"ownershipPct":9.510332933414317,"effectiveDate":"2022-10-03"},{"code":"SBM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Jerad","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3665154,"ownershipPct":8.136658506447992,"effectiveDate":"2022-10-03"},{"code":"SBM","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Điện lực miền Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3664653,"ownershipPct":8.135546284175277,"effectiveDate":"2022-10-03"},{"code":"SBM","shareholderType":"PERSON","shareholderName":"Thiều Kim Quỳnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3381776,"ownershipPct":7.507558060944142,"effectiveDate":"2022-10-03"},{"code":"SBM","shareholderType":"PERSON","shareholderName":"Lê Lam Thanh","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":1837959,"ownershipPct":4.080277317638671,"effectiveDate":"2023-06-30"},{"code":"SBM","shareholderType":"PERSON","shareholderName":"Vũ Minh Tú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":975779,"ownershipPct":2.1662338064821602,"effectiveDate":"2022-10-03"},{"code":"SBM","shareholderType":"PERSON","shareholderName":"Lại Hợp Quốc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":963149,"ownershipPct":2.138195149187968,"effectiveDate":"2022-10-03"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phúc Vinh",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 9355500,
+      "ownershipPct": 20.769252439890437,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng CT Điện lực Miền Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8385108,
+      "ownershipPct": 18.614977797845633,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Linh Lam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4283925,
+      "ownershipPct": 9.510332933414317,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Jerad",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3665154,
+      "ownershipPct": 8.136658506447992,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Điện lực miền Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3664653,
+      "ownershipPct": 8.135546284175277,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thiều Kim Quỳnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3381776,
+      "ownershipPct": 7.507558060944142,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Lam Thanh",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 1837959,
+      "ownershipPct": 4.080277317638671,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Minh Tú",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 975779,
+      "ownershipPct": 2.1662338064821602,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "SBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lại Hợp Quốc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 963149,
+      "ownershipPct": 2.138195149187968,
+      "effectiveDate": "2022-10-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

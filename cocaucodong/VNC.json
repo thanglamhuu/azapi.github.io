@@ -1,1 +1,108 @@
-{"data":[{"code":"VNC","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3150000,"ownershipPct":30.001257195539623,"effectiveDate":"2020-06-30"},{"code":"VNC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Doha Đầu tư","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2528400,"ownershipPct":24.081009108953136,"effectiveDate":"2023-12-22"},{"code":"VNC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Daho Đầu tư","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1960500,"ownershipPct":18.672211025985852,"effectiveDate":"2019-08-20"},{"code":"VNC","shareholderType":"PERSON","shareholderName":"Phan Văn Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1487245,"ownershipPct":14.164831669136612,"effectiveDate":"2024-03-19"},{"code":"VNC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán Đông Nam Á","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1054766,"ownershipPct":10.045811443527157,"effectiveDate":"2020-06-30"},{"code":"VNC","shareholderType":"PERSON","shareholderName":"Đỗ Vân Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":925533,"ownershipPct":8.814969389193452,"effectiveDate":"2024-03-06"},{"code":"VNC","shareholderType":"PERSON","shareholderName":"Bùi Duy Chinh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":790395,"ownershipPct":7.527886882878901,"effectiveDate":"2024-03-11"},{"code":"VNC","shareholderType":"COMPANY","shareholderName":"Công ty quản lý Quỹ Đầu tư Chứng khoán Đông Á","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":736866,"ownershipPct":7.018065518936032,"effectiveDate":"2016-05-09"},{"code":"VNC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thủy Ngân","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":550347,"ownershipPct":5.241619648823379,"effectiveDate":"2024-03-18"},{"code":"VNC","shareholderType":"COMPANY","shareholderName":"Barca Global Master Fund, L.P","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":382000,"ownershipPct":3.6382476979987732,"effectiveDate":"2021-02-18"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6300000,
+      "ownershipPct": 30.00126862507329,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Doha Đầu tư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5056800,
+      "ownershipPct": 24.081018283058828,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Daho Đầu tư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3921000,
+      "ownershipPct": 18.672218139509898,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán Đông Nam Á",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2109532,
+      "ownershipPct": 10.045815270664779,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Duy Chinh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1900722,
+      "ownershipPct": 9.051439889458182,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Vân Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1851066,
+      "ownershipPct": 8.814972747419034,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty quản lý Quỹ Đầu tư Chứng khoán Đông Á",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1473732,
+      "ownershipPct": 7.018068192597858,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thủy Ngân",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 1466694,
+      "ownershipPct": 6.9845524896481335,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Barca Global Master Fund, L.P",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 764000,
+      "ownershipPct": 3.6382490840565067,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Tân Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 468098,
+      "ownershipPct": 2.229132355691993,
+      "effectiveDate": "2025-07-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

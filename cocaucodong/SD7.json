@@ -1,1 +1,58 @@
-{"data":[{"code":"SD7","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Doanh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2602100,"ownershipPct":24.54811320754717,"effectiveDate":"2021-06-30"},{"code":"SD7","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Thủy điện Cao nguyên - Sông Đà 7","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2500000,"ownershipPct":23.58490566037736,"effectiveDate":"2019-08-23"},{"code":"SD7","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Khoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800000,"ownershipPct":7.547169811320755,"effectiveDate":"2019-06-20"},{"code":"SD7","shareholderType":"PERSON","shareholderName":"Trần Hữu Duyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":445000,"ownershipPct":4.19811320754717,"effectiveDate":"2014-08-27"},{"code":"SD7","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Châu Á Thái Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":343700,"ownershipPct":3.2424528301886792,"effectiveDate":"2013-12-31"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SD7",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Doanh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4387800,
+      "ownershipPct": 41.39433962264151,
+      "effectiveDate": "2024-08-30"
+    },
+    {
+      "code": "SD7",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Thủy điện Cao nguyên - Sông Đà 7",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2500000,
+      "ownershipPct": 23.58490566037736,
+      "effectiveDate": "2019-08-23"
+    },
+    {
+      "code": "SD7",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Khoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 800000,
+      "ownershipPct": 7.547169811320755,
+      "effectiveDate": "2019-06-20"
+    },
+    {
+      "code": "SD7",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hữu Duyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 445000,
+      "ownershipPct": 4.19811320754717,
+      "effectiveDate": "2014-08-27"
+    },
+    {
+      "code": "SD7",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Châu Á Thái Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 343700,
+      "ownershipPct": 3.2424528301886792,
+      "effectiveDate": "2013-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

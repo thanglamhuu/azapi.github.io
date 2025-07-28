@@ -1,1 +1,38 @@
-{"data":[{"code":"SFG","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":28326194,"ownershipPct":59.13939717687413,"effectiveDate":"2020-06-30"},{"code":"SFG","shareholderType":"PERSON","shareholderName":"Vũ Huy Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2398924,"ownershipPct":5.0084709309388895,"effectiveDate":"2020-06-30"},{"code":"SFG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2392927,"ownershipPct":4.995950400829207,"effectiveDate":"2017-02-09"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SFG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 28326194,
+      "ownershipPct": 59.13939717687413,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SFG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Huy Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2398924,
+      "ownershipPct": 5.0084709309388895,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SFG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2392927,
+      "ownershipPct": 4.995950400829207,
+      "effectiveDate": "2017-02-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

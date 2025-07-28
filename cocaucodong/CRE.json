@@ -1,1 +1,78 @@
-{"data":[{"code":"CRE","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Tập đoàn Thế Kỷ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":231511373,"ownershipPct":49.929295826241436,"effectiveDate":"2022-10-20"},{"code":"CRE","shareholderType":"COMPANY","shareholderName":"CENLAND.,JSC","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":100657119,"ownershipPct":21.708389555307885,"effectiveDate":"2021-12-31"},{"code":"CRE","shareholderType":"COMPANY","shareholderName":"Tập đoàn I.P.A","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":50600000,"ownershipPct":10.912735456878902,"effectiveDate":"2022-10-20"},{"code":"CRE","shareholderType":"PERSON","shareholderName":"Phạm Thanh Hưng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":13270494,"ownershipPct":2.8620037629268524,"effectiveDate":"2023-06-30"},{"code":"CRE","shareholderType":"PERSON","shareholderName":"Nguyễn Trung Vũ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":8540203,"ownershipPct":1.8418374720759598,"effectiveDate":"2023-06-30"},{"code":"CRE","shareholderType":"COMPANY","shareholderName":"VIETNAM MASTER HOLDING 2 LIMITED","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6466402,"ownershipPct":1.3945876360441234,"effectiveDate":"2022-08-15"},{"code":"CRE","shareholderType":"COMPANY","shareholderName":"Vietnam Enterprise Investments Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4839120,"ownershipPct":1.0436370830848187,"effectiveDate":"2022-08-15"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Tập đoàn Thế Kỷ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 231511373,
+      "ownershipPct": 49.929295826241436,
+      "effectiveDate": "2022-10-20"
+    },
+    {
+      "code": "CRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CENLAND.,JSC",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 100657119,
+      "ownershipPct": 21.708389555307885,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "CRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn I.P.A",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 50600000,
+      "ownershipPct": 10.912735456878902,
+      "effectiveDate": "2022-10-20"
+    },
+    {
+      "code": "CRE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thanh Hưng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 15576522,
+      "ownershipPct": 3.3593372317046297,
+      "effectiveDate": "2024-09-04"
+    },
+    {
+      "code": "CRE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trung Vũ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 8540203,
+      "ownershipPct": 1.8418374720759598,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "CRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VIETNAM MASTER HOLDING 2 LIMITED",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6466402,
+      "ownershipPct": 1.3945876360441234,
+      "effectiveDate": "2022-08-15"
+    },
+    {
+      "code": "CRE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Enterprise Investments Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4839120,
+      "ownershipPct": 1.0436370830848187,
+      "effectiveDate": "2022-08-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

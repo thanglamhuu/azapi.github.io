@@ -1,1 +1,108 @@
-{"data":[{"code":"HGM","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5876280,"ownershipPct":49.29467347609876,"effectiveDate":"2020-06-30"},{"code":"HGM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quốc tế DP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1001100,"ownershipPct":8.397982672187586,"effectiveDate":"2017-11-20"},{"code":"HGM","shareholderType":"COMPANY","shareholderName":"K.sản Hà Giang","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":679280,"ownershipPct":5.698313524686428,"effectiveDate":"2015-02-13"},{"code":"HGM","shareholderType":"PERSON","shareholderName":"Đỗ Vân Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":528280,"ownershipPct":4.431611513398519,"effectiveDate":"2014-10-01"},{"code":"HGM","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Khoáng sản Đông Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":400000,"ownershipPct":3.355502016656712,"effectiveDate":"2020-06-30"},{"code":"HGM","shareholderType":"PERSON","shareholderName":"Phạm Thành Đô","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":399800,"ownershipPct":3.3538242656483837,"effectiveDate":"2020-06-30"},{"code":"HGM","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư chứng khoán Bản Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":285380,"ownershipPct":2.393982913783731,"effectiveDate":"2020-06-30"},{"code":"HGM","shareholderType":"COMPANY","shareholderName":"Chứng khoán Vietcap","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":285380,"ownershipPct":2.393982913783731,"effectiveDate":"2014-05-20"},{"code":"HGM","shareholderType":"PERSON","shareholderName":"Trịnh Ngọc Hiếu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":245200,"ownershipPct":2.0569227362105647,"effectiveDate":"2020-06-30"},{"code":"HGM","shareholderType":"PERSON","shareholderName":"Phạm Văn Hội","roleType":"Bố của Chủ tịch HĐQT","enRoleType":"Father of Chairman","numberOfShares":132000,"ownershipPct":1.107315665496715,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HGM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5876280,
+      "ownershipPct": 46.637142857142855,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quốc tế DP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1001100,
+      "ownershipPct": 7.945238095238095,
+      "effectiveDate": "2017-11-20"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Vân Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 528280,
+      "ownershipPct": 4.192698412698412,
+      "effectiveDate": "2014-10-01"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Khoáng sản Đông Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 400000,
+      "ownershipPct": 3.1746031746031744,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thành Đô",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 399800,
+      "ownershipPct": 3.173015873015873,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư chứng khoán Bản Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 285380,
+      "ownershipPct": 2.264920634920635,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán Vietcap",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 285380,
+      "ownershipPct": 2.264920634920635,
+      "effectiveDate": "2014-05-20"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thảo Hiền",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 270000,
+      "ownershipPct": 2.142857142857143,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Ngọc Hiếu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 245200,
+      "ownershipPct": 1.946031746031746,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Hội",
+      "roleType": "Bố của Chủ tịch HĐQT",
+      "enRoleType": "Father of Chairman",
+      "numberOfShares": 132000,
+      "ownershipPct": 1.0476190476190477,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

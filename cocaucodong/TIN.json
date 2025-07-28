@@ -1,1 +1,68 @@
-{"data":[{"code":"TIN","shareholderType":"COMPANY","shareholderName":"Tổng công ty xi măng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10034732,"ownershipPct":11.005604859520533,"effectiveDate":"2021-01-01"},{"code":"TIN","shareholderType":"PERSON","shareholderName":"Phạm Thị Thảo Nguyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3211362,"ownershipPct":3.5220652861361494,"effectiveDate":"2024-06-25"},{"code":"TIN","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Phương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3109215,"ownershipPct":3.410035436252222,"effectiveDate":"2022-11-10"},{"code":"TIN","shareholderType":"PERSON","shareholderName":"Nguyễn Chí Hiếu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2322390,"ownershipPct":2.547084134354748,"effectiveDate":"2016-04-01"},{"code":"TIN","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1718900,"ownershipPct":1.885205722786602,"effectiveDate":"2017-03-01"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TIN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty xi măng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10034732,
+      "ownershipPct": 11.00561053261657,
+      "effectiveDate": "2021-01-01"
+    },
+    {
+      "code": "TIN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hữu Song",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4244635,
+      "ownershipPct": 4.655311139661023,
+      "effectiveDate": "2025-01-02"
+    },
+    {
+      "code": "TIN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thảo Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3211362,
+      "ownershipPct": 3.522067101666952,
+      "effectiveDate": "2024-06-25"
+    },
+    {
+      "code": "TIN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Phương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3109215,
+      "ownershipPct": 3.410037194034622,
+      "effectiveDate": "2022-11-10"
+    },
+    {
+      "code": "TIN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Chí Hiếu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2322390,
+      "ownershipPct": 2.547085447308747,
+      "effectiveDate": "2016-04-01"
+    },
+    {
+      "code": "TIN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1718900,
+      "ownershipPct": 1.8852066945599169,
+      "effectiveDate": "2017-03-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

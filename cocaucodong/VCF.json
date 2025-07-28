@@ -1,1 +1,18 @@
-{"data":[{"code":"VCF","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Masan Beverage","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":26257975,"ownershipPct":98.79168377751947,"effectiveDate":"2020-07-17"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VCF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Masan Beverage",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 26257975,
+      "ownershipPct": 98.79168377751947,
+      "effectiveDate": "2020-07-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

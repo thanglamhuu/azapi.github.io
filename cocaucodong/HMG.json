@@ -1,1 +1,18 @@
-{"data":[{"code":"HMG","shareholderType":"COMPANY","shareholderName":"TCT Thép Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8043150,"ownershipPct":89.36833333333334,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HMG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thép Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8043150,
+      "ownershipPct": 89.36833333333334,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

@@ -1,1 +1,28 @@
-{"data":[{"code":"GIC","shareholderType":"COMPANY","shareholderName":"Container Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8040000,"ownershipPct":66.33663366336634,"effectiveDate":"2020-07-20"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Container Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8040000,
+      "ownershipPct": 66.33663366336634,
+      "effectiveDate": "2020-07-20"
+    },
+    {
+      "code": "GIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 607100,
+      "ownershipPct": 5.009075907590759,
+      "effectiveDate": "2024-10-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

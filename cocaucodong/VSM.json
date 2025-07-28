@@ -1,1 +1,28 @@
-{"data":[{"code":"VSM","shareholderType":"COMPANY","shareholderName":"Container Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2180750,"ownershipPct":65.00007749636661,"effectiveDate":"2022-12-20"},{"code":"VSM","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Sao Á D.C","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":146630,"ownershipPct":4.370497014005382,"effectiveDate":"2022-12-20"},{"code":"VSM","shareholderType":"PERSON","shareholderName":"Ngô Quốc Vũ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":42720,"ownershipPct":1.2733249160356674,"effectiveDate":"2022-12-20"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Container Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2180750,
+      "ownershipPct": 43.333548601831104,
+      "effectiveDate": "2022-12-20"
+    },
+    {
+      "code": "VSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Sao Á D.C",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 146630,
+      "ownershipPct": 2.913675676481254,
+      "effectiveDate": "2022-12-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

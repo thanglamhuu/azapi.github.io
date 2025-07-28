@@ -1,1 +1,68 @@
-{"data":[{"code":"EID","shareholderType":"COMPANY","shareholderName":"Nhà Xuất bản Giáo dục Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6024600,"ownershipPct":40.164,"effectiveDate":"2015-01-23"},{"code":"EID","shareholderType":"PERSON","shareholderName":"Lê Xuân Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1802800,"ownershipPct":12.018666666666666,"effectiveDate":"2024-06-04"},{"code":"EID","shareholderType":"COMPANY","shareholderName":"AFC Vietnam Fund (AVF)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1040700,"ownershipPct":6.938,"effectiveDate":"2022-04-08"},{"code":"EID","shareholderType":"PERSON","shareholderName":"Peter Eric Dennis","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":781600,"ownershipPct":5.210666666666667,"effectiveDate":"2020-06-30"},{"code":"EID","shareholderType":"PERSON","shareholderName":"Phạm Ngọc Lý","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":749489,"ownershipPct":4.996593333333333,"effectiveDate":"2011-12-20"},{"code":"EID","shareholderType":"COMPANY","shareholderName":"AFC VF Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":737600,"ownershipPct":4.917333333333334,"effectiveDate":"2023-12-14"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "EID",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhà Xuất bản Giáo dục Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6024600,
+      "ownershipPct": 40.164,
+      "effectiveDate": "2015-01-23"
+    },
+    {
+      "code": "EID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2135400,
+      "ownershipPct": 14.236,
+      "effectiveDate": "2025-04-03"
+    },
+    {
+      "code": "EID",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC Vietnam Fund (AVF)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1040700,
+      "ownershipPct": 6.938,
+      "effectiveDate": "2022-04-08"
+    },
+    {
+      "code": "EID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Peter Eric Dennis",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 781600,
+      "ownershipPct": 5.210666666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "EID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Ngọc Lý",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 749489,
+      "ownershipPct": 4.996593333333333,
+      "effectiveDate": "2011-12-20"
+    },
+    {
+      "code": "EID",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC VF Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 737600,
+      "ownershipPct": 4.917333333333334,
+      "effectiveDate": "2023-12-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

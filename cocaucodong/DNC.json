@@ -1,1 +1,89 @@
-{"data":[{"code":"DNC","shareholderType":"PERSON","shareholderName":"Nguyễn Trung Kiên","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2390148,"ownershipPct":29.773305885456853,"effectiveDate":"2024-07-18"},{"code":"DNC","shareholderType":"PERSON","shareholderName":"Đỗ Huy Đạt","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2039375,"ownershipPct":25.40383929788179,"effectiveDate":"2024-07-18"},{"code":"DNC","shareholderType":"PERSON","shareholderName":"Lê Hữu Cảnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":796843,"ownershipPct":9.926017293358024,"effectiveDate":"2022-07-25"},{"code":"DNC","shareholderType":"PERSON","shareholderName":"Lại Thị Dinh","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":591010,"ownershipPct":7.362021728932206,"groupPct":7.499045195571102,"effectiveDate":"2024-07-18"},{"code":"DNC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Hà Nam Xanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":411703,"ownershipPct":5.128452025966694,"effectiveDate":"2022-07-25"},{"code":"DNC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dây cáp điện Thái Dương SUNCO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":406250,"ownershipPct":5.060525756550158,"effectiveDate":"2022-07-25"},{"code":"DNC","shareholderType":"PERSON","shareholderName":"Vũ Thị Lương Dung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":213340,"ownershipPct":2.6575078520674724,"effectiveDate":"2022-07-25"},{"code":"DNC","shareholderType":"PERSON","shareholderName":"Lê Xuân Phòng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":181306,"ownershipPct":2.2584706038574347,"effectiveDate":"2024-07-18"},{"code":"DNC","shareholderType":"PERSON","shareholderName":"Lê Xuân Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":80547,"ownershipPct":1.0033481061239276,"effectiveDate":"2024-07-18"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trung Kiên",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2390148,
+      "ownershipPct": 23.818769323524062,
+      "effectiveDate": "2025-07-24"
+    },
+    {
+      "code": "DNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Huy Đạt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2040395,
+      "ownershipPct": 20.3333424682789,
+      "effectiveDate": "2025-07-24"
+    },
+    {
+      "code": "DNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hữu Cảnh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 796843,
+      "ownershipPct": 7.940855379694012,
+      "effectiveDate": "2022-07-25"
+    },
+    {
+      "code": "DNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lại Thị Dinh",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 591010,
+      "ownershipPct": 5.889648196637177,
+      "groupPct": 5.9992675434553515,
+      "effectiveDate": "2025-07-24"
+    },
+    {
+      "code": "DNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Hà Nam Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 411703,
+      "ownershipPct": 4.102783085734786,
+      "effectiveDate": "2022-07-25"
+    },
+    {
+      "code": "DNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Dây cáp điện Thái Dương SUNCO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 406250,
+      "ownershipPct": 4.048441785898468,
+      "effectiveDate": "2022-07-25"
+    },
+    {
+      "code": "DNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Lương Dung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 213340,
+      "ownershipPct": 2.1260174045626563,
+      "effectiveDate": "2022-07-25"
+    },
+    {
+      "code": "DNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Phòng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 181306,
+      "ownershipPct": 1.8067859358378033,
+      "effectiveDate": "2024-07-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

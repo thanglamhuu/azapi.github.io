@@ -1,1 +1,68 @@
-{"data":[{"code":"PTP","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh Huyền","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1332800,"ownershipPct":19.977914571331482,"effectiveDate":"2021-12-31"},{"code":"PTP","shareholderType":"PERSON","shareholderName":"Ngô Mạnh Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1209900,"ownershipPct":18.135713415256575,"effectiveDate":"2021-12-31"},{"code":"PTP","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Lâm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1023980,"ownershipPct":15.348878273373359,"effectiveDate":"2016-08-24"},{"code":"PTP","shareholderType":"PERSON","shareholderName":"Trần Khánh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":833500,"ownershipPct":12.493691322932767,"effectiveDate":"2021-12-31"},{"code":"PTP","shareholderType":"PERSON","shareholderName":"Đỗ Vân Anh","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":164200,"ownershipPct":2.4612646853336058,"effectiveDate":"2021-12-31"},{"code":"PTP","shareholderType":"COMPANY","shareholderName":"V.thông In bưu điện","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":128633,"ownershipPct":1.928135568017769,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Huyền",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1332800,
+      "ownershipPct": 19.977914571331482,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "PTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Mạnh Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1209900,
+      "ownershipPct": 18.135713415256575,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "PTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Lâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1023980,
+      "ownershipPct": 15.348878273373359,
+      "effectiveDate": "2016-08-24"
+    },
+    {
+      "code": "PTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Khánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 833500,
+      "ownershipPct": 12.493691322932767,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "PTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Vân Anh",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 164200,
+      "ownershipPct": 2.4612646853336058,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "PTP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP PTP",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 128633,
+      "ownershipPct": 1.928135568017769,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

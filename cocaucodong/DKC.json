@@ -1,1 +1,58 @@
-{"data":[{"code":"DKC","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Lạng Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":823875,"ownershipPct":36.000026217588506,"effectiveDate":"2021-01-07"},{"code":"DKC","shareholderType":"PERSON","shareholderName":"Lê Thị Thu Hường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":336325,"ownershipPct":14.696050757251347,"effectiveDate":"2024-01-05"},{"code":"DKC","shareholderType":"PERSON","shareholderName":"Trần Đình Trung","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":156680,"ownershipPct":6.846286278588096,"effectiveDate":"2021-10-22"},{"code":"DKC","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Phương","roleType":"Chồng của Thành viên HĐQT","enRoleType":"Husband of Board member","numberOfShares":95000,"ownershipPct":4.15111818014979,"effectiveDate":"2021-06-30"},{"code":"DKC","shareholderType":"PERSON","shareholderName":"Lâm Thị Hồng Thúy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":80125,"ownershipPct":3.50114046510002,"effectiveDate":"2021-10-08"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DKC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Lạng Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 797975,
+      "ownershipPct": 34.868300313737144,
+      "effectiveDate": "2025-01-22"
+    },
+    {
+      "code": "DKC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu Hường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 362865,
+      "ownershipPct": 15.855742088842668,
+      "effectiveDate": "2024-09-17"
+    },
+    {
+      "code": "DKC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Trung",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 156680,
+      "ownershipPct": 6.846286278588096,
+      "effectiveDate": "2021-10-22"
+    },
+    {
+      "code": "DKC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Phương",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 95000,
+      "ownershipPct": 4.15111818014979,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "DKC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Thị Hồng Thúy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 80125,
+      "ownershipPct": 3.50114046510002,
+      "effectiveDate": "2021-10-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

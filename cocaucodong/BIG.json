@@ -1,1 +1,98 @@
-{"data":[{"code":"BIG","shareholderType":"PERSON","shareholderName":"Võ Phi Nhật Huy","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":800000,"ownershipPct":16,"effectiveDate":"2023-07-27"},{"code":"BIG","shareholderType":"PERSON","shareholderName":"Lương Hoàng Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":244795,"ownershipPct":4.8959,"effectiveDate":"2023-04-07"},{"code":"BIG","shareholderType":"COMPANY","shareholderName":"CTCP Huy Hoàng Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":240000,"ownershipPct":4.8,"effectiveDate":"2023-02-22"},{"code":"BIG","shareholderType":"COMPANY","shareholderName":"Dược Lâm Đồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":201000,"ownershipPct":4.02,"effectiveDate":"2024-07-11"},{"code":"BIG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư BLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":171600,"ownershipPct":3.432,"effectiveDate":"2024-05-30"},{"code":"BIG","shareholderType":"PERSON","shareholderName":"Trương Huy Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":150000,"ownershipPct":3,"effectiveDate":"2023-12-01"},{"code":"BIG","shareholderType":"PERSON","shareholderName":"Kim Thị Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":150000,"ownershipPct":3,"effectiveDate":"2023-11-16"},{"code":"BIG","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn Đầu tư tài chính MYA Capital","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":123000,"ownershipPct":2.46,"effectiveDate":"2023-05-31"},{"code":"BIG","shareholderType":"PERSON","shareholderName":"Kiều Văn Khoa","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":50000,"ownershipPct":1,"effectiveDate":"2021-09-28"},{"code":"BIG","shareholderType":"PERSON","shareholderName":"Trần Thị Mưa Thao","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":50000,"ownershipPct":1,"effectiveDate":"2021-09-28"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "BIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Phi Nhật Huy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2862056,
+      "ownershipPct": 17.8995630265555,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Sinh Vương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2739136,
+      "ownershipPct": 17.13080997377659,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Quỳnh Trâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2428182,
+      "ownershipPct": 15.186074887754675,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Trưởng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1315375,
+      "ownershipPct": 8.226476950854716,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Văn Khoa",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 376456,
+      "ownershipPct": 2.354390654384463,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Hoàng Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 257597,
+      "ownershipPct": 1.6110354713365558,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Huy Hoàng Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 252552,
+      "ownershipPct": 1.5794835745641054,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược Lâm Đồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 211512,
+      "ownershipPct": 1.3228156174696817,
+      "effectiveDate": "2024-12-03"
+    },
+    {
+      "code": "BIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư BLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 180574,
+      "ownershipPct": 1.1293265030304205,
+      "effectiveDate": "2024-12-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

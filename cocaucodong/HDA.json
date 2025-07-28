@@ -1,1 +1,69 @@
-{"data":[{"code":"HDA","shareholderType":"PERSON","shareholderName":"Lê Như Ngọc","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":3905880,"ownershipPct":14.15175605101267,"groupPct":14.621321829841317,"effectiveDate":"2023-06-30"},{"code":"HDA","shareholderType":"PERSON","shareholderName":"Mai Anh Tám","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2304752,"ownershipPct":8.350560709003746,"effectiveDate":"2023-06-30"},{"code":"HDA","shareholderType":"PERSON","shareholderName":"Trần Thị Thu Hiền","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":1338172,"ownershipPct":4.848455072428166,"effectiveDate":"2023-06-30"},{"code":"HDA","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Thái","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1303440,"ownershipPct":4.7226143422562785,"effectiveDate":"2022-12-09"},{"code":"HDA","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Sơn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1240800,"ownershipPct":4.495657549155765,"effectiveDate":"2022-12-31"},{"code":"HDA","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":518900,"ownershipPct":1.8800747116835321,"effectiveDate":"2019-11-29"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Như Ngọc",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 3905880,
+      "ownershipPct": 14.15175605101267,
+      "groupPct": 14.621321829841317,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Anh Tám",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2304752,
+      "ownershipPct": 8.350560709003746,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thu Hiền",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 1338172,
+      "ownershipPct": 4.848455072428166,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Thái",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1303440,
+      "ownershipPct": 4.7226143422562785,
+      "effectiveDate": "2022-12-09"
+    },
+    {
+      "code": "HDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Sơn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1240800,
+      "ownershipPct": 4.495657549155765,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HDA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 518900,
+      "ownershipPct": 1.8800747116835321,
+      "effectiveDate": "2019-11-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

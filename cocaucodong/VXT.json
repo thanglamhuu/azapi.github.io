@@ -1,1 +1,49 @@
-{"data":[{"code":"VXT","shareholderType":"PERSON","shareholderName":"Nguyễn Vạn Xuân","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2936992,"ownershipPct":48.852714900966944,"effectiveDate":"2024-03-01"},{"code":"VXT","shareholderType":"PERSON","shareholderName":"Nguyễn Kim Cương","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":216312,"ownershipPct":3.5980446884628767,"effectiveDate":"2023-06-30"},{"code":"VXT","shareholderType":"PERSON","shareholderName":"Phạm Thị Thanh Thủy","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":93466,"ownershipPct":1.5546749364430603,"groupPct":2.32479342747057,"effectiveDate":"2023-06-30"},{"code":"VXT","shareholderType":"PERSON","shareholderName":"Ngô Quang Việt","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":64857,"ownershipPct":1.0788046172178927,"effectiveDate":"2023-03-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Vạn Xuân",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2936992,
+      "ownershipPct": 48.852714900966944,
+      "effectiveDate": "2024-03-01"
+    },
+    {
+      "code": "VXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Kim Cương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 216312,
+      "ownershipPct": 3.5980446884628767,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thanh Thủy",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 93466,
+      "ownershipPct": 1.5546749364430603,
+      "groupPct": 2.32479342747057,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Quang Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 64857,
+      "ownershipPct": 1.0788046172178927,
+      "effectiveDate": "2023-03-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

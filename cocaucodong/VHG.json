@@ -1,1 +1,68 @@
-{"data":[{"code":"VHG","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Thùy Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7897650,"ownershipPct":5.2651,"effectiveDate":"2017-04-28"},{"code":"VHG","shareholderType":"PERSON","shareholderName":"Trần Quốc Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7760730,"ownershipPct":5.17382,"effectiveDate":"2017-04-07"},{"code":"VHG","shareholderType":"PERSON","shareholderName":"Nguyễn Lượng Khoa Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6873720,"ownershipPct":4.58248,"effectiveDate":"2021-04-05"},{"code":"VHG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần quản lý quỹ đầu tư Sao Vàng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4800000,"ownershipPct":3.2,"effectiveDate":"2016-01-29"},{"code":"VHG","shareholderType":"COMPANY","shareholderName":"Chứng khoán MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4010230,"ownershipPct":2.673486666666667,"effectiveDate":"2020-06-30"},{"code":"VHG","shareholderType":"PERSON","shareholderName":"Lê Hồng Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000005,"ownershipPct":1.3333366666666666,"effectiveDate":"2012-07-09"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Thùy Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7897650,
+      "ownershipPct": 5.2651,
+      "effectiveDate": "2017-04-28"
+    },
+    {
+      "code": "VHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quốc Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7760730,
+      "ownershipPct": 5.17382,
+      "effectiveDate": "2017-04-07"
+    },
+    {
+      "code": "VHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Lượng Khoa Toàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6873720,
+      "ownershipPct": 4.58248,
+      "effectiveDate": "2021-04-05"
+    },
+    {
+      "code": "VHG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần quản lý quỹ đầu tư Sao Vàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4800000,
+      "ownershipPct": 3.2,
+      "effectiveDate": "2016-01-29"
+    },
+    {
+      "code": "VHG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4010230,
+      "ownershipPct": 2.673486666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hồng Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000005,
+      "ownershipPct": 1.3333366666666666,
+      "effectiveDate": "2012-07-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

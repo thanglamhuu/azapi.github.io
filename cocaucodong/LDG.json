@@ -1,1 +1,38 @@
-{"data":[{"code":"LDG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Xây dựng Địa ốc Long Kim Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15302180,"ownershipPct":5.972576625389096,"effectiveDate":"2022-12-07"},{"code":"LDG","shareholderType":"COMPANY","shareholderName":"CTCP Sun Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12626000,"ownershipPct":4.928039826492874,"effectiveDate":"2022-12-07"},{"code":"LDG","shareholderType":"PERSON","shareholderName":"Nguyễn Khánh Hưng","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":7467037,"ownershipPct":2.914450793750663,"effectiveDate":"2023-08-15"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Xây dựng Địa ốc Long Kim Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15302180,
+      "ownershipPct": 5.986397189322951,
+      "effectiveDate": "2022-12-07"
+    },
+    {
+      "code": "LDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Sun Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12626000,
+      "ownershipPct": 4.939443328492515,
+      "effectiveDate": "2022-12-07"
+    },
+    {
+      "code": "LDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khánh Hưng",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 7467037,
+      "ownershipPct": 2.9211948434386787,
+      "effectiveDate": "2023-08-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

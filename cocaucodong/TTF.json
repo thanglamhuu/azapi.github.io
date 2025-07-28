@@ -1,1 +1,109 @@
-{"data":[{"code":"TTF","shareholderType":"PERSON","shareholderName":"Đinh Thị Kim Dung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":37565763,"ownershipPct":9.545784462770413,"effectiveDate":"2022-12-19"},{"code":"TTF","shareholderType":"COMPANY","shareholderName":"CTCP xây dựng U&I","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29000000,"ownershipPct":7.369150186576591,"effectiveDate":"2017-03-31"},{"code":"TTF","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11148650,"ownershipPct":2.8329681457785214,"effectiveDate":"2018-02-02"},{"code":"TTF","shareholderType":"COMPANY","shareholderName":"Cty TNHH MTV Thương mại Đồng Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9893534,"ownershipPct":2.5140323421379946,"effectiveDate":"2022-03-28"},{"code":"TTF","shareholderType":"PERSON","shareholderName":"Bùi Hồng Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9600000,"ownershipPct":2.439442820383975,"effectiveDate":"2023-01-04"},{"code":"TTF","shareholderType":"PERSON","shareholderName":"Võ Trường Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7715580,"ownershipPct":1.9605954412602282,"effectiveDate":"2016-08-23"},{"code":"TTF","shareholderType":"COMPANY","shareholderName":"CTCP SAM HOLDINGS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7476590,"ownershipPct":1.8998660204640234,"effectiveDate":"2018-04-05"},{"code":"TTF","shareholderType":"PERSON","shareholderName":"Vũ Xuân Dương","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":7000000,"ownershipPct":1.778760389863315,"groupPct":1.7787756363809426,"effectiveDate":"2020-06-30"},{"code":"TTF","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư xây dựng Tân Liên Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7000000,"ownershipPct":1.778760389863315,"effectiveDate":"2017-03-31"},{"code":"TTF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6043425,"ownershipPct":1.535686429872815,"effectiveDate":"2015-09-01"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "TTF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Kim Dung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 37565763,
+      "ownershipPct": 9.545784462770413,
+      "effectiveDate": "2022-12-19"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP xây dựng U&I",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29000000,
+      "ownershipPct": 7.369150186576591,
+      "effectiveDate": "2017-03-31"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11148650,
+      "ownershipPct": 2.8329681457785214,
+      "effectiveDate": "2018-02-02"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cty TNHH MTV Thương mại Đồng Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9893534,
+      "ownershipPct": 2.5140323421379946,
+      "effectiveDate": "2022-03-28"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hồng Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9600000,
+      "ownershipPct": 2.439442820383975,
+      "effectiveDate": "2023-01-04"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Trường Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7715580,
+      "ownershipPct": 1.9605954412602282,
+      "effectiveDate": "2016-08-23"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP SAM HOLDINGS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7476590,
+      "ownershipPct": 1.8998660204640234,
+      "effectiveDate": "2018-04-05"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư xây dựng Tân Liên Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7000000,
+      "ownershipPct": 1.778760389863315,
+      "effectiveDate": "2017-03-31"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Xuân Dương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 7000000,
+      "ownershipPct": 1.778760389863315,
+      "groupPct": 1.7787756363809426,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Xuân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6043425,
+      "ownershipPct": 1.535686429872815,
+      "effectiveDate": "2015-09-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

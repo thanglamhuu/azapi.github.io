@@ -1,1 +1,88 @@
-{"data":[{"code":"GKM","shareholderType":"COMPANY","shareholderName":"Chứng khoán APG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5053264,"ownershipPct":16.075669341043653,"effectiveDate":"2024-06-13"},{"code":"GKM","shareholderType":"PERSON","shareholderName":"Đặng Việt Lê","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3057888,"ownershipPct":9.72789000731909,"effectiveDate":"2023-07-13"},{"code":"GKM","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1327248,"ownershipPct":4.2223006717166385,"effectiveDate":"2024-02-16"},{"code":"GKM","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Năm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1278156,"ownershipPct":4.066127006677465,"effectiveDate":"2023-07-13"},{"code":"GKM","shareholderType":"PERSON","shareholderName":"Vũ Văn Chính","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":987492,"ownershipPct":3.1414536958539823,"effectiveDate":"2023-07-13"},{"code":"GKM","shareholderType":"PERSON","shareholderName":"Đào Đức Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":961800,"ownershipPct":3.059721156902902,"effectiveDate":"2023-07-13"},{"code":"GKM","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":799168,"ownershipPct":2.542348968101246,"effectiveDate":"2023-07-13"},{"code":"GKM","shareholderType":"PERSON","shareholderName":"Hoàng Văn Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":443784,"ownershipPct":1.4117854999947987,"effectiveDate":"2023-07-13"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GKM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Việt Lê",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 2683676,
+      "ownershipPct": 8.53743006391407,
+      "effectiveDate": "2025-02-27"
+    },
+    {
+      "code": "GKM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán APG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1400000,
+      "ownershipPct": 4.453742586467106,
+      "effectiveDate": "2025-02-04"
+    },
+    {
+      "code": "GKM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1327248,
+      "ownershipPct": 4.2223006717166385,
+      "effectiveDate": "2024-02-16"
+    },
+    {
+      "code": "GKM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Năm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1278156,
+      "ownershipPct": 4.066127006677465,
+      "effectiveDate": "2023-07-13"
+    },
+    {
+      "code": "GKM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Văn Chính",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 987492,
+      "ownershipPct": 3.1414536958539823,
+      "effectiveDate": "2023-07-13"
+    },
+    {
+      "code": "GKM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Đức Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 961800,
+      "ownershipPct": 3.059721156902902,
+      "effectiveDate": "2023-07-13"
+    },
+    {
+      "code": "GKM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 879085,
+      "ownershipPct": 2.796584501160311,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "GKM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Hải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 488162,
+      "ownershipPct": 1.5529627774963968,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

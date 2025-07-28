@@ -1,1 +1,58 @@
-{"data":[{"code":"MPT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Dậu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1303000,"ownershipPct":7.616692047846154,"effectiveDate":"2024-06-28"},{"code":"MPT","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư TTN Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":499088,"ownershipPct":2.917421028991129,"effectiveDate":"2020-06-30"},{"code":"MPT","shareholderType":"PERSON","shareholderName":"Ngô Văn Triệu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":472600,"ownershipPct":2.7625853122118897,"effectiveDate":"2016-07-13"},{"code":"MPT","shareholderType":"PERSON","shareholderName":"Đào Hồng Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":395400,"ownershipPct":2.3113123835137137,"effectiveDate":"2016-07-22"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Hữu Khôi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1750000,
+      "ownershipPct": 10.229632451059684,
+      "effectiveDate": "2025-05-09"
+    },
+    {
+      "code": "MPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Dậu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1582800,
+      "ownershipPct": 9.252264139164154,
+      "effectiveDate": "2025-01-10"
+    },
+    {
+      "code": "MPT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư TTN Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 499088,
+      "ownershipPct": 2.917421028991129,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Văn Triệu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 472600,
+      "ownershipPct": 2.7625853122118897,
+      "effectiveDate": "2016-07-13"
+    },
+    {
+      "code": "MPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Hồng Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 395400,
+      "ownershipPct": 2.3113123835137137,
+      "effectiveDate": "2016-07-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

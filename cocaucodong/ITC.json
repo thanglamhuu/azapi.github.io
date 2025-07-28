@@ -1,1 +1,108 @@
-{"data":[{"code":"ITC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Thiết Kế Kiến Trúc Tương Lai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":23799297,"ownershipPct":24.80771860553279,"effectiveDate":"2022-09-30"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"Tổng công ty địa ốc Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15594691,"ownershipPct":16.25546780092852,"effectiveDate":"2022-09-30"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"CTCP Truyền thông giải trí Terra","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5772768,"ownershipPct":6.017371190376939,"effectiveDate":"2022-11-15"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"Công ty CP Đầu tư Toàn Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4590395,"ownershipPct":4.784898791264494,"effectiveDate":"2022-09-30"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"PCA International Opportunities Funds SPC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3567944,"ownershipPct":3.719124592306197,"effectiveDate":"2022-09-30"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư cân bằng Prudential","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3567944,"ownershipPct":3.719124592306197,"effectiveDate":"2022-09-30"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"KITMC WORLDWIDE VIETNAM RSP BALANCED FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3286785,"ownershipPct":3.4260523492305714,"effectiveDate":"2022-09-30"},{"code":"ITC","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Trí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3260990,"ownershipPct":3.399164365882588,"effectiveDate":"2015-10-16"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"Kingsmead Vietnam and Indochina Growth Master Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2804574,"ownershipPct":2.923409149454857,"effectiveDate":"2022-09-30"},{"code":"ITC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư và Thương mại Thiên Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1741154,"ownershipPct":1.8149300158276878,"effectiveDate":"2022-09-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Thiết Kế Kiến Trúc Tương Lai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 23799297,
+      "ownershipPct": 24.80771860553279,
+      "effectiveDate": "2022-09-30"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Địa ốc Sài Gòn – TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15595690,
+      "ownershipPct": 16.256509130463883,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty địa ốc Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15594691,
+      "ownershipPct": 16.25546780092852,
+      "effectiveDate": "2022-09-30"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Truyền thông giải trí Terra",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6073068,
+      "ownershipPct": 6.330395474129586,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Đầu tư Toàn Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4590395,
+      "ownershipPct": 4.784898791264494,
+      "effectiveDate": "2022-09-30"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư cân bằng Prudential",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3567944,
+      "ownershipPct": 3.719124592306197,
+      "effectiveDate": "2022-09-30"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PCA International Opportunities Funds SPC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3567944,
+      "ownershipPct": 3.719124592306197,
+      "effectiveDate": "2022-09-30"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KITMC WORLDWIDE VIETNAM RSP BALANCED FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3286785,
+      "ownershipPct": 3.4260523492305714,
+      "effectiveDate": "2022-09-30"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Trí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3260990,
+      "ownershipPct": 3.399164365882588,
+      "effectiveDate": "2015-10-16"
+    },
+    {
+      "code": "ITC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Kingsmead Vietnam and Indochina Growth Master Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2804574,
+      "ownershipPct": 2.923409149454857,
+      "effectiveDate": "2022-09-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

@@ -1,1 +1,48 @@
-{"data":[{"code":"PMB","shareholderType":"COMPANY","shareholderName":"Đạm Phú Mỹ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9000000,"ownershipPct":75,"effectiveDate":"2020-06-30"},{"code":"PMB","shareholderType":"COMPANY","shareholderName":"Tổng công ty cổ phần Vật tư Nông nghiệp Nghệ An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1200000,"ownershipPct":10,"effectiveDate":"2021-12-22"},{"code":"PMB","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":580500,"ownershipPct":4.8375,"effectiveDate":"2021-03-23"},{"code":"PMB","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Toản Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":360000,"ownershipPct":3,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PMB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đạm Phú Mỹ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9000000,
+      "ownershipPct": 75,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PMB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty cổ phần Vật tư Nông nghiệp Nghệ An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1200000,
+      "ownershipPct": 10,
+      "effectiveDate": "2021-12-22"
+    },
+    {
+      "code": "PMB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 580500,
+      "ownershipPct": 4.8375,
+      "effectiveDate": "2021-03-23"
+    },
+    {
+      "code": "PMB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Toản Xuân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 360000,
+      "ownershipPct": 3,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

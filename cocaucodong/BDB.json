@@ -1,1 +1,48 @@
-{"data":[{"code":"BDB","shareholderType":"COMPANY","shareholderName":"Nhà Xuất bản Giáo dục Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":452523,"ownershipPct":40.17163290053743,"effectiveDate":"2020-06-30"},{"code":"BDB","shareholderType":"COMPANY","shareholderName":"ĐTPT Giáo dục ĐN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":291950,"ownershipPct":25.917153880160573,"effectiveDate":"2020-06-30"},{"code":"BDB","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":112800,"ownershipPct":10.013546695263273,"effectiveDate":"2021-06-22"},{"code":"BDB","shareholderType":"PERSON","shareholderName":"Phạm Đình Thuấn","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":14500,"ownershipPct":1.287202367742176,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BDB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhà Xuất bản Giáo dục Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 452523,
+      "ownershipPct": 40.17163290053743,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BDB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ĐTPT Giáo dục ĐN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 291950,
+      "ownershipPct": 25.917153880160573,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 112800,
+      "ownershipPct": 10.013546695263273,
+      "effectiveDate": "2021-06-22"
+    },
+    {
+      "code": "BDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đình Thuấn",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 14500,
+      "ownershipPct": 1.287202367742176,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

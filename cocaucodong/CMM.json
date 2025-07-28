@@ -1,1 +1,79 @@
-{"data":[{"code":"CMM","shareholderType":"COMPANY","shareholderName":"Camimex Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":48315000,"ownershipPct":51.126985209036725,"effectiveDate":"2023-06-30"},{"code":"CMM","shareholderType":"PERSON","shareholderName":"Vũ Thị Bích Ngọc","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":1627500,"ownershipPct":1.7222222586713705,"groupPct":2.0000000423280433,"effectiveDate":"2023-07-17"},{"code":"CMM","shareholderType":"PERSON","shareholderName":"Bùi Sĩ Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1479000,"ownershipPct":1.5650793982027387,"effectiveDate":"2023-07-17"},{"code":"CMM","shareholderType":"PERSON","shareholderName":"Bùi Sĩ Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1479000,"ownershipPct":1.5650793982027387,"effectiveDate":"2023-07-17"},{"code":"CMM","shareholderType":"PERSON","shareholderName":"Bùi Sĩ Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1479000,"ownershipPct":1.5650793982027387,"effectiveDate":"2023-07-17"},{"code":"CMM","shareholderType":"PERSON","shareholderName":"Bùi Sĩ Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1479000,"ownershipPct":1.5650793982027387,"effectiveDate":"2023-07-17"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CMM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Camimex Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 72472500,
+      "ownershipPct": 76.69047781355509,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "CMM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đức Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 11449850,
+      "ownershipPct": 12.116243642671822,
+      "effectiveDate": "2024-09-13"
+    },
+    {
+      "code": "CMM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Bích Ngọc",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 1627500,
+      "ownershipPct": 1.7222222586713705,
+      "groupPct": 2.0000000423280433,
+      "effectiveDate": "2023-07-17"
+    },
+    {
+      "code": "CMM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Sĩ Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1479000,
+      "ownershipPct": 1.5650793982027387,
+      "effectiveDate": "2023-07-17"
+    },
+    {
+      "code": "CMM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Sĩ Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1479000,
+      "ownershipPct": 1.5650793982027387,
+      "effectiveDate": "2023-07-17"
+    },
+    {
+      "code": "CMM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Sĩ Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1479000,
+      "ownershipPct": 1.5650793982027387,
+      "effectiveDate": "2023-07-17"
+    },
+    {
+      "code": "CMM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Sĩ Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1479000,
+      "ownershipPct": 1.5650793982027387,
+      "effectiveDate": "2023-07-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

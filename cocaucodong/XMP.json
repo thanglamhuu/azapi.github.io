@@ -1,1 +1,49 @@
-{"data":[{"code":"XMP","shareholderType":"COMPANY","shareholderName":"Công ty CP XD&NL VCP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7650000,"ownershipPct":51,"effectiveDate":"2021-03-24"},{"code":"XMP","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Thủy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1500000,"ownershipPct":10,"effectiveDate":"2023-06-30"},{"code":"XMP","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Thép và vật tư công nghiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":750000,"ownershipPct":5,"effectiveDate":"2021-03-24"},{"code":"XMP","shareholderType":"PERSON","shareholderName":"Lê Văn Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":300000,"ownershipPct":2,"effectiveDate":"2021-03-24"},{"code":"XMP","shareholderType":"PERSON","shareholderName":"Phạm Bảo Long","roleType":"Anh/em rể của Kế toán trưởng","enRoleType":"Brother in law of Chief Accountant","numberOfShares":218714,"ownershipPct":1.4580933333333332,"groupPct":2.6674266666666666,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "XMP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP XD&NL VCP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7650000,
+      "ownershipPct": 51,
+      "effectiveDate": "2021-03-24"
+    },
+    {
+      "code": "XMP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Thép và vật tư công nghiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2590000,
+      "ownershipPct": 17.266666666666666,
+      "effectiveDate": "2024-09-30"
+    },
+    {
+      "code": "XMP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 300000,
+      "ownershipPct": 2,
+      "effectiveDate": "2021-03-24"
+    },
+    {
+      "code": "XMP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Bảo Long",
+      "roleType": "Anh/em rể của Kế toán trưởng",
+      "enRoleType": "Brother in law of Chief Accountant",
+      "numberOfShares": 218714,
+      "ownershipPct": 1.4580933333333332,
+      "groupPct": 2.6674266666666666,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

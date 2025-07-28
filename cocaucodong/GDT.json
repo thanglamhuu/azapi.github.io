@@ -1,1 +1,109 @@
-{"data":[{"code":"GDT","shareholderType":"PERSON","shareholderName":"Hà Thị Huệ","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":5863939,"ownershipPct":27.33505773472244,"groupPct":39.72871257904011,"effectiveDate":"2023-06-30"},{"code":"GDT","shareholderType":"PERSON","shareholderName":"Nguyễn Hà Ngọc Diệp","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1287383,"ownershipPct":6.001203053391275,"effectiveDate":"2023-06-30"},{"code":"GDT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1231155,"ownershipPct":5.739093296398923,"effectiveDate":"2023-01-09"},{"code":"GDT","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1032240,"ownershipPct":4.811840640922406,"effectiveDate":"2023-06-29"},{"code":"GDT","shareholderType":"COMPANY","shareholderName":"AFC VF Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1011324,"ownershipPct":4.7143396151478445,"effectiveDate":"2023-03-09"},{"code":"GDT","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":987303,"ownershipPct":4.602364469798316,"effectiveDate":"2023-01-09"},{"code":"GDT","shareholderType":"COMPANY","shareholderName":"KITMC WORLDWIDE VIETNAM RSP BALANCED FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":959761,"ownershipPct":4.473975999159429,"effectiveDate":"2023-01-09"},{"code":"GDT","shareholderType":"PERSON","shareholderName":"Phan Phúc Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":890010,"ownershipPct":4.148828071792752,"effectiveDate":"2023-01-09"},{"code":"GDT","shareholderType":"PERSON","shareholderName":"Lê Như Vũ","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":766560,"ownershipPct":3.5733594529426096,"groupPct":39.72871257904011,"effectiveDate":"2023-01-09"},{"code":"GDT","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":736938,"ownershipPct":3.4352749537317635,"effectiveDate":"2023-01-09"}],"currentPage":1,"size":10,"totalElements":18,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "GDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hải Liễu",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 5374148,
+      "ownershipPct": 21.783355939596994,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hà Ngọc Diệp",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1426281,
+      "ownershipPct": 5.781230195536918,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1231155,
+      "ownershipPct": 4.990314293877753,
+      "effectiveDate": "2023-01-09"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1032240,
+      "ownershipPct": 4.184040211599978,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC VF Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1011324,
+      "ownershipPct": 4.09926013616614,
+      "effectiveDate": "2023-03-09"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 987303,
+      "ownershipPct": 4.001894378277623,
+      "effectiveDate": "2023-01-09"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Phúc Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 890010,
+      "ownershipPct": 3.607530834618012,
+      "effectiveDate": "2023-01-09"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KITMC WORLDWIDE VIETNAM RSP BALANCED FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 888411,
+      "ownershipPct": 3.601049512155844,
+      "effectiveDate": "2024-05-20"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Như Vũ",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 766560,
+      "ownershipPct": 3.107143556347438,
+      "groupPct": 15.325222749352669,
+      "effectiveDate": "2023-01-09"
+    },
+    {
+      "code": "GDT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 736938,
+      "ownershipPct": 2.987074929721833,
+      "effectiveDate": "2023-01-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 17,
+  "totalPages": 2
+}

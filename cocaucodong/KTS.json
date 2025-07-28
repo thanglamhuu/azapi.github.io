@@ -1,1 +1,91 @@
-{"data":[{"code":"KTS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Kim Hà Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":760500,"ownershipPct":15,"effectiveDate":"2020-06-30"},{"code":"KTS","shareholderType":"PERSON","shareholderName":"Nguyễn Tất Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":358800,"ownershipPct":7.076923076923077,"effectiveDate":"2020-06-30"},{"code":"KTS","shareholderType":"PERSON","shareholderName":"Tạ Ngọc Hương","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":251000,"ownershipPct":4.95069033530572,"groupPct":14.74422090729783,"effectiveDate":"2020-06-30"},{"code":"KTS","shareholderType":"PERSON","shareholderName":"Trần Ngọc Lan","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":250000,"ownershipPct":4.930966469428008,"groupPct":14.74422090729783,"effectiveDate":"2020-06-30"},{"code":"KTS","shareholderType":"PERSON","shareholderName":"Trần Ngọc Tuấn","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":246532,"ownershipPct":4.862564102564103,"groupPct":14.74422090729783,"effectiveDate":"2020-06-30"},{"code":"KTS","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":243390,"ownershipPct":4.800591715976331,"effectiveDate":"2021-02-22"},{"code":"KTS","shareholderType":"PERSON","shareholderName":"Trần Thị Thái","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":152100,"ownershipPct":3,"effectiveDate":"2020-06-30"},{"code":"KTS","shareholderType":"PERSON","shareholderName":"Trần Ngọc Hiếu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":74529,"ownershipPct":1.47,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KTS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Kim Hà Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 760500,
+      "ownershipPct": 15,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KTS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tất Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 358800,
+      "ownershipPct": 7.076923076923077,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KTS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Ngọc Hương",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 251000,
+      "ownershipPct": 4.95069033530572,
+      "groupPct": 14.74422090729783,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KTS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Lan",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 250000,
+      "ownershipPct": 4.930966469428008,
+      "groupPct": 14.74422090729783,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KTS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Tuấn",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 246532,
+      "ownershipPct": 4.862564102564103,
+      "groupPct": 14.74422090729783,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KTS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 243390,
+      "ownershipPct": 4.800591715976331,
+      "effectiveDate": "2021-02-22"
+    },
+    {
+      "code": "KTS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thái",
+      "roleType": "Mẹ của Chủ tịch HĐQT",
+      "enRoleType": "Mother of Chairman",
+      "numberOfShares": 152100,
+      "ownershipPct": 3,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KTS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Hiếu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 74529,
+      "ownershipPct": 1.47,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

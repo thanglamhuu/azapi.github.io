@@ -1,1 +1,68 @@
-{"data":[{"code":"SHS","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn T&T","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":45505735,"ownershipPct":5.596182422629296,"effectiveDate":"2022-07-22"},{"code":"SHS","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":39842900,"ownershipPct":4.899781019833584,"effectiveDate":"2023-12-04"},{"code":"SHS","shareholderType":"PERSON","shareholderName":"Vũ Đức Tiến","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":20054985,"ownershipPct":2.4663123130105293,"effectiveDate":"2022-07-22"},{"code":"SHS","shareholderType":"PERSON","shareholderName":"Vũ Đức Tiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20054983,"ownershipPct":2.46631206705549,"effectiveDate":"2023-06-30"},{"code":"SHS","shareholderType":"PERSON","shareholderName":"Đỗ Quang Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12500000,"ownershipPct":1.5372189963059866,"effectiveDate":"2024-03-27"},{"code":"SHS","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9670631,"ownershipPct":1.1892702143572447,"effectiveDate":"2022-07-22"},{"code":"SHS","shareholderType":"COMPANY","shareholderName":"Yurie VietNam Securities Investment Trust","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8497945,"ownershipPct":1.0450561986850782,"effectiveDate":"2022-07-22"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SHS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn T&T",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 45505735,
+      "ownershipPct": 5.087496596558321,
+      "effectiveDate": "2022-07-22"
+    },
+    {
+      "code": "SHS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 43827190,
+      "ownershipPct": 4.899836909824989,
+      "effectiveDate": "2025-04-24"
+    },
+    {
+      "code": "SHS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đức Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22060481,
+      "ownershipPct": 2.4663401658261206,
+      "effectiveDate": "2025-04-24"
+    },
+    {
+      "code": "SHS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đức Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20054985,
+      "ownershipPct": 2.242127677566974,
+      "effectiveDate": "2022-07-22"
+    },
+    {
+      "code": "SHS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Quang Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13750000,
+      "ownershipPct": 1.5372365307950067,
+      "effectiveDate": "2025-04-24"
+    },
+    {
+      "code": "SHS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9670631,
+      "ownershipPct": 1.0811670726573561,
+      "effectiveDate": "2022-07-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

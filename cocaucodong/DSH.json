@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "code": "DSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Huệ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2000000,
+      "ownershipPct": 20,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "DSH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty 319 Bộ Quốc phòng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1500000,
+      "ownershipPct": 15,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "DSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Duy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 10,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "DSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiến Hưng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 300000,
+      "ownershipPct": 3,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "DSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đậu Hiếu Thắng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 150000,
+      "ownershipPct": 1.5,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "DSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Hoàn",
+      "roleType": "Em gái của Chủ tịch HĐQT",
+      "enRoleType": "Young Sister of Chairman",
+      "numberOfShares": 150000,
+      "ownershipPct": 1.5,
+      "groupPct": 1.7,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "DSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Giang Nam",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 100000,
+      "ownershipPct": 1,
+      "effectiveDate": "2025-03-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

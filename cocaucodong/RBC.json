@@ -1,1 +1,48 @@
-{"data":[{"code":"RBC","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6933333,"ownershipPct":70.28849440821207,"effectiveDate":"2020-06-30"},{"code":"RBC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Tổng Công ty Cao su Đồng Nai ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1336000,"ownershipPct":13.544052842892636,"effectiveDate":"2020-06-30"},{"code":"RBC","shareholderType":"COMPANY","shareholderName":"Ngân hàng Phương Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":333333,"ownershipPct":3.3792513220658167,"effectiveDate":"2020-06-30"},{"code":"RBC","shareholderType":"COMPANY","shareholderName":"CN & XNK Cao su","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":126600,"ownershipPct":1.2834409355615328,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "RBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6933333,
+      "ownershipPct": 70.28849440821207,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "RBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Tổng Công ty Cao su Đồng Nai ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1336000,
+      "ownershipPct": 13.544052842892636,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "RBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Phương Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 333333,
+      "ownershipPct": 3.3792513220658167,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "RBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CN & XNK Cao su",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 126600,
+      "ownershipPct": 1.2834409355615328,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

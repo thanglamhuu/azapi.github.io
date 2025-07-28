@@ -1,1 +1,90 @@
-{"data":[{"code":"LUT","shareholderType":"PERSON","shareholderName":"Bùi Đình Hưng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":4344000,"ownershipPct":28.96,"effectiveDate":"2018-08-06"},{"code":"LUT","shareholderType":"PERSON","shareholderName":"Lê Gia Lộc Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2699000,"ownershipPct":17.993333333333332,"effectiveDate":"2020-06-30"},{"code":"LUT","shareholderType":"PERSON","shareholderName":"Bùi Đình Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1351500,"ownershipPct":9.01,"groupPct":12.626666666666667,"effectiveDate":"2020-06-30"},{"code":"LUT","shareholderType":"PERSON","shareholderName":"Huỳnh Hoàng Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":690000,"ownershipPct":4.6,"effectiveDate":"2022-04-24"},{"code":"LUT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":542500,"ownershipPct":3.6166666666666667,"groupPct":12.626666666666667,"effectiveDate":"2020-06-30"},{"code":"LUT","shareholderType":"PERSON","shareholderName":"Đặng Thanh Qui","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":540000,"ownershipPct":3.6,"effectiveDate":"2022-04-24"},{"code":"LUT","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":537600,"ownershipPct":3.584,"effectiveDate":"2022-04-24"},{"code":"LUT","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Xây dựng công trình giao thông 6 - CTCP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330000,"ownershipPct":2.2,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đình Hưng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4344000,
+      "ownershipPct": 28.96,
+      "effectiveDate": "2018-08-06"
+    },
+    {
+      "code": "LUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Gia Lộc Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2699000,
+      "ownershipPct": 17.993333333333332,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đình Hải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1351500,
+      "ownershipPct": 9.01,
+      "groupPct": 12.626666666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Hoàng Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 690000,
+      "ownershipPct": 4.6,
+      "effectiveDate": "2022-04-24"
+    },
+    {
+      "code": "LUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng",
+      "roleType": "Mẹ của Chủ tịch HĐQT",
+      "enRoleType": "Mother of Chairman",
+      "numberOfShares": 542500,
+      "ownershipPct": 3.6166666666666667,
+      "groupPct": 12.626666666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thanh Qui",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 540000,
+      "ownershipPct": 3.6,
+      "effectiveDate": "2022-04-24"
+    },
+    {
+      "code": "LUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 537600,
+      "ownershipPct": 3.584,
+      "effectiveDate": "2022-04-24"
+    },
+    {
+      "code": "LUT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Xây dựng công trình giao thông 6 - CTCP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330000,
+      "ownershipPct": 2.2,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

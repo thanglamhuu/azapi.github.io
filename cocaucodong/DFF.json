@@ -1,1 +1,81 @@
-{"data":[{"code":"DFF","shareholderType":"PERSON","shareholderName":"Lê Duy Hưng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":37986800,"ownershipPct":47.4835,"effectiveDate":"2024-06-25"},{"code":"DFF","shareholderType":"PERSON","shareholderName":"Hồ Thị Lý","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9500000,"ownershipPct":11.875,"effectiveDate":"2022-03-14"},{"code":"DFF","shareholderType":"PERSON","shareholderName":"Lê Văn Thịnh","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":6785000,"ownershipPct":8.48125,"groupPct":15.987,"effectiveDate":"2024-07-18"},{"code":"DFF","shareholderType":"PERSON","shareholderName":"Nguyễn Cảnh Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":6000000,"ownershipPct":7.5,"effectiveDate":"2021-05-10"},{"code":"DFF","shareholderType":"PERSON","shareholderName":"Trần Thị Hồng Nhung","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":5989600,"ownershipPct":7.487,"groupPct":15.987,"effectiveDate":"2024-07-18"},{"code":"DFF","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thùy Linh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":5123100,"ownershipPct":6.403875,"groupPct":6.4045,"effectiveDate":"2021-05-10"},{"code":"DFF","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Tài","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":1500000,"ownershipPct":1.875,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DFF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Duy Hưng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 37971400,
+      "ownershipPct": 47.46425,
+      "effectiveDate": "2024-07-29"
+    },
+    {
+      "code": "DFF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Thị Lý",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9500000,
+      "ownershipPct": 11.875,
+      "effectiveDate": "2022-03-14"
+    },
+    {
+      "code": "DFF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Thịnh",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 6753000,
+      "ownershipPct": 8.44125,
+      "groupPct": 15.9345,
+      "effectiveDate": "2024-07-30"
+    },
+    {
+      "code": "DFF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Cảnh Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 6000000,
+      "ownershipPct": 7.5,
+      "effectiveDate": "2021-05-10"
+    },
+    {
+      "code": "DFF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Hồng Nhung",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 5979600,
+      "ownershipPct": 7.4745,
+      "groupPct": 15.9345,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "DFF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thùy Linh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 5123100,
+      "ownershipPct": 6.403875,
+      "groupPct": 6.4045,
+      "effectiveDate": "2021-05-10"
+    },
+    {
+      "code": "DFF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Tài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1500000,
+      "ownershipPct": 1.875,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,38 @@
-{"data":[{"code":"E29","shareholderType":"COMPANY","shareholderName":"Tổng công ty 319 Bộ Quốc phòng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2550000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"E29","shareholderType":"COMPANY","shareholderName":"CTCP Xây dựng và Kinh doanh Thương mại Âu Lạc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1237300,"ownershipPct":24.746,"effectiveDate":"2020-06-30"},{"code":"E29","shareholderType":"PERSON","shareholderName":"Đặng Minh Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":699583,"ownershipPct":13.99166,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "E29",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty 319 Bộ Quốc phòng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2550000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "E29",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Xây dựng và Kinh doanh Thương mại Âu Lạc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1237300,
+      "ownershipPct": 24.746,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "E29",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Minh Hòa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 699583,
+      "ownershipPct": 13.99166,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

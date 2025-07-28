@@ -1,1 +1,28 @@
-{"data":[{"code":"VIX","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":33359331,"ownershipPct":4.983134492545296,"effectiveDate":"2024-06-28"},{"code":"VIX","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":33359331,"ownershipPct":4.983134492545296,"effectiveDate":"2024-06-28"},{"code":"VIX","shareholderType":"PERSON","shareholderName":"Dương Thị Hồng Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11500000,"ownershipPct":1.7178416037261328,"effectiveDate":"2023-05-25"},{"code":"VIX","shareholderType":"COMPANY","shareholderName":"CTCP Tư vấn quản lý và Đầu tư Đỏ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8915772,"ownershipPct":1.3318160061683957,"effectiveDate":"2023-05-25"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VIX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 40031197,
+      "ownershipPct": 2.613975220012982,
+      "effectiveDate": "2024-07-31"
+    },
+    {
+      "code": "VIX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 40031197,
+      "ownershipPct": 2.613975220012982,
+      "effectiveDate": "2024-07-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

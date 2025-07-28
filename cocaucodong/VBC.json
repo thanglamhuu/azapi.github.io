@@ -1,1 +1,48 @@
-{"data":[{"code":"VBC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Hợp tác Kinh tế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3821932,"ownershipPct":50.95936511661395,"effectiveDate":"2020-06-30"},{"code":"VBC","shareholderType":"COMPANY","shareholderName":"Nhựa An Phát Xanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2613319,"ownershipPct":34.84443917034224,"effectiveDate":"2021-10-11"},{"code":"VBC","shareholderType":"PERSON","shareholderName":"Phạm Nguyệt Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":518200,"ownershipPct":6.909370183307645,"effectiveDate":"2011-10-11"},{"code":"VBC","shareholderType":"PERSON","shareholderName":"Phan Trí Nghĩa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":75775,"ownershipPct":1.0103387218065163,"effectiveDate":"2019-03-06"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Hợp tác Kinh tế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3821932,
+      "ownershipPct": 50.95936511661395,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhựa An Phát Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2613319,
+      "ownershipPct": 34.84443917034224,
+      "effectiveDate": "2021-10-11"
+    },
+    {
+      "code": "VBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Nguyệt Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 518200,
+      "ownershipPct": 6.909370183307645,
+      "effectiveDate": "2011-10-11"
+    },
+    {
+      "code": "VBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Trí Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 75775,
+      "ownershipPct": 1.0103387218065163,
+      "effectiveDate": "2019-03-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

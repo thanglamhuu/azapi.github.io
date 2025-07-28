@@ -1,1 +1,48 @@
-{"data":[{"code":"TAR","shareholderType":"PERSON","shareholderName":"Phạm Thái Bình","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":11000000,"ownershipPct":14.044983810411003,"effectiveDate":"2022-11-10"},{"code":"TAR","shareholderType":"PERSON","shareholderName":"Lê Thị Kiều","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2310102,"ownershipPct":2.9495768354907344,"effectiveDate":"2022-11-10"},{"code":"TAR","shareholderType":"PERSON","shareholderName":"Trương Khả Tú","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":2031700,"ownershipPct":2.594108509782912,"effectiveDate":"2022-11-10"},{"code":"TAR","shareholderType":"PERSON","shareholderName":"Trịnh Phương Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1721700,"ownershipPct":2.1982953296713292,"effectiveDate":"2019-10-17"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TAR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thái Bình",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 11000000,
+      "ownershipPct": 14.044983810411003,
+      "effectiveDate": "2022-11-10"
+    },
+    {
+      "code": "TAR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Kiều",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2310102,
+      "ownershipPct": 2.9495768354907344,
+      "effectiveDate": "2022-11-10"
+    },
+    {
+      "code": "TAR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Khả Tú",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 2031700,
+      "ownershipPct": 2.594108509782912,
+      "effectiveDate": "2022-11-10"
+    },
+    {
+      "code": "TAR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Phương Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1721700,
+      "ownershipPct": 2.1982953296713292,
+      "effectiveDate": "2019-10-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

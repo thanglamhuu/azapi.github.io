@@ -1,1 +1,38 @@
-{"data":[{"code":"MH3","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Cao su Bình Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9863740,"ownershipPct":41.09891666666667,"effectiveDate":"2023-10-05"},{"code":"MH3","shareholderType":"COMPANY","shareholderName":"KCN Nam Tân Uyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9069173,"ownershipPct":37.788220833333334,"effectiveDate":"2023-09-29"},{"code":"MH3","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Tú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":824399,"ownershipPct":3.4349958333333332,"effectiveDate":"2023-06-28"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MH3",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Cao su Bình Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9863740,
+      "ownershipPct": 41.09891666666667,
+      "effectiveDate": "2023-10-05"
+    },
+    {
+      "code": "MH3",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KCN Nam Tân Uyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9069173,
+      "ownershipPct": 37.788220833333334,
+      "effectiveDate": "2023-09-29"
+    },
+    {
+      "code": "MH3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Tú",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 824399,
+      "ownershipPct": 3.4349958333333332,
+      "effectiveDate": "2023-06-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

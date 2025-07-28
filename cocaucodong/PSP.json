@@ -1,1 +1,48 @@
-{"data":[{"code":"PSP","shareholderType":"COMPANY","shareholderName":"DV KT D.khí VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20400000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"PSP","shareholderType":"COMPANY","shareholderName":"Container Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8820200,"ownershipPct":22.0505,"effectiveDate":"2017-06-22"},{"code":"PSP","shareholderType":"COMPANY","shareholderName":"CTCP Việt Pháp Sản xuất Thức ăn Gia súc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2164600,"ownershipPct":5.4115,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DV KT D.khí VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20400000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hàng Hải Vsico",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8840200,
+      "ownershipPct": 22.1005,
+      "effectiveDate": "2024-09-17"
+    },
+    {
+      "code": "PSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Việt Pháp Sản xuất Thức ăn Gia súc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2164600,
+      "ownershipPct": 5.4115,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PSP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hải Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1414600,
+      "ownershipPct": 3.5365,
+      "effectiveDate": "2025-07-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

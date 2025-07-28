@@ -1,1 +1,88 @@
-{"data":[{"code":"TV6","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":369000,"ownershipPct":12.3,"effectiveDate":"2024-05-27"},{"code":"TV6","shareholderType":"PERSON","shareholderName":"Vũ Phương Nhung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":345000,"ownershipPct":11.5,"effectiveDate":"2024-05-28"},{"code":"TV6","shareholderType":"PERSON","shareholderName":"Kim Đăng Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330200,"ownershipPct":11.006666666666666,"effectiveDate":"2024-05-27"},{"code":"TV6","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Hải","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":248600,"ownershipPct":8.286666666666667,"effectiveDate":"2022-12-31"},{"code":"TV6","shareholderType":"PERSON","shareholderName":"Phạm Thị Thiện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":195000,"ownershipPct":6.5,"effectiveDate":"2024-05-27"},{"code":"TV6","shareholderType":"PERSON","shareholderName":"Kim Văn Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":153400,"ownershipPct":5.113333333333333,"effectiveDate":"2024-05-07"},{"code":"TV6","shareholderType":"PERSON","shareholderName":"Mạc Phối Dinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":135000,"ownershipPct":4.5,"effectiveDate":"2022-04-18"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 369000,
+      "ownershipPct": 12.3,
+      "effectiveDate": "2024-05-27"
+    },
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Phương Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 345000,
+      "ownershipPct": 11.5,
+      "effectiveDate": "2024-05-28"
+    },
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kim Đăng Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330200,
+      "ownershipPct": 11.006666666666666,
+      "effectiveDate": "2024-05-27"
+    },
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 248600,
+      "ownershipPct": 8.286666666666667,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thiện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 195000,
+      "ownershipPct": 6.5,
+      "effectiveDate": "2024-05-27"
+    },
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kim Văn Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 153400,
+      "ownershipPct": 5.113333333333333,
+      "effectiveDate": "2024-05-07"
+    },
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đức Quyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 139900,
+      "ownershipPct": 4.663333333333333,
+      "effectiveDate": "2024-07-12"
+    },
+    {
+      "code": "TV6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mạc Phối Dinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 135000,
+      "ownershipPct": 4.5,
+      "effectiveDate": "2022-04-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

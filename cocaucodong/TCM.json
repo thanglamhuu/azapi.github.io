@@ -1,1 +1,78 @@
-{"data":[{"code":"TCM","shareholderType":"COMPANY","shareholderName":"Công ty E-land Asia Holdings Pte., LTD Singapore","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":42379628,"ownershipPct":41.60779017771061,"effectiveDate":"2024-06-11"},{"code":"TCM","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Nghĩa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":10190308,"ownershipPct":10.004717292710684,"effectiveDate":"2024-07-22"},{"code":"TCM","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2840029,"ownershipPct":2.788305049081915,"effectiveDate":"2024-06-11"},{"code":"TCM","shareholderType":"COMPANY","shareholderName":"XNK SAVIMEX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2707113,"ownershipPct":2.657809778116804,"effectiveDate":"2024-06-11"},{"code":"TCM","shareholderType":"PERSON","shareholderName":"Lâm Quang Thái","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2369763,"ownershipPct":2.3266037558164037,"effectiveDate":"2024-06-11"},{"code":"TCM","shareholderType":"COMPANY","shareholderName":"VNDIRECT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1960589,"ownershipPct":1.9248818261625011,"effectiveDate":"2024-06-11"},{"code":"TCM","shareholderType":"COMPANY","shareholderName":"Công ty Liên doanh Quản lý Quỹ đầu tư chứng khoán Vietcombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1394470,"ownershipPct":1.3690732530524363,"effectiveDate":"2024-06-11"},{"code":"TCM","shareholderType":"PERSON","shareholderName":"Lê Quốc Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1050720,"ownershipPct":1.0315837905779657,"effectiveDate":"2024-06-11"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty E-land Asia Holdings Pte., LTD Singapore",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 42379628,
+      "ownershipPct": 37.82586480901185,
+      "effectiveDate": "2024-06-11"
+    },
+    {
+      "code": "TCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Nghĩa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 11209338,
+      "ownershipPct": 10.004875545073666,
+      "effectiveDate": "2025-06-09"
+    },
+    {
+      "code": "TCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2840029,
+      "ownershipPct": 2.534863048058683,
+      "effectiveDate": "2024-06-11"
+    },
+    {
+      "code": "TCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XNK SAVIMEX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2707113,
+      "ownershipPct": 2.4162290985828965,
+      "effectiveDate": "2024-06-11"
+    },
+    {
+      "code": "TCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Quang Thái",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2369763,
+      "ownershipPct": 2.1151279305094026,
+      "effectiveDate": "2024-06-11"
+    },
+    {
+      "code": "TCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VNDIRECT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1960589,
+      "ownershipPct": 1.7499203735350326,
+      "effectiveDate": "2024-06-11"
+    },
+    {
+      "code": "TCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Liên doanh Quản lý Quỹ đầu tư chứng khoán Vietcombank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1394470,
+      "ownershipPct": 1.244631824050526,
+      "effectiveDate": "2024-06-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,88 @@
-{"data":[{"code":"BOT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tiến Đại Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":23825800,"ownershipPct":40.214492597068535,"effectiveDate":"2020-03-12"},{"code":"BOT","shareholderType":"PERSON","shareholderName":"Đào Thị Hồng Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2960000,"ownershipPct":4.996050419600721,"effectiveDate":"2022-03-09"},{"code":"BOT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Nhàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2900000,"ownershipPct":4.8947791273115175,"effectiveDate":"2023-10-25"},{"code":"BOT","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2800000,"ownershipPct":4.725993640162844,"effectiveDate":"2023-12-14"},{"code":"BOT","shareholderType":"COMPANY","shareholderName":"CNC Capital VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2424500,"ownershipPct":4.092204135919577,"effectiveDate":"2020-08-06"},{"code":"BOT","shareholderType":"COMPANY","shareholderName":"CTCP PIV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2255600,"ownershipPct":3.8071254481254684,"effectiveDate":"2023-03-17"},{"code":"BOT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lan Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1860900,"ownershipPct":3.140929130349656,"effectiveDate":"2019-06-25"},{"code":"BOT","shareholderType":"PERSON","shareholderName":"Ngô Tiến Cường","roleType":"Anh của Chủ tịch HĐQT","enRoleType":"Elder Brother of Chairman","numberOfShares":630100,"ownershipPct":1.0635173545237886,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BOT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tiến Đại Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 23825800,
+      "ownershipPct": 40.214492597068535,
+      "effectiveDate": "2020-03-12"
+    },
+    {
+      "code": "BOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Hồng Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2960000,
+      "ownershipPct": 4.996050419600721,
+      "effectiveDate": "2022-03-09"
+    },
+    {
+      "code": "BOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Nhàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2900000,
+      "ownershipPct": 4.8947791273115175,
+      "effectiveDate": "2023-10-25"
+    },
+    {
+      "code": "BOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2800000,
+      "ownershipPct": 4.725993640162844,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "BOT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CNC Capital VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2424500,
+      "ownershipPct": 4.092204135919577,
+      "effectiveDate": "2020-08-06"
+    },
+    {
+      "code": "BOT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP PIV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2255600,
+      "ownershipPct": 3.8071254481254684,
+      "effectiveDate": "2023-03-17"
+    },
+    {
+      "code": "BOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lan Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1860900,
+      "ownershipPct": 3.140929130349656,
+      "effectiveDate": "2019-06-25"
+    },
+    {
+      "code": "BOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Tiến Cường",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 630100,
+      "ownershipPct": 1.0635173545237886,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

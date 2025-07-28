@@ -1,1 +1,18 @@
-{"data":[{"code":"NAU","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Nghệ An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2965299,"ownershipPct":80.79835989056127,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NAU",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Nghệ An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2965299,
+      "ownershipPct": 80.79835989056127,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

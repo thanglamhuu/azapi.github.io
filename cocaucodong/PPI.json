@@ -1,1 +1,108 @@
-{"data":[{"code":"PPI","shareholderType":"PERSON","shareholderName":"Đặng Ngọc Của","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2416890,"ownershipPct":5.004884073885226,"effectiveDate":"2015-10-29"},{"code":"PPI","shareholderType":"COMPANY","shareholderName":"Nhà Thủ Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2400000,"ownershipPct":4.969908343914924,"effectiveDate":"2022-05-03"},{"code":"PPI","shareholderType":"PERSON","shareholderName":"Đoàn Văn Tuyến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2350000,"ownershipPct":4.8663685867500295,"effectiveDate":"2021-12-17"},{"code":"PPI","shareholderType":"PERSON","shareholderName":"Trần Đình Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2297890,"ownershipPct":4.758459451832777,"effectiveDate":"2017-04-04"},{"code":"PPI","shareholderType":"PERSON","shareholderName":"Phan Lưu Minh Thịnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2278200,"ownershipPct":4.717685495461241,"effectiveDate":"2016-10-07"},{"code":"PPI","shareholderType":"PERSON","shareholderName":"Phạm Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1700000,"ownershipPct":3.5203517436064047,"effectiveDate":"2015-10-28"},{"code":"PPI","shareholderType":"COMPANY","shareholderName":"Công ty Tài chính TNHH MTV Cao su Việt Nam ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1499112,"ownershipPct":3.1043538488595788,"effectiveDate":"2011-01-17"},{"code":"PPI","shareholderType":"COMPANY","shareholderName":"CTCP Hoàn Lộc Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1400000,"ownershipPct":2.899113200617039,"effectiveDate":"2015-08-06"},{"code":"PPI","shareholderType":"PERSON","shareholderName":"Phạm Minh Vĩ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1203333,"ownershipPct":2.491856132170074,"effectiveDate":"2011-01-10"},{"code":"PPI","shareholderType":"COMPANY","shareholderName":"Chứng khoán SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":924286,"ownershipPct":1.914006959818229,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "PPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Ngọc Của",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2416890,
+      "ownershipPct": 5.004884073885226,
+      "effectiveDate": "2015-10-29"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhà Thủ Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2400000,
+      "ownershipPct": 4.969908343914924,
+      "effectiveDate": "2022-05-03"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Văn Tuyến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2350000,
+      "ownershipPct": 4.8663685867500295,
+      "effectiveDate": "2021-12-17"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2297890,
+      "ownershipPct": 4.758459451832777,
+      "effectiveDate": "2017-04-04"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Lưu Minh Thịnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2278200,
+      "ownershipPct": 4.717685495461241,
+      "effectiveDate": "2016-10-07"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1700000,
+      "ownershipPct": 3.5203517436064047,
+      "effectiveDate": "2015-10-28"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Tài chính TNHH MTV Cao su Việt Nam ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1499112,
+      "ownershipPct": 3.1043538488595788,
+      "effectiveDate": "2011-01-17"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hoàn Lộc Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1400000,
+      "ownershipPct": 2.899113200617039,
+      "effectiveDate": "2015-08-06"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Vĩ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1203333,
+      "ownershipPct": 2.491856132170074,
+      "effectiveDate": "2011-01-10"
+    },
+    {
+      "code": "PPI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 924286,
+      "ownershipPct": 1.914006959818229,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"VDT","shareholderType":"COMPANY","shareholderName":"TCT Thép Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":393725,"ownershipPct":20.032410045587756,"effectiveDate":"2020-06-30"},{"code":"VDT","shareholderType":"PERSON","shareholderName":"Lê Thị Kim Chính","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":362720,"ownershipPct":18.454900683816348,"effectiveDate":"2020-12-31"},{"code":"VDT","shareholderType":"PERSON","shareholderName":"Nguyễn Kiên Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":226230,"ownershipPct":11.510399706935852,"effectiveDate":"2015-12-30"},{"code":"VDT","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Lương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":149380,"ownershipPct":7.600333767502442,"effectiveDate":"2023-06-30"},{"code":"VDT","shareholderType":"PERSON","shareholderName":"Lê Thị Phương Dung","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":114220,"ownershipPct":5.811421361120156,"effectiveDate":"2023-06-30"},{"code":"VDT","shareholderType":"PERSON","shareholderName":"Lê Hải Tú","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":94760,"ownershipPct":4.821312276131553,"effectiveDate":"2024-07-09"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VDT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thép Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 393725,
+      "ownershipPct": 20.032410045587756,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Kim Chính",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 345120,
+      "ownershipPct": 17.559426896776294,
+      "effectiveDate": "2024-10-31"
+    },
+    {
+      "code": "VDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Kiên Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 226230,
+      "ownershipPct": 11.510399706935852,
+      "effectiveDate": "2015-12-30"
+    },
+    {
+      "code": "VDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Lương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 149380,
+      "ownershipPct": 7.600333767502442,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hải Tú",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 94760,
+      "ownershipPct": 4.821312276131553,
+      "effectiveDate": "2024-07-09"
+    },
+    {
+      "code": "VDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Phương Dung",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 30830,
+      "ownershipPct": 1.568605503093455,
+      "effectiveDate": "2024-07-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

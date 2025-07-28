@@ -1,1 +1,28 @@
-{"data":[{"code":"VPA","shareholderType":"COMPANY","shareholderName":"V.tải X.dầu VIPCO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6800000,"ownershipPct":45.10427278745799,"effectiveDate":"2020-06-30"},{"code":"VPA","shareholderType":"COMPANY","shareholderName":"Hóa dầu Petrolimex","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6600000,"ownershipPct":43.777676529003344,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VPA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "V.tải X.dầu VIPCO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6800000,
+      "ownershipPct": 45.10427278745799,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VPA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hóa dầu Petrolimex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6600000,
+      "ownershipPct": 43.777676529003344,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

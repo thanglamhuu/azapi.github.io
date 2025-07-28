@@ -1,1 +1,108 @@
-{"data":[{"code":"SSG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Mai Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1159610,"ownershipPct":23.27977852681789,"effectiveDate":"2023-06-30"},{"code":"SSG","shareholderType":"PERSON","shareholderName":"Bùi Tuấn Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":823000,"ownershipPct":16.522156352196966,"effectiveDate":"2024-03-05"},{"code":"SSG","shareholderType":"PERSON","shareholderName":"Trương Quang Anh Nguyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":500000,"ownershipPct":10.037762060873003,"effectiveDate":"2024-03-05"},{"code":"SSG","shareholderType":"PERSON","shareholderName":"Trần Ngọc Sơn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":441000,"ownershipPct":8.853306137689989,"effectiveDate":"2020-12-31"},{"code":"SSG","shareholderType":"COMPANY","shareholderName":"CTCP quản lý quỹ Tín Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":441000,"ownershipPct":8.853306137689989,"effectiveDate":"2013-07-26"},{"code":"SSG","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Bảo Việt Nhân thọ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":441000,"ownershipPct":8.853306137689989,"effectiveDate":"2020-06-30"},{"code":"SSG","shareholderType":"PERSON","shareholderName":"Phạm Viết Hiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":440900,"ownershipPct":8.851298585277815,"effectiveDate":"2023-10-26"},{"code":"SSG","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Hoàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":154180,"ownershipPct":3.0952443090907997,"effectiveDate":"2020-06-30"},{"code":"SSG","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Lộc","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":115200,"ownershipPct":2.31270037882514,"effectiveDate":"2020-06-30"},{"code":"SSG","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":58700,"ownershipPct":1.1784332659464907,"effectiveDate":"2023-05-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Quang Long Triều",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1218310,
+      "ownershipPct": 24.45821179276438,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Tuấn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 823000,
+      "ownershipPct": 16.522156352196966,
+      "effectiveDate": "2024-03-05"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoàng Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 538150,
+      "ownershipPct": 10.803643306117614,
+      "effectiveDate": "2025-05-23"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Quang Anh Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 500000,
+      "ownershipPct": 10.037762060873003,
+      "effectiveDate": "2024-03-05"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Bảo Việt Nhân thọ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 441000,
+      "ownershipPct": 8.853306137689989,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Sơn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 441000,
+      "ownershipPct": 8.853306137689989,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP quản lý quỹ Tín Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 441000,
+      "ownershipPct": 8.853306137689989,
+      "effectiveDate": "2013-07-26"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Viết Hiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 440900,
+      "ownershipPct": 8.851298585277815,
+      "effectiveDate": "2023-10-26"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Hoàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 154180,
+      "ownershipPct": 3.0952443090907997,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Lộc",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 115200,
+      "ownershipPct": 2.31270037882514,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}
