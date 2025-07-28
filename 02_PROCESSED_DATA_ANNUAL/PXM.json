@@ -365,12 +365,14 @@
   "newFiscalDateQuarter": [
     "2024-09-30",
     "2024-12-31",
-    "2025-03-31"
+    "2025-03-31",
+    "2025-06-30"
   ],
-  "choNhanGiaRaPE": -0.8185714828838804,
-  "choNhanGiaRaPB": -0.030589538001415714,
-  "choNhanGiaRaPS": 23.485639248694277,
+  "choNhanGiaRaPE": -0.8100757866629034,
+  "choNhanGiaRaPB": -0.03028138668538387,
+  "choNhanGiaRaPS": 27.277354999990997,
   "PE": [
+    null,
     null,
     null,
     null
@@ -378,9 +380,11 @@
   "PETb": [
     null,
     null,
+    null,
     null
   ],
   "PB": [
+    null,
     null,
     null,
     null
@@ -388,14 +392,17 @@
   "PBTb": [
     null,
     null,
+    null,
     null
   ],
   "PS": [
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
+    null,
     null,
     null,
     null
@@ -418,7 +425,7 @@
     "2023-12-31": 14404692626,
     "2024-12-31": 14404692626
   },
-  "tangTruongHangTonKhoKep": -19,
+  "tangTruongHangTonKhoKep": -1,
   "lctThuanHDSXKD": [
     11,
     -4,

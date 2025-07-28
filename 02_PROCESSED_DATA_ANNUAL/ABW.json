@@ -24,77 +24,113 @@
     12,
     1
   ],
-  "tsTienTuongDuongTienDTTCNH": [
-    1857,
-    1682,
-    1858,
-    2503
+  "ckTsFVTPL": [
+    541,
+    1145,
+    340,
+    1201
   ],
-  "tsKhoanPhaiThu": [
-    35,
-    144,
-    286,
-    33
+  "ckTsHTM": [
+    300,
+    0,
+    521,
+    150
   ],
-  "tsHangTonKho": [
+  "ckTsCacKhoanChoVay": [
+    1008,
+    380,
+    727,
+    1066
+  ],
+  "ckTsAFS": [
     0,
     0,
     0,
     0
   ],
-  "tsTaiSanCoDinh": [
-    70,
-    81,
-    79,
-    76
+  "ckTsTienVaTuongDuong": [
+    21,
+    175,
+    288,
+    104
   ],
-  "tsTaiSanDoDangDaiHan": [
-    0,
-    0,
-    0,
-    0
+  "ckTsKhac": [
+    253,
+    281,
+    422,
+    868
   ],
-  "tsKhac": [
-    161,
-    74,
-    75,
-    778
+  "ckTsTiLeNoVayVCSH": [
+    84,
+    30,
+    54,
+    74
   ],
-  "nvVonChuSoHuu": [
+  "ckNvVonChuSoHuu": [
     1201,
     1262,
     1337,
     1436
   ],
-  "nvVayNganHan": [
+  "ckNvVayTPNganHan": [
     395,
-    598,
+    665,
     921,
     1894
   ],
-  "nvVayDaiHanTPCD": [
-    0,
+  "ckNvVayTDaiHan": [
+    129,
     0,
     13,
     0
   ],
-  "nvMuaTraTienTruocDtChuaTH": [
-    48,
-    0,
-    1,
-    0
-  ],
-  "nvKhac": [
-    479,
-    120,
-    26,
+  "ckNvKhac": [
+    398,
+    54,
+    27,
     60
   ],
-  "nvTileVayRongVCSHQ": [
-    -122,
-    -86,
-    -69,
-    -42
+  "ckNvTiLeVayRongVcsh": [
+    17,
+    39,
+    9,
+    114
+  ],
+  "ckCcdtLaiFVTPL": [
+    77,
+    122,
+    107,
+    105
+  ],
+  "ckCcdtLaiHTM": [
+    10,
+    14,
+    38,
+    55
+  ],
+  "ckCcdtLaiKhoanVayVaPhaiThu": [
+    73,
+    75,
+    74,
+    122
+  ],
+  "ckCcdtLaiAFS": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "ckCcdtDoanhThuMGCK": [
+    106,
+    70,
+    63,
+    82
+  ],
+  "ckCcdtKhac": [
+    136,
+    83,
+    10,
+    15
   ],
   "tangTruongDoanhSoThuanYoY": [
     155,
@@ -170,11 +206,12 @@
     "2024-06-30",
     "2024-09-30",
     "2024-12-31",
-    "2025-03-31"
+    "2025-03-31",
+    "2025-06-30"
   ],
-  "choNhanGiaRaPE": 0.8995384483251005,
-  "choNhanGiaRaPB": 0.06903248109015434,
-  "choNhanGiaRaPS": 0.25667497653448573,
+  "choNhanGiaRaPE": 1.3924097765377244,
+  "choNhanGiaRaPB": 0.06761625316967394,
+  "choNhanGiaRaPS": 0.3505558015946361,
   "PE": [
     7.4,
     4.6,
@@ -192,26 +229,28 @@
     9.5,
     null,
     null,
+    null,
     null
   ],
   "PETb": [
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7,
-    10.7
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11,
+    11
   ],
   "PB": [
     0.7,
@@ -230,9 +269,11 @@
     0.7,
     null,
     null,
+    null,
     null
   ],
   "PBTb": [
+    0.8,
     0.8,
     0.8,
     0.8,
@@ -268,30 +309,32 @@
     2.8,
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8,
-    2.8
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9,
+    2.9
   ],
   "soCoPhieuLuuHanh": 101150000,
   "isNganHang": false,
-  "isChungKhoan": false,
+  "isChungKhoan": true,
   "vec11400Year": {
     "2020-12-31": 0,
     "2021-12-31": 0,
