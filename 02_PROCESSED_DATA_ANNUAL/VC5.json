@@ -447,50 +447,51 @@
     "2015-12-31",
     "2016-03-31"
   ],
+  "lastQuaterPrice": 0.7,
   "choNhanGiaRaPE": -0.10538368310320971,
   "choNhanGiaRaPB": 0.5231822481599574,
   "choNhanGiaRaPS": 0.02988077652095253,
   "PE": [
-    null,
-    null,
-    null,
-    null,
-    null
+    -0.5,
+    -0.1,
+    -0.1,
+    -0.1,
+    -0.1
   ],
   "PETb": [
-    null,
-    null,
-    null,
-    null,
-    null
+    -0.1,
+    -0.1,
+    -0.1,
+    -0.1,
+    -0.1
   ],
   "PB": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0.1,
+    0.1,
+    0.2,
+    0.2,
+    0.4
   ],
   "PBTb": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0.2,
+    0.2,
+    0.2,
+    0.2,
+    0.2
   ],
   "PS": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0,
+    0,
+    0,
+    0,
+    0
   ],
   "PSTb": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0,
+    0,
+    0,
+    0,
+    0
   ],
   "soCoPhieuLuuHanh": 5000000,
   "isNganHang": false,
