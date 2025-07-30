@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "code": "BHH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Sành Sứ Thủy Tinh Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1200000,
+      "ownershipPct": 20,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "BHH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thương mại Bia HN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 750000,
+      "ownershipPct": 12.5,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "BHH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Hải Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 670000,
+      "ownershipPct": 11.166666666666666,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "BHH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Hòa",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 620000,
+      "ownershipPct": 10.333333333333334,
+      "groupPct": 13.425,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "BHH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đặng Toàn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 185500,
+      "ownershipPct": 3.091666666666667,
+      "groupPct": 13.425,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "BHH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Bia Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 180000,
+      "ownershipPct": 3,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "BHH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Mai Khanh",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 60000,
+      "ownershipPct": 1,
+      "effectiveDate": "2025-03-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

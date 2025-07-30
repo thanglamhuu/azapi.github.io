@@ -1,1 +1,110 @@
-{"data":[{"code":"OPC","shareholderType":"PERSON","shareholderName":"Trịnh Xuân Vương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":8824197,"ownershipPct":13.776852631498091,"effectiveDate":"2023-07-21"},{"code":"OPC","shareholderType":"COMPANY","shareholderName":"Dược Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8585986,"ownershipPct":13.40494368134639,"effectiveDate":"2022-07-21"},{"code":"OPC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư cơ hội PVI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8584829,"ownershipPct":13.403137305254079,"effectiveDate":"2024-02-27"},{"code":"OPC","shareholderType":"COMPANY","shareholderName":"CTCP PACIFIC PARTNERS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8235642,"ownershipPct":12.85796613105716,"effectiveDate":"2022-07-21"},{"code":"OPC","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3146592,"ownershipPct":4.912643527275155,"effectiveDate":"2022-07-21"},{"code":"OPC","shareholderType":"PERSON","shareholderName":"Đào Thị Tuyết Hồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2521286,"ownershipPct":3.9363792154526123,"effectiveDate":"2022-07-21"},{"code":"OPC","shareholderType":"PERSON","shareholderName":"Kiều Thị Minh Hồng","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":2343857,"ownershipPct":3.6593666798582603,"effectiveDate":"2022-07-21"},{"code":"OPC","shareholderType":"PERSON","shareholderName":"Đỗ Thụy Như Hà","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":2057279,"ownershipPct":3.2119443395105254,"groupPct":3.25520212895708,"effectiveDate":"2023-06-30"},{"code":"OPC","shareholderType":"PERSON","shareholderName":"Đỗ Thụy Như Hà","roleType":"Con dâu/rể của Thành viên HĐQT","enRoleType":"Child in law of Board member","numberOfShares":2057279,"ownershipPct":3.2119443395105254,"groupPct":3.416619084711576,"effectiveDate":"2023-06-30"},{"code":"OPC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư Chứng khoán Y tế Bản Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1560417,"ownershipPct":2.436214315329129,"effectiveDate":"2022-07-21"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "OPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Xuân Vương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 8860197,
+      "ownershipPct": 13.833057937741133,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8585986,
+      "ownershipPct": 13.40494368134639,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư cơ hội PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8584829,
+      "ownershipPct": 13.403137305254079,
+      "effectiveDate": "2024-02-27"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP PACIFIC PARTNERS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8235642,
+      "ownershipPct": 12.85796613105716,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3146592,
+      "ownershipPct": 4.912643527275155,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Tuyết Hồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2521286,
+      "ownershipPct": 3.9363792154526123,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Thị Minh Hồng",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 2343857,
+      "ownershipPct": 3.6593666798582603,
+      "effectiveDate": "2022-07-21"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thụy Như Hà",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 2057279,
+      "ownershipPct": 3.2119443395105254,
+      "groupPct": 3.25520212895708,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thụy Như Hà",
+      "roleType": "Con dâu/rể của Thành viên HĐQT",
+      "enRoleType": "Child in law of Board member",
+      "numberOfShares": 2057279,
+      "ownershipPct": 3.2119443395105254,
+      "groupPct": 3.4164395399832994,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "OPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư Chứng khoán Y tế Bản Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1560417,
+      "ownershipPct": 2.436214315329129,
+      "effectiveDate": "2022-07-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

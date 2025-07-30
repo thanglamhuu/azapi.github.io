@@ -1,1 +1,109 @@
-{"data":[{"code":"KDC","shareholderType":"PERSON","shareholderName":"Trần Lệ Nguyên","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":37217369,"ownershipPct":12.842152480900381,"groupPct":14.311288163919796,"effectiveDate":"2024-06-13"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH một thành viên PPK","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24914444,"ownershipPct":8.596929267752742,"effectiveDate":"2024-06-13"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Tập đoàn Kido","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":22517346,"ownershipPct":7.769791325044827,"effectiveDate":"2022-08-30"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Kinh Đô","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20116464,"ownershipPct":6.941347682705438,"effectiveDate":"2024-06-13"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Star Pacifica PTE.LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18554000,"ownershipPct":6.402206913944553,"effectiveDate":"2023-08-30"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Vinh Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13534933,"ownershipPct":4.670337481533701,"effectiveDate":"2024-06-13"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH đầu tư Bất động sản An Thịnh Lộc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11557572,"ownershipPct":3.9880331662612902,"effectiveDate":"2024-06-13"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Vietnam Investments Fund III, L.P","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10890820,"ownershipPct":3.7579650265455222,"effectiveDate":"2021-09-20"},{"code":"KDC","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG, London Branch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10829451,"ownershipPct":3.7367891595571714,"effectiveDate":"2024-06-13"},{"code":"KDC","shareholderType":"PERSON","shareholderName":"Vương Kim Vy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10140020,"ownershipPct":3.498895448503614,"effectiveDate":"2020-07-08"}],"currentPage":1,"size":10,"totalElements":24,"totalPages":3}
+{
+  "data": [
+    {
+      "code": "KDC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Lệ Nguyên",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 36918854,
+      "ownershipPct": 12.739147479449688,
+      "groupPct": 14.208283162469103,
+      "effectiveDate": "2024-07-31"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH một thành viên PPK",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24914444,
+      "ownershipPct": 8.596929267752742,
+      "effectiveDate": "2024-06-13"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Kido",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 22517346,
+      "ownershipPct": 7.769791325044827,
+      "effectiveDate": "2022-08-30"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Star Pacifica PTE.LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20214150,
+      "ownershipPct": 6.975055022610342,
+      "effectiveDate": "2025-05-13"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Kinh Đô",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20116464,
+      "ownershipPct": 6.941347682705438,
+      "effectiveDate": "2024-06-13"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Liva Holdings Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17241380,
+      "ownershipPct": 5.949276826665158,
+      "effectiveDate": "2024-08-14"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Vinh Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13534933,
+      "ownershipPct": 4.670337481533701,
+      "effectiveDate": "2024-06-13"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH đầu tư Bất động sản An Thịnh Lộc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11557572,
+      "ownershipPct": 3.9880331662612902,
+      "effectiveDate": "2024-06-13"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Investments Fund III, L.P",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10890820,
+      "ownershipPct": 3.7579650265455222,
+      "effectiveDate": "2021-09-20"
+    },
+    {
+      "code": "KDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, London Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10829451,
+      "ownershipPct": 3.7367891595571714,
+      "effectiveDate": "2024-06-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 24,
+  "totalPages": 3
+}

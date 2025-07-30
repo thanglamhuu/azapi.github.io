@@ -1,1 +1,38 @@
-{"data":[{"code":"TVD","shareholderType":"COMPANY","shareholderName":"Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":30048743,"ownershipPct":66.83013564260497,"effectiveDate":"2020-06-30"},{"code":"TVD","shareholderType":"COMPANY","shareholderName":"CTCP Cơ điện lạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2228483,"ownershipPct":4.956274582508801,"effectiveDate":"2019-03-05"},{"code":"TVD","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":759334,"ownershipPct":1.6888025638224469,"effectiveDate":"2012-04-26"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TVD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VINACOMIN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 30048743,
+      "ownershipPct": 66.83013564260497,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TVD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Cơ điện lạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2228483,
+      "ownershipPct": 4.956274582508801,
+      "effectiveDate": "2019-03-05"
+    },
+    {
+      "code": "TVD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 759334,
+      "ownershipPct": 1.6888025638224469,
+      "effectiveDate": "2012-04-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

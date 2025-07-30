@@ -1,1 +1,88 @@
-{"data":[{"code":"BCA","shareholderType":"PERSON","shareholderName":"Phạm Bá Phú","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1726000,"ownershipPct":9.08421052631579,"effectiveDate":"2024-01-03"},{"code":"BCA","shareholderType":"PERSON","shareholderName":"Lê Thu Phương","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":1343000,"ownershipPct":7.068421052631579,"effectiveDate":"2010-01-01"},{"code":"BCA","shareholderType":"PERSON","shareholderName":"Đặng Ngọc Hưng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1126000,"ownershipPct":5.926315789473684,"effectiveDate":"2024-01-05"},{"code":"BCA","shareholderType":"PERSON","shareholderName":"Trần Văn Hiếu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":968000,"ownershipPct":5.094736842105263,"effectiveDate":"2021-05-22"},{"code":"BCA","shareholderType":"PERSON","shareholderName":"Trần Nguyên Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":968000,"ownershipPct":5.094736842105263,"effectiveDate":"2021-05-22"},{"code":"BCA","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Luân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":908000,"ownershipPct":4.778947368421052,"effectiveDate":"2024-04-12"},{"code":"BCA","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Miện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":818000,"ownershipPct":4.3052631578947365,"effectiveDate":"2018-01-01"},{"code":"BCA","shareholderType":"PERSON","shareholderName":"Lê Thanh Tuấn","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":713000,"ownershipPct":3.7526315789473683,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Bá Phú",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1726000,
+      "ownershipPct": 3.452,
+      "effectiveDate": "2024-01-03"
+    },
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thu Phương",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1343000,
+      "ownershipPct": 2.686,
+      "effectiveDate": "2010-01-01"
+    },
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Ngọc Hưng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1126000,
+      "ownershipPct": 2.252,
+      "effectiveDate": "2024-01-05"
+    },
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Hiếu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 968000,
+      "ownershipPct": 1.936,
+      "effectiveDate": "2021-05-22"
+    },
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Nguyên Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 968000,
+      "ownershipPct": 1.936,
+      "effectiveDate": "2021-05-22"
+    },
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Luân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 908000,
+      "ownershipPct": 1.816,
+      "effectiveDate": "2024-04-12"
+    },
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Miện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 818000,
+      "ownershipPct": 1.636,
+      "effectiveDate": "2018-01-01"
+    },
+    {
+      "code": "BCA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thanh Tuấn",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 713000,
+      "ownershipPct": 1.426,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

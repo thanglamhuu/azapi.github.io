@@ -1,1 +1,116 @@
-{"data":[{"code":"ASM","shareholderType":"PERSON","shareholderName":"Lê Thanh Thuấn","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":54985134,"ownershipPct":14.853691160947463,"groupPct":34.48949067104834,"effectiveDate":"2024-07-15"},{"code":"ASM","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":40760610,"ownershipPct":11.011076420616284,"effectiveDate":"2024-07-15"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Lê Tuấn Anh","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":37901290,"ownershipPct":10.238659348570588,"groupPct":34.48949067104834,"effectiveDate":"2022-01-14"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Lê Tuấn Anh","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":37901290,"ownershipPct":10.238659348570588,"groupPct":26.184146421352416,"effectiveDate":"2022-01-14"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Phụng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18471971,"ownershipPct":4.990020618445303,"effectiveDate":"2024-07-15"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Lê Thị Nguyệt Thu","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":17950888,"ownershipPct":4.84925518989838,"groupPct":26.184146421352416,"effectiveDate":"2022-01-14"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Võ Thị Thanh Tâm","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":17497753,"ownershipPct":4.7268452427985705,"groupPct":26.184146421352416,"effectiveDate":"2022-01-14"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Võ Thị Thanh Tâm","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":17497753,"ownershipPct":4.7268452427985705,"groupPct":34.48949067104834,"effectiveDate":"2022-01-14"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Lê Thị Thiên Trang","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":17288416,"ownershipPct":4.670294918731719,"groupPct":34.48949067104834,"effectiveDate":"2022-01-14"},{"code":"ASM","shareholderType":"PERSON","shareholderName":"Lê Thị Thiên Trang","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":17288416,"ownershipPct":4.670294918731719,"groupPct":26.184146421352416,"effectiveDate":"2022-01-14"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thanh Thuấn",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 71480673,
+      "ownershipPct": 19.309798185063546,
+      "groupPct": 40.90917659262801,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tuấn Anh",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 41691417,
+      "ownershipPct": 11.26252474314739,
+      "groupPct": 40.90917659262801,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tuấn Anh",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 41691417,
+      "ownershipPct": 11.26252474314739,
+      "groupPct": 28.757679577338756,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 40760610,
+      "ownershipPct": 11.011076420616284,
+      "effectiveDate": "2024-07-15"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Nguyệt Thu",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 19745975,
+      "ownershipPct": 5.334180222635987,
+      "groupPct": 28.757679577338756,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Thanh Tâm",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 19247528,
+      "ownershipPct": 5.1995296860363895,
+      "groupPct": 28.757679577338756,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Thanh Tâm",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 19247528,
+      "ownershipPct": 5.1995296860363895,
+      "groupPct": 40.90917659262801,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thiên Trang",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 19017256,
+      "ownershipPct": 5.137323978380685,
+      "groupPct": 28.757679577338756,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thiên Trang",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 19017256,
+      "ownershipPct": 5.137323978380685,
+      "groupPct": 40.90917659262801,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "ASM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Phụng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18471971,
+      "ownershipPct": 4.990020618445303,
+      "effectiveDate": "2024-07-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

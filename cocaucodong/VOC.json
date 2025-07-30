@@ -1,1 +1,38 @@
-{"data":[{"code":"VOC","shareholderType":"COMPANY","shareholderName":"Tập đoàn Kido","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":106329900,"ownershipPct":87.2987684729064,"effectiveDate":"2021-11-08"},{"code":"VOC","shareholderType":"COMPANY","shareholderName":"CK Rồng Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6262888,"ownershipPct":5.141944170771757,"effectiveDate":"2023-10-18"},{"code":"VOC","shareholderType":"COMPANY","shareholderName":"CTCP Quản lý quỹ Thái Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5283300,"ownershipPct":4.33768472906404,"effectiveDate":"2016-12-15"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VOC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Kido",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 106329900,
+      "ownershipPct": 87.2987684729064,
+      "effectiveDate": "2021-11-08"
+    },
+    {
+      "code": "VOC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Rồng Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5954188,
+      "ownershipPct": 4.888495894909688,
+      "effectiveDate": "2024-08-28"
+    },
+    {
+      "code": "VOC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quản lý quỹ Thái Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5283300,
+      "ownershipPct": 4.33768472906404,
+      "effectiveDate": "2016-12-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

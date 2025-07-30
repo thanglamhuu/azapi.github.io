@@ -1,1 +1,38 @@
-{"data":[{"code":"VNB","shareholderType":"COMPANY","shareholderName":"Tập đoàn VINGROUP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":44364274,"ownershipPct":65.34251437809228,"effectiveDate":"2020-06-30"},{"code":"VNB","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6790996,"ownershipPct":10.002209295064022,"effectiveDate":"2020-12-31"},{"code":"VNB","shareholderType":"COMPANY","shareholderName":"Bộ Văn hóa, Thể thao và Du lịch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6790996,"ownershipPct":10.002209295064022,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn VINGROUP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 44364274,
+      "ownershipPct": 65.34251437809228,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6790996,
+      "ownershipPct": 10.002209295064022,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "VNB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ Văn hóa, Thể thao và Du lịch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6790996,
+      "ownershipPct": 10.002209295064022,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

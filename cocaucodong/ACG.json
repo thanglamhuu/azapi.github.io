@@ -1,1 +1,48 @@
-{"data":[{"code":"ACG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư NC Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":75463194,"ownershipPct":50.04590618934487,"effectiveDate":"2023-07-18"},{"code":"ACG","shareholderType":"COMPANY","shareholderName":"Sumitomo Forestry (Singapore) LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29571819,"ownershipPct":19.61152717074613,"effectiveDate":"2023-07-18"},{"code":"ACG","shareholderType":"COMPANY","shareholderName":"Whitlam Holdings Pte.Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":27242397,"ownershipPct":18.066694137474357,"effectiveDate":"2023-07-18"},{"code":"ACG","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2988536,"ownershipPct":1.9819462226775078,"effectiveDate":"2023-07-18"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ACG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư NC Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 75463194,
+      "ownershipPct": 50.04590618934487,
+      "effectiveDate": "2023-07-18"
+    },
+    {
+      "code": "ACG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sumitomo Forestry (Singapore) LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29571819,
+      "ownershipPct": 19.61152717074613,
+      "effectiveDate": "2023-07-18"
+    },
+    {
+      "code": "ACG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Whitlam Holdings Pte.Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 27242397,
+      "ownershipPct": 18.066694137474357,
+      "effectiveDate": "2023-07-18"
+    },
+    {
+      "code": "ACG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2988536,
+      "ownershipPct": 1.9819462226775078,
+      "effectiveDate": "2023-07-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

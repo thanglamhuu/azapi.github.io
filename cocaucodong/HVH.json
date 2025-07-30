@@ -1,1 +1,88 @@
-{"data":[{"code":"HVH","shareholderType":"PERSON","shareholderName":"Trần Hữu Đông","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":9124447,"ownershipPct":22.44912866760418,"effectiveDate":"2024-05-31"},{"code":"HVH","shareholderType":"PERSON","shareholderName":"Đỗ Huy Cường","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":5073752,"ownershipPct":12.483092013742208,"effectiveDate":"2023-07-10"},{"code":"HVH","shareholderType":"PERSON","shareholderName":"Lê Văn Cường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4287342,"ownershipPct":10.548265796274936,"effectiveDate":"2023-07-10"},{"code":"HVH","shareholderType":"PERSON","shareholderName":"Trương Thanh Tùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1122821,"ownershipPct":2.7625074812411095,"effectiveDate":"2023-07-10"},{"code":"HVH","shareholderType":"PERSON","shareholderName":"Vũ Thị Ngà","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":1107311,"ownershipPct":2.7243478003711847,"effectiveDate":"2023-07-10"},{"code":"HVH","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Quản lý quỹ đầu tư chứng khoán Bản Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":982314,"ownershipPct":2.416814233014772,"effectiveDate":"2023-07-10"},{"code":"HVH","shareholderType":"PERSON","shareholderName":"Trần Văn Duy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":967854,"ownershipPct":2.381237896110896,"effectiveDate":"2023-07-10"},{"code":"HVH","shareholderType":"PERSON","shareholderName":"Nguyễn Sỹ Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":731549,"ownershipPct":1.79985018573259,"effectiveDate":"2023-07-10"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hữu Đông",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 9763158,
+      "ownershipPct": 22.449545904749886,
+      "effectiveDate": "2025-05-20"
+    },
+    {
+      "code": "HVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Huy Cường",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 5073752,
+      "ownershipPct": 11.666658312127751,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "HVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Cường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4287342,
+      "ownershipPct": 9.858375849121995,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "HVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thanh Tùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1122821,
+      "ownershipPct": 2.581830754179864,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "HVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Ngà",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1107311,
+      "ownershipPct": 2.546166837137584,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "HVH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Quản lý quỹ đầu tư chứng khoán Bản Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 982314,
+      "ownershipPct": 2.258746937812384,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "HVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Duy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 967854,
+      "ownershipPct": 2.225497405869678,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "HVH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Sỹ Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 731549,
+      "ownershipPct": 1.6821342906745824,
+      "effectiveDate": "2023-07-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

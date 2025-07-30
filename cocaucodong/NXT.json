@@ -1,1 +1,78 @@
-{"data":[{"code":"NXT","shareholderType":"PERSON","shareholderName":"Nguyễn Trung Kiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":414000,"ownershipPct":6.2727272727272725,"effectiveDate":"2024-06-20"},{"code":"NXT","shareholderType":"PERSON","shareholderName":"Nguyễn Bá Duy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":355000,"ownershipPct":5.378787878787879,"effectiveDate":"2024-06-17"},{"code":"NXT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hoàng Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330000,"ownershipPct":5,"effectiveDate":"2024-06-12"},{"code":"NXT","shareholderType":"PERSON","shareholderName":"Trần Đình Quyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":329400,"ownershipPct":4.990909090909091,"effectiveDate":"2023-04-14"},{"code":"NXT","shareholderType":"PERSON","shareholderName":"Phạm Văn Lộc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":227200,"ownershipPct":3.4424242424242424,"effectiveDate":"2024-06-06"},{"code":"NXT","shareholderType":"PERSON","shareholderName":"Phạm Thị Thúy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":164800,"ownershipPct":2.496969696969697,"effectiveDate":"2019-07-01"},{"code":"NXT","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":80600,"ownershipPct":1.2212121212121212,"effectiveDate":"2022-09-09"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trung Kiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 414000,
+      "ownershipPct": 6.2727272727272725,
+      "effectiveDate": "2024-06-20"
+    },
+    {
+      "code": "NXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Bá Duy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 355000,
+      "ownershipPct": 5.378787878787879,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "NXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Quyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 329400,
+      "ownershipPct": 4.990909090909091,
+      "effectiveDate": "2023-04-14"
+    },
+    {
+      "code": "NXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Lộc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 227200,
+      "ownershipPct": 3.4424242424242424,
+      "effectiveDate": "2024-06-06"
+    },
+    {
+      "code": "NXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thúy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 164800,
+      "ownershipPct": 2.496969696969697,
+      "effectiveDate": "2019-07-01"
+    },
+    {
+      "code": "NXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 80600,
+      "ownershipPct": 1.2212121212121212,
+      "effectiveDate": "2022-09-09"
+    },
+    {
+      "code": "NXT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoàng Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 70800,
+      "ownershipPct": 1.0727272727272728,
+      "effectiveDate": "2024-07-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

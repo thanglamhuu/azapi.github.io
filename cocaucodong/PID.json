@@ -1,1 +1,78 @@
-{"data":[{"code":"PID","shareholderType":"COMPANY","shareholderName":"Xây lắp D.khí VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1999300,"ownershipPct":49.9825,"effectiveDate":"2017-04-17"},{"code":"PID","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dịch vụ kỹ thuật và Thương mại Quốc Khánh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":740000,"ownershipPct":18.5,"effectiveDate":"2023-05-19"},{"code":"PID","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Khởi","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":740000,"ownershipPct":18.5,"effectiveDate":"2023-12-31"},{"code":"PID","shareholderType":"PERSON","shareholderName":"Trần Trọng Nghĩa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":392768,"ownershipPct":9.8192,"effectiveDate":"2020-06-30"},{"code":"PID","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":102000,"ownershipPct":2.55,"effectiveDate":"2017-05-11"},{"code":"PID","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Triều Dương","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":74000,"ownershipPct":1.85,"effectiveDate":"2020-06-30"},{"code":"PID","shareholderType":"PERSON","shareholderName":"Nguyễn Tử Long","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":73500,"ownershipPct":1.8375,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PID",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xây lắp D.khí VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1999300,
+      "ownershipPct": 49.9825,
+      "effectiveDate": "2017-04-17"
+    },
+    {
+      "code": "PID",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Dịch vụ kỹ thuật và Thương mại Quốc Khánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 740000,
+      "ownershipPct": 18.5,
+      "effectiveDate": "2023-05-19"
+    },
+    {
+      "code": "PID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Khởi",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 740000,
+      "ownershipPct": 18.5,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "PID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Trọng Nghĩa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 392768,
+      "ownershipPct": 9.8192,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 102000,
+      "ownershipPct": 2.55,
+      "effectiveDate": "2017-05-11"
+    },
+    {
+      "code": "PID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Triều Dương",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 74000,
+      "ownershipPct": 1.85,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tử Long",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 73500,
+      "ownershipPct": 1.8375,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

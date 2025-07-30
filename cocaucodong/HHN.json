@@ -1,1 +1,108 @@
-{"data":[{"code":"HHN","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Vận tải Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":735420,"ownershipPct":51.07083333333333,"effectiveDate":"2020-06-30"},{"code":"HHN","shareholderType":"COMPANY","shareholderName":"Công ty CP Quan hệ Quốc tế đầu tư sản xuất (CIRI)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":383560,"ownershipPct":26.636111111111113,"effectiveDate":"2020-06-30"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Trần Thị Huế","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":360000,"ownershipPct":25,"effectiveDate":"2022-12-31"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Bùi Hồng Sơn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":260000,"ownershipPct":18.055555555555557,"effectiveDate":"2022-12-31"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Vũ Hữu Tuyến","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":210000,"ownershipPct":14.583333333333334,"effectiveDate":"2022-12-31"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":210000,"ownershipPct":14.583333333333334,"effectiveDate":"2022-12-31"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Phạm Quốc Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":139580,"ownershipPct":9.693055555555556,"effectiveDate":"2020-06-30"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Đinh Quang Tùng","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":48000,"ownershipPct":3.3333333333333335,"effectiveDate":"2020-12-31"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Phạm Hải Đăng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":26000,"ownershipPct":1.8055555555555556,"effectiveDate":"2022-12-31"},{"code":"HHN","shareholderType":"PERSON","shareholderName":"Phan Bá Triều","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":23560,"ownershipPct":1.636111111111111,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Vận tải Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 735420,
+      "ownershipPct": 51.07083333333333,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Quan hệ Quốc tế đầu tư sản xuất (CIRI)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 383560,
+      "ownershipPct": 26.636111111111113,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Huế",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 360000,
+      "ownershipPct": 25,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hồng Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 260000,
+      "ownershipPct": 18.055555555555557,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hữu Tuyến",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 210000,
+      "ownershipPct": 14.583333333333334,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 210000,
+      "ownershipPct": 14.583333333333334,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Quốc Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 139580,
+      "ownershipPct": 9.693055555555556,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Quang Tùng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 48000,
+      "ownershipPct": 3.3333333333333335,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Hải Đăng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 26000,
+      "ownershipPct": 1.8055555555555556,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Bá Triều",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 23560,
+      "ownershipPct": 1.636111111111111,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

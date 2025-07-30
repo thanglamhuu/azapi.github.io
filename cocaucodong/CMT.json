@@ -1,1 +1,78 @@
-{"data":[{"code":"CMT","shareholderType":"PERSON","shareholderName":"Lê Ngọc Tú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2775580,"ownershipPct":38.137728812907234,"effectiveDate":"2023-06-30"},{"code":"CMT","shareholderType":"PERSON","shareholderName":"Trần Thanh Hải","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1440000,"ownershipPct":19.78625350038061,"effectiveDate":"2020-06-30"},{"code":"CMT","shareholderType":"COMPANY","shareholderName":"C.nghệ mạng & Tr.thông","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":722220,"ownershipPct":9.923630557670059,"effectiveDate":"2019-02-12"},{"code":"CMT","shareholderType":"COMPANY","shareholderName":"CK Sacombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":700000,"ownershipPct":9.61831767379613,"effectiveDate":"2010-07-12"},{"code":"CMT","shareholderType":"PERSON","shareholderName":"Võ Mạnh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":700000,"ownershipPct":9.61831767379613,"effectiveDate":"2010-07-12"},{"code":"CMT","shareholderType":"PERSON","shareholderName":"Lê Thành Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":432710,"ownershipPct":5.945631772326176,"effectiveDate":"2011-08-30"},{"code":"CMT","shareholderType":"COMPANY","shareholderName":"AFC Vietnam Fund (AVF)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330820,"ownershipPct":4.545616932636051,"effectiveDate":"2019-03-20"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Ngọc Tú",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2775580,
+      "ownershipPct": 38.137728812907234,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "CMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thanh Hải",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1440000,
+      "ownershipPct": 19.78625350038061,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "C.nghệ mạng & Tr.thông",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 722220,
+      "ownershipPct": 9.923630557670059,
+      "effectiveDate": "2019-02-12"
+    },
+    {
+      "code": "CMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Mạnh Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 700000,
+      "ownershipPct": 9.61831767379613,
+      "effectiveDate": "2010-07-12"
+    },
+    {
+      "code": "CMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Sacombank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 700000,
+      "ownershipPct": 9.61831767379613,
+      "effectiveDate": "2010-07-12"
+    },
+    {
+      "code": "CMT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thành Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 432710,
+      "ownershipPct": 5.945631772326176,
+      "effectiveDate": "2011-08-30"
+    },
+    {
+      "code": "CMT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC Vietnam Fund (AVF)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330820,
+      "ownershipPct": 4.545616932636051,
+      "effectiveDate": "2019-03-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

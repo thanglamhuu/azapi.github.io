@@ -1,1 +1,79 @@
-{"data":[{"code":"TPS","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Cơ khí Giao thông Vận tải Sài Gòn ( SAMCO)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2550000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"TPS","shareholderType":"PERSON","shareholderName":"Ngô Quang Hiển","roleType":"Anh của Chủ tịch HĐQT","enRoleType":"Elder Brother of Chairman","numberOfShares":705012,"ownershipPct":14.10024,"groupPct":14.20024,"effectiveDate":"2024-05-16"},{"code":"TPS","shareholderType":"PERSON","shareholderName":"Ngô Quang Trung","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":538635,"ownershipPct":10.7727,"effectiveDate":"2024-05-23"},{"code":"TPS","shareholderType":"PERSON","shareholderName":"Mai Hồng Quỳ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2024-05-23"},{"code":"TPS","shareholderType":"PERSON","shareholderName":"Nguyễn Hương Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2017-12-22"},{"code":"TPS","shareholderType":"PERSON","shareholderName":"Phan Mỹ Kim","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2017-12-22"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TPS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Cơ khí Giao thông Vận tải Sài Gòn ( SAMCO)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2550000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Quang Trung",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 538635,
+      "ownershipPct": 10.7727,
+      "effectiveDate": "2024-05-23"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Thị Phụng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 519062,
+      "ownershipPct": 10.38124,
+      "effectiveDate": "2025-06-02"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Quang Hiển",
+      "roleType": "Anh của Chủ tịch HĐQT",
+      "enRoleType": "Elder Brother of Chairman",
+      "numberOfShares": 455012,
+      "ownershipPct": 9.10024,
+      "groupPct": 9.20024,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hương Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2017-12-22"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Hồng Quỳ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2024-05-23"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Mỹ Kim",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2017-12-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

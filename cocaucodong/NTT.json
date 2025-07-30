@@ -1,1 +1,48 @@
-{"data":[{"code":"NTT","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Vinatex Quốc Tế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9484500,"ownershipPct":40.35957446808511,"effectiveDate":"2022-03-11"},{"code":"NTT","shareholderType":"COMPANY","shareholderName":"TCTCP Phong Phú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5614375,"ownershipPct":23.89095744680851,"effectiveDate":"2019-11-18"},{"code":"NTT","shareholderType":"COMPANY","shareholderName":"CTCP Quốc tế Phong Phú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4538132,"ownershipPct":19.3112,"effectiveDate":"2019-12-02"},{"code":"NTT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Sinnika","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1052981,"ownershipPct":4.480770212765957,"effectiveDate":"2022-03-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NTT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Vinatex Quốc Tế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9484500,
+      "ownershipPct": 40.35957446808511,
+      "effectiveDate": "2022-03-11"
+    },
+    {
+      "code": "NTT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCTCP Phong Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5614375,
+      "ownershipPct": 23.89095744680851,
+      "effectiveDate": "2019-11-18"
+    },
+    {
+      "code": "NTT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quốc tế Phong Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4538132,
+      "ownershipPct": 19.3112,
+      "effectiveDate": "2019-12-02"
+    },
+    {
+      "code": "NTT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Sinnika",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1052981,
+      "ownershipPct": 4.480770212765957,
+      "effectiveDate": "2022-03-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

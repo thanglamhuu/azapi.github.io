@@ -1,1 +1,48 @@
-{"data":[{"code":"NAF","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Hùng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":23527223,"ownershipPct":37.39044740098169,"effectiveDate":"2021-11-02"},{"code":"NAF","shareholderType":"COMPANY","shareholderName":"International Finance Corporation (IFC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12358933,"ownershipPct":19.641333542371612,"effectiveDate":"2019-09-05"},{"code":"NAF","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1977506,"ownershipPct":3.142735293414174,"effectiveDate":"2020-06-30"},{"code":"NAF","shareholderType":"PERSON","shareholderName":"Phan Thị Minh Châu","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1069405,"ownershipPct":1.6995431803764867,"effectiveDate":"2022-02-18"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Hùng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 25879945,
+      "ownershipPct": 46.52968702821845,
+      "effectiveDate": "2024-09-10"
+    },
+    {
+      "code": "NAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "International Finance Corporation (IFC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13594826,
+      "ownershipPct": 24.442208010221307,
+      "effectiveDate": "2024-09-10"
+    },
+    {
+      "code": "NAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2175256,
+      "ownershipPct": 3.9109040180052292,
+      "effectiveDate": "2024-09-10"
+    },
+    {
+      "code": "NAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thị Minh Châu",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1176345,
+      "ownershipPct": 2.114956762358252,
+      "effectiveDate": "2024-09-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

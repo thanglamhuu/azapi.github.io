@@ -1,1 +1,58 @@
-{"data":[{"code":"TSJ","shareholderType":"COMPANY","shareholderName":"Tổng công ty Du lịch Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":33803000,"ownershipPct":45.19274734148513,"effectiveDate":"2020-06-30"},{"code":"TSJ","shareholderType":"COMPANY","shareholderName":"CTCP Phát triển Tự nhiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20000000,"ownershipPct":26.738897341351436,"effectiveDate":"2017-10-09"},{"code":"TSJ","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5690000,"ownershipPct":7.607216293614484,"effectiveDate":"2020-06-30"},{"code":"TSJ","shareholderType":"COMPANY","shareholderName":"TẬP ĐOÀN NAM MÊ KÔNG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3630000,"ownershipPct":4.853109867455286,"effectiveDate":"2017-12-04"},{"code":"TSJ","shareholderType":"PERSON","shareholderName":"Lưu Thị Tuyết Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2542300,"ownershipPct":3.398914935545888,"effectiveDate":"2019-03-08"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TSJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Du lịch Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 33803000,
+      "ownershipPct": 45.19274734148513,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TSJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Phát triển Tự nhiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20000000,
+      "ownershipPct": 26.738897341351436,
+      "effectiveDate": "2017-10-09"
+    },
+    {
+      "code": "TSJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5690000,
+      "ownershipPct": 7.607216293614484,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TSJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TẬP ĐOÀN NAM MÊ KÔNG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3630000,
+      "ownershipPct": 4.853109867455286,
+      "effectiveDate": "2017-12-04"
+    },
+    {
+      "code": "TSJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Thị Tuyết Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2542300,
+      "ownershipPct": 3.398914935545888,
+      "effectiveDate": "2019-03-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

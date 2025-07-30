@@ -1,1 +1,108 @@
-{"data":[{"code":"GTA","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Cao su Bình Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5090334,"ownershipPct":51.783662258392674,"effectiveDate":"2014-09-26"},{"code":"GTA","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1117660,"ownershipPct":11.369888097660224,"effectiveDate":"2020-06-30"},{"code":"GTA","shareholderType":"PERSON","shareholderName":"Trần Ngọc Xuân Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":864440,"ownershipPct":8.793896236012207,"effectiveDate":"2021-12-31"},{"code":"GTA","shareholderType":"COMPANY","shareholderName":"Tổng công ty Bảo hiểm Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":621195,"ownershipPct":6.319379450661241,"effectiveDate":"2009-07-16"},{"code":"GTA","shareholderType":"COMPANY","shareholderName":"Gỗ Thuận An","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":570000,"ownershipPct":5.798575788402848,"effectiveDate":"2011-06-21"},{"code":"GTA","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":488915,"ownershipPct":4.973702950152594,"effectiveDate":"2020-06-30"},{"code":"GTA","shareholderType":"PERSON","shareholderName":"Trần Quốc Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":461000,"ownershipPct":4.68972533062055,"effectiveDate":"2021-12-31"},{"code":"GTA","shareholderType":"COMPANY","shareholderName":"Cao su Bà Rịa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":255000,"ownershipPct":2.5940996948118005,"effectiveDate":"2020-06-30"},{"code":"GTA","shareholderType":"PERSON","shareholderName":"Trương Thị Giàu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":158640,"ownershipPct":1.6138351983723296,"effectiveDate":"2019-07-12"},{"code":"GTA","shareholderType":"COMPANY","shareholderName":"Cao su Hòa Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":127500,"ownershipPct":1.2970498474059002,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GTA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Cao su Bình Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5090334,
+      "ownershipPct": 51.783662258392674,
+      "effectiveDate": "2014-09-26"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1117660,
+      "ownershipPct": 11.369888097660224,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Xuân Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 864440,
+      "ownershipPct": 8.793896236012207,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Bảo hiểm Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 621195,
+      "ownershipPct": 6.319379450661241,
+      "effectiveDate": "2009-07-16"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Gỗ Thuận An",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 570000,
+      "ownershipPct": 5.798575788402848,
+      "effectiveDate": "2011-06-21"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 488915,
+      "ownershipPct": 4.973702950152594,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quốc Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 461000,
+      "ownershipPct": 4.68972533062055,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Bà Rịa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 255000,
+      "ownershipPct": 2.5940996948118005,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Giàu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 158640,
+      "ownershipPct": 1.6138351983723296,
+      "effectiveDate": "2019-07-12"
+    },
+    {
+      "code": "GTA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Hòa Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 127500,
+      "ownershipPct": 1.2970498474059002,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

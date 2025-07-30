@@ -1,1 +1,68 @@
-{"data":[{"code":"TA6","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Thành An - Công ty TNHH một thành viên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1580100,"ownershipPct":52.67,"effectiveDate":"2020-06-30"},{"code":"TA6","shareholderType":"PERSON","shareholderName":"Phạm Văn Thắng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":308855,"ownershipPct":10.295166666666667,"effectiveDate":"2020-01-10"},{"code":"TA6","shareholderType":"PERSON","shareholderName":"Lê Đình Tài","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":190000,"ownershipPct":6.333333333333333,"effectiveDate":"2020-06-30"},{"code":"TA6","shareholderType":"PERSON","shareholderName":"Vũ Văn Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":180000,"ownershipPct":6,"effectiveDate":"2020-06-30"},{"code":"TA6","shareholderType":"PERSON","shareholderName":"Ngô Thế Vượng","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":70000,"ownershipPct":2.3333333333333335,"effectiveDate":"2020-12-31"},{"code":"TA6","shareholderType":"PERSON","shareholderName":"Dương Xuân Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":70000,"ownershipPct":2.3333333333333335,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TA6",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Thành An - Công ty TNHH một thành viên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1580100,
+      "ownershipPct": 52.67,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TA6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Thắng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 308855,
+      "ownershipPct": 10.295166666666667,
+      "effectiveDate": "2020-01-10"
+    },
+    {
+      "code": "TA6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Tài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 190000,
+      "ownershipPct": 6.333333333333333,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TA6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Văn Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 180000,
+      "ownershipPct": 6,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TA6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thế Vượng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 70000,
+      "ownershipPct": 2.3333333333333335,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "TA6",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Xuân Cường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 70000,
+      "ownershipPct": 2.3333333333333335,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,108 @@
-{"data":[{"code":"GIL","shareholderType":"PERSON","shareholderName":"Lê Hùng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":6230272,"ownershipPct":8.906841450819098,"effectiveDate":"2022-12-30"},{"code":"GIL","shareholderType":"PERSON","shareholderName":"Lê Anh Thư","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4216917,"ownershipPct":6.02853473014721,"effectiveDate":"2024-07-19"},{"code":"GIL","shareholderType":"PERSON","shareholderName":"Nguyễn Phương Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3211504,"ownershipPct":4.591189108063233,"effectiveDate":"2022-09-30"},{"code":"GIL","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Phúc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2005838,"ownershipPct":2.8675603636611817,"effectiveDate":"2022-12-28"},{"code":"GIL","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần may hàng gia dụng Gilimex - PPJ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1960470,"ownershipPct":2.8027019460927733,"effectiveDate":"2022-09-09"},{"code":"GIL","shareholderType":"PERSON","shareholderName":"Lê Thị Kim Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1791998,"ownershipPct":2.561853168880094,"effectiveDate":"2020-11-06"},{"code":"GIL","shareholderType":"COMPANY","shareholderName":"PXP VietNam Emerging Equity Fund Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1572742,"ownershipPct":2.248403221728382,"effectiveDate":"2022-09-09"},{"code":"GIL","shareholderType":"COMPANY","shareholderName":"Lion Capital Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1497393,"ownershipPct":2.140683751939941,"effectiveDate":"2022-09-09"},{"code":"GIL","shareholderType":"COMPANY","shareholderName":"Thủy sản Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1486956,"ownershipPct":2.1257629420263133,"effectiveDate":"2022-09-09"},{"code":"GIL","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Cường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1400000,"ownershipPct":2.0014500219487585,"effectiveDate":"2024-06-13"}],"currentPage":1,"size":10,"totalElements":17,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "GIL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hùng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 6230272,
+      "ownershipPct": 6.1323857547531935,
+      "effectiveDate": "2022-12-30"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Anh Thư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4938217,
+      "ownershipPct": 4.86063073725835,
+      "effectiveDate": "2024-07-26"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phương Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3211504,
+      "ownershipPct": 3.161046801958711,
+      "effectiveDate": "2022-09-30"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Phúc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2005838,
+      "ownershipPct": 1.974323493026089,
+      "effectiveDate": "2022-12-28"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần may hàng gia dụng Gilimex - PPJ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1960470,
+      "ownershipPct": 1.9296682874553461,
+      "effectiveDate": "2022-09-09"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Kim Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1791998,
+      "ownershipPct": 1.763843217077234,
+      "effectiveDate": "2020-11-06"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PXP VietNam Emerging Equity Fund Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1572742,
+      "ownershipPct": 1.5480320340270934,
+      "effectiveDate": "2022-09-09"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Lion Capital Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1497393,
+      "ownershipPct": 1.4738668716979209,
+      "effectiveDate": "2022-09-09"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thủy sản Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1486956,
+      "ownershipPct": 1.463593851495535,
+      "effectiveDate": "2022-09-09"
+    },
+    {
+      "code": "GIL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Xây dựng và Thương mại Thùy Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1223352,
+      "ownershipPct": 1.2041314372548788,
+      "effectiveDate": "2022-09-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

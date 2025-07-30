@@ -1,1 +1,108 @@
-{"data":[{"code":"ILA","shareholderType":"PERSON","shareholderName":"Võ Xuân Phong","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2805100,"ownershipPct":15.1382041786538,"effectiveDate":"2024-06-03"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Thân Xuân Nghĩa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2600304,"ownershipPct":14.032987372489462,"effectiveDate":"2021-12-14"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Đặng Xuân Hữu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1009800,"ownershipPct":5.449559224129124,"effectiveDate":"2023-07-04"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Hồ Ngọc Tỷ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":5.3966718400961815,"effectiveDate":"2023-11-13"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800000,"ownershipPct":4.317337472076946,"effectiveDate":"2020-12-31"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Nhàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":660000,"ownershipPct":3.56180341446348,"effectiveDate":"2018-12-21"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Đỗ Mạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":600000,"ownershipPct":3.238003104057709,"effectiveDate":"2020-06-30"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Lê Công Hoàng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":372344,"ownershipPct":2.0094183796287726,"effectiveDate":"2021-12-31"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Lê Nhật Nguyên","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":325000,"ownershipPct":1.753918348031259,"effectiveDate":"2023-11-10"},{"code":"ILA","shareholderType":"PERSON","shareholderName":"Văn Công Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":210000,"ownershipPct":1.1333010864201982,"effectiveDate":"2021-10-06"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Xuân Phong",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2973406,
+      "ownershipPct": 15.138438742065178,
+      "effectiveDate": "2024-10-08"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thân Xuân Nghĩa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2600304,
+      "ownershipPct": 13.238872463009441,
+      "effectiveDate": "2021-12-14"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Xuân Hữu",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 1070388,
+      "ownershipPct": 5.449643663946889,
+      "effectiveDate": "2024-10-08"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 848000,
+      "ownershipPct": 4.317404368347703,
+      "effectiveDate": "2024-10-08"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Nhàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 699600,
+      "ownershipPct": 3.561858603886855,
+      "effectiveDate": "2024-10-08"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Mạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 636000,
+      "ownershipPct": 3.2380532762607777,
+      "effectiveDate": "2024-10-08"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Ngọc Tỷ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 560000,
+      "ownershipPct": 2.8511160923050873,
+      "effectiveDate": "2025-07-10"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Công Hoàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 394684,
+      "ownershipPct": 2.0094462567416804,
+      "effectiveDate": "2024-10-08"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Nhật Nguyên",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 344500,
+      "ownershipPct": 1.7539455246412545,
+      "effectiveDate": "2024-10-08"
+    },
+    {
+      "code": "ILA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Công Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 222600,
+      "ownershipPct": 1.1333186466912721,
+      "effectiveDate": "2024-10-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

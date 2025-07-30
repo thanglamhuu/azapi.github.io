@@ -1,1 +1,98 @@
-{"data":[{"code":"HEC","shareholderType":"PERSON","shareholderName":"Bùi Hữu Quỳnh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1900760,"ownershipPct":31.679333333333332,"effectiveDate":"2023-10-05"},{"code":"HEC","shareholderType":"PERSON","shareholderName":"Ngô Thu Hương","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":752880,"ownershipPct":12.548,"effectiveDate":"2023-12-31"},{"code":"HEC","shareholderType":"PERSON","shareholderName":"Bùi Trung Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":577000,"ownershipPct":9.616666666666667,"effectiveDate":"2020-06-30"},{"code":"HEC","shareholderType":"PERSON","shareholderName":"Phạm Thị Thanh Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":350000,"ownershipPct":5.833333333333333,"effectiveDate":"2022-09-15"},{"code":"HEC","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Duy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":318640,"ownershipPct":5.310666666666667,"effectiveDate":"2023-10-05"},{"code":"HEC","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Tiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":296010,"ownershipPct":4.9335,"effectiveDate":"2020-06-30"},{"code":"HEC","shareholderType":"PERSON","shareholderName":"Trần Văn Hiển","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":135760,"ownershipPct":2.2626666666666666,"effectiveDate":"2021-04-22"},{"code":"HEC","shareholderType":"PERSON","shareholderName":"Lê Văn Quốc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":107180,"ownershipPct":1.7863333333333333,"effectiveDate":"2022-09-12"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hữu Quỳnh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1900760,
+      "ownershipPct": 31.679333333333332,
+      "effectiveDate": "2023-10-05"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thu Hương",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 1232950,
+      "ownershipPct": 20.549166666666668,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Trung Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 577000,
+      "ownershipPct": 9.616666666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thanh Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 304000,
+      "ownershipPct": 5.066666666666666,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 296010,
+      "ownershipPct": 4.9335,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Duy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 172770,
+      "ownershipPct": 2.8795,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Hiển",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 135760,
+      "ownershipPct": 2.2626666666666666,
+      "effectiveDate": "2021-04-22"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Quốc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 127180,
+      "ownershipPct": 2.119666666666667,
+      "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "HEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hữu Vũ Hoàng",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 100610,
+      "ownershipPct": 1.6768333333333334,
+      "effectiveDate": "2025-03-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

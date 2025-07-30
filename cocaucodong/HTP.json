@@ -1,1 +1,48 @@
-{"data":[{"code":"HTP","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Hiếu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20000000,"ownershipPct":21.78531055722685,"effectiveDate":"2022-08-08"},{"code":"HTP","shareholderType":"PERSON","shareholderName":"Võ Mỹ Tiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10500000,"ownershipPct":11.437288042544097,"effectiveDate":"2024-06-28"},{"code":"HTP","shareholderType":"PERSON","shareholderName":"Mai Lê Hồng Sương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9368200,"ownershipPct":10.204457318110629,"effectiveDate":"2022-10-19"},{"code":"HTP","shareholderType":"COMPANY","shareholderName":"CK Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7733686,"ownershipPct":8.424037563103875,"effectiveDate":"2023-12-20"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Hiếu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20000000,
+      "ownershipPct": 21.78531055722685,
+      "effectiveDate": "2022-08-08"
+    },
+    {
+      "code": "HTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Mỹ Tiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10500000,
+      "ownershipPct": 11.437288042544097,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "HTP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Lê Hồng Sương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9368200,
+      "ownershipPct": 10.204457318110629,
+      "effectiveDate": "2022-10-19"
+    },
+    {
+      "code": "HTP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7093686,
+      "ownershipPct": 7.726907625272616,
+      "effectiveDate": "2024-09-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

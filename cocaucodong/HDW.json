@@ -1,1 +1,28 @@
-{"data":[{"code":"HDW","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Hải Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20723606,"ownershipPct":65.00000156825992,"effectiveDate":"2020-06-30"},{"code":"HDW","shareholderType":"COMPANY","shareholderName":"CTCP Cấp nước Phúc Hưng Hải Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3900000,"ownershipPct":12.232427412305258,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Hải Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20723606,
+      "ownershipPct": 65.00000156825992,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Cấp nước Phúc Hưng Hải Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3900000,
+      "ownershipPct": 12.232427412305258,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

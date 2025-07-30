@@ -1,1 +1,68 @@
-{"data":[{"code":"HES","shareholderType":"COMPANY","shareholderName":"Tổng công ty Du lịch Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4270000,"ownershipPct":45.92657126416383,"effectiveDate":"2020-06-30"},{"code":"HES","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1800000,"ownershipPct":19.360147137118243,"effectiveDate":"2020-06-30"},{"code":"HES","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại và Dịch vụ Sen","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":938565,"ownershipPct":10.094864720971879,"effectiveDate":"2017-04-05"},{"code":"HES","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Trí Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":525000,"ownershipPct":5.646709581659487,"effectiveDate":"2020-06-30"},{"code":"HES","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Một thành viên Putaleng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":470500,"ownershipPct":5.06052734889674,"effectiveDate":"2022-10-19"},{"code":"HES","shareholderType":"PERSON","shareholderName":"Đoàn Thu Ngân","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":134100,"ownershipPct":1.442330961715309,"effectiveDate":"2024-06-07"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HES",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Du lịch Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4270000,
+      "ownershipPct": 45.92657126416383,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HES",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1800000,
+      "ownershipPct": 19.360147137118243,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HES",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại và Dịch vụ Sen",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 938565,
+      "ownershipPct": 10.094864720971879,
+      "effectiveDate": "2017-04-05"
+    },
+    {
+      "code": "HES",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Trí Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 525000,
+      "ownershipPct": 5.646709581659487,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HES",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Một thành viên Putaleng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 470500,
+      "ownershipPct": 5.06052734889674,
+      "effectiveDate": "2022-10-19"
+    },
+    {
+      "code": "HES",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Thu Ngân",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 134100,
+      "ownershipPct": 1.442330961715309,
+      "effectiveDate": "2024-06-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

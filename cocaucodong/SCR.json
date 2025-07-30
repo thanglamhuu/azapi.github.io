@@ -1,1 +1,89 @@
-{"data":[{"code":"SCR","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư Thành Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":68806953,"ownershipPct":17.390346338106582,"effectiveDate":"2022-12-30"},{"code":"SCR","shareholderType":"PERSON","shareholderName":"Đặng Hồng Anh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":40005008,"ownershipPct":10.110910511888594,"groupPct":10.222892267012652,"effectiveDate":"2023-06-30"},{"code":"SCR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại Đầu tư Thuận Thiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":26520112,"ownershipPct":6.702722799037132,"effectiveDate":"2022-10-25"},{"code":"SCR","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Thương mại Thành Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17585241,"ownershipPct":4.444513498934791,"effectiveDate":"2022-10-25"},{"code":"SCR","shareholderType":"PERSON","shareholderName":"Mai Thị Trúc Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16898471,"ownershipPct":4.270938480220891,"effectiveDate":"2013-01-31"},{"code":"SCR","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần xuất nhập khẩu Bến Tre","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16667210,"ownershipPct":4.212489316158985,"effectiveDate":"2022-10-25"},{"code":"SCR","shareholderType":"COMPANY","shareholderName":"CTCP Global Mind Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16554863,"ownershipPct":4.1840946095942675,"effectiveDate":"2022-10-25"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 97741941,
+      "ownershipPct": 22.6992725944941,
+      "effectiveDate": "2024-11-28"
+    },
+    {
+      "code": "SCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Hồng Anh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 40005008,
+      "ownershipPct": 9.290633810279225,
+      "groupPct": 9.367887371558087,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại Đầu tư Thuận Thiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 26520112,
+      "ownershipPct": 6.158945130059512,
+      "effectiveDate": "2022-10-25"
+    },
+    {
+      "code": "SCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Thương mại Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17585241,
+      "ownershipPct": 4.08393955568034,
+      "effectiveDate": "2022-10-25"
+    },
+    {
+      "code": "SCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Thị Trúc Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16898471,
+      "ownershipPct": 3.924446309687602,
+      "effectiveDate": "2013-01-31"
+    },
+    {
+      "code": "SCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần xuất nhập khẩu Bến Tre",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16667210,
+      "ownershipPct": 3.8707390022025243,
+      "effectiveDate": "2022-10-25"
+    },
+    {
+      "code": "SCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Global Mind Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16554863,
+      "ownershipPct": 3.844647897891698,
+      "effectiveDate": "2022-10-25"
+    },
+    {
+      "code": "SCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Khu công nghiệp Thành Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8429315,
+      "ownershipPct": 1.957596882282684,
+      "effectiveDate": "2025-03-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

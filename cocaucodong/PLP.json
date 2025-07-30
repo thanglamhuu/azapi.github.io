@@ -1,1 +1,78 @@
-{"data":[{"code":"PLP","shareholderType":"PERSON","shareholderName":"Mai Thanh Phương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":14760000,"ownershipPct":21.085760373161957,"effectiveDate":"2022-03-02"},{"code":"PLP","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Lợi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4206001,"ownershipPct":6.008585990195093,"effectiveDate":"2024-05-31"},{"code":"PLP","shareholderType":"PERSON","shareholderName":"Huỳnh Cảnh Phúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3482013,"ownershipPct":4.974315158145989,"effectiveDate":"2022-08-25"},{"code":"PLP","shareholderType":"PERSON","shareholderName":"Mai Lâm Vũ","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":2520000,"ownershipPct":3.600007868588627,"effectiveDate":"2022-06-20"},{"code":"PLP","shareholderType":"PERSON","shareholderName":"Vũ Đức Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2197297,"ownershipPct":3.139002575248486,"effectiveDate":"2022-04-13"},{"code":"PLP","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1814736,"ownershipPct":2.5924856664329567,"effectiveDate":"2020-08-13"},{"code":"PLP","shareholderType":"COMPANY","shareholderName":"Chứng khoán SG HN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1809561,"ownershipPct":2.5850927931313907,"effectiveDate":"2021-09-21"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PLP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Thanh Phương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 14760000,
+      "ownershipPct": 21.085760373161957,
+      "effectiveDate": "2022-03-02"
+    },
+    {
+      "code": "PLP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Lợi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4206001,
+      "ownershipPct": 6.008585990195093,
+      "effectiveDate": "2024-05-31"
+    },
+    {
+      "code": "PLP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Cảnh Phúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3482013,
+      "ownershipPct": 4.974315158145989,
+      "effectiveDate": "2022-08-25"
+    },
+    {
+      "code": "PLP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Lâm Vũ",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 2520000,
+      "ownershipPct": 3.600007868588627,
+      "effectiveDate": "2022-06-20"
+    },
+    {
+      "code": "PLP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đức Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2197297,
+      "ownershipPct": 3.139002575248486,
+      "effectiveDate": "2022-04-13"
+    },
+    {
+      "code": "PLP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1814736,
+      "ownershipPct": 2.5924856664329567,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "PLP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SG HN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1809561,
+      "ownershipPct": 2.5850927931313907,
+      "effectiveDate": "2021-09-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

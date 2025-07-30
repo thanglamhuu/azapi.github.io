@@ -1,1 +1,58 @@
-{"data":[{"code":"LG9","shareholderType":"COMPANY","shareholderName":"LICOGI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2563566,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"LG9","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":842903,"ownershipPct":16.7688497194923,"effectiveDate":"2022-12-31"},{"code":"LG9","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hoàng Vân","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":548198,"ownershipPct":10.905940397087495,"effectiveDate":"2022-12-31"},{"code":"LG9","shareholderType":"PERSON","shareholderName":"Đào Duy Hiền","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":71140,"ownershipPct":1.4152707595591454,"effectiveDate":"2020-06-30"},{"code":"LG9","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":52644,"ownershipPct":1.0473083197389885,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LG9",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LICOGI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2563566,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LG9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Công Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 876803,
+      "ownershipPct": 17.4432618469741,
+      "effectiveDate": "2025-05-19"
+    },
+    {
+      "code": "LG9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoàng Vân",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 548198,
+      "ownershipPct": 10.905940397087495,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "LG9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Duy Hiền",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 71140,
+      "ownershipPct": 1.4152707595591454,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LG9",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 52644,
+      "ownershipPct": 1.0473083197389885,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

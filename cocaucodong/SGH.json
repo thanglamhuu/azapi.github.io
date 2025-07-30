@@ -1,1 +1,48 @@
-{"data":[{"code":"SGH","shareholderType":"COMPANY","shareholderName":"Tổng công ty Du lịch Sài Gòn - TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4804100,"ownershipPct":38.85523410519164,"effectiveDate":"2020-06-30"},{"code":"SGH","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Bông Sen ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1104040,"ownershipPct":8.929400441601087,"effectiveDate":"2020-06-30"},{"code":"SGH","shareholderType":"COMPANY","shareholderName":"Citigroup Global Market LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":307900,"ownershipPct":2.490274261774007,"effectiveDate":"2007-08-16"},{"code":"SGH","shareholderType":"PERSON","shareholderName":"Lê Thành Chơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":128900,"ownershipPct":1.0425344343704759,"effectiveDate":"2007-03-29"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SGH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Du lịch Sài Gòn - TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4804100,
+      "ownershipPct": 38.85523410519164,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SGH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Bông Sen ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1104040,
+      "ownershipPct": 8.929400441601087,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SGH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Citigroup Global Market LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 307900,
+      "ownershipPct": 2.490274261774007,
+      "effectiveDate": "2007-08-16"
+    },
+    {
+      "code": "SGH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thành Chơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 128900,
+      "ownershipPct": 1.0425344343704759,
+      "effectiveDate": "2007-03-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

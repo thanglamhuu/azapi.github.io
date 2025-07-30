@@ -1,1 +1,68 @@
-{"data":[{"code":"WTC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Vận tải Việt Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6950221,"ownershipPct":69.50221,"effectiveDate":"2020-06-30"},{"code":"WTC","shareholderType":"PERSON","shareholderName":"Phạm Thế Trọng Toản","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":720409,"ownershipPct":7.20409,"effectiveDate":"2023-05-26"},{"code":"WTC","shareholderType":"PERSON","shareholderName":"Trịnh Mạnh Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":546567,"ownershipPct":5.46567,"effectiveDate":"2019-03-14"},{"code":"WTC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Than miền Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":377100,"ownershipPct":3.771,"effectiveDate":"2010-10-26"},{"code":"WTC","shareholderType":"PERSON","shareholderName":"Lê Thị Liên","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":270383,"ownershipPct":2.70383,"effectiveDate":"2019-09-12"},{"code":"WTC","shareholderType":"PERSON","shareholderName":"Trịnh Thị Nga","roleType":"Chị của Chủ tịch HĐQT","enRoleType":"Elder Sister of Chairman","numberOfShares":194646,"ownershipPct":1.94646,"effectiveDate":"2020-10-29"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "WTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Vận tải Việt Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6950221,
+      "ownershipPct": 69.50221,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "WTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thế Trọng Toản",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 720409,
+      "ownershipPct": 7.20409,
+      "effectiveDate": "2025-04-28"
+    },
+    {
+      "code": "WTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Mạnh Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 546567,
+      "ownershipPct": 5.46567,
+      "effectiveDate": "2019-03-14"
+    },
+    {
+      "code": "WTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Than miền Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 377100,
+      "ownershipPct": 3.771,
+      "effectiveDate": "2010-10-26"
+    },
+    {
+      "code": "WTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Liên",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 270383,
+      "ownershipPct": 2.70383,
+      "effectiveDate": "2019-09-12"
+    },
+    {
+      "code": "WTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Thị Nga",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 194646,
+      "ownershipPct": 1.94646,
+      "effectiveDate": "2020-10-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

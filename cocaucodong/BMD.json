@@ -1,1 +1,58 @@
-{"data":[{"code":"BMD","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Bình Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1458400,"ownershipPct":52.9695490469549,"effectiveDate":"2020-06-30"},{"code":"BMD","shareholderType":"PERSON","shareholderName":"Lê Quang Huy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":434271,"ownershipPct":15.7728600069735,"effectiveDate":"2020-06-30"},{"code":"BMD","shareholderType":"PERSON","shareholderName":"Phan Thị Na","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":368058,"ownershipPct":13.367982914923292,"effectiveDate":"2021-07-26"},{"code":"BMD","shareholderType":"PERSON","shareholderName":"Trà Thị Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":59700,"ownershipPct":2.168322873082287,"effectiveDate":"2023-06-30"},{"code":"BMD","shareholderType":"PERSON","shareholderName":"Lê Thị Thanh Thủy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":33000,"ownershipPct":1.1985704323570432,"effectiveDate":"2018-11-06"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BMD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Bình Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1458400,
+      "ownershipPct": 52.9695490469549,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BMD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quang Huy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 434271,
+      "ownershipPct": 15.7728600069735,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BMD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thị Na",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 368058,
+      "ownershipPct": 13.367982914923292,
+      "effectiveDate": "2021-07-26"
+    },
+    {
+      "code": "BMD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trà Thị Thành",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 59700,
+      "ownershipPct": 2.168322873082287,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BMD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thanh Thủy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 33000,
+      "ownershipPct": 1.1985704323570432,
+      "effectiveDate": "2018-11-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

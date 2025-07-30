@@ -1,1 +1,113 @@
-{"data":[{"code":"TNP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương Mại Ánh Vy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5349078,"ownershipPct":75.33912676056337,"effectiveDate":"2020-06-30"},{"code":"TNP","shareholderType":"PERSON","shareholderName":"Lâm Ánh Vy","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":998332,"ownershipPct":14.061014084507041,"effectiveDate":"2020-06-30"},{"code":"TNP","shareholderType":"PERSON","shareholderName":"Lâm Duy Việt","roleType":"Con của Phó chủ tịch HĐQT","enRoleType":"Child of Vice-chairman","numberOfShares":216960,"ownershipPct":3.055774647887324,"effectiveDate":"2018-07-26"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TNP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương Mại Ánh Vy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4354706,
+      "ownershipPct": 61.333887323943664,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 998332,
+      "ownershipPct": 14.061014084507041,
+      "groupPct": 28.110760563380282,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 998332,
+      "ownershipPct": 14.061014084507041,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 998332,
+      "ownershipPct": 14.061014084507041,
+      "groupPct": 31.166535211267604,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 998332,
+      "ownershipPct": 14.061014084507041,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Duy Việt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 997532,
+      "ownershipPct": 14.049746478873239,
+      "groupPct": 31.166535211267604,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Duy Việt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 997532,
+      "ownershipPct": 14.049746478873239,
+      "groupPct": 28.110760563380282,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Duy Việt",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 216960,
+      "ownershipPct": 3.055774647887324,
+      "groupPct": 31.166535211267604,
+      "effectiveDate": "2018-07-26"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Đình An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 106500,
+      "ownershipPct": 1.5,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đồng Thị Ánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 106500,
+      "ownershipPct": 1.5,
+      "effectiveDate": "2025-06-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

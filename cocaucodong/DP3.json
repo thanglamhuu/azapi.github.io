@@ -1,1 +1,110 @@
-{"data":[{"code":"DP3","shareholderType":"COMPANY","shareholderName":"Dược Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4746087,"ownershipPct":22.074892047338007,"effectiveDate":"2023-07-11"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Khái","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3150850,"ownershipPct":14.655161948644212,"effectiveDate":"2023-07-11"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Lê Thanh Thủy","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":2086332,"ownershipPct":9.70390000750235,"groupPct":14.135876609475945,"effectiveDate":"2024-02-05"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Bùi Xuân Hưởng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1371800,"ownershipPct":6.380484999650929,"effectiveDate":"2023-07-11"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Đinh Văn Cường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1199170,"ownershipPct":5.577552264930314,"effectiveDate":"2023-07-11"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1059127,"ownershipPct":4.926187444398082,"effectiveDate":"2024-05-07"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Lê Thị Vân","roleType":"Vợ của Thành viên BKS","enRoleType":"Wife of Control member","numberOfShares":1004280,"ownershipPct":4.671084323844172,"effectiveDate":"2023-07-11"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Lê Văn Hùng","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":962062,"ownershipPct":4.474720921223336,"effectiveDate":"2023-07-11"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Hoàng Thị Mơ","roleType":"Chị của Thành viên HĐQT","enRoleType":"Elder Sister of Board member","numberOfShares":951622,"ownershipPct":4.4261626303672665,"groupPct":14.135876609475945,"effectiveDate":"2023-07-11"},{"code":"DP3","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":576500,"ownershipPct":2.681403704839452,"effectiveDate":"2023-07-11"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DP3",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4746087,
+      "ownershipPct": 22.074892047338007,
+      "effectiveDate": "2023-07-11"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Khái",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3150850,
+      "ownershipPct": 14.655161948644212,
+      "effectiveDate": "2023-07-11"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thanh Thủy",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 2086332,
+      "ownershipPct": 9.70390000750235,
+      "groupPct": 14.135876609475945,
+      "effectiveDate": "2024-02-05"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Xuân Hưởng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1371800,
+      "ownershipPct": 6.380484999650929,
+      "effectiveDate": "2023-07-11"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Cường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1199170,
+      "ownershipPct": 5.577552264930314,
+      "effectiveDate": "2023-07-11"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1059127,
+      "ownershipPct": 4.926187444398082,
+      "effectiveDate": "2024-05-07"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Vân",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 1004280,
+      "ownershipPct": 4.671084323844172,
+      "effectiveDate": "2023-07-11"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 962062,
+      "ownershipPct": 4.474720921223336,
+      "effectiveDate": "2023-07-11"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Mơ",
+      "roleType": "Chị của Thành viên HĐQT",
+      "enRoleType": "Elder Sister of Board member",
+      "numberOfShares": 951622,
+      "ownershipPct": 4.4261626303672665,
+      "groupPct": 14.135876609475945,
+      "effectiveDate": "2023-07-11"
+    },
+    {
+      "code": "DP3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 576500,
+      "ownershipPct": 2.681403704839452,
+      "effectiveDate": "2023-07-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

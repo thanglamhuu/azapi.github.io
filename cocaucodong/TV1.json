@@ -1,1 +1,38 @@
-{"data":[{"code":"TV1","shareholderType":"COMPANY","shareholderName":"Tập đoàn Điện lực Việt Nam (EVN)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14504227,"ownershipPct":54.34061538884609,"effectiveDate":"2020-06-30"},{"code":"TV1","shareholderType":"PERSON","shareholderName":"Lê Minh Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3466125,"ownershipPct":12.985963713520489,"effectiveDate":"2024-07-16"},{"code":"TV1","shareholderType":"PERSON","shareholderName":"Vũ Thị Thanh Hương","roleType":"Vợ của Phó TGĐ","enRoleType":"Wife of Deputy CEO","numberOfShares":581500,"ownershipPct":2.17861095586921,"groupPct":2.6926357592144474,"effectiveDate":"2022-12-31"},{"code":"TV1","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lượt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":392642,"ownershipPct":1.471047571684262,"effectiveDate":"2020-06-30"},{"code":"TV1","shareholderType":"PERSON","shareholderName":"Đỗ Việt Khoa","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":375216,"ownershipPct":1.4057604272010686,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TV1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Điện lực Việt Nam (EVN)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14504227,
+      "ownershipPct": 54.34061538884609,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TV1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Minh Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3466125,
+      "ownershipPct": 12.985963713520489,
+      "effectiveDate": "2024-07-16"
+    },
+    {
+      "code": "TV1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lượt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 392642,
+      "ownershipPct": 1.471047571684262,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

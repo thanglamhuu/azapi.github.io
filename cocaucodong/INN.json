@@ -1,1 +1,109 @@
-{"data":[{"code":"INN","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Nam","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3846472,"ownershipPct":21.421652929382937,"effectiveDate":"2018-12-17"},{"code":"INN","shareholderType":"PERSON","shareholderName":"Bùi Thành Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":899500,"ownershipPct":5.009467587435955,"effectiveDate":"2020-04-06"},{"code":"INN","shareholderType":"COMPANY","shareholderName":"Finansia Syrus Securities Public Company Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":701740,"ownershipPct":3.908108710180441,"effectiveDate":"2020-06-30"},{"code":"INN","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":695045,"ownershipPct":3.87082312319002,"effectiveDate":"2020-06-30"},{"code":"INN","shareholderType":"PERSON","shareholderName":"Vũ Hồng Tuyến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":492435,"ownershipPct":2.742453775896636,"effectiveDate":"2018-12-17"},{"code":"INN","shareholderType":"PERSON","shareholderName":"Nguyễn Như Song","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":482800,"ownershipPct":2.688794831811094,"effectiveDate":"2017-01-18"},{"code":"INN","shareholderType":"COMPANY","shareholderName":"Công đoàn CTCP Bao bì và In Nông nghiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":395251,"ownershipPct":2.201219648028514,"effectiveDate":"2022-12-22"},{"code":"INN","shareholderType":"PERSON","shareholderName":"Nguyễn Linh Chi","roleType":"Con của Kế toán trưởng","enRoleType":"Child of Chief Accountant","numberOfShares":358200,"ownershipPct":1.9948763644464247,"groupPct":2.1820004455335265,"effectiveDate":"2023-06-30"},{"code":"INN","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Lộc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":357440,"ownershipPct":1.990643795945645,"effectiveDate":"2023-03-17"},{"code":"INN","shareholderType":"PERSON","shareholderName":"Lê Diễm Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":302768,"ownershipPct":1.6861661840053463,"effectiveDate":"2018-12-17"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "INN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Nam",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3846472,
+      "ownershipPct": 21.388538573605132,
+      "effectiveDate": "2018-12-17"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 904900,
+      "ownershipPct": 5.031750797940369,
+      "effectiveDate": "2025-04-08"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thành Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 899500,
+      "ownershipPct": 5.001723773618479,
+      "effectiveDate": "2020-04-06"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Finansia Syrus Securities Public Company Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 701740,
+      "ownershipPct": 3.9020674162301625,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 695045,
+      "ownershipPct": 3.864839466631079,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Thái",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 628000,
+      "ownershipPct": 3.49203171743458,
+      "effectiveDate": "2025-06-11"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hồng Tuyến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 492435,
+      "ownershipPct": 2.738214392953658,
+      "effectiveDate": "2018-12-17"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Như Song",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 482800,
+      "ownershipPct": 2.6846383967793237,
+      "effectiveDate": "2017-01-18"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn CTCP Bao bì và In Nông nghiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 395251,
+      "ownershipPct": 2.1978169241205974,
+      "effectiveDate": "2022-12-22"
+    },
+    {
+      "code": "INN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Linh Chi",
+      "roleType": "Con của Kế toán trưởng",
+      "enRoleType": "Child of Chief Accountant",
+      "numberOfShares": 358200,
+      "ownershipPct": 1.9917926133520167,
+      "groupPct": 2.178627431354886,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

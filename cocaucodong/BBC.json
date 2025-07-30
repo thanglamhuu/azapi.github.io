@@ -1,1 +1,108 @@
-{"data":[{"code":"BBC","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn PAN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11052150,"ownershipPct":58.93635402755882,"effectiveDate":"2022-01-19"},{"code":"BBC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư Đường Mặt Trời","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3252930,"ownershipPct":17.34647413461335,"effectiveDate":"2014-05-29"},{"code":"BBC","shareholderType":"COMPANY","shareholderName":"Citigroup Global Market LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1217706,"ownershipPct":6.493501437953932,"effectiveDate":"2007-09-07"},{"code":"BBC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư bất động sản SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1105220,"ownershipPct":5.8936620656015855,"effectiveDate":"2013-04-16"},{"code":"BBC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư chứng khoán Bản Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1020090,"ownershipPct":5.439700454660177,"effectiveDate":"2010-05-28"},{"code":"BBC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Trâm Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":754400,"ownershipPct":4.022890159687516,"effectiveDate":"2021-03-11"},{"code":"BBC","shareholderType":"COMPANY","shareholderName":"Citigroup Global Market LTD & Citigroup Global Market Financial Products LTD.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":740718,"ownershipPct":3.949929948705484,"effectiveDate":"2008-03-19"},{"code":"BBC","shareholderType":"COMPANY","shareholderName":"Chứng khoán BIDV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":720090,"ownershipPct":3.8399297124726712,"effectiveDate":"2010-12-15"},{"code":"BBC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Liên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":651200,"ownershipPct":3.4725690243750136,"effectiveDate":"2008-10-22"},{"code":"BBC","shareholderType":"COMPANY","shareholderName":"Vietnam Emerging Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":542000,"ownershipPct":2.8902524742187614,"effectiveDate":"2007-03-06"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tập đoàn PAN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11052150,
+      "ownershipPct": 58.93635402755882,
+      "effectiveDate": "2022-01-19"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư Đường Mặt Trời",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3252930,
+      "ownershipPct": 17.34647413461335,
+      "effectiveDate": "2014-05-29"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Citigroup Global Market LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1217706,
+      "ownershipPct": 6.493501437953932,
+      "effectiveDate": "2007-09-07"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư bất động sản SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1105220,
+      "ownershipPct": 5.8936620656015855,
+      "effectiveDate": "2013-04-16"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư chứng khoán Bản Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1020090,
+      "ownershipPct": 5.439700454660177,
+      "effectiveDate": "2010-05-28"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Trâm Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 754400,
+      "ownershipPct": 4.022890159687516,
+      "effectiveDate": "2021-03-11"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Citigroup Global Market LTD & Citigroup Global Market Financial Products LTD.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 740718,
+      "ownershipPct": 3.949929948705484,
+      "effectiveDate": "2008-03-19"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 720090,
+      "ownershipPct": 3.8399297124726712,
+      "effectiveDate": "2010-12-15"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Liên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 651200,
+      "ownershipPct": 3.4725690243750136,
+      "effectiveDate": "2008-10-22"
+    },
+    {
+      "code": "BBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Emerging Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 542000,
+      "ownershipPct": 2.8902524742187614,
+      "effectiveDate": "2007-03-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

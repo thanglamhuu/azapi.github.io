@@ -1,1 +1,28 @@
-{"data":[{"code":"BTB","shareholderType":"COMPANY","shareholderName":"TCT Bia Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5100000,"ownershipPct":66.30932441719955,"effectiveDate":"2020-06-30"},{"code":"BTB","shareholderType":"PERSON","shareholderName":"Đinh Văn Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":500000,"ownershipPct":6.500914158548976,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BTB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Bia Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5100000,
+      "ownershipPct": 66.30932441719955,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BTB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 500000,
+      "ownershipPct": 6.500914158548976,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,1 +1,28 @@
-{"data":[{"code":"TV4","shareholderType":"COMPANY","shareholderName":"Tập đoàn Điện lực Việt Nam (EVN)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14219766,"ownershipPct":71.8841899345009,"effectiveDate":"2022-11-09"},{"code":"TV4","shareholderType":"PERSON","shareholderName":"Lâm Du Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":425563,"ownershipPct":2.15131891207605,"effectiveDate":"2022-11-09"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TV4",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Điện lực Việt Nam (EVN)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14219766,
+      "ownershipPct": 71.8841899345009,
+      "effectiveDate": "2022-11-09"
+    },
+    {
+      "code": "TV4",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Du Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 425563,
+      "ownershipPct": 2.15131891207605,
+      "effectiveDate": "2022-11-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

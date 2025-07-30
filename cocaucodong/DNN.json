@@ -1,1 +1,28 @@
-{"data":[{"code":"DNN","shareholderType":"COMPANY","shareholderName":"Ủy ban Nhân dân Thành Phố Đà Nẵng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":34824217,"ownershipPct":60.07898066355288,"effectiveDate":"2020-06-30"},{"code":"DNN","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Đà Nẵng Miền Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20286744,"ownershipPct":34.998831431082785,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DNN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban Nhân dân Thành Phố Đà Nẵng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 34824217,
+      "ownershipPct": 60.07898066355288,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DNN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Đà Nẵng Miền Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20286744,
+      "ownershipPct": 34.998831431082785,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

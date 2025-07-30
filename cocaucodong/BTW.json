@@ -1,1 +1,68 @@
-{"data":[{"code":"BTW","shareholderType":"COMPANY","shareholderName":"Tổng Công ty cấp nước Sài Gòn - TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4974700,"ownershipPct":53.14850427350427,"effectiveDate":"2020-06-30"},{"code":"BTW","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1879089,"ownershipPct":20.07573717948718,"effectiveDate":"2019-07-15"},{"code":"BTW","shareholderType":"COMPANY","shareholderName":"Ngân hàng Thương mại Cổ phần Đông Á ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":936000,"ownershipPct":10,"effectiveDate":"2020-06-30"},{"code":"BTW","shareholderType":"PERSON","shareholderName":"Hồ Lê Minh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":478050,"ownershipPct":5.107371794871795,"effectiveDate":"2023-04-03"},{"code":"BTW","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quản lý quỹ Đông Á","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":177000,"ownershipPct":1.891025641025641,"effectiveDate":"2020-06-30"},{"code":"BTW","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Chứng khoán ngân hàng Đông Á ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":93600,"ownershipPct":1,"effectiveDate":"2014-01-06"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty cấp nước Sài Gòn - TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4974700,
+      "ownershipPct": 53.14850427350427,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại N.T.P",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1311689,
+      "ownershipPct": 14.013771367521368,
+      "effectiveDate": "2025-07-03"
+    },
+    {
+      "code": "BTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Thương mại Cổ phần Đông Á ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 936000,
+      "ownershipPct": 10,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BTW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Lê Minh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 830550,
+      "ownershipPct": 8.873397435897436,
+      "effectiveDate": "2025-06-16"
+    },
+    {
+      "code": "BTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quản lý quỹ Đông Á",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 177000,
+      "ownershipPct": 1.891025641025641,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Chứng khoán ngân hàng Đông Á ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 93600,
+      "ownershipPct": 1,
+      "effectiveDate": "2014-01-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

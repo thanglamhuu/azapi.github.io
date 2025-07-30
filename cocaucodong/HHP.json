@@ -1,1 +1,68 @@
-{"data":[{"code":"HHP","shareholderType":"PERSON","shareholderName":"Trần Thị Thu Phương","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":8599177,"ownershipPct":9.935003492545718,"effectiveDate":"2024-04-17"},{"code":"HHP","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Thủy","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":7150008,"ownershipPct":8.260715467506929,"effectiveDate":"2024-04-17"},{"code":"HHP","shareholderType":"COMPANY","shareholderName":"Wardhaven Vietnam Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3998547,"ownershipPct":4.619695397607027,"effectiveDate":"2024-01-17"},{"code":"HHP","shareholderType":"PERSON","shareholderName":"Nguyễn Trung Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3195000,"ownershipPct":3.6913225717628055,"effectiveDate":"2024-01-17"},{"code":"HHP","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Tú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1704000,"ownershipPct":1.9687053716068297,"effectiveDate":"2024-01-17"},{"code":"HHP","shareholderType":"PERSON","shareholderName":"Nguyễn Huy Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1531616,"ownershipPct":1.7695426328867172,"effectiveDate":"2024-01-17"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thu Phương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 8614827,
+      "ownershipPct": 9.953084618757952,
+      "effectiveDate": "2024-05-08"
+    },
+    {
+      "code": "HHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Thủy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 7156108,
+      "ownershipPct": 8.26776306302735,
+      "effectiveDate": "2024-05-08"
+    },
+    {
+      "code": "HHP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Wardhaven Vietnam Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3998547,
+      "ownershipPct": 4.619695397607027,
+      "effectiveDate": "2024-01-17"
+    },
+    {
+      "code": "HHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trung Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3195000,
+      "ownershipPct": 3.6913225717628055,
+      "effectiveDate": "2024-01-17"
+    },
+    {
+      "code": "HHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Tú",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1704000,
+      "ownershipPct": 1.9687053716068297,
+      "effectiveDate": "2024-01-17"
+    },
+    {
+      "code": "HHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Huy Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1531616,
+      "ownershipPct": 1.7695426328867172,
+      "effectiveDate": "2024-01-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

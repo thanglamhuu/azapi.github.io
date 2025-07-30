@@ -1,1 +1,110 @@
-{"data":[{"code":"VIB","shareholderType":"COMPANY","shareholderName":"Commonwealth Bank of Australia","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":426456907,"ownershipPct":16.81077106892572,"effectiveDate":"2023-06-22"},{"code":"VIB","shareholderType":"PERSON","shareholderName":"Đặng Khắc Vỹ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":125553180,"ownershipPct":4.9492591896409905,"effectiveDate":"2023-06-30"},{"code":"VIB","shareholderType":"PERSON","shareholderName":"Đỗ Xuân Hoàng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":125553180,"ownershipPct":4.9492591896409905,"effectiveDate":"2023-06-30"},{"code":"VIB","shareholderType":"PERSON","shareholderName":"Trần Thị Thảo Hiền","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":125010258,"ownershipPct":4.927857408357886,"groupPct":5.030756385320638,"effectiveDate":"2023-06-30"},{"code":"VIB","shareholderType":"COMPANY","shareholderName":"CTCP Funderra","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":118710000,"ownershipPct":4.679503604785494,"effectiveDate":"2023-08-21"},{"code":"VIB","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Uniben","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":118646259,"ownershipPct":4.6769909585107685,"effectiveDate":"2023-06-22"},{"code":"VIB","shareholderType":"PERSON","shareholderName":"Đặng Thị Thu Hà","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":69665424,"ownershipPct":2.7461848432053735,"groupPct":3.0720353418817936,"effectiveDate":"2023-06-30"},{"code":"VIB","shareholderType":"PERSON","shareholderName":"Đỗ Xuân Thụ","roleType":"Bố của Thành viên HĐQT","enRoleType":"Father of Board member","numberOfShares":32876388,"ownershipPct":1.2959748644455107,"groupPct":4.343553404158252,"effectiveDate":"2023-06-22"},{"code":"VIB","shareholderType":"PERSON","shareholderName":"Đỗ Xuân Sơn","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":32400000,"ownershipPct":1.2771958284478984,"groupPct":4.343553404158252,"effectiveDate":"2023-06-30"},{"code":"VIB","shareholderType":"PERSON","shareholderName":"Đỗ Xuân Việt","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":32400000,"ownershipPct":1.2771958284478984,"groupPct":4.343553404158252,"effectiveDate":"2023-06-22"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Commonwealth Bank of Australia",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 159840247,
+      "ownershipPct": 4.7064359655646415,
+      "effectiveDate": "2025-07-17"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Beston",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 158380327,
+      "ownershipPct": 4.66344917016231,
+      "effectiveDate": "2025-07-17"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Khắc Vỹ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 146897220,
+      "ownershipPct": 4.325333402728423,
+      "effectiveDate": "2024-08-22"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Xuân Hoàng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 146897220,
+      "ownershipPct": 4.325333402728423,
+      "effectiveDate": "2024-08-22"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thảo Hiền",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 146262001,
+      "ownershipPct": 4.306629618145244,
+      "groupPct": 4.396556679718909,
+      "effectiveDate": "2024-08-22"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Funderra",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 138890700,
+      "ownershipPct": 4.089584432151491,
+      "effectiveDate": "2024-08-22"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Uniben",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 118646259,
+      "ownershipPct": 3.4934944797557623,
+      "effectiveDate": "2023-06-22"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY CỔ PHẦN UNICAP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 117675360,
+      "ownershipPct": 3.464906723803842,
+      "effectiveDate": "2025-07-17"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Thu Hà",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 106840623,
+      "ownershipPct": 3.1458819672027465,
+      "groupPct": 3.6047898877126614,
+      "effectiveDate": "2025-07-17"
+    },
+    {
+      "code": "VIB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thùy Nga",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 87771228,
+      "ownershipPct": 2.5843908024051934,
+      "effectiveDate": "2025-07-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

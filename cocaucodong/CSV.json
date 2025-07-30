@@ -1,1 +1,58 @@
-{"data":[{"code":"CSV","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":27627500,"ownershipPct":25.002282807289163,"effectiveDate":"2024-07-01"},{"code":"CSV","shareholderType":"COMPANY","shareholderName":"American LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11734510,"ownershipPct":10.619474712694336,"effectiveDate":"2024-07-01"},{"code":"CSV","shareholderType":"COMPANY","shareholderName":"Vietnam Investment Property Holdings Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5382710,"ownershipPct":4.871234736752275,"effectiveDate":"2024-07-01"},{"code":"CSV","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4258260,"ownershipPct":3.8536320979808942,"effectiveDate":"2024-07-01"},{"code":"CSV","shareholderType":"COMPANY","shareholderName":"Vietnam Enterprise Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1585700,"ownershipPct":1.4350237932320489,"effectiveDate":"2024-07-01"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CSV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 27627500,
+      "ownershipPct": 25.002282807289163,
+      "effectiveDate": "2024-07-01"
+    },
+    {
+      "code": "CSV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "American LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11734510,
+      "ownershipPct": 10.619474712694336,
+      "effectiveDate": "2024-07-01"
+    },
+    {
+      "code": "CSV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Investment Property Holdings Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5382710,
+      "ownershipPct": 4.871234736752275,
+      "effectiveDate": "2024-07-01"
+    },
+    {
+      "code": "CSV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4258260,
+      "ownershipPct": 3.8536320979808942,
+      "effectiveDate": "2024-07-01"
+    },
+    {
+      "code": "CSV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Enterprise Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1585700,
+      "ownershipPct": 1.4350237932320489,
+      "effectiveDate": "2024-07-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

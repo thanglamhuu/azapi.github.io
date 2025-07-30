@@ -1,1 +1,58 @@
-{"data":[{"code":"SCC","shareholderType":"PERSON","shareholderName":"Đỗ Văn Trường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1917300,"ownershipPct":40.00625978090767,"effectiveDate":"2020-12-31"},{"code":"SCC","shareholderType":"COMPANY","shareholderName":"CTCP đầu tư thương mại Hưng Long tỉnh Điện Biên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1082500,"ownershipPct":22.58737610850287,"effectiveDate":"2020-12-31"},{"code":"SCC","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":900000,"ownershipPct":18.779342723004696,"effectiveDate":"2020-12-31"},{"code":"SCC","shareholderType":"COMPANY","shareholderName":"Thương mại Đầu tư SHB","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":92400,"ownershipPct":1.9280125195618154,"effectiveDate":"2009-06-09"},{"code":"SCC","shareholderType":"PERSON","shareholderName":"Trần Đức Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":60700,"ownershipPct":1.2665623369848722,"effectiveDate":"2015-04-17"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Trường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1917300,
+      "ownershipPct": 40.00625978090767,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP đầu tư thương mại Hưng Long tỉnh Điện Biên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1082500,
+      "ownershipPct": 22.58737610850287,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 900000,
+      "ownershipPct": 18.779342723004696,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SCC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thương mại Đầu tư SHB",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 92400,
+      "ownershipPct": 1.9280125195618154,
+      "effectiveDate": "2009-06-09"
+    },
+    {
+      "code": "SCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đức Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 60700,
+      "ownershipPct": 1.2665623369848722,
+      "effectiveDate": "2015-04-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

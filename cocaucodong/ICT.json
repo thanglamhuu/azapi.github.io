@@ -1,1 +1,99 @@
-{"data":[{"code":"ICT","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10117108,"ownershipPct":31.434233338511728,"effectiveDate":"2020-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Hà Thanh Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4166017,"ownershipPct":12.943970793848067,"effectiveDate":"2022-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Hoàng Anh Lộc","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3522436,"ownershipPct":10.944340531303402,"effectiveDate":"2022-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Thịnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3317364,"ownershipPct":10.307174149448501,"effectiveDate":"2022-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Đặng Anh Dũng","roleType":"Anh của Chủ tịch HĐQT","enRoleType":"Elder Brother of Chairman","numberOfShares":1266532,"ownershipPct":3.9351623427062297,"groupPct":4.993543576200093,"effectiveDate":"2020-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Nguyễn Trí Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":724930,"ownershipPct":2.2523846512350474,"effectiveDate":"2020-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Lê Lưu Ngân","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":683066,"ownershipPct":2.122311635855212,"effectiveDate":"2023-11-20"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Tô Hoài Văn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":534239,"ownershipPct":1.6599005748019264,"effectiveDate":"2020-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Lê Thanh Sơn","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":441676,"ownershipPct":1.3723038682616127,"effectiveDate":"2022-06-30"},{"code":"ICT","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Hiếu","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":390742,"ownershipPct":1.214050023302781,"effectiveDate":"2023-03-30"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ICT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10117108,
+      "ownershipPct": 31.434233338511728,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thanh Hải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4166017,
+      "ownershipPct": 12.943970793848067,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Anh Lộc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3522436,
+      "ownershipPct": 10.944340531303402,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Anh Dũng",
+      "roleType": "Anh của Chủ tịch HĐQT",
+      "enRoleType": "Elder Brother of Chairman",
+      "numberOfShares": 1266532,
+      "ownershipPct": 3.9351623427062297,
+      "groupPct": 4.993543576200093,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trí Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 724930,
+      "ownershipPct": 2.2523846512350474,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Lưu Ngân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 683066,
+      "ownershipPct": 2.122311635855212,
+      "effectiveDate": "2024-07-26"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tô Hoài Văn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 534239,
+      "ownershipPct": 1.6599005748019264,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thanh Sơn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 441676,
+      "ownershipPct": 1.3723038682616127,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "ICT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Hiếu",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 390742,
+      "ownershipPct": 1.214050023302781,
+      "effectiveDate": "2023-03-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

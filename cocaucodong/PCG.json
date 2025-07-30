@@ -1,1 +1,68 @@
-{"data":[{"code":"PCG","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tú","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":7063400,"ownershipPct":37.43190249072602,"effectiveDate":"2024-05-28"},{"code":"PCG","shareholderType":"PERSON","shareholderName":"Zhu Zhilin","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4100000,"ownershipPct":21.72760996290408,"effectiveDate":"2024-05-22"},{"code":"PCG","shareholderType":"PERSON","shareholderName":"Cheng Qing Huang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1714800,"ownershipPct":9.087440381558029,"effectiveDate":"2022-11-11"},{"code":"PCG","shareholderType":"COMPANY","shareholderName":"Prism Energy International Hong Kong Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":943500,"ownershipPct":5,"effectiveDate":"2018-10-30"},{"code":"PCG","shareholderType":"PERSON","shareholderName":"Yang Xiao Dong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":767500,"ownershipPct":4.067302596714361,"effectiveDate":"2024-07-03"},{"code":"PCG","shareholderType":"PERSON","shareholderName":"ZHOU HAO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":600000,"ownershipPct":3.179650238473768,"effectiveDate":"2024-05-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tú",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 7063400,
+      "ownershipPct": 37.43190249072602,
+      "effectiveDate": "2024-05-28"
+    },
+    {
+      "code": "PCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Zhu Zhilin",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4100000,
+      "ownershipPct": 21.72760996290408,
+      "effectiveDate": "2024-05-22"
+    },
+    {
+      "code": "PCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cheng Qing Huang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1714800,
+      "ownershipPct": 9.087440381558029,
+      "effectiveDate": "2022-11-11"
+    },
+    {
+      "code": "PCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Prism Energy International Hong Kong Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 938800,
+      "ownershipPct": 4.975092739798622,
+      "effectiveDate": "2024-11-28"
+    },
+    {
+      "code": "PCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Yang Xiao Dong",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 767500,
+      "ownershipPct": 4.067302596714361,
+      "effectiveDate": "2024-07-03"
+    },
+    {
+      "code": "PCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "ZHOU HAO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 600000,
+      "ownershipPct": 3.179650238473768,
+      "effectiveDate": "2024-05-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

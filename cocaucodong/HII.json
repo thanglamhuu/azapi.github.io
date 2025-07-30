@@ -1,1 +1,18 @@
-{"data":[{"code":"HII","shareholderType":"COMPANY","shareholderName":"Nhựa An Phát Xanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":40407558,"ownershipPct":54.85460709347008,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HII",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhựa An Phát Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 40407558,
+      "ownershipPct": 54.85460709347008,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

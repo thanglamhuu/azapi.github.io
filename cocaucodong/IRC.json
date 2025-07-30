@@ -1,1 +1,58 @@
-{"data":[{"code":"IRC","shareholderType":"COMPANY","shareholderName":"Tổng công ty công nghiệp thực phẩm Đồng Nai - Một thành viên Công ty TNHH","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11523600,"ownershipPct":65.84914285714285,"effectiveDate":"2020-06-30"},{"code":"IRC","shareholderType":"PERSON","shareholderName":"Vũ Kim Liên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1339600,"ownershipPct":7.654857142857143,"effectiveDate":"2019-01-14"},{"code":"IRC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư xây dựng Tuấn Lộc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1312500,"ownershipPct":7.5,"effectiveDate":"2020-06-30"},{"code":"IRC","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn Capella","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1312500,"ownershipPct":7.5,"effectiveDate":"2020-06-30"},{"code":"IRC","shareholderType":"PERSON","shareholderName":"Bùi Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1218991,"ownershipPct":6.965662857142857,"effectiveDate":"2018-12-25"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "IRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty công nghiệp thực phẩm Đồng Nai - Một thành viên Công ty TNHH",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11523600,
+      "ownershipPct": 65.84914285714285,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "IRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Kim Liên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1339600,
+      "ownershipPct": 7.654857142857143,
+      "effectiveDate": "2019-01-14"
+    },
+    {
+      "code": "IRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư xây dựng Tuấn Lộc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1312500,
+      "ownershipPct": 7.5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "IRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tập đoàn Capella",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1312500,
+      "ownershipPct": 7.5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "IRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1218991,
+      "ownershipPct": 6.965662857142857,
+      "effectiveDate": "2018-12-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

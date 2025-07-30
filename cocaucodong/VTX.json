@@ -1,1 +1,50 @@
-{"data":[{"code":"VTX","shareholderType":"COMPANY","shareholderName":"Kho vận miền Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19539896,"ownershipPct":93.16992620893033,"effectiveDate":"2020-10-15"},{"code":"VTX","shareholderType":"PERSON","shareholderName":"Dương Thị Hồng Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":276200,"ownershipPct":1.3169739295903395,"effectiveDate":"2016-02-19"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VTX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Kho vận miền Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19539896,
+      "ownershipPct": 93.16992620893033,
+      "effectiveDate": "2020-10-15"
+    },
+    {
+      "code": "VTX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Ngọc Mai",
+      "roleType": "Chị/em dâu của Đại diện CBTT",
+      "enRoleType": "Sister in law of Spokeman",
+      "numberOfShares": 385206,
+      "ownershipPct": 1.8367351901584952,
+      "groupPct": 3.6734703803169904,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VTX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Ngọc Mai",
+      "roleType": "Chị/em dâu của Đại diện CBTT",
+      "enRoleType": "Sister in law of Spokeman",
+      "numberOfShares": 385206,
+      "ownershipPct": 1.8367351901584952,
+      "groupPct": 3.6734703803169904,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VTX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thị Hồng Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 276200,
+      "ownershipPct": 1.3169739295903395,
+      "effectiveDate": "2016-02-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

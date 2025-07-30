@@ -1,1 +1,88 @@
-{"data":[{"code":"SZL","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4654290,"ownershipPct":17.02091167011769,"effectiveDate":"2023-11-16"},{"code":"SZL","shareholderType":"COMPANY","shareholderName":"Sonadezi Long Thành","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":2655450,"ownershipPct":9.711079433042208,"effectiveDate":"2023-11-16"},{"code":"SZL","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư phát triển tỉnh Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1698300,"ownershipPct":6.210746276953278,"effectiveDate":"2023-11-16"},{"code":"SZL","shareholderType":"PERSON","shareholderName":"Trần Cảnh Thông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1674855,"ownershipPct":6.1250070397966105,"effectiveDate":"2023-11-16"},{"code":"SZL","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Điện lực Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1356000,"ownershipPct":4.9589424433543225,"effectiveDate":"2023-11-16"},{"code":"SZL","shareholderType":"COMPANY","shareholderName":"KITMC WORLDWIDE VIETNAM RSP BALANCED FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":499905,"ownershipPct":1.8281711815228927,"effectiveDate":"2023-11-16"},{"code":"SZL","shareholderType":"COMPANY","shareholderName":"Công ty Chứng khoán Maybank Kim Eng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":327375,"ownershipPct":1.1972225533872576,"effectiveDate":"2023-11-16"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SZL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Phát triển Khu công nghiệp Biên Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15357000,
+      "ownershipPct": 56.161120282147735,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "SZL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4654290,
+      "ownershipPct": 17.02091167011769,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "SZL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sonadezi Long Thành",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 2655450,
+      "ownershipPct": 9.711079433042208,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "SZL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư phát triển tỉnh Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1698300,
+      "ownershipPct": 6.210746276953278,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "SZL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Cảnh Thông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1674855,
+      "ownershipPct": 6.1250070397966105,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "SZL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Điện lực Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1356000,
+      "ownershipPct": 4.9589424433543225,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "SZL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KITMC WORLDWIDE VIETNAM RSP BALANCED FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 499905,
+      "ownershipPct": 1.8281711815228927,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "SZL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Chứng khoán Maybank Kim Eng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 327375,
+      "ownershipPct": 1.1972225533872576,
+      "effectiveDate": "2023-11-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

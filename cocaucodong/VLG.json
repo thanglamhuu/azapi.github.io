@@ -1,1 +1,18 @@
-{"data":[{"code":"VLG","shareholderType":"COMPANY","shareholderName":"Hàng hải Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8061620,"ownershipPct":56.92378194522999,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hàng hải Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8061620,
+      "ownershipPct": 56.92378194522999,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

@@ -1,1 +1,38 @@
-{"data":[{"code":"AMD","shareholderType":"PERSON","shareholderName":"Nguyễn Tiến Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7700000,"ownershipPct":4.709339735034443,"effectiveDate":"2017-06-23"},{"code":"AMD","shareholderType":"COMPANY","shareholderName":"Chứng khoán BOS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3000000,"ownershipPct":1.8348076889744582,"effectiveDate":"2018-01-19"},{"code":"AMD","shareholderType":"COMPANY","shareholderName":"Xây dựng FLC Faros","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2167948,"ownershipPct":1.3259225532322663,"effectiveDate":"2017-10-24"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AMD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiến Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7700000,
+      "ownershipPct": 4.709339735034443,
+      "effectiveDate": "2017-06-23"
+    },
+    {
+      "code": "AMD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán BOS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3000000,
+      "ownershipPct": 1.8348076889744582,
+      "effectiveDate": "2018-01-19"
+    },
+    {
+      "code": "AMD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xây dựng FLC Faros",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2167948,
+      "ownershipPct": 1.3259225532322663,
+      "effectiveDate": "2017-10-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

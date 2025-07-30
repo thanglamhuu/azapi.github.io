@@ -1,1 +1,111 @@
-{"data":[{"code":"TRT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH SX và TM Minh Ngọc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3680808,"ownershipPct":33.54493597240003,"effectiveDate":"2023-09-11"},{"code":"TRT","shareholderType":"COMPANY","shareholderName":"TCT Thép Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2206000,"ownershipPct":20.104316431369003,"effectiveDate":"2020-06-30"},{"code":"TRT","shareholderType":"PERSON","shareholderName":"Đặng Việt Phương Anh","roleType":"Con của Phó chủ tịch HĐQT","enRoleType":"Child of Vice-chairman","numberOfShares":1478492,"ownershipPct":13.474193567202004,"groupPct":28.17924337778763,"effectiveDate":"2020-01-13"},{"code":"TRT","shareholderType":"PERSON","shareholderName":"Đặng Việt Dũng","roleType":"Con của Phó chủ tịch HĐQT","enRoleType":"Child of Vice-chairman","numberOfShares":1314296,"ownershipPct":11.977798127145311,"groupPct":28.17924337778763,"effectiveDate":"2022-06-08"},{"code":"TRT","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":845236,"ownershipPct":7.70303354632122,"effectiveDate":"2020-06-30"},{"code":"TRT","shareholderType":"PERSON","shareholderName":"Đặng Văn Việt","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":589546,"ownershipPct":5.372810215252888,"effectiveDate":"2021-05-28"},{"code":"TRT","shareholderType":"PERSON","shareholderName":"Đỗ Tô Hiệu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":530000,"ownershipPct":4.830139487137612,"effectiveDate":"2020-06-30"},{"code":"TRT","shareholderType":"PERSON","shareholderName":"Hoàng Trọng Bình","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":500000,"ownershipPct":4.556735365224162,"effectiveDate":"2020-06-30"},{"code":"TRT","shareholderType":"PERSON","shareholderName":"Đặng Văn Đạt","roleType":"Em trai của Phó chủ tịch HĐQT","enRoleType":"Young Brother of Vice-chairman","numberOfShares":299255,"ownershipPct":2.7272516834403135,"groupPct":28.17924337778763,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH SX và TM Minh Ngọc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3730808,
+      "ownershipPct": 34.00060950892245,
+      "effectiveDate": "2024-10-02"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thép Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2206000,
+      "ownershipPct": 20.104316431369003,
+      "effectiveDate": "2024-12-13"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Việt Phương Anh",
+      "roleType": "Con của Phó chủ tịch HĐQT",
+      "enRoleType": "Child of Vice-chairman",
+      "numberOfShares": 1478492,
+      "ownershipPct": 13.474193567202004,
+      "groupPct": 28.17924337778763,
+      "effectiveDate": "2020-01-13"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Việt Dũng",
+      "roleType": "Con của Phó chủ tịch HĐQT",
+      "enRoleType": "Child of Vice-chairman",
+      "numberOfShares": 1314296,
+      "ownershipPct": 11.977798127145311,
+      "groupPct": 28.17924337778763,
+      "effectiveDate": "2022-06-08"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Việt Dũng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1314296,
+      "ownershipPct": 11.977798127145311,
+      "effectiveDate": "2025-04-11"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 845236,
+      "ownershipPct": 7.70303354632122,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Văn Việt",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 589546,
+      "ownershipPct": 5.372810215252888,
+      "effectiveDate": "2021-05-28"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Tô Hiệu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 530000,
+      "ownershipPct": 4.830139487137612,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Trọng Bình",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 500000,
+      "ownershipPct": 4.556735365224162,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TRT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Văn Đạt",
+      "roleType": "Em trai của Phó chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Vice-chairman",
+      "numberOfShares": 299255,
+      "ownershipPct": 2.7272516834403135,
+      "groupPct": 28.17924337778763,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

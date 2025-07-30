@@ -1,1 +1,68 @@
-{"data":[{"code":"HUB","shareholderType":"COMPANY","shareholderName":"Nhà Bà Rịa VT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9780463,"ownershipPct":37.19028244910525,"effectiveDate":"2023-11-07"},{"code":"HUB","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Phương Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":892766,"ownershipPct":3.394749277304959,"effectiveDate":"2023-11-06"},{"code":"HUB","shareholderType":"COMPANY","shareholderName":"AFC VF Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":738272,"ownershipPct":2.8072847066918842,"effectiveDate":"2023-08-03"},{"code":"HUB","shareholderType":"PERSON","shareholderName":"Lê Quý Định","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":664207,"ownershipPct":2.5256519997747393,"effectiveDate":"2023-12-31"},{"code":"HUB","shareholderType":"PERSON","shareholderName":"Nguyễn Chí Thành","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":456271,"ownershipPct":1.734973831334539,"effectiveDate":"2023-08-03"},{"code":"HUB","shareholderType":"PERSON","shareholderName":"Đoàn Hữu Thuận","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":358421,"ownershipPct":1.362898487084993,"effectiveDate":"2023-08-03"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HUB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhà Bà Rịa VT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11903032,
+      "ownershipPct": 39.35813251635641,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "HUB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phương Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1026680,
+      "ownershipPct": 3.394782731987346,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "HUB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quý Định",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 763838,
+      "ownershipPct": 2.5256789383602976,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "HUB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC VF Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 738272,
+      "ownershipPct": 2.4411433329857033,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "HUB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Chí Thành",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 456271,
+      "ownershipPct": 1.5086890870637377,
+      "effectiveDate": "2023-08-03"
+    },
+    {
+      "code": "HUB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Hữu Thuận",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 358421,
+      "ownershipPct": 1.185141837360849,
+      "effectiveDate": "2023-08-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

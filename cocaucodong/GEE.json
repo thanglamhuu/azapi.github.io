@@ -1,1 +1,38 @@
-{"data":[{"code":"GEE","shareholderType":"COMPANY","shareholderName":"Tập đoàn Gelex","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":239995600,"ownershipPct":79.99853333333333,"effectiveDate":"2021-11-22"},{"code":"GEE","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Cơ điện Trần Phú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14050000,"ownershipPct":4.683333333333334,"effectiveDate":"2024-02-02"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GEE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Gelex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 287994720,
+      "ownershipPct": 78.68709142686345,
+      "effectiveDate": "2025-04-28"
+    },
+    {
+      "code": "GEE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Máy tính - Truyền thông - Điều khiển 3C",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18000000,
+      "ownershipPct": 4.918033378124231,
+      "effectiveDate": "2025-04-28"
+    },
+    {
+      "code": "GEE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Cơ điện Trần Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16860000,
+      "ownershipPct": 4.60655793084303,
+      "effectiveDate": "2025-04-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

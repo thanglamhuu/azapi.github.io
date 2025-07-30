@@ -1,1 +1,29 @@
-{"data":[{"code":"AAH","shareholderType":"PERSON","shareholderName":"Đặng Quốc Lịch","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":36131500,"ownershipPct":30.645886344359628,"effectiveDate":"2024-06-12"},{"code":"AAH","shareholderType":"PERSON","shareholderName":"Đặng Quốc Chính","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":3537000,"ownershipPct":3,"groupPct":3.001696352841391,"effectiveDate":"2023-10-16"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AAH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Quốc Lịch",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 36131500,
+      "ownershipPct": 30.645886344359628,
+      "effectiveDate": "2024-06-12"
+    },
+    {
+      "code": "AAH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Quốc Chính",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 3537000,
+      "ownershipPct": 3,
+      "groupPct": 3.001696352841391,
+      "effectiveDate": "2023-10-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

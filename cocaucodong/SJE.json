@@ -1,1 +1,48 @@
-{"data":[{"code":"SJE","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Energy Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12805580,"ownershipPct":52.98412480500098,"effectiveDate":"2023-08-31"},{"code":"SJE","shareholderType":"COMPANY","shareholderName":"Tổng CT Sông Đà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4095960,"ownershipPct":16.947366369683515,"effectiveDate":"2023-07-10"},{"code":"SJE","shareholderType":"PERSON","shareholderName":"Lưu Văn Hổ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1207122,"ownershipPct":4.9945650804463675,"effectiveDate":"2023-07-10"},{"code":"SJE","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Sơn","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1054953,"ownershipPct":4.364953513656562,"effectiveDate":"2023-07-10"},{"code":"SJE","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết Trinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":458261,"ownershipPct":1.896092017484921,"effectiveDate":"2023-07-10"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SJE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Energy Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12805580,
+      "ownershipPct": 30.276642924674935,
+      "effectiveDate": "2023-08-31"
+    },
+    {
+      "code": "SJE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng CT Sông Đà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4095960,
+      "ownershipPct": 9.68420941134658,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "SJE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Văn Hổ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1207122,
+      "ownershipPct": 2.8540372056962244,
+      "effectiveDate": "2023-07-10"
+    },
+    {
+      "code": "SJE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết Trinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 458261,
+      "ownershipPct": 1.0834811592527993,
+      "effectiveDate": "2023-07-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

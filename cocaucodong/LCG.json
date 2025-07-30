@@ -1,1 +1,108 @@
-{"data":[{"code":"LCG","shareholderType":"COMPANY","shareholderName":"Vietnam Enterprise Investments Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24775064,"ownershipPct":12.830782147129595,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Nghĩa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":9782506,"ownershipPct":5.066271608379625,"effectiveDate":"2023-06-16"},{"code":"LCG","shareholderType":"COMPANY","shareholderName":"LUCERNE ENTERPRISE LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6806564,"ownershipPct":3.5250580928668844,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"PERSON","shareholderName":"Bùi Dương Hùng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":5800052,"ownershipPct":3.003794607917998,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"COMPANY","shareholderName":"NS Advisory Inc Pte.LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5683575,"ownershipPct":2.9434722203693235,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"COMPANY","shareholderName":"Red River Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3918426,"ownershipPct":2.0293174768649815,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"COMPANY","shareholderName":"Ng.hàng Tiên Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3396494,"ownershipPct":1.7590136024687075,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"COMPANY","shareholderName":"Chứng khoán SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3362936,"ownershipPct":1.7416342169989718,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"COMPANY","shareholderName":"CK Sacombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3090605,"ownershipPct":1.600596448825701,"effectiveDate":"2022-08-09"},{"code":"LCG","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2558704,"ownershipPct":1.3251297192608296,"effectiveDate":"2022-08-09"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Enterprise Investments Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24775064,
+      "ownershipPct": 12.830782147129595,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Nghĩa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 9782506,
+      "ownershipPct": 5.066271608379625,
+      "effectiveDate": "2023-06-16"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LUCERNE ENTERPRISE LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6806564,
+      "ownershipPct": 3.5250580928668844,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Dương Hùng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 5800052,
+      "ownershipPct": 3.003794607917998,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "NS Advisory Inc Pte.LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5683575,
+      "ownershipPct": 2.9434722203693235,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Red River Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3918426,
+      "ownershipPct": 2.0293174768649815,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ng.hàng Tiên Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3396494,
+      "ownershipPct": 1.7590136024687075,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3362936,
+      "ownershipPct": 1.7416342169989718,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Sacombank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3090605,
+      "ownershipPct": 1.600596448825701,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "LCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2558704,
+      "ownershipPct": 1.3251297192608296,
+      "effectiveDate": "2022-08-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

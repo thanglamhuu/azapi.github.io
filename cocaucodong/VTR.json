@@ -1,1 +1,108 @@
-{"data":[{"code":"VTR","shareholderType":"COMPANY","shareholderName":"CTCP Vietravel Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7036324,"ownershipPct":24.552527584817035,"effectiveDate":"2021-11-19"},{"code":"VTR","shareholderType":"COMPANY","shareholderName":"CTCP TẬP ĐOÀN HƯNG THỊNH","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6000000,"ownershipPct":20.936381768221903,"effectiveDate":"2023-02-07"},{"code":"VTR","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn Vietravel (Vietravel Corporation)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4179181,"ownershipPct":14.582821482416563,"effectiveDate":"2023-06-30"},{"code":"VTR","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Kỳ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3203330,"ownershipPct":11.177689968266376,"effectiveDate":"2023-02-06"},{"code":"VTR","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VinaCapital VN100","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2857143,"ownershipPct":9.96970610240047,"effectiveDate":"2023-04-07"},{"code":"VTR","shareholderType":"PERSON","shareholderName":"Trần Đoàn Thế Duy","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":729873,"ownershipPct":2.5468166283862375,"effectiveDate":"2023-02-06"},{"code":"VTR","shareholderType":"PERSON","shareholderName":"Võ Quang Liên Kha","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":728835,"ownershipPct":2.543194634340335,"effectiveDate":"2023-02-06"},{"code":"VTR","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lê Hương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":727823,"ownershipPct":2.539663364615428,"effectiveDate":"2023-02-06"},{"code":"VTR","shareholderType":"COMPANY","shareholderName":"Vietravel","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":636586,"ownershipPct":2.2213012540508847,"effectiveDate":"2021-04-29"},{"code":"VTR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Dịch vụ Du lịch và Lữ hành Quốc Tế Sài Gòn (SG Travel)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":512555,"ownershipPct":1.7885078595351627,"effectiveDate":"2021-11-19"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "VTR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Vietravel Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7036324,
+      "ownershipPct": 12.276263792408518,
+      "effectiveDate": "2021-11-19"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thủy Tiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6000000,
+      "ownershipPct": 10.468190884110951,
+      "effectiveDate": "2025-03-13"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP TẬP ĐOÀN HƯNG THỊNH",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6000000,
+      "ownershipPct": 10.468190884110951,
+      "effectiveDate": "2023-02-07"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn Vietravel (Vietravel Corporation)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4179181,
+      "ownershipPct": 7.291410741208281,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Kỳ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3203330,
+      "ownershipPct": 5.588844984133188,
+      "effectiveDate": "2023-02-06"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VinaCapital VN100",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2857143,
+      "ownershipPct": 4.984853051200235,
+      "effectiveDate": "2023-04-07"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đoàn Thế Duy",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 729873,
+      "ownershipPct": 1.2734083141931187,
+      "effectiveDate": "2023-02-06"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Quang Liên Kha",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 728835,
+      "ownershipPct": 1.2715973171701676,
+      "effectiveDate": "2023-02-06"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lê Hương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 727823,
+      "ownershipPct": 1.269831682307714,
+      "effectiveDate": "2023-02-06"
+    },
+    {
+      "code": "VTR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietravel",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 636586,
+      "ownershipPct": 1.1106506270254424,
+      "effectiveDate": "2021-04-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

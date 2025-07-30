@@ -1,1 +1,28 @@
-{"data":[{"code":"CMW","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Cà Mau","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11105700,"ownershipPct":71.48871251182821,"effectiveDate":"2018-05-31"},{"code":"CMW","shareholderType":"COMPANY","shareholderName":"Nước Thủ Dầu Một","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3789600,"ownershipPct":24.394106173840836,"effectiveDate":"2024-05-07"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CMW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Cà Mau",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11105700,
+      "ownershipPct": 71.48871251182821,
+      "effectiveDate": "2018-05-31"
+    },
+    {
+      "code": "CMW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nước Thủ Dầu Một",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3789600,
+      "ownershipPct": 24.394106173840836,
+      "effectiveDate": "2024-05-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

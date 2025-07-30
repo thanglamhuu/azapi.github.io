@@ -1,1 +1,68 @@
-{"data":[{"code":"HDM","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12230141,"ownershipPct":60.857799454117306,"effectiveDate":"2023-06-08"},{"code":"HDM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tường Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1710635,"ownershipPct":8.512206177279065,"effectiveDate":"2023-06-08"},{"code":"HDM","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư TTN Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":972503,"ownershipPct":4.8392240565768985,"effectiveDate":"2023-06-08"},{"code":"HDM","shareholderType":"PERSON","shareholderName":"Nguyễn Bá Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":636110,"ownershipPct":3.1653154947893536,"effectiveDate":"2023-06-08"},{"code":"HDM","shareholderType":"PERSON","shareholderName":"Phạm Gia Định","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":408549,"ownershipPct":2.0329604629398936,"effectiveDate":"2023-06-08"},{"code":"HDM","shareholderType":"PERSON","shareholderName":"Lê Công An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":244013,"ownershipPct":1.2142210149660193,"effectiveDate":"2023-06-08"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12230141,
+      "ownershipPct": 60.857799454117306,
+      "effectiveDate": "2023-06-08"
+    },
+    {
+      "code": "HDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tường Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1710635,
+      "ownershipPct": 8.512206177279065,
+      "effectiveDate": "2023-06-08"
+    },
+    {
+      "code": "HDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư TTN Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 972503,
+      "ownershipPct": 4.8392240565768985,
+      "effectiveDate": "2023-06-08"
+    },
+    {
+      "code": "HDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Bá Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 636110,
+      "ownershipPct": 3.1653154947893536,
+      "effectiveDate": "2023-06-08"
+    },
+    {
+      "code": "HDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Gia Định",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 408549,
+      "ownershipPct": 2.0329604629398936,
+      "effectiveDate": "2023-06-08"
+    },
+    {
+      "code": "HDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Công An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 244013,
+      "ownershipPct": 1.2142210149660193,
+      "effectiveDate": "2023-06-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

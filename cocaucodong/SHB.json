@@ -1,1 +1,112 @@
-{"data":[{"code":"SHB","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn T&T","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":287388485,"ownershipPct":7.846972352230673,"effectiveDate":"2024-06-26"},{"code":"SHB","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":134264035,"ownershipPct":3.6659999461841046,"effectiveDate":"2023-07-24"},{"code":"SHB","shareholderType":"COMPANY","shareholderName":"Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":134264035,"ownershipPct":3.6659999461841046,"effectiveDate":"2023-07-24"},{"code":"SHB","shareholderType":"PERSON","shareholderName":"Đỗ Vinh Quang","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":107252236,"ownershipPct":2.928458774564051,"groupPct":9.446239346403079,"effectiveDate":"2023-07-24"},{"code":"SHB","shareholderType":"PERSON","shareholderName":"Đỗ Quang Vinh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":101172816,"ownershipPct":2.7624638125265215,"groupPct":9.446239346403079,"effectiveDate":"2024-06-26"},{"code":"SHB","shareholderType":"PERSON","shareholderName":"Đỗ Quang Hiển","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":99787412,"ownershipPct":2.724636176931902,"effectiveDate":"2024-01-25"},{"code":"SHB","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":82403843,"ownershipPct":2.2499881223096225,"effectiveDate":"2023-07-24"},{"code":"SHB","shareholderType":"PERSON","shareholderName":"Đỗ Thị Thu Hà","roleType":"Chị của Chủ tịch HĐQT","enRoleType":"Elder Sister of Chairman","numberOfShares":74442202,"ownershipPct":2.0326002307753246,"groupPct":9.446239346403079,"effectiveDate":"2023-07-24"},{"code":"SHB","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư phát triển sản xuất Hạ Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":71607485,"ownershipPct":1.95519996219672,"effectiveDate":"2023-07-24"},{"code":"SHB","shareholderType":"PERSON","shareholderName":"Đỗ Thị Thu Hà","roleType":"Chị của Chủ tịch HĐQT","enRoleType":"Elder Sister of Chairman","numberOfShares":63086612,"ownershipPct":1.7225425721559575,"groupPct":9.446239346403079,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SHB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn T&T",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 319001218,
+      "ownershipPct": 7.846066610713325,
+      "effectiveDate": "2025-02-26"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 134264035,
+      "ownershipPct": 3.3023214413969577,
+      "effectiveDate": "2023-07-24"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VINACOMIN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 134264035,
+      "ownershipPct": 3.3023214413969577,
+      "effectiveDate": "2023-07-24"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Quang Vinh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 112301825,
+      "ownershipPct": 2.7621449378123404,
+      "groupPct": 8.953569241296337,
+      "effectiveDate": "2025-02-26"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Quang Hiển",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 110764027,
+      "ownershipPct": 2.724321679275999,
+      "effectiveDate": "2025-02-26"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Vinh Quang",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 107252236,
+      "ownershipPct": 2.637946629419909,
+      "groupPct": 8.953569241296337,
+      "effectiveDate": "2023-07-24"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 82403843,
+      "ownershipPct": 2.0267823590465506,
+      "effectiveDate": "2023-07-24"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Thu Hà",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 74442202,
+      "ownershipPct": 1.8309600170246894,
+      "groupPct": 8.953569241296337,
+      "effectiveDate": "2023-07-24"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư phát triển sản xuất Hạ Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 71607485,
+      "ownershipPct": 1.761238093879802,
+      "effectiveDate": "2023-07-24"
+    },
+    {
+      "code": "SHB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Thu Hà",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 70026139,
+      "ownershipPct": 1.7223437406595423,
+      "groupPct": 8.953569241296337,
+      "effectiveDate": "2025-02-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

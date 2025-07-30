@@ -1,1 +1,60 @@
-{"data":[{"code":"SPC","shareholderType":"COMPANY","shareholderName":"SAGRI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6247020,"ownershipPct":59.32592592592592,"effectiveDate":"2020-06-30"},{"code":"SPC","shareholderType":"PERSON","shareholderName":"Jia Hui","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":850530,"ownershipPct":8.077207977207976,"effectiveDate":"2021-06-10"},{"code":"SPC","shareholderType":"PERSON","shareholderName":"Huỳnh Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":149035,"ownershipPct":1.4153371320037986,"effectiveDate":"2020-12-31"},{"code":"SPC","shareholderType":"PERSON","shareholderName":"Huỳnh Chí Toàn","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":140050,"ownershipPct":1.3300094966761633,"groupPct":2.542687559354226,"effectiveDate":"2020-12-31"},{"code":"SPC","shareholderType":"PERSON","shareholderName":"Châu Ngọc Minh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":111195,"ownershipPct":1.055982905982906,"groupPct":2.542687559354226,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SAGRI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6247020,
+      "ownershipPct": 59.32592592592592,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Jia Hui",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 850530,
+      "ownershipPct": 8.077207977207976,
+      "effectiveDate": "2021-06-10"
+    },
+    {
+      "code": "SPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 149035,
+      "ownershipPct": 1.4153371320037986,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Chí Toàn",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 140050,
+      "ownershipPct": 1.3300094966761633,
+      "groupPct": 2.542687559354226,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Châu Ngọc Minh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 111195,
+      "ownershipPct": 1.055982905982906,
+      "groupPct": 2.542687559354226,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

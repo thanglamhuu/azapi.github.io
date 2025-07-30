@@ -1,1 +1,109 @@
-{"data":[{"code":"DBC","shareholderType":"PERSON","shareholderName":"Nguyễn Như So","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":58474590,"ownershipPct":18.12215109690764,"effectiveDate":"2022-12-31"},{"code":"DBC","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19731200,"ownershipPct":6.114994354356379,"effectiveDate":"2024-06-18"},{"code":"DBC","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17731200,"ownershipPct":5.495164404393237,"effectiveDate":"2024-05-24"},{"code":"DBC","shareholderType":"COMPANY","shareholderName":"Chứng khoán SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12080367,"ownershipPct":3.7438866365731993,"effectiveDate":"2022-06-22"},{"code":"DBC","shareholderType":"COMPANY","shareholderName":"Fraser Investment Holding Pte.Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11566264,"ownershipPct":3.5845584181902486,"effectiveDate":"2022-06-22"},{"code":"DBC","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10440840,"ownershipPct":3.235772667386589,"effectiveDate":"2022-06-22"},{"code":"DBC","shareholderType":"COMPANY","shareholderName":"SSIAM SIF - VIETNAM ACTIVE VALUE PORTFOLIO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9694969,"ownershipPct":3.0046160750821094,"effectiveDate":"2022-06-22"},{"code":"DBC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tân Hòa","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":4384977,"ownershipPct":1.3589700372497655,"groupPct":2.9373322943537103,"effectiveDate":"2024-01-12"},{"code":"DBC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Hương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4111812,"ownershipPct":1.2743121131089246,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Như So",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 77966120,
+      "ownershipPct": 23.296476883161727,
+      "effectiveDate": "2024-08-08"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 30008266,
+      "ownershipPct": 8.966546945939697,
+      "effectiveDate": "2024-09-04"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12085566,
+      "ownershipPct": 3.6111981581092576,
+      "effectiveDate": "2025-03-14"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12080367,
+      "ownershipPct": 3.6096446835575478,
+      "effectiveDate": "2022-06-22"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Fraser Investment Holding Pte.Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11566264,
+      "ownershipPct": 3.4560293868740124,
+      "effectiveDate": "2022-06-22"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10440840,
+      "ownershipPct": 3.1197498054384427,
+      "effectiveDate": "2022-06-22"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SSIAM SIF - VIETNAM ACTIVE VALUE PORTFOLIO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9694969,
+      "ownershipPct": 2.896881635144465,
+      "effectiveDate": "2022-06-22"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tân Hòa",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 4384977,
+      "ownershipPct": 1.3102423887926686,
+      "groupPct": 2.861890659206124,
+      "effectiveDate": "2024-01-12"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Hương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 3611812,
+      "ownershipPct": 1.07921870120414,
+      "effectiveDate": "2025-04-23"
+    },
+    {
+      "code": "DBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Tường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3423163,
+      "ownershipPct": 1.0228498955289111,
+      "effectiveDate": "2024-08-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

@@ -1,1 +1,109 @@
-{"data":[{"code":"SAV","shareholderType":"COMPANY","shareholderName":"Công ty E-land Asia Holdings Pte., LTD Singapore","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12026764,"ownershipPct":48.50637014026872,"effectiveDate":"2024-05-30"},{"code":"SAV","shareholderType":"PERSON","shareholderName":"Đặng Bình Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1217022,"ownershipPct":4.908495718453453,"effectiveDate":"2024-05-30"},{"code":"SAV","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1176848,"ownershipPct":4.746465856221588,"effectiveDate":"2024-06-12"},{"code":"SAV","shareholderType":"COMPANY","shareholderName":"PXP Viet Nam Funds LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":916686,"ownershipPct":3.697179924575087,"effectiveDate":"2023-08-14"},{"code":"SAV","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Khánh Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":561500,"ownershipPct":2.264642994055665,"effectiveDate":"2024-06-25"},{"code":"SAV","shareholderType":"COMPANY","shareholderName":"Deutsche Asset Management (Asia) Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":551400,"ownershipPct":2.223907652577549,"effectiveDate":"2023-08-14"},{"code":"SAV","shareholderType":"COMPANY","shareholderName":"Tong Yang Vietnam Privatisation Trust Fund 1","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":540000,"ownershipPct":2.177929148334923,"effectiveDate":"2023-08-14"},{"code":"SAV","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":510324,"ownershipPct":2.058239842027539,"effectiveDate":"2023-08-14"},{"code":"SAV","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Hải","roleType":"Anh của Thành viên BKS","enRoleType":"Elder Brother of Control member","numberOfShares":454190,"ownershipPct":1.8318400738559972,"groupPct":3.4382806136678363,"effectiveDate":"2024-05-30"},{"code":"SAV","shareholderType":"COMPANY","shareholderName":"Merrill Lynch International","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":427344,"ownershipPct":1.7235647295667393,"effectiveDate":"2023-08-14"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SAV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty E-land Asia Holdings Pte., LTD Singapore",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12699396,
+      "ownershipPct": 48.78103456819241,
+      "effectiveDate": "2025-05-22"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1235690,
+      "ownershipPct": 4.7465435840861785,
+      "effectiveDate": "2025-05-22"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Bình Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1217022,
+      "ownershipPct": 4.674835893947292,
+      "effectiveDate": "2024-05-30"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Sơn",
+      "roleType": "Thành viên ban KT nội bộ",
+      "enRoleType": "Member of Internal Audit",
+      "numberOfShares": 1209759,
+      "ownershipPct": 4.6469371927753,
+      "effectiveDate": "2025-05-22"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PXP Viet Nam Funds LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 916686,
+      "ownershipPct": 3.5211825392465927,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Khánh Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 589575,
+      "ownershipPct": 2.2646808128151954,
+      "effectiveDate": "2025-05-22"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Asset Management (Asia) Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 551400,
+      "ownershipPct": 2.118042658162742,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tong Yang Vietnam Privatisation Trust Fund 1",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 540000,
+      "ownershipPct": 2.0742528752409877,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 510324,
+      "ownershipPct": 1.960261156119411,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "SAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Hải",
+      "roleType": "Anh của Thành viên ban KT nội bộ",
+      "enRoleType": "Elder Brother of Member of Internal Audit",
+      "numberOfShares": 454190,
+      "ownershipPct": 1.744638728529082,
+      "groupPct": 3.351101485894888,
+      "effectiveDate": "2024-05-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

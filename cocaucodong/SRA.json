@@ -1,1 +1,78 @@
-{"data":[{"code":"SRA","shareholderType":"PERSON","shareholderName":"Hoàng Văn Ba","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4274213,"ownershipPct":9.894017528806845,"effectiveDate":"2023-06-30"},{"code":"SRA","shareholderType":"PERSON","shareholderName":"Hoàng Quách Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3800000,"ownershipPct":8.796301590366697,"effectiveDate":"2021-01-25"},{"code":"SRA","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3000000,"ownershipPct":6.944448623973709,"effectiveDate":"2020-12-31"},{"code":"SRA","shareholderType":"PERSON","shareholderName":"Lê Nam Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2627200,"ownershipPct":6.081485141634576,"effectiveDate":"2023-09-27"},{"code":"SRA","shareholderType":"PERSON","shareholderName":"Lê Thu Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1648000,"ownershipPct":3.814817110769557,"effectiveDate":"2022-03-01"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SRA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Ba",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4274213,
+      "ownershipPct": 9.894017528806845,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "SRA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Quách Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3800000,
+      "ownershipPct": 8.796301590366697,
+      "effectiveDate": "2021-01-25"
+    },
+    {
+      "code": "SRA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Kingphar Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3385500,
+      "ownershipPct": 7.836810272154331,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "SRA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3000000,
+      "ownershipPct": 6.944448623973709,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SRA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Nam Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2627200,
+      "ownershipPct": 6.081485141634576,
+      "effectiveDate": "2023-09-27"
+    },
+    {
+      "code": "SRA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Nghĩa Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2197600,
+      "ownershipPct": 5.087040098681541,
+      "effectiveDate": "2025-04-04"
+    },
+    {
+      "code": "SRA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thu Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1648000,
+      "ownershipPct": 3.814817110769557,
+      "effectiveDate": "2022-03-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

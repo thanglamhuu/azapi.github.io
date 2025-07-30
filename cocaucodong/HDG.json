@@ -1,1 +1,110 @@
-{"data":[{"code":"HDG","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Thông","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":97322556,"ownershipPct":28.936494978441345,"groupPct":28.944839720929046,"effectiveDate":"2023-07-04"},{"code":"HDG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Tô","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":24830802,"ownershipPct":7.382835047855416,"effectiveDate":"2023-07-04"},{"code":"HDG","shareholderType":"COMPANY","shareholderName":"CTBC Vietnam Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16335000,"ownershipPct":4.856814955341282,"effectiveDate":"2024-06-24"},{"code":"HDG","shareholderType":"PERSON","shareholderName":"Nguyễn Phương Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16043500,"ownershipPct":4.770144520111286,"effectiveDate":"2024-06-24"},{"code":"HDG","shareholderType":"COMPANY","shareholderName":"Chứng khoán Vietcap","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14829205,"ownershipPct":4.409103435556885,"effectiveDate":"2023-07-04"},{"code":"HDG","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12481700,"ownershipPct":3.7111299190745806,"effectiveDate":"2024-06-24"},{"code":"HDG","shareholderType":"PERSON","shareholderName":"Hoàng Thị Phương Điều","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":8254336,"ownershipPct":2.4542260502731517,"groupPct":2.6177551733486157,"effectiveDate":"2023-07-04"},{"code":"HDG","shareholderType":"COMPANY","shareholderName":"LUCERNE ENTERPRISE LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7391036,"ownershipPct":2.197544792180337,"effectiveDate":"2023-07-04"},{"code":"HDG","shareholderType":"COMPANY","shareholderName":"Venner Group Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5131583,"ownershipPct":1.52575139632538,"effectiveDate":"2023-07-04"},{"code":"HDG","shareholderType":"COMPANY","shareholderName":"DC Developing Markets Strategies Public Limited Company","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4290000,"ownershipPct":1.2755271599886195,"effectiveDate":"2024-06-24"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Thông",
+      "roleType": "Bố của Phó chủ tịch HĐQT",
+      "enRoleType": "Father of Vice-chairman",
+      "numberOfShares": 117760292,
+      "ownershipPct": 31.830285963569306,
+      "groupPct": 31.83787212687343,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Tô",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29795270,
+      "ownershipPct": 8.053580271877703,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Tô",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24830802,
+      "ownershipPct": 6.711698102487455,
+      "effectiveDate": "2023-07-04"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19470880,
+      "ownershipPct": 5.262925794735142,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTBC Vietnam Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16335000,
+      "ownershipPct": 4.415305977798566,
+      "effectiveDate": "2024-06-24"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phương Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16043500,
+      "ownershipPct": 4.336514322302497,
+      "effectiveDate": "2024-06-24"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán Vietcap",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14829205,
+      "ownershipPct": 4.008293693449671,
+      "effectiveDate": "2023-07-04"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Norges Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12481700,
+      "ownershipPct": 3.3737694902410995,
+      "effectiveDate": "2024-06-24"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Phương Điều",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 8254336,
+      "ownershipPct": 2.231124523021604,
+      "groupPct": 2.3797880239575826,
+      "effectiveDate": "2023-07-04"
+    },
+    {
+      "code": "HDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LUCERNE ENTERPRISE LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7391036,
+      "ownershipPct": 1.9977768860070033,
+      "effectiveDate": "2023-07-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

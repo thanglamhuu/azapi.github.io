@@ -1,1 +1,58 @@
-{"data":[{"code":"EVF","shareholderType":"COMPANY","shareholderName":"Tập đoàn Điện lực Việt Nam (EVN)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":26337942,"ownershipPct":3.739865955144692,"effectiveDate":"2022-08-22"},{"code":"EVF","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tư vấn và Đầu tư Thiên Triều ARIA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17557223,"ownershipPct":2.493044466594366,"effectiveDate":"2022-08-22"},{"code":"EVF","shareholderType":"COMPANY","shareholderName":"Ngân hàng An Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17439362,"ownershipPct":2.4763087496830254,"effectiveDate":"2022-08-22"},{"code":"EVF","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16243297,"ownershipPct":2.3064730512962597,"effectiveDate":"2022-08-22"},{"code":"EVF","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Cảnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16230000,"ownershipPct":2.3045849387928015,"effectiveDate":"2022-08-22"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "EVF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Điện lực Việt Nam (EVN)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 26337942,
+      "ownershipPct": 3.46294060694567,
+      "effectiveDate": "2022-08-22"
+    },
+    {
+      "code": "EVF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tư vấn và Đầu tư Thiên Triều ARIA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17557223,
+      "ownershipPct": 2.3084423404038352,
+      "effectiveDate": "2022-08-22"
+    },
+    {
+      "code": "EVF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng An Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17439362,
+      "ownershipPct": 2.292945850857491,
+      "effectiveDate": "2022-08-22"
+    },
+    {
+      "code": "EVF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16243297,
+      "ownershipPct": 2.1356859534423296,
+      "effectiveDate": "2022-08-22"
+    },
+    {
+      "code": "EVF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Cảnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16230000,
+      "ownershipPct": 2.1339376497498637,
+      "effectiveDate": "2022-08-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

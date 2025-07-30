@@ -1,1 +1,68 @@
-{"data":[{"code":"VIH","shareholderType":"COMPANY","shareholderName":"TCT Viglacera","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2856000,"ownershipPct":51,"effectiveDate":"2021-12-31"},{"code":"VIH","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":570500,"ownershipPct":10.1875,"effectiveDate":"2020-09-07"},{"code":"VIH","shareholderType":"PERSON","shareholderName":"Đinh Quang Huy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":282968,"ownershipPct":5.053,"effectiveDate":"2020-12-31"},{"code":"VIH","shareholderType":"PERSON","shareholderName":"Lê Tiến Dũng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":161813,"ownershipPct":2.8895178571428572,"effectiveDate":"2020-06-30"},{"code":"VIH","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Mạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":159634,"ownershipPct":2.8506071428571427,"effectiveDate":"2017-10-02"},{"code":"VIH","shareholderType":"PERSON","shareholderName":"Nguyễn Quảng Nam","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":124570,"ownershipPct":2.224464285714286,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VIH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Viglacera",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2856000,
+      "ownershipPct": 51,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "VIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 570500,
+      "ownershipPct": 10.1875,
+      "effectiveDate": "2020-09-07"
+    },
+    {
+      "code": "VIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Quang Huy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 282968,
+      "ownershipPct": 5.053,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "VIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tiến Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 161813,
+      "ownershipPct": 2.8895178571428572,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Mạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 159634,
+      "ownershipPct": 2.8506071428571427,
+      "effectiveDate": "2017-10-02"
+    },
+    {
+      "code": "VIH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quảng Nam",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 124570,
+      "ownershipPct": 2.224464285714286,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

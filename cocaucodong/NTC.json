@@ -1,1 +1,69 @@
-{"data":[{"code":"NTC","shareholderType":"COMPANY","shareholderName":"Cao su Phước Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7884840,"ownershipPct":32.85352737793948,"effectiveDate":"2020-12-03"},{"code":"NTC","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4900500,"ownershipPct":20.41876701563918,"effectiveDate":"2020-12-03"},{"code":"NTC","shareholderType":"COMPANY","shareholderName":"Đầu tư Sài Gòn VRG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4789100,"ownershipPct":19.954599962166636,"effectiveDate":"2021-12-31"},{"code":"NTC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư và Phát triển VRG Long Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1087800,"ownershipPct":4.532503777086481,"effectiveDate":"2021-07-12"},{"code":"NTC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":765500,"ownershipPct":3.1895859913216595,"effectiveDate":"2018-10-09"},{"code":"NTC","shareholderType":"PERSON","shareholderName":"Phan Thị Long","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":343900,"ownershipPct":1.432917860764884,"groupPct":1.4745845621538018,"effectiveDate":"2018-11-20"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Phước Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7884840,
+      "ownershipPct": 32.85352737793948,
+      "effectiveDate": "2020-12-03"
+    },
+    {
+      "code": "NTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4900500,
+      "ownershipPct": 20.41876701563918,
+      "effectiveDate": "2020-12-03"
+    },
+    {
+      "code": "NTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư Sài Gòn VRG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4789100,
+      "ownershipPct": 19.954599962166636,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "NTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 765500,
+      "ownershipPct": 3.1895859913216595,
+      "effectiveDate": "2018-10-09"
+    },
+    {
+      "code": "NTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư và Phát triển VRG Long Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 479000,
+      "ownershipPct": 1.9958349965291637,
+      "effectiveDate": "2025-02-20"
+    },
+    {
+      "code": "NTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thị Long",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 343900,
+      "ownershipPct": 1.432917860764884,
+      "groupPct": 1.4745845621538018,
+      "effectiveDate": "2018-11-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,101 @@
-{"data":[{"code":"TLD","shareholderType":"PERSON","shareholderName":"Nguyễn An Ngọc","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":10273819,"ownershipPct":13.215384357329707,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Nguyễn An Quân","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":8089507,"ownershipPct":10.405667480253367,"groupPct":14.628939582684923,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Bích Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3432000,"ownershipPct":4.414638715589165,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1910788,"ownershipPct":2.457878403870393,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Lê Thị Ánh","roleType":"Con dâu/rể của Chủ tịch HĐQT","enRoleType":"Child in law of Chairman","numberOfShares":1532993,"ownershipPct":1.9719144080790152,"groupPct":14.628939582684923,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Tuyến","roleType":"Con dâu/rể của Chủ tịch HĐQT","enRoleType":"Child in law of Chairman","numberOfShares":1493266,"ownershipPct":1.9208129068394433,"groupPct":14.628939582684923,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Nguyễn Kim Tuyến","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":1395576,"ownershipPct":1.7951526340754849,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Lê Văn Hoan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":996658,"ownershipPct":1.282017771853632,"effectiveDate":"2023-12-07"},{"code":"TLD","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Huân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":865831,"ownershipPct":1.1137328245213525,"effectiveDate":"2023-12-07"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn An Ngọc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 10273819,
+      "ownershipPct": 13.215384357329707,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn An Quân",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 8089507,
+      "ownershipPct": 10.405667480253367,
+      "groupPct": 14.628939582684923,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Bích Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3432000,
+      "ownershipPct": 4.414638715589165,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1910788,
+      "ownershipPct": 2.457878403870393,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Ánh",
+      "roleType": "Con dâu/rể của Chủ tịch HĐQT",
+      "enRoleType": "Child in law of Chairman",
+      "numberOfShares": 1532993,
+      "ownershipPct": 1.9719144080790152,
+      "groupPct": 14.628939582684923,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Tuyến",
+      "roleType": "Con dâu/rể của Chủ tịch HĐQT",
+      "enRoleType": "Child in law of Chairman",
+      "numberOfShares": 1493266,
+      "ownershipPct": 1.9208129068394433,
+      "groupPct": 14.628939582684923,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Kim Tuyến",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 1395576,
+      "ownershipPct": 1.7951526340754849,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Hoan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 996658,
+      "ownershipPct": 1.282017771853632,
+      "effectiveDate": "2023-12-07"
+    },
+    {
+      "code": "TLD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Huân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 865831,
+      "ownershipPct": 1.1137328245213525,
+      "effectiveDate": "2023-12-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

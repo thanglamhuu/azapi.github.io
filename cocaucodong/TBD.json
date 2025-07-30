@@ -1,1 +1,48 @@
-{"data":[{"code":"TBD","shareholderType":"COMPANY","shareholderName":"CTCP Thiết bị điện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8088137,"ownershipPct":24.949223268075727,"effectiveDate":"2020-12-31"},{"code":"TBD","shareholderType":"COMPANY","shareholderName":"Tập đoàn Điện lực Việt Nam (EVN)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6040552,"ownershipPct":18.633101851566234,"effectiveDate":"2020-12-31"},{"code":"TBD","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":3.084668727554408,"effectiveDate":"2018-07-12"},{"code":"TBD","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":478311,"ownershipPct":1.4754309837452764,"effectiveDate":"2018-04-04"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TBD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Gelex Electric",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15236643,
+      "ownershipPct": 46.99999617501078,
+      "effectiveDate": "2025-05-27"
+    },
+    {
+      "code": "TBD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Điện lực Việt Nam (EVN)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6040552,
+      "ownershipPct": 18.633101851566234,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "TBD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 3.084668727554408,
+      "effectiveDate": "2018-07-12"
+    },
+    {
+      "code": "TBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 478311,
+      "ownershipPct": 1.4754309837452764,
+      "effectiveDate": "2018-04-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

@@ -1,1 +1,98 @@
-{"data":[{"code":"DTG","shareholderType":"PERSON","shareholderName":"Nguyễn Hồ Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1805500,"ownershipPct":21.616093627676165,"effectiveDate":"2023-08-24"},{"code":"DTG","shareholderType":"PERSON","shareholderName":"Đặng Thị Thu Hằng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1772668,"ownershipPct":21.22301714693185,"effectiveDate":"2023-08-24"},{"code":"DTG","shareholderType":"COMPANY","shareholderName":"Bamboo Capital","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1526050,"ownershipPct":18.270417989761956,"effectiveDate":"2023-08-24"},{"code":"DTG","shareholderType":"PERSON","shareholderName":"Nguyễn Phương Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":818519,"ownershipPct":9.799603068419755,"effectiveDate":"2023-08-24"},{"code":"DTG","shareholderType":"COMPANY","shareholderName":"CTCP Magnolia Investment","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":431100,"ownershipPct":5.161283834334641,"effectiveDate":"2024-06-19"},{"code":"DTG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dược phẩm Thiên Khánh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":292019,"ownershipPct":3.4961562143784914,"effectiveDate":"2023-08-24"},{"code":"DTG","shareholderType":"PERSON","shareholderName":"Trần Thị Tám","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":159923,"ownershipPct":1.9146555199218254,"effectiveDate":"2023-08-24"},{"code":"DTG","shareholderType":"PERSON","shareholderName":"Lưu Hoài Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":141933,"ownershipPct":1.6992727869603774,"effectiveDate":"2024-06-19"},{"code":"DTG","shareholderType":"PERSON","shareholderName":"Phạm Quang Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":105788,"ownershipPct":1.2665318818524542,"effectiveDate":"2023-08-24"},{"code":"DTG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Trúc Nữ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":83835,"ownershipPct":1.0037026913742628,"effectiveDate":"2023-08-24"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồ Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1805500,
+      "ownershipPct": 18.7966050135246,
+      "effectiveDate": "2023-08-24"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Thu Hằng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1772668,
+      "ownershipPct": 18.454799344289466,
+      "effectiveDate": "2023-08-24"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bamboo Capital",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1526050,
+      "ownershipPct": 15.887321562386719,
+      "effectiveDate": "2023-08-24"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phương Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 818519,
+      "ownershipPct": 8.521394815322704,
+      "effectiveDate": "2023-08-24"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Magnolia Investment",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 431100,
+      "ownershipPct": 4.488073343301277,
+      "effectiveDate": "2024-06-19"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Dược phẩm Thiên Khánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 292019,
+      "ownershipPct": 3.0401361392658215,
+      "effectiveDate": "2023-08-24"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Tám",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 159923,
+      "ownershipPct": 1.6649180080741595,
+      "effectiveDate": "2023-08-24"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Hoài Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 141933,
+      "ownershipPct": 1.4776286565408958,
+      "effectiveDate": "2024-06-19"
+    },
+    {
+      "code": "DTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Quang Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 105788,
+      "ownershipPct": 1.1013321801001057,
+      "effectiveDate": "2023-08-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

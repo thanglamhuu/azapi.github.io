@@ -1,1 +1,68 @@
-{"data":[{"code":"HTI","shareholderType":"COMPANY","shareholderName":"TCT IDICO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14345790,"ownershipPct":57.5,"effectiveDate":"2021-02-09"},{"code":"HTI","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Một thành viên Phát triển đô thị và Khu công nghiệp IDICO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2494920,"ownershipPct":10,"effectiveDate":"2020-06-30"},{"code":"HTI","shareholderType":"PERSON","shareholderName":"Lê Thị Liễu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2494920,"ownershipPct":10,"effectiveDate":"2020-06-30"},{"code":"HTI","shareholderType":"COMPANY","shareholderName":"Finansia Syrus Securities Public Company Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1822460,"ownershipPct":7.304683116091899,"effectiveDate":"2020-06-30"},{"code":"HTI","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1232400,"ownershipPct":4.939637343081141,"effectiveDate":"2024-05-29"},{"code":"HTI","shareholderType":"COMPANY","shareholderName":"Dầu Khí IDICO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1067600,"ownershipPct":4.279095121286454,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT IDICO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14345790,
+      "ownershipPct": 57.5,
+      "effectiveDate": "2021-02-09"
+    },
+    {
+      "code": "HTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Một thành viên Phát triển đô thị và Khu công nghiệp IDICO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2494920,
+      "ownershipPct": 10,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Liễu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2494920,
+      "ownershipPct": 10,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Finansia Syrus Securities Public Company Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1822460,
+      "ownershipPct": 7.304683116091899,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1232400,
+      "ownershipPct": 4.939637343081141,
+      "effectiveDate": "2024-05-29"
+    },
+    {
+      "code": "HTI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dầu Khí IDICO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1067600,
+      "ownershipPct": 4.279095121286454,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

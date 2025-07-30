@@ -1,1 +1,108 @@
-{"data":[{"code":"JVC","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư và Phát triển An Khang Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17000000,"ownershipPct":15.111088142257135,"effectiveDate":"2022-01-14"},{"code":"JVC","shareholderType":"COMPANY","shareholderName":"TCP Quản lý và Đầu tư DTN Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17000000,"ownershipPct":15.111088142257135,"effectiveDate":"2022-12-31"},{"code":"JVC","shareholderType":"PERSON","shareholderName":"Trần Thị Thanh Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11200000,"ownershipPct":9.955540423134112,"effectiveDate":"2020-09-07"},{"code":"JVC","shareholderType":"PERSON","shareholderName":"Lê Văn Hướng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11146677,"ownershipPct":9.908142272957079,"effectiveDate":"2020-06-30"},{"code":"JVC","shareholderType":"COMPANY","shareholderName":"Vietnam Equity Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5555001,"ownershipPct":4.937771161254502,"effectiveDate":"2020-05-20"},{"code":"JVC","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hiếu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5500000,"ownershipPct":4.888881457789073,"effectiveDate":"2021-04-05"},{"code":"JVC","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4631000,"ownershipPct":4.1164381874583995,"effectiveDate":"2021-09-07"},{"code":"JVC","shareholderType":"COMPANY","shareholderName":"Balestrand Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3646988,"ownershipPct":3.241762183632592,"effectiveDate":"2020-06-30"},{"code":"JVC","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2804054,"ownershipPct":2.4924886558616874,"effectiveDate":"2014-09-19"},{"code":"JVC","shareholderType":"COMPANY","shareholderName":"Indochina Development Parters L.P","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2648141,"ownershipPct":2.353899533183821,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "JVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư và Phát triển An Khang Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17000000,
+      "ownershipPct": 15.111088142257135,
+      "effectiveDate": "2022-01-14"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCP Quản lý và Đầu tư DTN Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17000000,
+      "ownershipPct": 15.111088142257135,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thanh Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11200000,
+      "ownershipPct": 9.955540423134112,
+      "effectiveDate": "2020-09-07"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Hướng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11146677,
+      "ownershipPct": 9.908142272957079,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Equity Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5555001,
+      "ownershipPct": 4.937771161254502,
+      "effectiveDate": "2020-05-20"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hiếu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5500000,
+      "ownershipPct": 4.888881457789073,
+      "effectiveDate": "2021-04-05"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4631000,
+      "ownershipPct": 4.1164381874583995,
+      "effectiveDate": "2021-09-07"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Balestrand Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3646988,
+      "ownershipPct": 3.241762183632592,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2804054,
+      "ownershipPct": 2.4924886558616874,
+      "effectiveDate": "2014-09-19"
+    },
+    {
+      "code": "JVC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Indochina Development Parters L.P",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2648141,
+      "ownershipPct": 2.353899533183821,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

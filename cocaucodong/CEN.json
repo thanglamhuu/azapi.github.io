@@ -1,1 +1,78 @@
-{"data":[{"code":"CEN","shareholderType":"PERSON","shareholderName":"Trần Ngọc Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2100000,"ownershipPct":9.671874740931926,"effectiveDate":"2023-09-12"},{"code":"CEN","shareholderType":"PERSON","shareholderName":"Trần Thị Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1200000,"ownershipPct":5.526785566246815,"effectiveDate":"2021-12-01"},{"code":"CEN","shareholderType":"PERSON","shareholderName":"Trần Mạnh Sơn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1100000,"ownershipPct":5.066220102392914,"effectiveDate":"2022-09-14"},{"code":"CEN","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lệ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":903100,"ownershipPct":4.159366704064582,"effectiveDate":"2023-09-29"},{"code":"CEN","shareholderType":"PERSON","shareholderName":"Phạm Xuân Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":810000,"ownershipPct":3.7305802572166002,"effectiveDate":"2023-09-28"},{"code":"CEN","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Duyên Hải Lào Cai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":560000,"ownershipPct":2.579166597581847,"effectiveDate":"2022-06-16"},{"code":"CEN","shareholderType":"PERSON","shareholderName":"Tưởng Thị Bích Thạch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":480000,"ownershipPct":2.2107142264987263,"effectiveDate":"2021-11-02"},{"code":"CEN","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":442700,"ownershipPct":2.038923308481221,"effectiveDate":"2023-10-03"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CEN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1200000,
+      "ownershipPct": 5.526785566246815,
+      "effectiveDate": "2021-12-01"
+    },
+    {
+      "code": "CEN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Mạnh Sơn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1100000,
+      "ownershipPct": 5.066220102392914,
+      "effectiveDate": "2022-09-14"
+    },
+    {
+      "code": "CEN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 903100,
+      "ownershipPct": 4.159366704064582,
+      "effectiveDate": "2023-09-29"
+    },
+    {
+      "code": "CEN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Xuân Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 810000,
+      "ownershipPct": 3.7305802572166002,
+      "effectiveDate": "2023-09-28"
+    },
+    {
+      "code": "CEN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Duyên Hải Lào Cai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 560000,
+      "ownershipPct": 2.579166597581847,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "CEN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tưởng Thị Bích Thạch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 480000,
+      "ownershipPct": 2.2107142264987263,
+      "effectiveDate": "2021-11-02"
+    },
+    {
+      "code": "CEN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 442700,
+      "ownershipPct": 2.038923308481221,
+      "effectiveDate": "2023-10-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

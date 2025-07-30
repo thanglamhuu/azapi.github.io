@@ -1,1 +1,58 @@
-{"data":[{"code":"PEC","shareholderType":"PERSON","shareholderName":"Lê Minh Hải","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1130780,"ownershipPct":36.29635787789019,"effectiveDate":"2019-07-29"},{"code":"PEC","shareholderType":"PERSON","shareholderName":"Lê Nam Hưng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":773351,"ownershipPct":24.82341804880194,"effectiveDate":"2021-05-27"},{"code":"PEC","shareholderType":"PERSON","shareholderName":"Nguyễn Tiến Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":581864,"ownershipPct":18.67696986174207,"effectiveDate":"2021-12-22"},{"code":"PEC","shareholderType":"PERSON","shareholderName":"Lê Đăng Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38037,"ownershipPct":1.2209311843164092,"effectiveDate":"2019-08-29"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Minh Hải",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1130780,
+      "ownershipPct": 36.29635787789019,
+      "effectiveDate": "2019-07-29"
+    },
+    {
+      "code": "PEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Nam Hưng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 773351,
+      "ownershipPct": 24.82341804880194,
+      "effectiveDate": "2021-05-27"
+    },
+    {
+      "code": "PEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiến Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 718971,
+      "ownershipPct": 23.07790084704769,
+      "effectiveDate": "2025-04-25"
+    },
+    {
+      "code": "PEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trần Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 196431,
+      "ownershipPct": 6.305143241224507,
+      "effectiveDate": "2024-12-20"
+    },
+    {
+      "code": "PEC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đăng Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38037,
+      "ownershipPct": 1.2209311843164092,
+      "effectiveDate": "2019-08-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

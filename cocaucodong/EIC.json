@@ -1,1 +1,78 @@
-{"data":[{"code":"EIC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty phát điện 1","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9554502,"ownershipPct":26.050288265348897,"effectiveDate":"2020-06-30"},{"code":"EIC","shareholderType":"COMPANY","shareholderName":"Nh.điện Phả Lại","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7080000,"ownershipPct":19.30357447396737,"effectiveDate":"2020-06-30"},{"code":"EIC","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4320000,"ownershipPct":11.77845222140382,"effectiveDate":"2020-06-30"},{"code":"EIC","shareholderType":"COMPANY","shareholderName":"Ngân hàng An Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3780000,"ownershipPct":10.306145693728343,"effectiveDate":"2020-06-30"},{"code":"EIC","shareholderType":"COMPANY","shareholderName":"PVPOWER","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2880000,"ownershipPct":7.85230148093588,"effectiveDate":"2020-06-30"},{"code":"EIC","shareholderType":"COMPANY","shareholderName":"XNK & Xây dựng VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2140600,"ownershipPct":5.836332135448384,"effectiveDate":"2021-11-19"},{"code":"EIC","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Bắc Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":600000,"ownershipPct":1.6358961418616416,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "EIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty phát điện 1",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9554502,
+      "ownershipPct": 26.050288265348897,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "EIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nh.điện Phả Lại",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7080000,
+      "ownershipPct": 19.30357447396737,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "EIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4320000,
+      "ownershipPct": 11.77845222140382,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "EIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng An Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3780000,
+      "ownershipPct": 10.306145693728343,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "EIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PVPOWER",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2880000,
+      "ownershipPct": 7.85230148093588,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "EIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XNK & Xây dựng VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2140600,
+      "ownershipPct": 5.836332135448384,
+      "effectiveDate": "2021-11-19"
+    },
+    {
+      "code": "EIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Bắc Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 600000,
+      "ownershipPct": 1.6358961418616416,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

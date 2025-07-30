@@ -1,0 +1,29 @@
+{
+  "data": [
+    {
+      "code": "KWA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Long An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3352500,
+      "ownershipPct": 88.22368421052632,
+      "effectiveDate": "2024-01-10"
+    },
+    {
+      "code": "KWA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Thị Khánh Linh",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 81700,
+      "ownershipPct": 2.15,
+      "groupPct": 2.192105263157895,
+      "effectiveDate": "2024-01-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

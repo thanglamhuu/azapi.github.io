@@ -1,1 +1,108 @@
-{"data":[{"code":"STL","shareholderType":"PERSON","shareholderName":"Nguyễn Trí Dũng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3128400,"ownershipPct":20.856,"effectiveDate":"2020-06-30"},{"code":"STL","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG, London Branch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2800810,"ownershipPct":18.672066666666666,"effectiveDate":"2020-06-30"},{"code":"STL","shareholderType":"COMPANY","shareholderName":"ASEAN Deep Value Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2144700,"ownershipPct":14.298,"effectiveDate":"2022-01-07"},{"code":"STL","shareholderType":"COMPANY","shareholderName":"Asean Small Cap Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1805200,"ownershipPct":12.034666666666666,"effectiveDate":"2016-01-29"},{"code":"STL","shareholderType":"COMPANY","shareholderName":"LUCERNE ENTERPRISE LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1786200,"ownershipPct":11.908,"effectiveDate":"2022-01-07"},{"code":"STL","shareholderType":"COMPANY","shareholderName":"CTCP Sông Đà 1","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":937400,"ownershipPct":6.249333333333333,"effectiveDate":"2009-03-13"},{"code":"STL","shareholderType":"PERSON","shareholderName":"David Peter O'neil","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":816800,"ownershipPct":5.445333333333333,"effectiveDate":"2022-01-07"},{"code":"STL","shareholderType":"PERSON","shareholderName":"Hoàng Ngọc Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":811500,"ownershipPct":5.41,"effectiveDate":"2011-04-27"},{"code":"STL","shareholderType":"PERSON","shareholderName":"Nguyễn Chí Uy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":229500,"ownershipPct":1.53,"effectiveDate":"2020-06-30"},{"code":"STL","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":200000,"ownershipPct":1.3333333333333333,"effectiveDate":"2011-06-29"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "STL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trí Dũng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3128400,
+      "ownershipPct": 20.856,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, London Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2800810,
+      "ownershipPct": 18.672066666666666,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ASEAN Deep Value Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2144700,
+      "ownershipPct": 14.298,
+      "effectiveDate": "2022-01-07"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Asean Small Cap Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1805200,
+      "ownershipPct": 12.034666666666666,
+      "effectiveDate": "2016-01-29"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LUCERNE ENTERPRISE LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1786200,
+      "ownershipPct": 11.908,
+      "effectiveDate": "2022-01-07"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Sông Đà 1",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 937400,
+      "ownershipPct": 6.249333333333333,
+      "effectiveDate": "2009-03-13"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "PERSON",
+      "shareholderName": "David Peter O'neil",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 816800,
+      "ownershipPct": 5.445333333333333,
+      "effectiveDate": "2022-01-07"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Ngọc Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 811500,
+      "ownershipPct": 5.41,
+      "effectiveDate": "2011-04-27"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Chí Uy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 229500,
+      "ownershipPct": 1.53,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "STL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 200000,
+      "ownershipPct": 1.3333333333333333,
+      "effectiveDate": "2011-06-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

@@ -1,1 +1,38 @@
-{"data":[{"code":"HVN","shareholderType":"COMPANY","shareholderName":"Bộ giao thông vận tải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1222368291,"ownershipPct":55.10405872400013,"effectiveDate":"2018-12-14"},{"code":"HVN","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":689488080,"ownershipPct":31.081951265879248,"effectiveDate":"2021-09-13"},{"code":"HVN","shareholderType":"COMPANY","shareholderName":"ANA Holdings Inc.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":124438698,"ownershipPct":5.6096655751111255,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HVN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ giao thông vận tải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1222368291,
+      "ownershipPct": 39.199944808740284,
+      "effectiveDate": "2018-12-14"
+    },
+    {
+      "code": "HVN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 689488080,
+      "ownershipPct": 22.111089498381226,
+      "effectiveDate": "2021-09-13"
+    },
+    {
+      "code": "HVN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ANA Holdings Inc.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 124438698,
+      "ownershipPct": 3.9906058833388864,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

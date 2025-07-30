@@ -1,1 +1,108 @@
-{"data":[{"code":"VFC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Logistics ASG (ASGL)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17437281,"ownershipPct":51.58796785734129,"effectiveDate":"2022-05-27"},{"code":"VFC","shareholderType":"COMPANY","shareholderName":"The Shibusawa Warehouse Ltd (SWC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15166718,"ownershipPct":44.870536907982356,"effectiveDate":"2016-09-19"},{"code":"VFC","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1516132,"ownershipPct":4.485456699555772,"effectiveDate":"2021-12-09"},{"code":"VFC","shareholderType":"PERSON","shareholderName":"Lý Như Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1113236,"ownershipPct":3.2934941511601026,"effectiveDate":"2021-11-18"},{"code":"VFC","shareholderType":"PERSON","shareholderName":"Trịnh Ngọc Hiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1044225,"ownershipPct":3.089326009934244,"effectiveDate":"2014-03-28"},{"code":"VFC","shareholderType":"PERSON","shareholderName":"Trịnh Thanh Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":991759,"ownershipPct":2.9341060348932233,"effectiveDate":"2011-07-25"},{"code":"VFC","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG, London Branch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":973174,"ownershipPct":2.879122555380065,"effectiveDate":"2008-12-30"},{"code":"VFC","shareholderType":"PERSON","shareholderName":"Huỳnh Bá Thăng Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":528900,"ownershipPct":1.5647437349749544,"effectiveDate":"2007-09-21"},{"code":"VFC","shareholderType":"PERSON","shareholderName":"Lê Thị Mai Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":426307,"ownershipPct":1.261223685812002,"effectiveDate":"2018-09-28"},{"code":"VFC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư Golden Age","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":386396,"ownershipPct":1.1431475141224852,"effectiveDate":"2014-07-16"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VFC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Logistics ASG (ASGL)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17437281,
+      "ownershipPct": 51.58796785734129,
+      "effectiveDate": "2022-05-27"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "The Shibusawa Warehouse Ltd (SWC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15166718,
+      "ownershipPct": 44.870536907982356,
+      "effectiveDate": "2016-09-19"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1516132,
+      "ownershipPct": 4.485456699555772,
+      "effectiveDate": "2021-12-09"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lý Như Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1113236,
+      "ownershipPct": 3.2934941511601026,
+      "effectiveDate": "2021-11-18"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Ngọc Hiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1044225,
+      "ownershipPct": 3.089326009934244,
+      "effectiveDate": "2014-03-28"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Thanh Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 991759,
+      "ownershipPct": 2.9341060348932233,
+      "effectiveDate": "2011-07-25"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, London Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 973174,
+      "ownershipPct": 2.879122555380065,
+      "effectiveDate": "2008-12-30"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Bá Thăng Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 528900,
+      "ownershipPct": 1.5647437349749544,
+      "effectiveDate": "2007-09-21"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Mai Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 426307,
+      "ownershipPct": 1.261223685812002,
+      "effectiveDate": "2018-09-28"
+    },
+    {
+      "code": "VFC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư Golden Age",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 386396,
+      "ownershipPct": 1.1431475141224852,
+      "effectiveDate": "2014-07-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

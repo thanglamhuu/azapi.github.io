@@ -1,1 +1,69 @@
-{"data":[{"code":"TOW","shareholderType":"COMPANY","shareholderName":"C.thoát nc Cần Thơ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3479683,"ownershipPct":43.61570263213409,"effectiveDate":"2020-06-30"},{"code":"TOW","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":676000,"ownershipPct":8.473247413434684,"effectiveDate":"2022-01-19"},{"code":"TOW","shareholderType":"PERSON","shareholderName":"Hồ Thị Quý Mão","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":406258,"ownershipPct":5.0921960764602785,"groupPct":5.787428533610528,"effectiveDate":"2021-03-30"},{"code":"TOW","shareholderType":"PERSON","shareholderName":"Lâm Nguyệt Thanh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":187200,"ownershipPct":2.346437745258836,"effectiveDate":"2021-11-10"},{"code":"TOW","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kiên Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":149585,"ownershipPct":1.874956678015721,"effectiveDate":"2022-01-18"},{"code":"TOW","shareholderType":"PERSON","shareholderName":"Huỳnh Minh Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":89161,"ownershipPct":1.1175787169071745,"effectiveDate":"2023-12-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TOW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "C.thoát nc Cần Thơ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5219524,
+      "ownershipPct": 65.4235476810063,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "TOW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 673900,
+      "ownershipPct": 8.446925195138512,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "TOW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Thị Quý Mão",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 406258,
+      "ownershipPct": 5.0921960764602785,
+      "groupPct": 5.787428533610528,
+      "effectiveDate": "2021-03-30"
+    },
+    {
+      "code": "TOW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Nguyệt Thanh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 187200,
+      "ownershipPct": 2.346437745258836,
+      "effectiveDate": "2021-11-10"
+    },
+    {
+      "code": "TOW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kiên Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 149585,
+      "ownershipPct": 1.874956678015721,
+      "effectiveDate": "2022-01-18"
+    },
+    {
+      "code": "TOW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Minh Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 89161,
+      "ownershipPct": 1.1175787169071745,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

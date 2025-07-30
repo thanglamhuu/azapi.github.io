@@ -1,1 +1,108 @@
-{"data":[{"code":"DIC","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1709700,"ownershipPct":6.55445213566953,"effectiveDate":"2024-05-31"},{"code":"DIC","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1476620,"ownershipPct":5.660896714378161,"effectiveDate":"2020-05-13"},{"code":"DIC","shareholderType":"PERSON","shareholderName":"Trần Ngọc Quý","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1402275,"ownershipPct":5.375881364301334,"effectiveDate":"2015-11-11"},{"code":"DIC","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Hải","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1200005,"ownershipPct":4.600441793919468,"effectiveDate":"2020-05-22"},{"code":"DIC","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":532062,"ownershipPct":2.0397583858037094,"effectiveDate":"2020-01-07"},{"code":"DIC","shareholderType":"COMPANY","shareholderName":"Đầu tư T.mại DIC","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":501280,"ownershipPct":1.9217498780888005,"effectiveDate":"2016-06-30"},{"code":"DIC","shareholderType":"PERSON","shareholderName":"Văn Phụng Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":385893,"ownershipPct":1.479392406849109,"effectiveDate":"2016-08-11"},{"code":"DIC","shareholderType":"PERSON","shareholderName":"Lê Thị Thúy Nga","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":361210,"ownershipPct":1.384765547128263,"effectiveDate":"2015-12-31"},{"code":"DIC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":336350,"ownershipPct":1.2894601250701565,"effectiveDate":"2009-05-18"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1709700,
+      "ownershipPct": 6.55445213566953,
+      "effectiveDate": "2024-05-31"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1476620,
+      "ownershipPct": 5.660896714378161,
+      "effectiveDate": "2020-05-13"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Quý",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1402275,
+      "ownershipPct": 5.375881364301334,
+      "effectiveDate": "2015-11-11"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Tiến Việt",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1250000,
+      "ownershipPct": 4.792106901554023,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Hải",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1200005,
+      "ownershipPct": 4.600441793919468,
+      "effectiveDate": "2020-05-22"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 532062,
+      "ownershipPct": 2.0397583858037094,
+      "effectiveDate": "2020-01-07"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư T.mại DIC",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 501280,
+      "ownershipPct": 1.9217498780888005,
+      "effectiveDate": "2016-06-30"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Phụng Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 385893,
+      "ownershipPct": 1.479392406849109,
+      "effectiveDate": "2016-08-11"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thúy Nga",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 361210,
+      "ownershipPct": 1.384765547128263,
+      "effectiveDate": "2015-12-31"
+    },
+    {
+      "code": "DIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 336350,
+      "ownershipPct": 1.2894601250701565,
+      "effectiveDate": "2009-05-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

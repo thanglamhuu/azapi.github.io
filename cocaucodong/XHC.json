@@ -1,1 +1,110 @@
-{"data":[{"code":"XHC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư VAC Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5427000,"ownershipPct":25.736845849240034,"effectiveDate":"2020-06-30"},{"code":"XHC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quản lý Quỹ Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2400000,"ownershipPct":11.381689706684371,"effectiveDate":"2023-04-10"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2390282,"ownershipPct":11.335603348113722,"effectiveDate":"2023-07-28"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Anh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1763043,"ownershipPct":8.361003485642472,"effectiveDate":"2022-04-25"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Trần Thị Thu Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1713796,"ownershipPct":8.127455955232021,"effectiveDate":"2023-07-28"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Lê Tú Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1310011,"ownershipPct":6.212557797643042,"effectiveDate":"2022-10-14"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh Hiền","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":1243023,"ownershipPct":5.894875868446636,"groupPct":6.392407464491499,"effectiveDate":"2022-12-31"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Lê Thị Hoa","roleType":"Mẹ chồng/vợ của Chủ tịch HĐQT","enRoleType":"Mother in law of Chairman","numberOfShares":989332,"ownershipPct":4.691779100372276,"groupPct":5.166016171484125,"effectiveDate":"2022-12-31"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Khúc Văn Quang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":753300,"ownershipPct":3.572427856685557,"effectiveDate":"2022-06-30"},{"code":"XHC","shareholderType":"PERSON","shareholderName":"Vương Xuân Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":750300,"ownershipPct":3.5582007445522015,"effectiveDate":"2022-12-14"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "XHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư VAC Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5427000,
+      "ownershipPct": 25.736845849240034,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quản lý Quỹ Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2400000,
+      "ownershipPct": 11.381689706684371,
+      "effectiveDate": "2023-04-10"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Hải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2390282,
+      "ownershipPct": 11.335603348113722,
+      "effectiveDate": "2023-07-28"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1763043,
+      "ownershipPct": 8.361003485642472,
+      "effectiveDate": "2022-04-25"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thu Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1713796,
+      "ownershipPct": 8.127455955232021,
+      "effectiveDate": "2023-07-28"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tú Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1310011,
+      "ownershipPct": 6.212557797643042,
+      "effectiveDate": "2022-10-14"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Hiền",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 1243023,
+      "ownershipPct": 5.894875868446636,
+      "groupPct": 6.392407464491499,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hoa",
+      "roleType": "Mẹ chồng/vợ của Chủ tịch HĐQT",
+      "enRoleType": "Mother in law of Chairman",
+      "numberOfShares": 989332,
+      "ownershipPct": 4.691779100372276,
+      "groupPct": 5.166016171484125,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Khúc Văn Quang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 753300,
+      "ownershipPct": 3.572427856685557,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "XHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vương Xuân Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 750300,
+      "ownershipPct": 3.5582007445522015,
+      "effectiveDate": "2022-12-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

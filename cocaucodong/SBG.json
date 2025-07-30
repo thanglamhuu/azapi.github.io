@@ -1,1 +1,38 @@
-{"data":[{"code":"SBG","shareholderType":"COMPANY","shareholderName":"CTCP Siba Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13900000,"ownershipPct":55.6,"effectiveDate":"2023-09-08"},{"code":"SBG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Đức","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1515369,"ownershipPct":6.061476,"effectiveDate":"2023-12-31"},{"code":"SBG","shareholderType":"PERSON","shareholderName":"Phan Hồng Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":760000,"ownershipPct":3.04,"effectiveDate":"2023-11-20"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SBG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Siba Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 21406000,
+      "ownershipPct": 42.812031680903445,
+      "effectiveDate": "2024-10-02"
+    },
+    {
+      "code": "SBG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Đức",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2333668,
+      "ownershipPct": 4.667339453831196,
+      "effectiveDate": "2024-10-02"
+    },
+    {
+      "code": "SBG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Hồng Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1170400,
+      "ownershipPct": 2.340801732193282,
+      "effectiveDate": "2024-10-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,1 +1,98 @@
-{"data":[{"code":"CIG","shareholderType":"PERSON","shareholderName":"Trần Thị Liên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7672600,"ownershipPct":24.326610314215177,"effectiveDate":"2023-02-15"},{"code":"CIG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7620000,"ownershipPct":24.159837681401303,"effectiveDate":"2023-02-15"},{"code":"CIG","shareholderType":"PERSON","shareholderName":"Trần Đức Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1344000,"ownershipPct":4.261262709160545,"effectiveDate":"2022-04-30"},{"code":"CIG","shareholderType":"PERSON","shareholderName":"Đỗ Quang Khuê","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1298000,"ownershipPct":4.115415920007728,"effectiveDate":"2016-06-01"},{"code":"CIG","shareholderType":"PERSON","shareholderName":"Lê Thị Vân Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":590800,"ownershipPct":1.873180065901823,"effectiveDate":"2021-09-01"},{"code":"CIG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Nhàn","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":403600,"ownershipPct":1.2796470456973184,"effectiveDate":"2023-12-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Liên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7672600,
+      "ownershipPct": 15.03253912077926,
+      "effectiveDate": "2023-02-15"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5620000,
+      "ownershipPct": 11.010983220652639,
+      "effectiveDate": "2025-03-14"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Tuế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5600000,
+      "ownershipPct": 10.971798226984836,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Thư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5500000,
+      "ownershipPct": 10.775873258645822,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Thị Ngọc Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4000000,
+      "ownershipPct": 7.8369987335605975,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hải Đăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3400000,
+      "ownershipPct": 6.661448923526508,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đức Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1344000,
+      "ownershipPct": 2.6332315744763606,
+      "effectiveDate": "2022-04-30"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Quang Khuê",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1298000,
+      "ownershipPct": 2.5431060890404136,
+      "effectiveDate": "2016-06-01"
+    },
+    {
+      "code": "CIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Vân Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 590800,
+      "ownershipPct": 1.1575247129469002,
+      "effectiveDate": "2021-09-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"HEP","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Thừa Thiên Huế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3060000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"HEP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại - Xây dựng và dịch vụ Môi trường Thừa Thiên Huế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":705700,"ownershipPct":11.761666666666667,"effectiveDate":"2022-02-16"},{"code":"HEP","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Rin","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":665900,"ownershipPct":11.098333333333333,"effectiveDate":"2023-06-30"},{"code":"HEP","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Sơn","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":358800,"ownershipPct":5.98,"effectiveDate":"2020-06-25"},{"code":"HEP","shareholderType":"PERSON","shareholderName":"Dương Thị Huệ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":350000,"ownershipPct":5.833333333333333,"effectiveDate":"2020-06-25"},{"code":"HEP","shareholderType":"PERSON","shareholderName":"Trần Trung Khánh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":61100,"ownershipPct":1.0183333333333333,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HEP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Thừa Thiên Huế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3060000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HEP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại - Xây dựng và dịch vụ Môi trường Thừa Thiên Huế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 705700,
+      "ownershipPct": 11.761666666666667,
+      "effectiveDate": "2022-02-16"
+    },
+    {
+      "code": "HEP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Rin",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 665900,
+      "ownershipPct": 11.098333333333333,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HEP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Sơn",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 358800,
+      "ownershipPct": 5.98,
+      "effectiveDate": "2020-06-25"
+    },
+    {
+      "code": "HEP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thị Huệ",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 350000,
+      "ownershipPct": 5.833333333333333,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "HEP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Trung Khánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 61100,
+      "ownershipPct": 1.0183333333333333,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,108 @@
-{"data":[{"code":"YBM","shareholderType":"PERSON","shareholderName":"Hoàng Quốc Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3519769,"ownershipPct":24.61397578161495,"effectiveDate":"2021-06-30"},{"code":"YBM","shareholderType":"PERSON","shareholderName":"Đỗ Thanh Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3349179,"ownershipPct":23.421028707933214,"effectiveDate":"2020-10-19"},{"code":"YBM","shareholderType":"COMPANY","shareholderName":"CTCP Nhựa Châu Âu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3289000,"ownershipPct":23.00019300861266,"effectiveDate":"2020-06-30"},{"code":"YBM","shareholderType":"PERSON","shareholderName":"Đào Thị Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1584000,"ownershipPct":11.077016030903756,"effectiveDate":"2023-08-08"},{"code":"YBM","shareholderType":"PERSON","shareholderName":"Hoàng Minh Hiếu","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":1233441,"ownershipPct":8.625533920564369,"effectiveDate":"2023-08-08"},{"code":"YBM","shareholderType":"PERSON","shareholderName":"Phan Thế Tùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1130674,"ownershipPct":7.906877540231107,"effectiveDate":"2020-10-22"},{"code":"YBM","shareholderType":"PERSON","shareholderName":"Đào Thị Dịu","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":500591,"ownershipPct":3.500665739852362,"effectiveDate":"2020-06-30"},{"code":"YBM","shareholderType":"PERSON","shareholderName":"Hoàng Thị Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":230769,"ownershipPct":1.613782773002291,"effectiveDate":"2021-06-30"},{"code":"YBM","shareholderType":"PERSON","shareholderName":"Lê Hoàn","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":150000,"ownershipPct":1.0489598514113405,"effectiveDate":"2022-01-25"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Quốc Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3519769,
+      "ownershipPct": 24.61397578161495,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thanh Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3349179,
+      "ownershipPct": 23.421028707933214,
+      "effectiveDate": "2020-10-19"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Nhựa Châu Âu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3289000,
+      "ownershipPct": 23.00019300861266,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1647000,
+      "ownershipPct": 11.51757916849652,
+      "effectiveDate": "2024-11-27"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Minh Hiếu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1233441,
+      "ownershipPct": 8.625533920564369,
+      "effectiveDate": "2023-08-08"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thế Tùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1130674,
+      "ownershipPct": 7.906877540231107,
+      "effectiveDate": "2020-10-22"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Dịu",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 500591,
+      "ownershipPct": 3.500665739852362,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 230769,
+      "ownershipPct": 1.613782773002291,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thanh Thủy",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 220000,
+      "ownershipPct": 1.5384744487366329,
+      "effectiveDate": "2024-08-30"
+    },
+    {
+      "code": "YBM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hoàn",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 150000,
+      "ownershipPct": 1.0489598514113405,
+      "effectiveDate": "2022-01-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

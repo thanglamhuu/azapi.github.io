@@ -1,1 +1,108 @@
-{"data":[{"code":"MST","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tuyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6310532,"ownershipPct":8.302861702523913,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lan Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3312650,"ownershipPct":4.358503343120017,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Nguyễn Huy Quang","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2595186,"ownershipPct":3.4145251858838885,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Tạ Thị Dinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2301261,"ownershipPct":3.027803650217111,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1913458,"ownershipPct":2.5175654204095634,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Phan Hoàng Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1842500,"ownershipPct":2.4242049144034623,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Nguyễn Trường Phi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1837000,"ownershipPct":2.4169684818231536,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Trần Thị Minh Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1716660,"ownershipPct":2.2586353369659964,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Phan Thị Thanh Hoài","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1544070,"ownershipPct":2.0315560825959045,"effectiveDate":"2023-07-19"},{"code":"MST","shareholderType":"PERSON","shareholderName":"Phạm Bá Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1425864,"ownershipPct":1.876030673579907,"effectiveDate":"2023-07-19"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tuyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6310532,
+      "ownershipPct": 8.302861702523913,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lan Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3312650,
+      "ownershipPct": 4.358503343120017,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Huy Quang",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2595186,
+      "ownershipPct": 3.4145251858838885,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Thị Dinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2301261,
+      "ownershipPct": 3.027803650217111,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1913458,
+      "ownershipPct": 2.5175654204095634,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Hoàng Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1842500,
+      "ownershipPct": 2.4242049144034623,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trường Phi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1837000,
+      "ownershipPct": 2.4169684818231536,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Minh Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1716660,
+      "ownershipPct": 2.2586353369659964,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thị Thanh Hoài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1544070,
+      "ownershipPct": 2.0315560825959045,
+      "effectiveDate": "2023-07-19"
+    },
+    {
+      "code": "MST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Bá Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1425864,
+      "ownershipPct": 1.876030673579907,
+      "effectiveDate": "2023-07-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

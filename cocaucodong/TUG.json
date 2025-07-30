@@ -1,1 +1,28 @@
-{"data":[{"code":"TUG","shareholderType":"COMPANY","shareholderName":"Cảng Hải Phòng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1620000,"ownershipPct":60,"effectiveDate":"2020-06-30"},{"code":"TUG","shareholderType":"PERSON","shareholderName":"Phạm Việt Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":35575,"ownershipPct":1.3175925925925926,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TUG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng Hải Phòng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3240000,
+      "ownershipPct": 60.27818381832155,
+      "effectiveDate": "2025-06-04"
+    },
+    {
+      "code": "TUG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hải Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 270388,
+      "ownershipPct": 5.030400483416151,
+      "effectiveDate": "2025-07-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

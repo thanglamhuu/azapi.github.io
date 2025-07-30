@@ -1,1 +1,38 @@
-{"data":[{"code":"BRC","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6045658,"ownershipPct":48.85381386355083,"effectiveDate":"2020-06-30"},{"code":"BRC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Công Nghiệp Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2457578,"ownershipPct":19.85922097597276,"effectiveDate":"2020-06-30"},{"code":"BRC","shareholderType":"COMPANY","shareholderName":"Xi măng VICEM Hà Tiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2310000,"ownershipPct":18.66667119192029,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6045658,
+      "ownershipPct": 48.85381386355083,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Công Nghiệp Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2457578,
+      "ownershipPct": 19.85922097597276,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xi măng VICEM Hà Tiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2310000,
+      "ownershipPct": 18.66667119192029,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

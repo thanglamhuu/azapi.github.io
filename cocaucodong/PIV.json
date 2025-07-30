@@ -1,1 +1,98 @@
-{"data":[{"code":"PIV","shareholderType":"PERSON","shareholderName":"Hoàng Thị Hoài","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1638500,"ownershipPct":9.457463118779849,"effectiveDate":"2018-07-03"},{"code":"PIV","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":826000,"ownershipPct":4.7676927287837385,"effectiveDate":"2020-06-12"},{"code":"PIV","shareholderType":"PERSON","shareholderName":"Lê Xuân Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":625000,"ownershipPct":3.607515684612393,"effectiveDate":"2016-12-02"},{"code":"PIV","shareholderType":"PERSON","shareholderName":"Phạm Văn Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":562482,"ownershipPct":3.2466602196994367,"effectiveDate":"2016-12-01"},{"code":"PIV","shareholderType":"PERSON","shareholderName":"Vũ Văn Cương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":525000,"ownershipPct":3.03031317507441,"effectiveDate":"2017-01-12"},{"code":"PIV","shareholderType":"PERSON","shareholderName":"Trần Văn Lượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":508000,"ownershipPct":2.932188748452953,"effectiveDate":"2016-12-07"},{"code":"PIV","shareholderType":"PERSON","shareholderName":"Lê Tuấn Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":500000,"ownershipPct":2.8860125476899143,"effectiveDate":"2016-03-28"},{"code":"PIV","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":200000,"ownershipPct":1.1544050190759658,"effectiveDate":"2017-02-10"},{"code":"PIV","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":200000,"ownershipPct":1.1544050190759658,"effectiveDate":"2017-02-10"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Hoài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1638500,
+      "ownershipPct": 9.457463118779849,
+      "effectiveDate": "2018-07-03"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 826000,
+      "ownershipPct": 4.7676927287837385,
+      "effectiveDate": "2020-06-12"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 625000,
+      "ownershipPct": 3.607515684612393,
+      "effectiveDate": "2016-12-02"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 562482,
+      "ownershipPct": 3.2466602196994367,
+      "effectiveDate": "2016-12-01"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Văn Cương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 525000,
+      "ownershipPct": 3.03031317507441,
+      "effectiveDate": "2017-01-12"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Lượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 508000,
+      "ownershipPct": 2.932188748452953,
+      "effectiveDate": "2016-12-07"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tuấn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 500000,
+      "ownershipPct": 2.8860125476899143,
+      "effectiveDate": "2016-03-28"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 200000,
+      "ownershipPct": 1.1544050190759658,
+      "effectiveDate": "2017-02-10"
+    },
+    {
+      "code": "PIV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 200000,
+      "ownershipPct": 1.1544050190759658,
+      "effectiveDate": "2017-02-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

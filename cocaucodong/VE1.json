@@ -1,1 +1,108 @@
-{"data":[{"code":"VE1","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đỗ Huấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1280000,"ownershipPct":21.580502016428156,"effectiveDate":"2023-06-30"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Hao Dan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":889300,"ownershipPct":14.993390971257469,"effectiveDate":"2020-06-30"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Lê Đình Chiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":781200,"ownershipPct":13.17085013690131,"effectiveDate":"2022-07-11"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Miền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":368700,"ownershipPct":6.216196166763329,"effectiveDate":"2021-06-07"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Xu Xiu Li","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":333100,"ownershipPct":5.615988454431421,"effectiveDate":"2020-06-30"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Đỗ Văn Tùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":297500,"ownershipPct":5.015780742099513,"effectiveDate":"2022-06-24"},{"code":"VE1","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư Việt Tú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":289900,"ownershipPct":4.887646511376971,"effectiveDate":"2021-12-22"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Xu Sheng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":284800,"ownershipPct":4.801661698655265,"effectiveDate":"2021-01-11"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Đỗ Văn Huấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":198600,"ownershipPct":3.3483497659864314,"effectiveDate":"2021-12-31"},{"code":"VE1","shareholderType":"PERSON","shareholderName":"Yang Xiao Dong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":171000,"ownershipPct":2.883020191257199,"effectiveDate":"2017-10-13"}],"currentPage":1,"size":10,"totalElements":19,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "VE1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đỗ Huấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1280000,
+      "ownershipPct": 21.580502016428156,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hao Dan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 889300,
+      "ownershipPct": 14.993390971257469,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Chiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 781200,
+      "ownershipPct": 13.17085013690131,
+      "effectiveDate": "2022-07-11"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Miền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 368700,
+      "ownershipPct": 6.216196166763329,
+      "effectiveDate": "2021-06-07"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Xu Xiu Li",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 333100,
+      "ownershipPct": 5.615988454431421,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Tùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 297500,
+      "ownershipPct": 5.015780742099513,
+      "effectiveDate": "2022-06-24"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư Việt Tú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 289900,
+      "ownershipPct": 4.887646511376971,
+      "effectiveDate": "2021-12-22"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Xu Sheng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 284800,
+      "ownershipPct": 4.801661698655265,
+      "effectiveDate": "2021-01-11"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Huấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 198600,
+      "ownershipPct": 3.3483497659864314,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "VE1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Yang Xiao Dong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 171000,
+      "ownershipPct": 2.883020191257199,
+      "effectiveDate": "2017-10-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 19,
+  "totalPages": 2
+}

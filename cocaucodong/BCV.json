@@ -1,1 +1,28 @@
-{"data":[{"code":"BCV","shareholderType":"COMPANY","shareholderName":"Khoáng sản TKV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":923500,"ownershipPct":51.30555555555556,"effectiveDate":"2022-04-22"},{"code":"BCV","shareholderType":"COMPANY","shareholderName":"Tỉnh ủy Cao Bằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":751600,"ownershipPct":41.75555555555555,"effectiveDate":"2020-09-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BCV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Khoáng sản TKV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 923500,
+      "ownershipPct": 51.30555555555556,
+      "effectiveDate": "2022-04-22"
+    },
+    {
+      "code": "BCV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tỉnh ủy Cao Bằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 751600,
+      "ownershipPct": 41.75555555555555,
+      "effectiveDate": "2020-09-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

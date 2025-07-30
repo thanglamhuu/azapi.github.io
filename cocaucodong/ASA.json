@@ -1,1 +1,78 @@
-{"data":[{"code":"ASA","shareholderType":"PERSON","shareholderName":"Cao Tấn Thành","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1000000,"ownershipPct":10,"effectiveDate":"2021-11-25"},{"code":"ASA","shareholderType":"PERSON","shareholderName":"Lưu Quang Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":959000,"ownershipPct":9.59,"effectiveDate":"2020-11-27"},{"code":"ASA","shareholderType":"PERSON","shareholderName":"Nguyễn Đan Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":620000,"ownershipPct":6.2,"effectiveDate":"2015-07-31"},{"code":"ASA","shareholderType":"PERSON","shareholderName":"Lê Minh Quân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":606500,"ownershipPct":6.065,"effectiveDate":"2019-08-30"},{"code":"ASA","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":440000,"ownershipPct":4.4,"effectiveDate":"2015-06-23"},{"code":"ASA","shareholderType":"PERSON","shareholderName":"Huỳnh Cẩm Đoan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":411600,"ownershipPct":4.116,"effectiveDate":"2018-01-02"},{"code":"ASA","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":306900,"ownershipPct":3.069,"effectiveDate":"2021-07-09"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ASA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Tấn Thành",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1000000,
+      "ownershipPct": 10,
+      "effectiveDate": "2021-11-25"
+    },
+    {
+      "code": "ASA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Quang Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 959000,
+      "ownershipPct": 9.59,
+      "effectiveDate": "2020-11-27"
+    },
+    {
+      "code": "ASA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đan Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 620000,
+      "ownershipPct": 6.2,
+      "effectiveDate": "2015-07-31"
+    },
+    {
+      "code": "ASA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Minh Quân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 606500,
+      "ownershipPct": 6.065,
+      "effectiveDate": "2019-08-30"
+    },
+    {
+      "code": "ASA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 440000,
+      "ownershipPct": 4.4,
+      "effectiveDate": "2015-06-23"
+    },
+    {
+      "code": "ASA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Cẩm Đoan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 411600,
+      "ownershipPct": 4.116,
+      "effectiveDate": "2018-01-02"
+    },
+    {
+      "code": "ASA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 306900,
+      "ownershipPct": 3.069,
+      "effectiveDate": "2021-07-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

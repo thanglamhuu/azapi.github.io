@@ -1,1 +1,38 @@
-{"data":[{"code":"DPR","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":48000000,"ownershipPct":55.24484677220243,"effectiveDate":"2023-09-27"},{"code":"DPR","shareholderType":"COMPANY","shareholderName":"Samarang Unicts - Samarang Asian Properity","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4289360,"ownershipPct":4.93677158230863,"effectiveDate":"2023-09-27"},{"code":"DPR","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3977080,"ownershipPct":4.577357816683143,"effectiveDate":"2023-09-27"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DPR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 48000000,
+      "ownershipPct": 55.24484677220243,
+      "effectiveDate": "2023-09-27"
+    },
+    {
+      "code": "DPR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Samarang Unicts - Samarang Asian Properity",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4289360,
+      "ownershipPct": 4.93677158230863,
+      "effectiveDate": "2023-09-27"
+    },
+    {
+      "code": "DPR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3977080,
+      "ownershipPct": 4.577357816683143,
+      "effectiveDate": "2023-09-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

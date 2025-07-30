@@ -1,1 +1,18 @@
-{"data":[{"code":"IFS","shareholderType":"COMPANY","shareholderName":"Kirin Holdings Singapore Pte.Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":83360282,"ownershipPct":95.66139624955348,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "IFS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Kirin Holdings Singapore Pte.Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 83360282,
+      "ownershipPct": 95.66139624955348,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

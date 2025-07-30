@@ -1,1 +1,108 @@
-{"data":[{"code":"PAC","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":23898273,"ownershipPct":51.109672237788274,"effectiveDate":"2020-12-31"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư cơ hội PVI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5932382,"ownershipPct":12.687197087812784,"effectiveDate":"2024-03-27"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"The Furukawa Battery Co., Ltd.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4899708,"ownershipPct":10.478684796213898,"effectiveDate":"2022-12-31"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"Pin miền Nam","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":2221034,"ownershipPct":4.749980041193095,"effectiveDate":"2024-04-02"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2211800,"ownershipPct":4.730231889791371,"effectiveDate":"2017-12-05"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"Công đoàn CTCP Pin Ắc quy miền Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1917734,"ownershipPct":4.10133218326122,"effectiveDate":"2024-07-16"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"FTIF – Templeton Frontier Markets Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1251420,"ownershipPct":2.6763300440920146,"effectiveDate":"2013-09-30"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"KIM Vietnam Growth Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":993982,"ownershipPct":2.1257642437284594,"effectiveDate":"2020-04-03"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"Red River Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":830550,"ownershipPct":1.7762429225364966,"effectiveDate":"2009-10-16"},{"code":"PAC","shareholderType":"COMPANY","shareholderName":"KITMC WORLDWIDE VIETNAM RSP BALANCED FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":798898,"ownershipPct":1.7085508618729301,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35847409,
+      "ownershipPct": 51.42559617261474,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "The Furukawa Battery Co., Ltd.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7349562,
+      "ownershipPct": 10.543456779752052,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Pin miền Nam",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 3331551,
+      "ownershipPct": 4.779341133259332,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3317700,
+      "ownershipPct": 4.759470912441229,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn CTCP Pin Ắc quy miền Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2813301,
+      "ownershipPct": 4.035875539512862,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "FTIF – Templeton Frontier Markets Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1877130,
+      "ownershipPct": 2.6928732657777386,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư cơ hội PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1854573,
+      "ownershipPct": 2.6605136837263363,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KIM Vietnam Growth Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1490973,
+      "ownershipPct": 2.1389042483453102,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Red River Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1245825,
+      "ownershipPct": 1.7872224280351128,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "PAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KITMC WORLDWIDE VIETNAM RSP BALANCED FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1198347,
+      "ownershipPct": 1.7191119418606893,
+      "effectiveDate": "2025-06-23"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

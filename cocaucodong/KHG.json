@@ -1,1 +1,69 @@
-{"data":[{"code":"KHG","shareholderType":"PERSON","shareholderName":"Nguyễn Khải Hoàn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":143664000,"ownershipPct":31.965453173611532,"effectiveDate":"2022-11-25"},{"code":"KHG","shareholderType":"PERSON","shareholderName":"Trần Thị Thu Hương","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":58084300,"ownershipPct":12.92384293749307,"groupPct":14.90321613768552,"effectiveDate":"2024-06-20"},{"code":"KHG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Nhàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22035878,"ownershipPct":4.903015552597843,"effectiveDate":"2022-05-11"},{"code":"KHG","shareholderType":"PERSON","shareholderName":"Phan Tuấn Nghĩa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17847047,"ownershipPct":3.970994439565543,"effectiveDate":"2023-07-14"},{"code":"KHG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hoài Quyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10378018,"ownershipPct":2.3091244042620116,"effectiveDate":"2022-04-21"},{"code":"KHG","shareholderType":"PERSON","shareholderName":"Đinh Thị Nhật Hạnh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":5448000,"ownershipPct":1.2121880839308081,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khải Hoàn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 143664000,
+      "ownershipPct": 31.965453173611532,
+      "effectiveDate": "2022-11-25"
+    },
+    {
+      "code": "KHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thu Hương",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 58084300,
+      "ownershipPct": 12.92384293749307,
+      "groupPct": 14.90321613768552,
+      "effectiveDate": "2024-06-20"
+    },
+    {
+      "code": "KHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Nhàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22035878,
+      "ownershipPct": 4.903015552597843,
+      "effectiveDate": "2022-05-11"
+    },
+    {
+      "code": "KHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Tuấn Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17847047,
+      "ownershipPct": 3.970994439565543,
+      "effectiveDate": "2023-07-14"
+    },
+    {
+      "code": "KHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hoài Quyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10378018,
+      "ownershipPct": 2.3091244042620116,
+      "effectiveDate": "2022-04-21"
+    },
+    {
+      "code": "KHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Nhật Hạnh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 6448000,
+      "ownershipPct": 1.4346895677653912,
+      "effectiveDate": "2024-09-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

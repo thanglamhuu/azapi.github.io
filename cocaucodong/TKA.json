@@ -1,1 +1,18 @@
-{"data":[{"code":"TKA","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Khánh Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3186500,"ownershipPct":83.85526315789474,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TKA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Khánh Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3186500,
+      "ownershipPct": 83.85526315789474,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

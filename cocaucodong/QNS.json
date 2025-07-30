@@ -1,1 +1,90 @@
-{"data":[{"code":"QNS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV TM Thành Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":55534608,"ownershipPct":15.105368420006723,"effectiveDate":"2020-06-30"},{"code":"QNS","shareholderType":"PERSON","shareholderName":"Võ Thành Đàng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":31024246,"ownershipPct":8.438569797466112,"effectiveDate":"2024-07-15"},{"code":"QNS","shareholderType":"COMPANY","shareholderName":"Foremost Worldwide Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17522632,"ownershipPct":4.766141719199661,"effectiveDate":"2023-07-06"},{"code":"QNS","shareholderType":"COMPANY","shareholderName":"CTCP Thực phẩm Dinh dưỡng Nutifood Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15842529,"ownershipPct":4.309155063265067,"effectiveDate":"2022-08-22"},{"code":"QNS","shareholderType":"PERSON","shareholderName":"Võ Thị Cẩm Nhung","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":10667282,"ownershipPct":2.9014920686953647,"groupPct":2.9270450326456556,"effectiveDate":"2024-07-11"},{"code":"QNS","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Nguyệt","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":6521964,"ownershipPct":1.773968928384634,"groupPct":2.213416804517443,"effectiveDate":"2020-06-30"},{"code":"QNS","shareholderType":"PERSON","shareholderName":"Trần Ngọc Phương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":6480895,"ownershipPct":1.7627981936305281,"effectiveDate":"2024-06-28"},{"code":"QNS","shareholderType":"PERSON","shareholderName":"Ngô Văn Tụ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3932675,"ownershipPct":1.0696844164480273,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "QNS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV TM Thành Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 55534608,
+      "ownershipPct": 15.105368420006723,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "QNS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thành Đàng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 34347646,
+      "ownershipPct": 9.342531907130239,
+      "effectiveDate": "2025-07-11"
+    },
+    {
+      "code": "QNS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Foremost Worldwide Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17522632,
+      "ownershipPct": 4.766141719199661,
+      "effectiveDate": "2023-07-06"
+    },
+    {
+      "code": "QNS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thực phẩm Dinh dưỡng Nutifood Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15842529,
+      "ownershipPct": 4.309155063265067,
+      "effectiveDate": "2022-08-22"
+    },
+    {
+      "code": "QNS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Cẩm Nhung",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 10667282,
+      "ownershipPct": 2.9014920686953647,
+      "groupPct": 2.9270450326456556,
+      "effectiveDate": "2024-07-11"
+    },
+    {
+      "code": "QNS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Nguyệt",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 6521964,
+      "ownershipPct": 1.773968928384634,
+      "groupPct": 2.3717203333808126,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "QNS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Phương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 6480895,
+      "ownershipPct": 1.7627981936305281,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "QNS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Văn Tụ",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3932675,
+      "ownershipPct": 1.0696844164480273,
+      "effectiveDate": "2021-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

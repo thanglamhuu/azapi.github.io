@@ -1,1 +1,70 @@
-{"data":[{"code":"CRC","shareholderType":"PERSON","shareholderName":"Mai Anh Tám","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4000000,"ownershipPct":6.666666666666667,"effectiveDate":"2024-04-11"},{"code":"CRC","shareholderType":"PERSON","shareholderName":"Mai Anh Đức","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":2808950,"ownershipPct":4.681583333333333,"groupPct":8.014916666666666,"effectiveDate":"2024-04-12"},{"code":"CRC","shareholderType":"PERSON","shareholderName":"Mai Trần Nam","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":2000000,"ownershipPct":3.3333333333333335,"groupPct":8.014916666666666,"effectiveDate":"2024-04-22"},{"code":"CRC","shareholderType":"PERSON","shareholderName":"Phạm Thị Huế","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":1458000,"ownershipPct":2.43,"effectiveDate":"2024-04-22"},{"code":"CRC","shareholderType":"PERSON","shareholderName":"Dương Thị Huyến","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1300000,"ownershipPct":2.1666666666666665,"effectiveDate":"2024-04-11"},{"code":"CRC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thúy Nga","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":1021400,"ownershipPct":1.7023333333333333,"effectiveDate":"2024-04-22"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Anh Tám",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 4560000,
+      "ownershipPct": 6.666674074082304,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "CRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Anh Đức",
+      "roleType": "Con của Người ĐD theo pháp luật",
+      "enRoleType": "Child of Legal representative",
+      "numberOfShares": 3202203,
+      "ownershipPct": 4.681588535098372,
+      "groupPct": 8.014925572139525,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "CRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Trần Nam",
+      "roleType": "Con của Người ĐD theo pháp luật",
+      "enRoleType": "Child of Legal representative",
+      "numberOfShares": 2280000,
+      "ownershipPct": 3.333337037041152,
+      "groupPct": 8.014925572139525,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "CRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Huế",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 1662120,
+      "ownershipPct": 2.430002700003,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "CRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thị Huyến",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1482000,
+      "ownershipPct": 2.166669074076749,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "CRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thúy Nga",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 1164396,
+      "ownershipPct": 1.7023352248169166,
+      "effectiveDate": "2025-06-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,58 @@
-{"data":[{"code":"LCS","shareholderType":"PERSON","shareholderName":"Đỗ Hoàng Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1824000,"ownershipPct":24,"effectiveDate":"2022-04-27"},{"code":"LCS","shareholderType":"PERSON","shareholderName":"Đặng Lam Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1672000,"ownershipPct":22,"effectiveDate":"2022-04-27"},{"code":"LCS","shareholderType":"PERSON","shareholderName":"Bùi Thị Nhân Huệ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":87900,"ownershipPct":1.1565789473684212,"effectiveDate":"2021-06-30"},{"code":"LCS","shareholderType":"PERSON","shareholderName":"Hà Văn Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":85000,"ownershipPct":1.118421052631579,"effectiveDate":"2011-03-09"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Hoàng Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1824000,
+      "ownershipPct": 24,
+      "effectiveDate": "2022-04-27"
+    },
+    {
+      "code": "LCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Lam Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1672000,
+      "ownershipPct": 22,
+      "effectiveDate": "2022-04-27"
+    },
+    {
+      "code": "LCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 744900,
+      "ownershipPct": 9.801315789473684,
+      "effectiveDate": "2025-03-28"
+    },
+    {
+      "code": "LCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Nhân Huệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 87900,
+      "ownershipPct": 1.1565789473684212,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "LCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Văn Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 85000,
+      "ownershipPct": 1.118421052631579,
+      "effectiveDate": "2011-03-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

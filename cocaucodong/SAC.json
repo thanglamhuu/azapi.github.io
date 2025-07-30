@@ -1,1 +1,68 @@
-{"data":[{"code":"SAC","shareholderType":"COMPANY","shareholderName":"Cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2082800,"ownershipPct":52.71710243235719,"effectiveDate":"2020-06-30"},{"code":"SAC","shareholderType":"COMPANY","shareholderName":"CTCP Thương mại và Đầu tư Thịnh vượng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":308000,"ownershipPct":7.795692120782607,"effectiveDate":"2019-11-06"},{"code":"SAC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Vật tư Nông sản","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":202500,"ownershipPct":5.125414462527526,"effectiveDate":"2020-06-30"},{"code":"SAC","shareholderType":"PERSON","shareholderName":"Đỗ Thanh Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":100000,"ownershipPct":2.531068870383963,"effectiveDate":"2020-08-14"},{"code":"SAC","shareholderType":"COMPANY","shareholderName":"Xếp dỡ Cảng SG","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":99100,"ownershipPct":2.5082892505505074,"effectiveDate":"2018-02-23"},{"code":"SAC","shareholderType":"PERSON","shareholderName":"Phan Minh Trí","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":41500,"ownershipPct":1.0503935812093448,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2082800,
+      "ownershipPct": 52.71710243235719,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thương mại và Đầu tư Thịnh vượng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 308000,
+      "ownershipPct": 7.795692120782607,
+      "effectiveDate": "2019-11-06"
+    },
+    {
+      "code": "SAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Vật tư Nông sản",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 202500,
+      "ownershipPct": 5.125414462527526,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SAC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thanh Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 100000,
+      "ownershipPct": 2.531068870383963,
+      "effectiveDate": "2020-08-14"
+    },
+    {
+      "code": "SAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xếp dỡ Cảng SG",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 99100,
+      "ownershipPct": 2.5082892505505074,
+      "effectiveDate": "2018-02-23"
+    },
+    {
+      "code": "SAC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Minh Trí",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 41500,
+      "ownershipPct": 1.0503935812093448,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

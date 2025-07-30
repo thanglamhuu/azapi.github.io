@@ -1,1 +1,108 @@
-{"data":[{"code":"DCR","shareholderType":"PERSON","shareholderName":"Vũ Tuấn Bình","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1429810,"ownershipPct":21.99707692307692,"effectiveDate":"2020-06-30"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Trần Ánh Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1100493,"ownershipPct":16.93066153846154,"effectiveDate":"2020-12-31"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Trần Hà Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1100000,"ownershipPct":16.923076923076923,"effectiveDate":"2023-12-26"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":617500,"ownershipPct":9.5,"effectiveDate":"2023-12-26"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Bích Ngọc","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":549926,"ownershipPct":8.4604,"effectiveDate":"2020-06-30"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng Huệ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":310958,"ownershipPct":4.783969230769231,"effectiveDate":"2020-12-31"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Trương Thị Phú","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":300000,"ownershipPct":4.615384615384615,"effectiveDate":"2023-12-26"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Phạm Thị Dịu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":246000,"ownershipPct":3.7846153846153845,"effectiveDate":"2020-03-31"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Từ Thị Hiền","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":230000,"ownershipPct":3.5384615384615383,"effectiveDate":"2020-03-31"},{"code":"DCR","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Khôi","roleType":"Chồng của Thành viên HĐQT","enRoleType":"Husband of Board member","numberOfShares":197000,"ownershipPct":3.0307692307692307,"effectiveDate":"2023-12-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Tuấn Bình",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1429810,
+      "ownershipPct": 21.99707692307692,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hà Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1105300,
+      "ownershipPct": 17.004615384615384,
+      "effectiveDate": "2025-04-08"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ánh Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1100493,
+      "ownershipPct": 16.93066153846154,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 617500,
+      "ownershipPct": 9.5,
+      "effectiveDate": "2023-12-26"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Đức Hiển",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 549926,
+      "ownershipPct": 8.4604,
+      "effectiveDate": "2024-11-22"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng Huệ",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 310958,
+      "ownershipPct": 4.783969230769231,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Phú",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 300000,
+      "ownershipPct": 4.615384615384615,
+      "effectiveDate": "2023-12-26"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Dịu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 246000,
+      "ownershipPct": 3.7846153846153845,
+      "effectiveDate": "2020-03-31"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Từ Thị Hiền",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 230000,
+      "ownershipPct": 3.5384615384615383,
+      "effectiveDate": "2020-03-31"
+    },
+    {
+      "code": "DCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Khôi",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 197000,
+      "ownershipPct": 3.0307692307692307,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

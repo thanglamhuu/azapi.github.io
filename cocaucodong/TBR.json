@@ -1,1 +1,49 @@
-{"data":[{"code":"TBR","shareholderType":"COMPANY","shareholderName":"Tổng công ty địa ốc Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4110600,"ownershipPct":51,"effectiveDate":"2021-11-26"},{"code":"TBR","shareholderType":"PERSON","shareholderName":"Cao Toàn Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":499700,"ownershipPct":6.199751861042183,"effectiveDate":"2022-10-07"},{"code":"TBR","shareholderType":"COMPANY","shareholderName":"Tài chính Điện lực","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":442510,"ownershipPct":5.490198511166253,"effectiveDate":"2021-11-26"},{"code":"TBR","shareholderType":"PERSON","shareholderName":"Lê Văn Gia","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":97048,"ownershipPct":1.2040694789081885,"groupPct":1.340545905707196,"effectiveDate":"2021-11-26"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TBR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty địa ốc Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4110600,
+      "ownershipPct": 51,
+      "effectiveDate": "2021-11-26"
+    },
+    {
+      "code": "TBR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Toàn Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 499700,
+      "ownershipPct": 6.199751861042183,
+      "effectiveDate": "2022-10-07"
+    },
+    {
+      "code": "TBR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tài chính Điện lực",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 442510,
+      "ownershipPct": 5.490198511166253,
+      "effectiveDate": "2021-11-26"
+    },
+    {
+      "code": "TBR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Gia",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 97048,
+      "ownershipPct": 1.2040694789081885,
+      "groupPct": 1.340545905707196,
+      "effectiveDate": "2021-11-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

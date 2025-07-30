@@ -1,1 +1,58 @@
-{"data":[{"code":"HNP","shareholderType":"COMPANY","shareholderName":"Hanel","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2814232,"ownershipPct":56.28464,"effectiveDate":"2020-06-30"},{"code":"HNP","shareholderType":"PERSON","shareholderName":"Hoàng Thu Hương","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":121946,"ownershipPct":2.43892,"effectiveDate":"2020-12-31"},{"code":"HNP","shareholderType":"PERSON","shareholderName":"Hoàng Văn Phúc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":121906,"ownershipPct":2.43812,"effectiveDate":"2020-06-30"},{"code":"HNP","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Cường","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":70560,"ownershipPct":1.4112,"effectiveDate":"2020-06-30"},{"code":"HNP","shareholderType":"PERSON","shareholderName":"Phạm Hoàng Uyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":50000,"ownershipPct":1,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HNP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hanel",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2814232,
+      "ownershipPct": 56.28464,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thu Hương",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 121946,
+      "ownershipPct": 2.43892,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "HNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Phúc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 121906,
+      "ownershipPct": 2.43812,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Cường",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 70560,
+      "ownershipPct": 1.4112,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Hoàng Uyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 50000,
+      "ownershipPct": 1,
+      "effectiveDate": "2021-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

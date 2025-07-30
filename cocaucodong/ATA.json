@@ -1,1 +1,108 @@
-{"data":[{"code":"ATA","shareholderType":"COMPANY","shareholderName":"Quỹ Đầu tư Chứng khoán Sài Gòn A2 (SFA2)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1738272,"ownershipPct":14.485602414267069,"effectiveDate":"2020-06-30"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Đinh Thị Kim Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":599000,"ownershipPct":4.99166749861125,"effectiveDate":"2015-11-19"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":595600,"ownershipPct":4.963334160555694,"effectiveDate":"2018-04-20"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Phạm Thị Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":587000,"ownershipPct":4.89166748194458,"effectiveDate":"2020-11-27"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Nghiêm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":583200,"ownershipPct":4.860000810000135,"effectiveDate":"2018-03-30"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Lê Hải Đoàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":576740,"ownershipPct":4.806167467694578,"effectiveDate":"2016-04-21"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Phan Văn Tần","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":530000,"ownershipPct":4.4166674027779,"effectiveDate":"2020-02-22"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Hồ Thị Kim Loan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":392600,"ownershipPct":3.271667211944535,"effectiveDate":"2021-01-22"},{"code":"ATA","shareholderType":"PERSON","shareholderName":"Bùi Thị Kim Cúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":378200,"ownershipPct":3.151667191944532,"effectiveDate":"2018-03-16"},{"code":"ATA","shareholderType":"COMPANY","shareholderName":"Quỹ Đầu tư Chứng khoán Sài Gòn A1","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":225480,"ownershipPct":1.8790003131667188,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "ATA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ Đầu tư Chứng khoán Sài Gòn A2 (SFA2)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1738272,
+      "ownershipPct": 14.485602414267069,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Kim Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 599000,
+      "ownershipPct": 4.99166749861125,
+      "effectiveDate": "2015-11-19"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 595600,
+      "ownershipPct": 4.963334160555694,
+      "effectiveDate": "2018-04-20"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 587000,
+      "ownershipPct": 4.89166748194458,
+      "effectiveDate": "2020-11-27"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Nghiêm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 583200,
+      "ownershipPct": 4.860000810000135,
+      "effectiveDate": "2018-03-30"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hải Đoàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 576740,
+      "ownershipPct": 4.806167467694578,
+      "effectiveDate": "2016-04-21"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Văn Tần",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 530000,
+      "ownershipPct": 4.4166674027779,
+      "effectiveDate": "2020-02-22"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Thị Kim Loan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 392600,
+      "ownershipPct": 3.271667211944535,
+      "effectiveDate": "2021-01-22"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Kim Cúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 378200,
+      "ownershipPct": 3.151667191944532,
+      "effectiveDate": "2018-03-16"
+    },
+    {
+      "code": "ATA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ Đầu tư Chứng khoán Sài Gòn A1",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 225480,
+      "ownershipPct": 1.8790003131667188,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

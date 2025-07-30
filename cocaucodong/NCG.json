@@ -1,1 +1,18 @@
-{"data":[{"code":"NCG","shareholderType":"COMPANY","shareholderName":"Foremost Worldwide Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1350117,"ownershipPct":1.1271232692591455,"effectiveDate":"2024-01-04"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Foremost Worldwide Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1350117,
+      "ownershipPct": 1.1271232692591455,
+      "effectiveDate": "2024-01-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

@@ -1,1 +1,98 @@
-{"data":[{"code":"BT1","shareholderType":"PERSON","shareholderName":"Đặng Văn Thông","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1257159,"ownershipPct":22.172276730748848,"effectiveDate":"2023-10-30"},{"code":"BT1","shareholderType":"PERSON","shareholderName":"Đặng Quỳnh Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":602468,"ownershipPct":10.625614753122553,"effectiveDate":"2023-10-30"},{"code":"BT1","shareholderType":"PERSON","shareholderName":"Doãn Thị Hằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":328572,"ownershipPct":5.79496253852982,"effectiveDate":"2023-10-30"},{"code":"BT1","shareholderType":"PERSON","shareholderName":"Lương Thị Tú","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":201204,"ownershipPct":3.548597088620923,"effectiveDate":"2023-10-30"},{"code":"BT1","shareholderType":"PERSON","shareholderName":"Đỗ Đức Cơ","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":141171,"ownershipPct":2.489806363679173,"effectiveDate":"2023-10-30"},{"code":"BT1","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":117158,"ownershipPct":2.06629360106484,"effectiveDate":"2023-10-30"},{"code":"BT1","shareholderType":"PERSON","shareholderName":"Vũ Thị Thanh Huyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":91265,"ownershipPct":1.609623632199104,"effectiveDate":"2023-10-30"},{"code":"BT1","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Cường","roleType":"Bố của Trưởng BKS","enRoleType":"Father of Head of Control","numberOfShares":85891,"ownershipPct":1.5148434053932311,"effectiveDate":"2023-10-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Văn Thông",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1287159,
+      "ownershipPct": 22.70138108582443,
+      "effectiveDate": "2024-09-11"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Quỳnh Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 602468,
+      "ownershipPct": 10.625614753122553,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Doãn Thị Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 328572,
+      "ownershipPct": 5.79496253852982,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Thị Tú",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 201204,
+      "ownershipPct": 3.548597088620923,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Đức Cơ",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 141171,
+      "ownershipPct": 2.489806363679173,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 117158,
+      "ownershipPct": 2.06629360106484,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Thanh Huyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 91265,
+      "ownershipPct": 1.609623632199104,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Cường",
+      "roleType": "Bố của Trưởng BKS",
+      "enRoleType": "Father of Head of Control",
+      "numberOfShares": 85891,
+      "ownershipPct": 1.5148434053932311,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thanh Thảo",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 61263,
+      "ownershipPct": 1.0804840034998489,
+      "effectiveDate": "2024-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

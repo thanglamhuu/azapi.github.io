@@ -1,1 +1,79 @@
-{"data":[{"code":"SHN","shareholderType":"PERSON","shareholderName":"Vũ Văn Tiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5601567,"ownershipPct":4.321958417925826,"effectiveDate":"2017-05-24"},{"code":"SHN","shareholderType":"PERSON","shareholderName":"Vũ Văn Tiền","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":5601567,"ownershipPct":4.321958417925826,"groupPct":4.464759184923652,"effectiveDate":"2017-05-24"},{"code":"SHN","shareholderType":"PERSON","shareholderName":"Chu Văn Mân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5395635,"ownershipPct":4.163069031987873,"effectiveDate":"2020-06-30"},{"code":"SHN","shareholderType":"PERSON","shareholderName":"Trần Văn Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5006698,"ownershipPct":3.862979871009737,"effectiveDate":"2023-08-29"},{"code":"SHN","shareholderType":"COMPANY","shareholderName":"Chứng khoán An Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2315250,"ownershipPct":1.786359821653971,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6365856,
+      "ownershipPct": 4.911655064824473,
+      "effectiveDate": "2024-12-17"
+    },
+    {
+      "code": "SHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Thị Liễu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6028400,
+      "ownershipPct": 4.651286707206046,
+      "effectiveDate": "2025-07-08"
+    },
+    {
+      "code": "SHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Văn Tiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5601567,
+      "ownershipPct": 4.321958417925826,
+      "effectiveDate": "2017-05-24"
+    },
+    {
+      "code": "SHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Văn Tiền",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 5601567,
+      "ownershipPct": 4.321958417925826,
+      "groupPct": 4.464759184923652,
+      "effectiveDate": "2017-05-24"
+    },
+    {
+      "code": "SHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chu Văn Mân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5395635,
+      "ownershipPct": 4.163069031987873,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5006698,
+      "ownershipPct": 3.862979871009737,
+      "effectiveDate": "2023-08-29"
+    },
+    {
+      "code": "SHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán An Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2315250,
+      "ownershipPct": 1.786359821653971,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

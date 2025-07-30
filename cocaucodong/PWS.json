@@ -1,1 +1,28 @@
-{"data":[{"code":"PWS","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần nước Aqua One","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22879025,"ownershipPct":59.58361983780533,"effectiveDate":"2020-06-30"},{"code":"PWS","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân tỉnh Phú Yên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14740600,"ownershipPct":38.388799635524386,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PWS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần nước Aqua One",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22879025,
+      "ownershipPct": 59.63735813074166,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PWS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân tỉnh Phú Yên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14740600,
+      "ownershipPct": 38.423422381942,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

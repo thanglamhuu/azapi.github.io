@@ -1,1 +1,108 @@
-{"data":[{"code":"DRC","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":59999358,"ownershipPct":50.507654074931686,"effectiveDate":"2020-06-30"},{"code":"DRC","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Bắc","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":12482318,"ownershipPct":10.507655758538169,"effectiveDate":"2023-06-30"},{"code":"DRC","shareholderType":"PERSON","shareholderName":"Hà Phước Lộc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":11964238,"ownershipPct":10.071534334986593,"effectiveDate":"2022-12-30"},{"code":"DRC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Bích Thủy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":11889260,"ownershipPct":10.008417611517148,"effectiveDate":"2022-12-30"},{"code":"DRC","shareholderType":"PERSON","shareholderName":"Nguyễn Huy Hiếu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":11879260,"ownershipPct":9.999999579098379,"effectiveDate":"2022-12-30"},{"code":"DRC","shareholderType":"COMPANY","shareholderName":"KWE Beteiligungen AG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5580775,"ownershipPct":4.697914487185461,"effectiveDate":"2021-01-18"},{"code":"DRC","shareholderType":"COMPANY","shareholderName":"PXP VietNam Emerging Equity Fund Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4825148,"ownershipPct":4.061825228935757,"effectiveDate":"2020-06-30"},{"code":"DRC","shareholderType":"COMPANY","shareholderName":"Deutsche Bank Aktiengesellschaf & Deutsche Investment Management Americas Inc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4737031,"ownershipPct":3.9876480526712923,"effectiveDate":"2020-06-30"},{"code":"DRC","shareholderType":"COMPANY","shareholderName":"FTIF – Templeton Frontier Markets Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4615951,"ownershipPct":3.885722516144839,"effectiveDate":"2020-06-30"},{"code":"DRC","shareholderType":"COMPANY","shareholderName":"PGBANK","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3858660,"ownershipPct":3.248232497300653,"effectiveDate":"2009-07-03"}],"currentPage":1,"size":10,"totalElements":17,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 77999165,
+      "ownershipPct": 50.50765397944417,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Bắc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 16227013,
+      "ownershipPct": 10.507655533542472,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Phước Lộc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 15553509,
+      "ownershipPct": 10.071534108578865,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Bích Thủy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 15456038,
+      "ownershipPct": 10.00841764392145,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Huy Hiếu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 15443038,
+      "ownershipPct": 9.999999611475426,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KWE Beteiligungen AG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7255007,
+      "ownershipPct": 4.697914178625442,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PXP VietNam Emerging Equity Fund Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6272692,
+      "ownershipPct": 4.061824983070365,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank Aktiengesellschaf & Deutsche Investment Management Americas Inc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6158140,
+      "ownershipPct": 3.9876478713198322,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "FTIF – Templeton Frontier Markets Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6000736,
+      "ownershipPct": 3.8857223344633742,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "DRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PGBANK",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5016258,
+      "ownershipPct": 3.2482325078174705,
+      "effectiveDate": "2025-07-23"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 17,
+  "totalPages": 2
+}

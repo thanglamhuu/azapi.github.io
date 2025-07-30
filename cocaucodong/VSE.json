@@ -1,1 +1,108 @@
-{"data":[{"code":"VSE","shareholderType":"PERSON","shareholderName":"Bùi Thái Hòa","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2010000,"ownershipPct":22.490139584324037,"effectiveDate":"2023-06-30"},{"code":"VSE","shareholderType":"COMPANY","shareholderName":"Xăng dầu Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000000,"ownershipPct":22.37824834261098,"effectiveDate":"2020-06-30"},{"code":"VSE","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Vinh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2000000,"ownershipPct":22.37824834261098,"effectiveDate":"2023-06-30"},{"code":"VSE","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Thùy Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000000,"ownershipPct":22.37824834261098,"effectiveDate":"2020-06-30"},{"code":"VSE","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Đầu tư Phát triển đường cao tốc Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000000,"ownershipPct":22.37824834261098,"effectiveDate":"2020-06-30"},{"code":"VSE","shareholderType":"PERSON","shareholderName":"Trương Hùng Sơn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1340588,"ownershipPct":15.000005594562086,"effectiveDate":"2023-06-30"},{"code":"VSE","shareholderType":"PERSON","shareholderName":"Lê Nguyễn Thùy Giang","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":659412,"ownershipPct":7.378242748048897,"effectiveDate":"2023-06-30"},{"code":"VSE","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Bluepoint","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":362000,"ownershipPct":4.050462950012588,"effectiveDate":"2021-04-20"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VSE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thái Hòa",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2010000,
+      "ownershipPct": 22.490139584324037,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Thùy Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 22.37824834261098,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 22.37824834261098,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Đầu tư Phát triển đường cao tốc Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 22.37824834261098,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xăng dầu Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 22.37824834261098,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Hùng Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1340588,
+      "ownershipPct": 15.000005594562086,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư và Phát triển INDEL",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1084700,
+      "ownershipPct": 12.136842988615067,
+      "effectiveDate": "2025-04-15"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Thế",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 979200,
+      "ownershipPct": 10.956390388542337,
+      "effectiveDate": "2025-03-10"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Hoàng Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 719500,
+      "ownershipPct": 8.050574841254301,
+      "effectiveDate": "2025-03-10"
+    },
+    {
+      "code": "VSE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Nguyễn Thùy Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 659412,
+      "ownershipPct": 7.378242748048897,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

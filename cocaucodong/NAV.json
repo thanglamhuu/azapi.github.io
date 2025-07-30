@@ -1,1 +1,88 @@
-{"data":[{"code":"NAV","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hương Ngân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2568442,"ownershipPct":32.10560526401316,"effectiveDate":"2020-08-30"},{"code":"NAV","shareholderType":"PERSON","shareholderName":"Trần Bình Khơi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1609040,"ownershipPct":20.113050282625707,"effectiveDate":"2020-06-18"},{"code":"NAV","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Xây dựng Sài Gòn - TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1600000,"ownershipPct":20.000050000125,"effectiveDate":"2020-06-30"},{"code":"NAV","shareholderType":"PERSON","shareholderName":"Hoàng Kiều Phong","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":804226,"ownershipPct":10.05285013212533,"effectiveDate":"2020-09-25"},{"code":"NAV","shareholderType":"PERSON","shareholderName":"Đỗ Thị Hiền Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":659910,"ownershipPct":8.248895622239056,"effectiveDate":"2020-11-09"},{"code":"NAV","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Triết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":335600,"ownershipPct":4.195010487526218,"effectiveDate":"2020-08-13"},{"code":"NAV","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":140000,"ownershipPct":1.7500043750109375,"effectiveDate":"2013-02-05"},{"code":"NAV","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Vũ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":100000,"ownershipPct":1.2500031250078125,"effectiveDate":"2013-01-31"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hương Ngân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2568442,
+      "ownershipPct": 32.10560526401316,
+      "effectiveDate": "2020-08-30"
+    },
+    {
+      "code": "NAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Bình Khơi",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1609040,
+      "ownershipPct": 20.113050282625707,
+      "effectiveDate": "2020-06-18"
+    },
+    {
+      "code": "NAV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Xây dựng Sài Gòn - TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1600000,
+      "ownershipPct": 20.000050000125,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Kiều Phong",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 804226,
+      "ownershipPct": 10.05285013212533,
+      "effectiveDate": "2020-09-25"
+    },
+    {
+      "code": "NAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Hiền Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 659910,
+      "ownershipPct": 8.248895622239056,
+      "effectiveDate": "2020-11-09"
+    },
+    {
+      "code": "NAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Triết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 335600,
+      "ownershipPct": 4.195010487526218,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "NAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 140000,
+      "ownershipPct": 1.7500043750109375,
+      "effectiveDate": "2013-02-05"
+    },
+    {
+      "code": "NAV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Vũ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 100000,
+      "ownershipPct": 1.2500031250078125,
+      "effectiveDate": "2013-01-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

@@ -1,1 +1,71 @@
-{"data":[{"code":"BSD","shareholderType":"COMPANY","shareholderName":"SABECO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1537050,"ownershipPct":51.235,"effectiveDate":"2020-06-30"},{"code":"BSD","shareholderType":"COMPANY","shareholderName":"Công ty Rượu Bình Tây ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":150000,"ownershipPct":5,"effectiveDate":"2020-06-30"},{"code":"BSD","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thìn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":50700,"ownershipPct":1.69,"effectiveDate":"2023-06-30"},{"code":"BSD","shareholderType":"PERSON","shareholderName":"Vi Thị Phố","roleType":"Mẹ của Thành viên HĐQT","enRoleType":"Mother of Board member","numberOfShares":39900,"ownershipPct":1.33,"groupPct":2.1633333333333336,"effectiveDate":"2023-06-30"},{"code":"BSD","shareholderType":"PERSON","shareholderName":"Vi Thị Phố","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":39900,"ownershipPct":1.33,"groupPct":3.1966666666666668,"effectiveDate":"2023-06-30"},{"code":"BSD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Liên Hà","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":31000,"ownershipPct":1.0333333333333334,"groupPct":3.1966666666666668,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BSD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SABECO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1537050,
+      "ownershipPct": 51.235,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Rượu Bình Tây ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 150000,
+      "ownershipPct": 5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thìn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 50700,
+      "ownershipPct": 1.69,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BSD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vi Thị Phố",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 39900,
+      "ownershipPct": 1.33,
+      "groupPct": 3.1966666666666668,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BSD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vi Thị Phố",
+      "roleType": "Mẹ của Thành viên HĐQT",
+      "enRoleType": "Mother of Board member",
+      "numberOfShares": 39900,
+      "ownershipPct": 1.33,
+      "groupPct": 2.1633333333333336,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BSD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Liên Hà",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 31000,
+      "ownershipPct": 1.0333333333333334,
+      "groupPct": 3.1966666666666668,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

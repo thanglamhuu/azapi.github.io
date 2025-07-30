@@ -1,1 +1,28 @@
-{"data":[{"code":"SRB","shareholderType":"PERSON","shareholderName":"Trần Khắc Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1255009,"ownershipPct":14.764811764705883,"effectiveDate":"2011-11-25"},{"code":"SRB","shareholderType":"PERSON","shareholderName":"Đồng Văn Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":410000,"ownershipPct":4.823529411764706,"effectiveDate":"2018-09-11"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SRB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Khắc Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1255009,
+      "ownershipPct": 14.764811764705883,
+      "effectiveDate": "2011-11-25"
+    },
+    {
+      "code": "SRB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đồng Văn Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 410000,
+      "ownershipPct": 4.823529411764706,
+      "effectiveDate": "2018-09-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

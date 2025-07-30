@@ -1,1 +1,114 @@
-{"data":[{"code":"POM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại - Sản xuất Thép Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":146335815,"ownershipPct":52.323273786023854,"effectiveDate":"2024-01-24"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Lê Đình Chiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":115724958,"ownershipPct":41.378172946316056,"effectiveDate":"2013-06-04"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Đỗ Tiến Sĩ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":8602216,"ownershipPct":3.07577542062765,"groupPct":13.285087516306707,"effectiveDate":"2021-12-31"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Phạm Thanh Nghị","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":8383784,"ownershipPct":2.9976737109427805,"groupPct":3.8408290646370595,"effectiveDate":"2022-06-30"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Đỗ Thị Cẩm Nhung","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":7283929,"ownershipPct":2.604413767777621,"groupPct":13.285087516306707,"effectiveDate":"2020-06-30"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Nhung Do","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":7283927,"ownershipPct":2.604413052665278,"groupPct":13.285087516306707,"effectiveDate":"2021-12-31"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Trần Kim Phượng","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":7062987,"ownershipPct":2.5254145921019218,"effectiveDate":"2022-12-31"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5595360,"ownershipPct":2.0006555005783544,"effectiveDate":"2022-06-17"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lan","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":3923469,"ownershipPct":1.4028605552097908,"groupPct":1.8348202330568288,"effectiveDate":"2020-06-30"},{"code":"POM","shareholderType":"PERSON","shareholderName":"Đỗ Văn Phúc","roleType":"Anh của Thành viên HĐQT","enRoleType":"Elder Brother of Board member","numberOfShares":3536538,"ownershipPct":1.2645109881588266,"groupPct":13.285087516306707,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "POM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại - Sản xuất Thép Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 146335815,
+      "ownershipPct": 52.323273786023854,
+      "effectiveDate": "2024-01-24"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Chiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 115724958,
+      "ownershipPct": 41.378172946316056,
+      "effectiveDate": "2013-06-04"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Tiến Sĩ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 8602216,
+      "ownershipPct": 3.07577542062765,
+      "groupPct": 13.291523527396325,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thanh Nghị",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 8383784,
+      "ownershipPct": 2.9976737109427805,
+      "groupPct": 3.8408290646370595,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Cẩm Nhung",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 7283929,
+      "ownershipPct": 2.604413767777621,
+      "groupPct": 13.291523527396325,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nhung Do",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 7283927,
+      "ownershipPct": 2.604413052665278,
+      "groupPct": 13.291523527396325,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Kim Phượng",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 7062987,
+      "ownershipPct": 2.5254145921019218,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5595360,
+      "ownershipPct": 2.0006555005783544,
+      "effectiveDate": "2022-06-17"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lan",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 3923469,
+      "ownershipPct": 1.4028605552097908,
+      "groupPct": 1.8348202330568288,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "POM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Phúc",
+      "roleType": "Anh của Thành viên HĐQT",
+      "enRoleType": "Elder Brother of Board member",
+      "numberOfShares": 3536538,
+      "ownershipPct": 1.2645109881588266,
+      "groupPct": 13.291523527396325,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

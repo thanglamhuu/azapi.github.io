@@ -1,1 +1,60 @@
-{"data":[{"code":"NDP","shareholderType":"COMPANY","shareholderName":"CTCP Xây dựng thương mại dịch vụ G.B Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3810568,"ownershipPct":34.32944144144144,"effectiveDate":"2024-06-06"},{"code":"NDP","shareholderType":"COMPANY","shareholderName":"Công ty Dược SAPHARCO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1609500,"ownershipPct":14.5,"effectiveDate":"2020-06-30"},{"code":"NDP","shareholderType":"PERSON","shareholderName":"Ngô Phạm Việt","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":522000,"ownershipPct":4.702702702702703,"groupPct":11.444828828828829,"effectiveDate":"2022-05-13"},{"code":"NDP","shareholderType":"PERSON","shareholderName":"Ngô Thị Giáng Hương","roleType":"Em gái của Chủ tịch HĐQT","enRoleType":"Young Sister of Chairman","numberOfShares":411902,"ownershipPct":3.710828828828829,"groupPct":11.444828828828829,"effectiveDate":"2022-05-13"},{"code":"NDP","shareholderType":"PERSON","shareholderName":"Trịnh Bích Dung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":266028,"ownershipPct":2.3966486486486485,"effectiveDate":"2022-03-02"},{"code":"NDP","shareholderType":"PERSON","shareholderName":"Ngô Thị Cẩm Ly","roleType":"Em gái của Chủ tịch HĐQT","enRoleType":"Young Sister of Chairman","numberOfShares":226832,"ownershipPct":2.0435315315315314,"groupPct":11.444828828828829,"effectiveDate":"2021-06-24"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NDP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Xây dựng thương mại dịch vụ G.B Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3810568,
+      "ownershipPct": 34.32944144144144,
+      "effectiveDate": "2024-06-06"
+    },
+    {
+      "code": "NDP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Dược SAPHARCO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1609500,
+      "ownershipPct": 14.5,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NDP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thị Giáng Hương",
+      "roleType": "Em gái của Chủ tịch HĐQT",
+      "enRoleType": "Young Sister of Chairman",
+      "numberOfShares": 411902,
+      "ownershipPct": 3.710828828828829,
+      "groupPct": 6.742126126126126,
+      "effectiveDate": "2022-05-13"
+    },
+    {
+      "code": "NDP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Bích Dung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 276028,
+      "ownershipPct": 2.4867387387387385,
+      "effectiveDate": "2024-08-06"
+    },
+    {
+      "code": "NDP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thị Cẩm Ly",
+      "roleType": "Em gái của Chủ tịch HĐQT",
+      "enRoleType": "Young Sister of Chairman",
+      "numberOfShares": 226832,
+      "ownershipPct": 2.0435315315315314,
+      "groupPct": 6.742126126126126,
+      "effectiveDate": "2021-06-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

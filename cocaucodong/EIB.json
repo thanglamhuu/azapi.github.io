@@ -1,1 +1,78 @@
-{"data":[{"code":"EIB","shareholderType":"COMPANY","shareholderName":"Sumitomo Mitsui Banking Corporation","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":262426156,"ownershipPct":15.07441249251882,"effectiveDate":"2023-09-22"},{"code":"EIB","shareholderType":"COMPANY","shareholderName":"VOF Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":86322923,"ownershipPct":4.958603855257248,"effectiveDate":"2023-09-22"},{"code":"EIB","shareholderType":"COMPANY","shareholderName":"Vietcombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":84314942,"ownershipPct":4.843260421765274,"effectiveDate":"2023-09-22"},{"code":"EIB","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Chứng khoán ACB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":68746737,"ownershipPct":3.94898392312962,"effectiveDate":"2023-09-22"},{"code":"EIB","shareholderType":"COMPANY","shareholderName":"Công ty vàng bạc đá quý Sài Gòn - SJC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":36278038,"ownershipPct":2.0839009249949627,"effectiveDate":"2023-09-22"},{"code":"EIB","shareholderType":"PERSON","shareholderName":"Lương Thị Cẩm Tú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":19539948,"ownershipPct":1.1224233160446404,"effectiveDate":"2023-09-22"},{"code":"EIB","shareholderType":"COMPANY","shareholderName":"XNK Tổng hợp I VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18223920,"ownershipPct":1.0468273875515044,"effectiveDate":"2023-09-22"},{"code":"EIB","shareholderType":"PERSON","shareholderName":"Lê Thị Mai Loan","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":17940876,"ownershipPct":1.030568634710067,"effectiveDate":"2023-09-22"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "EIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sumitomo Mitsui Banking Corporation",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 262426156,
+      "ownershipPct": 14.088326237108086,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "EIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Gelex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 186924306,
+      "ownershipPct": 10.03501573438061,
+      "effectiveDate": "2024-09-19"
+    },
+    {
+      "code": "EIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VOF Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 86322923,
+      "ownershipPct": 4.6342389017227426,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "EIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietcombank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 84314942,
+      "ownershipPct": 4.526440609673247,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "EIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Chứng khoán ACB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 68746737,
+      "ownershipPct": 3.690662826279669,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "EIB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty vàng bạc đá quý Sài Gòn - SJC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 36278038,
+      "ownershipPct": 1.947583435952185,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "EIB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Thị Cẩm Tú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19539948,
+      "ownershipPct": 1.0490004741757817,
+      "effectiveDate": "2023-09-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

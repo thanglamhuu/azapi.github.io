@@ -1,1 +1,38 @@
-{"data":[{"code":"BIC","shareholderType":"COMPANY","shareholderName":"Ngân hàng BIDV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":59819259,"ownershipPct":51.00685774465635,"effectiveDate":"2015-10-13"},{"code":"BIC","shareholderType":"COMPANY","shareholderName":"FAIRFAX ASIA LIMITED","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":41046913,"ownershipPct":34.99999978682928,"effectiveDate":"2023-06-23"},{"code":"BIC","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5580428,"ownershipPct":4.758335390786054,"effectiveDate":"2015-10-06"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 59819259,
+      "ownershipPct": 51.00685774465635,
+      "effectiveDate": "2015-10-13"
+    },
+    {
+      "code": "BIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "FAIRFAX ASIA LIMITED",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 41046913,
+      "ownershipPct": 34.99999978682928,
+      "effectiveDate": "2023-06-23"
+    },
+    {
+      "code": "BIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5580428,
+      "ownershipPct": 4.758335390786054,
+      "effectiveDate": "2015-10-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

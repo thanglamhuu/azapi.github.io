@@ -1,1 +1,108 @@
-{"data":[{"code":"VE3","shareholderType":"COMPANY","shareholderName":"Xây dựng điện VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":646708,"ownershipPct":49.00379628857855,"effectiveDate":"2024-06-20"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Trần Đức Thanh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":132971,"ownershipPct":10.075774223124778,"effectiveDate":"2023-06-30"},{"code":"VE3","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":65000,"ownershipPct":4.925324503110532,"effectiveDate":"2018-02-07"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Tăng Phước Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":60200,"ownershipPct":4.561608232111601,"effectiveDate":"2021-01-15"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Đào Phương Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":60000,"ownershipPct":4.546453387486645,"effectiveDate":"2022-01-13"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Lâm Quốc Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":60000,"ownershipPct":4.546453387486645,"effectiveDate":"2010-07-22"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Đào Ngọc Quỳnh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":55364,"ownershipPct":4.195164089080177,"effectiveDate":"2024-06-14"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Chính","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54800,"ownershipPct":4.152427427237802,"effectiveDate":"2017-05-17"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Huỳnh Khôi Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54500,"ownershipPct":4.129695160300369,"effectiveDate":"2010-07-27"},{"code":"VE3","shareholderType":"PERSON","shareholderName":"Cao Như Kỷ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":41200,"ownershipPct":3.1218979927408292,"effectiveDate":"2021-09-24"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VE3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hồng Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 316000,
+      "ownershipPct": 23.94465450742966,
+      "effectiveDate": "2024-09-24"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xây dựng điện VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 263942,
+      "ownershipPct": 20,
+      "effectiveDate": "2024-09-26"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đức Thanh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 132971,
+      "ownershipPct": 10.075774223124778,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Xây dựng và Phát triển TBG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 100000,
+      "ownershipPct": 7.577422312477741,
+      "effectiveDate": "2024-12-19"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Cao Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 92666,
+      "ownershipPct": 7.0216941600806235,
+      "effectiveDate": "2024-09-24"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 65000,
+      "ownershipPct": 4.925324503110532,
+      "effectiveDate": "2018-02-07"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tăng Phước Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 60200,
+      "ownershipPct": 4.561608232111601,
+      "effectiveDate": "2021-01-15"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Quốc Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 60000,
+      "ownershipPct": 4.546453387486645,
+      "effectiveDate": "2010-07-22"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Phương Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 60000,
+      "ownershipPct": 4.546453387486645,
+      "effectiveDate": "2022-01-13"
+    },
+    {
+      "code": "VE3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Ngọc Quỳnh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 55364,
+      "ownershipPct": 4.195164089080177,
+      "effectiveDate": "2024-06-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

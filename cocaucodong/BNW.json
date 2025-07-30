@@ -1,1 +1,38 @@
-{"data":[{"code":"BNW","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Bắc Ninh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18420279,"ownershipPct":49.05613249493181,"effectiveDate":"2020-06-30"},{"code":"BNW","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Long Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13165245,"ownershipPct":35.06114120466028,"effectiveDate":"2020-06-30"},{"code":"BNW","shareholderType":"PERSON","shareholderName":"Vũ Thị Chuyên","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1980261,"ownershipPct":5.273749979060912,"effectiveDate":"2023-09-20"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BNW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Bắc Ninh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18420279,
+      "ownershipPct": 49.05613249493181,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BNW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Long Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13165245,
+      "ownershipPct": 35.06114120466028,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BNW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Chuyên",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1980261,
+      "ownershipPct": 5.273749979060912,
+      "effectiveDate": "2023-09-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

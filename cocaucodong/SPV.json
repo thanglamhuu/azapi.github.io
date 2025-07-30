@@ -1,1 +1,68 @@
-{"data":[{"code":"SPV","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư VINA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2381720,"ownershipPct":22.05296296296296,"effectiveDate":"2021-02-24"},{"code":"SPV","shareholderType":"COMPANY","shareholderName":"CTCP TRANSIMEX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2249600,"ownershipPct":20.82962962962963,"effectiveDate":"2024-07-10"},{"code":"SPV","shareholderType":"COMPANY","shareholderName":"TMS Logistics","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2192900,"ownershipPct":20.30462962962963,"effectiveDate":"2024-02-22"},{"code":"SPV","shareholderType":"COMPANY","shareholderName":"TCT Thủy sản VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1944000,"ownershipPct":18,"effectiveDate":"2020-06-30"},{"code":"SPV","shareholderType":"PERSON","shareholderName":"Cao Thanh Định","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1120000,"ownershipPct":10.37037037037037,"effectiveDate":"2020-06-30"},{"code":"SPV","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Dịch vụ Văn hóa Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":866700,"ownershipPct":8.025,"effectiveDate":"2024-03-04"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SPV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư VINA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2381720,
+      "ownershipPct": 22.05296296296296,
+      "effectiveDate": "2021-02-24"
+    },
+    {
+      "code": "SPV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP TRANSIMEX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2361000,
+      "ownershipPct": 21.86111111111111,
+      "effectiveDate": "2025-07-04"
+    },
+    {
+      "code": "SPV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TMS Logistics",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2192900,
+      "ownershipPct": 20.30462962962963,
+      "effectiveDate": "2024-02-22"
+    },
+    {
+      "code": "SPV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thủy sản VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1944000,
+      "ownershipPct": 18,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SPV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Thanh Định",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1120000,
+      "ownershipPct": 10.37037037037037,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SPV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Dịch vụ Văn hóa Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 866700,
+      "ownershipPct": 8.025,
+      "effectiveDate": "2024-03-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

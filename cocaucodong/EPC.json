@@ -1,1 +1,58 @@
-{"data":[{"code":"EPC","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Đắk Lắk","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3022100,"ownershipPct":32.189380625233,"effectiveDate":"2019-11-07"},{"code":"EPC","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2300000,"ownershipPct":24.49805613250253,"effectiveDate":"2023-05-08"},{"code":"EPC","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Dương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2013700,"ownershipPct":21.44858071044363,"effectiveDate":"2020-01-20"},{"code":"EPC","shareholderType":"PERSON","shareholderName":"Ngô Thị Nhung","roleType":"Mẹ của Thành viên HĐQT","enRoleType":"Mother of Board member","numberOfShares":1500000,"ownershipPct":15.976993129892954,"effectiveDate":"2023-04-27"},{"code":"EPC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Phương Thơm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":400470,"ownershipPct":4.265537625818821,"effectiveDate":"2020-01-13"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "EPC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Đắk Lắk",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3022100,
+      "ownershipPct": 32.189380625233,
+      "effectiveDate": "2019-11-07"
+    },
+    {
+      "code": "EPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2300000,
+      "ownershipPct": 24.49805613250253,
+      "effectiveDate": "2023-05-08"
+    },
+    {
+      "code": "EPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Dương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2013700,
+      "ownershipPct": 21.44858071044363,
+      "effectiveDate": "2020-01-20"
+    },
+    {
+      "code": "EPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thị Nhung",
+      "roleType": "Mẹ của Thành viên HĐQT",
+      "enRoleType": "Mother of Board member",
+      "numberOfShares": 1500000,
+      "ownershipPct": 15.976993129892954,
+      "effectiveDate": "2023-04-27"
+    },
+    {
+      "code": "EPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phương Thơm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 400470,
+      "ownershipPct": 4.265537625818821,
+      "effectiveDate": "2020-01-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

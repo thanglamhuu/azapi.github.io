@@ -1,1 +1,38 @@
-{"data":[{"code":"NHH","shareholderType":"COMPANY","shareholderName":"Nhựa An Phát Xanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":34572514,"ownershipPct":47.437587815587264,"effectiveDate":"2022-06-03"},{"code":"NHH","shareholderType":"COMPANY","shareholderName":"An Phát Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11160308,"ownershipPct":15.313265642151482,"effectiveDate":"2024-04-04"},{"code":"NHH","shareholderType":"PERSON","shareholderName":"Phùng Thị Khánh Hằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1263716,"ownershipPct":1.7339681668496159,"effectiveDate":"2020-10-06"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NHH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhựa An Phát Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 68599233,
+      "ownershipPct": 62.75085345773875,
+      "effectiveDate": "2025-07-02"
+    },
+    {
+      "code": "NHH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10616000,
+      "ownershipPct": 9.710940358580315,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "NHH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Thị Khánh Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1263716,
+      "ownershipPct": 1.155978777899744,
+      "effectiveDate": "2020-10-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

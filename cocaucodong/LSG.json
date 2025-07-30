@@ -1,1 +1,58 @@
-{"data":[{"code":"LSG","shareholderType":"COMPANY","shareholderName":"CTCP Địa ốc Đại Á","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12233584,"ownershipPct":13.59287111111111,"effectiveDate":"2021-11-19"},{"code":"LSG","shareholderType":"PERSON","shareholderName":"Trương Kim Duyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4463300,"ownershipPct":4.959222222222222,"effectiveDate":"2024-06-06"},{"code":"LSG","shareholderType":"PERSON","shareholderName":"Trần Thị Minh Tâm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4300000,"ownershipPct":4.777777777777778,"effectiveDate":"2024-06-07"},{"code":"LSG","shareholderType":"PERSON","shareholderName":"Trần Thành Nhơn","roleType":"GĐ Tài chính","enRoleType":"CFO","numberOfShares":4207400,"ownershipPct":4.674888888888889,"effectiveDate":"2024-07-04"},{"code":"LSG","shareholderType":"PERSON","shareholderName":"Bùi Hữu Tài","roleType":"Thư ký công ty","enRoleType":"Secretary of the company","numberOfShares":3947900,"ownershipPct":4.386555555555556,"effectiveDate":"2024-07-04"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LSG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Địa ốc Đại Á",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12233584,
+      "ownershipPct": 13.59287111111111,
+      "effectiveDate": "2021-11-19"
+    },
+    {
+      "code": "LSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Kim Duyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4463300,
+      "ownershipPct": 4.959222222222222,
+      "effectiveDate": "2024-06-06"
+    },
+    {
+      "code": "LSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Minh Tâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4300000,
+      "ownershipPct": 4.777777777777778,
+      "effectiveDate": "2024-06-07"
+    },
+    {
+      "code": "LSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thành Nhơn",
+      "roleType": "GĐ Tài chính",
+      "enRoleType": "CFO",
+      "numberOfShares": 4207400,
+      "ownershipPct": 4.674888888888889,
+      "effectiveDate": "2024-07-04"
+    },
+    {
+      "code": "LSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hữu Tài",
+      "roleType": "Thư ký công ty",
+      "enRoleType": "Secretary of the company",
+      "numberOfShares": 3947900,
+      "ownershipPct": 4.386555555555556,
+      "effectiveDate": "2024-07-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

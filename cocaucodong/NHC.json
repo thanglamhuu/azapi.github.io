@@ -1,1 +1,38 @@
-{"data":[{"code":"NHC","shareholderType":"COMPANY","shareholderName":"VLXD Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":913794,"ownershipPct":30.043773848922683,"effectiveDate":"2020-06-30"},{"code":"NHC","shareholderType":"COMPANY","shareholderName":"CTCP Đá Núi Nhỏ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":595242,"ownershipPct":19.570402118399155,"effectiveDate":"2024-06-11"},{"code":"NHC","shareholderType":"PERSON","shareholderName":"Lâm Thị Mai","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":284800,"ownershipPct":9.363671453492998,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VLXD Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 913794,
+      "ownershipPct": 30.043773848922683,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đá Núi Nhỏ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 595242,
+      "ownershipPct": 19.570402118399155,
+      "effectiveDate": "2025-01-24"
+    },
+    {
+      "code": "NHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Thị Mai",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 284800,
+      "ownershipPct": 9.363671453492998,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

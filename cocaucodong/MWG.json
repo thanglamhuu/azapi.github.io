@@ -1,1 +1,108 @@
-{"data":[{"code":"MWG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tư vấn Đầu tư thế giới bán lẻ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":153425288,"ownershipPct":10.494813123890587,"effectiveDate":"2022-06-16"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tri Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":115909044,"ownershipPct":7.92857404412245,"effectiveDate":"2022-06-16"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"ARISAIG ASIA CONSUMER FUND LIMITED","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":102309088,"ownershipPct":6.998290656203149,"effectiveDate":"2022-06-16"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"Arisaig ASEAN Fund Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":50461588,"ownershipPct":3.4517447736175004,"effectiveDate":"2023-11-10"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":43005108,"ownershipPct":2.941696103139999,"effectiveDate":"2022-06-16"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"NTASIAN DISCOVERY MASTER FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":35857500,"ownershipPct":2.452775331208156,"effectiveDate":"2022-06-16"},{"code":"MWG","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Tài","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":33439892,"ownershipPct":2.2874026961128067,"effectiveDate":"2024-06-19"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Sơn Ban","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":32454518,"ownershipPct":2.219999752817432,"effectiveDate":"2022-06-16"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tư vấn Đầu tư Trần Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":32269518,"ownershipPct":2.207345121672664,"effectiveDate":"2022-06-16"},{"code":"MWG","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20650000,"ownershipPct":1.412530449402452,"effectiveDate":"2024-01-29"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tư vấn Đầu tư thế giới bán lẻ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 153425288,
+      "ownershipPct": 10.377394310042463,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tri Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 115909044,
+      "ownershipPct": 7.839867008677615,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ARISAIG ASIA CONSUMER FUND LIMITED",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 102309088,
+      "ownershipPct": 6.919991883455573,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Arisaig ASEAN Fund Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 50461588,
+      "ownershipPct": 3.413125717495196,
+      "effectiveDate": "2023-11-10"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 43005108,
+      "ownershipPct": 2.9087836097916377,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "NTASIAN DISCOVERY MASTER FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35857500,
+      "ownershipPct": 2.4253330159780937,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Sơn Ban",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 32454518,
+      "ownershipPct": 2.195161793852202,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Tài",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 32439892,
+      "ownershipPct": 2.1941725190647325,
+      "effectiveDate": "2024-09-19"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tư vấn Đầu tư Trần Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 32269518,
+      "ownershipPct": 2.1826487461507185,
+      "effectiveDate": "2022-06-16"
+    },
+    {
+      "code": "MWG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Enterprise Investments Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29704930,
+      "ownershipPct": 2.0091848976174624,
+      "effectiveDate": "2024-07-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

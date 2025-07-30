@@ -1,1 +1,78 @@
-{"data":[{"code":"PCT","shareholderType":"PERSON","shareholderName":"Trần Thị Thu Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11155280,"ownershipPct":22.29473386022198,"effectiveDate":"2024-04-08"},{"code":"PCT","shareholderType":"PERSON","shareholderName":"Trần Vọng Phúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11073052,"ownershipPct":22.130394518147348,"effectiveDate":"2024-04-08"},{"code":"PCT","shareholderType":"PERSON","shareholderName":"Cao Đức Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9286280,"ownershipPct":18.559385434655354,"effectiveDate":"2024-05-27"},{"code":"PCT","shareholderType":"PERSON","shareholderName":"Đỗ Anh Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6648000,"ownershipPct":13.28656839655802,"effectiveDate":"2022-10-27"},{"code":"PCT","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Hiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2258320,"ownershipPct":4.513436092255551,"effectiveDate":"2024-04-08"},{"code":"PCT","shareholderType":"COMPANY","shareholderName":"CTCP SCI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1318680,"ownershipPct":2.635489171656608,"effectiveDate":"2022-10-27"},{"code":"PCT","shareholderType":"COMPANY","shareholderName":"CTCP Quản lý quỹ Việt Cát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1156920,"ownershipPct":2.312198662657326,"effectiveDate":"2022-10-27"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Đức Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11788280,
+      "ownershipPct": 23.5598358149484,
+      "effectiveDate": "2025-05-13"
+    },
+    {
+      "code": "PCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thu Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11155280,
+      "ownershipPct": 22.29473386022198,
+      "effectiveDate": "2024-04-08"
+    },
+    {
+      "code": "PCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Vọng Phúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11073052,
+      "ownershipPct": 22.130394518147348,
+      "effectiveDate": "2024-04-08"
+    },
+    {
+      "code": "PCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Nguyên Đăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10794000,
+      "ownershipPct": 21.572686412822993,
+      "effectiveDate": "2025-05-13"
+    },
+    {
+      "code": "PCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Hiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2258320,
+      "ownershipPct": 4.513436092255551,
+      "effectiveDate": "2024-04-08"
+    },
+    {
+      "code": "PCT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP SCI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1318680,
+      "ownershipPct": 2.635489171656608,
+      "effectiveDate": "2022-10-27"
+    },
+    {
+      "code": "PCT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quản lý quỹ Việt Cát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1156920,
+      "ownershipPct": 2.312198662657326,
+      "effectiveDate": "2022-10-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

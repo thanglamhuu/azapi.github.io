@@ -1,1 +1,78 @@
-{"data":[{"code":"ASG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Tập đoàn Đầu tư APL","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8322700,"ownershipPct":9.167517039688716,"effectiveDate":"2024-03-11"},{"code":"ASG","shareholderType":"PERSON","shareholderName":"Phạm Thị Hằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7685554,"ownershipPct":8.465695898500218,"effectiveDate":"2024-02-27"},{"code":"ASG","shareholderType":"PERSON","shareholderName":"Dương Đức Tính","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":7137195,"ownershipPct":7.861674309789024,"effectiveDate":"2024-02-07"},{"code":"ASG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Giao nhận và Kho vận Quốc tế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6726120,"ownershipPct":7.408872086100793,"effectiveDate":"2021-07-07"},{"code":"ASG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư và Tư vấn Long Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4903208,"ownershipPct":5.400920721537245,"effectiveDate":"2021-07-07"},{"code":"ASG","shareholderType":"COMPANY","shareholderName":"CTCP Logistics hàng không ALS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3703722,"ownershipPct":4.079677814323474,"effectiveDate":"2021-07-07"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ASG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12174432,
+      "ownershipPct": 13.410228989214026,
+      "effectiveDate": "2025-04-15"
+    },
+    {
+      "code": "ASG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Đức Tính",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 11903929,
+      "ownershipPct": 13.112267887433726,
+      "effectiveDate": "2025-04-29"
+    },
+    {
+      "code": "ASG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Tập đoàn Đầu tư APL",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8322700,
+      "ownershipPct": 9.167517039688716,
+      "effectiveDate": "2024-03-11"
+    },
+    {
+      "code": "ASG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7685554,
+      "ownershipPct": 8.465695898500218,
+      "effectiveDate": "2024-02-27"
+    },
+    {
+      "code": "ASG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Giao nhận và Kho vận Quốc tế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6726120,
+      "ownershipPct": 7.408872086100793,
+      "effectiveDate": "2021-07-07"
+    },
+    {
+      "code": "ASG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư và Tư vấn Long Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4903208,
+      "ownershipPct": 5.400920721537245,
+      "effectiveDate": "2021-07-07"
+    },
+    {
+      "code": "ASG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Logistics hàng không ALS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3703722,
+      "ownershipPct": 4.079677814323474,
+      "effectiveDate": "2021-07-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

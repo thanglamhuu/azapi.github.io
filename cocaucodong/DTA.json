@@ -1,1 +1,108 @@
-{"data":[{"code":"DTA","shareholderType":"PERSON","shareholderName":"Phạm Thị Kim Xuân","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1817496,"ownershipPct":10.06374810131124,"effectiveDate":"2021-06-30"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Phạm Thị Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1207500,"ownershipPct":6.686108707987981,"effectiveDate":"2020-06-30"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Bùi Đình Mẫn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1102500,"ownershipPct":6.104707950771635,"effectiveDate":"2020-06-30"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Đặng Minh Truyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1018500,"ownershipPct":5.639587344998558,"effectiveDate":"2020-06-30"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Viên Ngọc Bảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1008000,"ownershipPct":5.581447269276923,"effectiveDate":"2020-06-30"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":943670,"ownershipPct":5.225242405355709,"effectiveDate":"2020-06-25"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Nguyễn Chí Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":875200,"ownershipPct":4.846113740149963,"effectiveDate":"2021-03-22"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Huỳnh Cao Trí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":790000,"ownershipPct":4.374348554294414,"effectiveDate":"2016-11-18"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":724500,"ownershipPct":4.011665224792789,"effectiveDate":"2020-06-30"},{"code":"DTA","shareholderType":"PERSON","shareholderName":"Nghiêm Phú Hoàng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":690000,"ownershipPct":3.8206335474217035,"effectiveDate":"2018-05-22"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Kim Xuân",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1817496,
+      "ownershipPct": 10.06374810131124,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đình Mẫn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1057500,
+      "ownershipPct": 5.855536197678915,
+      "effectiveDate": "2025-06-30"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Minh Truyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1018500,
+      "ownershipPct": 5.639587344998558,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Viên Ngọc Bảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1008000,
+      "ownershipPct": 5.581447269276923,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 943670,
+      "ownershipPct": 5.225242405355709,
+      "effectiveDate": "2020-06-25"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Chí Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 875200,
+      "ownershipPct": 4.846113740149963,
+      "effectiveDate": "2021-03-22"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 860000,
+      "ownershipPct": 4.761949059105311,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Cao Trí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 790000,
+      "ownershipPct": 4.374348554294414,
+      "effectiveDate": "2016-11-18"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 724500,
+      "ownershipPct": 4.011665224792789,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DTA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nghiêm Phú Hoàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 690000,
+      "ownershipPct": 3.8206335474217035,
+      "effectiveDate": "2018-05-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

@@ -1,1 +1,48 @@
-{"data":[{"code":"SJD","shareholderType":"COMPANY","shareholderName":"Tổng CT Sông Đà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":35161056,"ownershipPct":50.95907135534015,"effectiveDate":"2020-06-30"},{"code":"SJD","shareholderType":"COMPANY","shareholderName":"Samarang Unicts - Samarang Asian Properity","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3407685,"ownershipPct":4.938772688497248,"effectiveDate":"2024-07-11"},{"code":"SJD","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3228700,"ownershipPct":4.679368949697834,"effectiveDate":"2021-11-15"},{"code":"SJD","shareholderType":"PERSON","shareholderName":"Đinh Quang Chiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1751018,"ownershipPct":2.5377580015368424,"effectiveDate":"2013-03-15"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SJD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng CT Sông Đà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35161056,
+      "ownershipPct": 50.95907135534015,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SJD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Samarang Unicts - Samarang Asian Properity",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3407685,
+      "ownershipPct": 4.938772688497248,
+      "effectiveDate": "2024-07-11"
+    },
+    {
+      "code": "SJD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3228700,
+      "ownershipPct": 4.679368949697834,
+      "effectiveDate": "2021-11-15"
+    },
+    {
+      "code": "SJD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Quang Chiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1751018,
+      "ownershipPct": 2.5377580015368424,
+      "effectiveDate": "2013-03-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

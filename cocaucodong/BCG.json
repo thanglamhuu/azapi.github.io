@@ -1,1 +1,108 @@
-{"data":[{"code":"BCG","shareholderType":"PERSON","shareholderName":"Nguyễn Hồ Nam","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":83371894,"ownershipPct":10.418925973350612,"effectiveDate":"2024-06-14"},{"code":"BCG","shareholderType":"COMPANY","shareholderName":"CÔNG TY TNHH MTV NHN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":52800000,"ownershipPct":6.598378242347623,"effectiveDate":"2024-06-14"},{"code":"BCG","shareholderType":"COMPANY","shareholderName":" CTCP Regeneration Investment","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":49403071,"ownershipPct":6.173866454385508,"effectiveDate":"2024-06-14"},{"code":"BCG","shareholderType":"COMPANY","shareholderName":"Bamboo Capital","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":44950221,"ownershipPct":5.617396974149947,"effectiveDate":"2021-12-24"},{"code":"BCG","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Khái","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24571974,"ownershipPct":3.0707420191880965,"effectiveDate":"2022-08-23"},{"code":"BCG","shareholderType":"COMPANY","shareholderName":"CTCP ĐẦU TƯ VÀ DỊCH VỤ HELIOS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24131317,"ownershipPct":3.015673429015025,"effectiveDate":"2023-07-20"},{"code":"BCG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn Vàng bạc đá quý DOJI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11566800,"ownershipPct":1.445494724499744,"effectiveDate":"2022-08-23"},{"code":"BCG","shareholderType":"COMPANY","shareholderName":"Mirae Asset Daewoo Co.,Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11306868,"ownershipPct":1.4130112083389506,"effectiveDate":"2022-08-23"},{"code":"BCG","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Đoan Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9909300,"ownershipPct":1.2383581347896837,"effectiveDate":"2021-08-23"},{"code":"BCG","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Tài","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9340050,"ownershipPct":1.1672193693643733,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "BCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồ Nam",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 81023783,
+      "ownershipPct": 9.205044673374797,
+      "effectiveDate": "2025-03-03"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY TNHH MTV NHN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 52800000,
+      "ownershipPct": 5.998564134609579,
+      "effectiveDate": "2025-03-06"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": " CTCP Regeneration Investment",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 49088208,
+      "ownershipPct": 5.576870529186648,
+      "effectiveDate": "2024-12-05"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bamboo Capital",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 44950221,
+      "ownershipPct": 5.106757263889665,
+      "effectiveDate": "2021-12-24"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP ĐẦU TƯ VÀ DỊCH VỤ HELIOS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 26544448,
+      "ownershipPct": 3.015692684579715,
+      "effectiveDate": "2024-08-01"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Khái",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24571974,
+      "ownershipPct": 2.7916015521393764,
+      "effectiveDate": "2022-08-23"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn Vàng bạc đá quý DOJI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11566800,
+      "ownershipPct": 1.3140945384886757,
+      "effectiveDate": "2022-08-23"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Mirae Asset Daewoo Co.,Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11306868,
+      "ownershipPct": 1.2845638799159989,
+      "effectiveDate": "2022-08-23"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Đoan Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10900230,
+      "ownershipPct": 1.2383660745643061,
+      "effectiveDate": "2024-08-01"
+    },
+    {
+      "code": "BCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Tài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10274055,
+      "ownershipPct": 1.1672268530304208,
+      "effectiveDate": "2024-08-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

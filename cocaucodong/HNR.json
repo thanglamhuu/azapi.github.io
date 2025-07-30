@@ -1,1 +1,28 @@
-{"data":[{"code":"HNR","shareholderType":"COMPANY","shareholderName":"TCT Bia Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10858041,"ownershipPct":54.290205,"effectiveDate":"2022-12-31"},{"code":"HNR","shareholderType":"COMPANY","shareholderName":"Streetcar Investment Holding Pte. Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9113513,"ownershipPct":45.567565,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Bia Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10858041,
+      "ownershipPct": 54.290205,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Streetcar Investment Holding Pte. Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9113513,
+      "ownershipPct": 45.567565,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

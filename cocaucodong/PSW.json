@@ -1,1 +1,18 @@
-{"data":[{"code":"PSW","shareholderType":"COMPANY","shareholderName":"Đạm Phú Mỹ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12750000,"ownershipPct":75,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PSW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đạm Phú Mỹ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12750000,
+      "ownershipPct": 75,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

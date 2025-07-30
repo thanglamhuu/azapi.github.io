@@ -1,1 +1,109 @@
-{"data":[{"code":"NLG","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Quang","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":40452851,"ownershipPct":10.513310692246844,"effectiveDate":"2024-05-24"},{"code":"NLG","shareholderType":"COMPANY","shareholderName":"IBEWORTH PTE LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":31365866,"ownershipPct":8.151689837370961,"effectiveDate":"2022-06-30"},{"code":"NLG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Thái Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":21574719,"ownershipPct":5.607063985302819,"effectiveDate":"2024-06-28"},{"code":"NLG","shareholderType":"COMPANY","shareholderName":"CTBC Vietnam Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16700000,"ownershipPct":4.3401709451954895,"effectiveDate":"2023-09-11"},{"code":"NLG","shareholderType":"PERSON","shareholderName":"Trần Thanh Phong","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":15683750,"ownershipPct":4.076057249204177,"effectiveDate":"2024-03-26"},{"code":"NLG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15488400,"ownershipPct":4.02528764476442,"effectiveDate":"2021-11-30"},{"code":"NLG","shareholderType":"COMPANY","shareholderName":"Tài chính quốc tế (IFC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14160986,"ownershipPct":3.6803053887736583,"effectiveDate":"2021-11-24"},{"code":"NLG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Bích Ngọc","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":13840867,"ownershipPct":3.5971095095637757,"groupPct":4.1303379739714545,"effectiveDate":"2023-07-27"},{"code":"NLG","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13207780,"ownershipPct":3.4325762279361727,"effectiveDate":"2019-07-29"},{"code":"NLG","shareholderType":"COMPANY","shareholderName":"International Finance Corporation","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11210112,"ownershipPct":2.9134013410052275,"effectiveDate":"2021-11-24"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "NLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Quang",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 36452851,
+      "ownershipPct": 9.466421404162547,
+      "effectiveDate": "2025-07-10"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "IBEWORTH PTE LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29418766,
+      "ownershipPct": 7.639743627911282,
+      "effectiveDate": "2025-01-21"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Thái Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17189319,
+      "ownershipPct": 4.463885069087682,
+      "effectiveDate": "2024-12-13"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTBC Vietnam Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16700000,
+      "ownershipPct": 4.336814079357319,
+      "effectiveDate": "2023-09-11"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thanh Phong",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 15683750,
+      "ownershipPct": 4.072904659707806,
+      "effectiveDate": "2024-03-26"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15488400,
+      "ownershipPct": 4.022174322557959,
+      "effectiveDate": "2021-11-30"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tài chính quốc tế (IFC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14160986,
+      "ownershipPct": 3.6774588899629874,
+      "effectiveDate": "2021-11-24"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Bích Ngọc",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 13840867,
+      "ownershipPct": 3.594327357851024,
+      "groupPct": 4.9031820020325165,
+      "effectiveDate": "2023-07-27"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13207780,
+      "ownershipPct": 3.429921332997247,
+      "effectiveDate": "2019-07-29"
+    },
+    {
+      "code": "NLG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "International Finance Corporation",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11210112,
+      "ownershipPct": 2.9111479971720025,
+      "effectiveDate": "2021-11-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

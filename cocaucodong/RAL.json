@@ -1,1 +1,108 @@
-{"data":[{"code":"RAL","shareholderType":"COMPANY","shareholderName":"Công Đoàn CTCP Bóng đèn Phích nước Rạng Đông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9540435,"ownershipPct":40.51584167249922,"effectiveDate":"2022-03-21"},{"code":"RAL","shareholderType":"PERSON","shareholderName":"Lê Thị Kim Yến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2614745,"ownershipPct":11.104168146835965,"effectiveDate":"2022-03-04"},{"code":"RAL","shareholderType":"PERSON","shareholderName":"Lê Đình Hưng","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":2181657,"ownershipPct":9.264951712966928,"effectiveDate":"2022-01-24"},{"code":"RAL","shareholderType":"COMPANY","shareholderName":"Quỹ Đầu Tư Chứng Khoán Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":554549,"ownershipPct":2.355030927168706,"effectiveDate":"2008-09-03"},{"code":"RAL","shareholderType":"PERSON","shareholderName":"Nguyễn Đoàn Thăng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":526457,"ownershipPct":2.235731228123133,"effectiveDate":"2023-06-30"},{"code":"RAL","shareholderType":"COMPANY","shareholderName":"Vietnam Holding LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":456920,"ownershipPct":1.9404249782109877,"effectiveDate":"2011-09-20"},{"code":"RAL","shareholderType":"COMPANY","shareholderName":"CK Rồng Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":455386,"ownershipPct":1.9339104638177118,"effectiveDate":"2009-08-28"},{"code":"RAL","shareholderType":"COMPANY","shareholderName":"Vietnam Opportunity Growth","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":429880,"ownershipPct":1.8255928600922249,"effectiveDate":"2008-12-19"},{"code":"RAL","shareholderType":"COMPANY","shareholderName":"Amersham Industries Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":388522,"ownershipPct":1.6499557764695996,"effectiveDate":"2007-03-13"},{"code":"RAL","shareholderType":"COMPANY","shareholderName":"KITMC WORLDWIDE VIETNAM RSP BALANCED FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":261943,"ownershipPct":1.112406417026002,"effectiveDate":"2009-04-13"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "RAL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công Đoàn CTCP Bóng đèn Phích nước Rạng Đông",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9540435,
+      "ownershipPct": 40.51584167249922,
+      "effectiveDate": "2022-03-21"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Kim Yến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2614745,
+      "ownershipPct": 11.104168146835965,
+      "effectiveDate": "2022-03-04"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Hưng",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 2181657,
+      "ownershipPct": 9.264951712966928,
+      "effectiveDate": "2022-01-24"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ Đầu Tư Chứng Khoán Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 554549,
+      "ownershipPct": 2.355030927168706,
+      "effectiveDate": "2008-09-03"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đoàn Thăng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 526457,
+      "ownershipPct": 2.235731228123133,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 456920,
+      "ownershipPct": 1.9404249782109877,
+      "effectiveDate": "2011-09-20"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Rồng Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 455386,
+      "ownershipPct": 1.9339104638177118,
+      "effectiveDate": "2009-08-28"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Opportunity Growth",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 429880,
+      "ownershipPct": 1.8255928600922249,
+      "effectiveDate": "2008-12-19"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Amersham Industries Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 388522,
+      "ownershipPct": 1.6499557764695996,
+      "effectiveDate": "2007-03-13"
+    },
+    {
+      "code": "RAL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KITMC WORLDWIDE VIETNAM RSP BALANCED FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 261943,
+      "ownershipPct": 1.112406417026002,
+      "effectiveDate": "2009-04-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "code": "MZG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tuấn Minh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 30954824,
+      "ownershipPct": 29.22608141081494,
+      "effectiveDate": "2024-07-26"
+    },
+    {
+      "code": "MZG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Thu Giang",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 8109048,
+      "ownershipPct": 7.656179760938264,
+      "groupPct": 12.0569020453256,
+      "effectiveDate": "2024-07-26"
+    },
+    {
+      "code": "MZG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Tùng",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 4411028,
+      "ownershipPct": 4.164684103304357,
+      "groupPct": 12.0569020453256,
+      "effectiveDate": "2024-07-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

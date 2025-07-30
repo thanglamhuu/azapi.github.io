@@ -1,1 +1,68 @@
-{"data":[{"code":"MDF","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":46761748,"ownershipPct":84.84612190513067,"effectiveDate":"2020-06-30"},{"code":"MDF","shareholderType":"COMPANY","shareholderName":"Công ty Cao su Quảng trị","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3555500,"ownershipPct":6.451221336586735,"effectiveDate":"2020-06-30"},{"code":"MDF","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Cao su Tân Biên - Kampongthom","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3367155,"ownershipPct":6.109481698662553,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MDF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 46761748,
+      "ownershipPct": 84.84612190513067,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MDF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Hữu Phước",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 32432213,
+      "ownershipPct": 58.84612136080036,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "MDF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Hỏi Em",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14329535,
+      "ownershipPct": 26.000000544330305,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "MDF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cao su Quảng trị",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3555500,
+      "ownershipPct": 6.451221336586735,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "MDF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Cao su Tân Biên - Kampongthom",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3367155,
+      "ownershipPct": 6.109481698662553,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MDF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Tân Biên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3367155,
+      "ownershipPct": 6.109481698662553,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

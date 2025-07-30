@@ -1,1 +1,110 @@
-{"data":[{"code":"HNI","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6891392,"ownershipPct":28.982462633212492,"effectiveDate":"2022-09-13"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Lê Mạc Thuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3861990,"ownershipPct":16.241998839253423,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Hà Văn Duyệt","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2618174,"ownershipPct":11.011001858876767,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Kiều Ngọc Mạnh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1302654,"ownershipPct":5.478446281825905,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Hà Văn Nghĩa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1293468,"ownershipPct":5.439813607650834,"groupPct":15.233335295948322,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Hà Văn Long","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1217772,"ownershipPct":5.121466241620335,"groupPct":15.233335295948322,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Dương Thanh Tùng","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":1000938,"ownershipPct":4.209548402291213,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Vũ Thị Nụ","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":713400,"ownershipPct":3.0002775698340467,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hằng Nga","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":595604,"ownershipPct":2.5048742945100053,"effectiveDate":"2022-12-31"},{"code":"HNI","shareholderType":"PERSON","shareholderName":"Võ Văn Hờ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":573332,"ownershipPct":2.4112070923298203,"effectiveDate":"2022-09-13"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "HNI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6891392,
+      "ownershipPct": 28.982462633212492,
+      "effectiveDate": "2022-09-13"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Mạc Thuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3861990,
+      "ownershipPct": 16.241998839253423,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Văn Duyệt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2618174,
+      "ownershipPct": 11.011001858876767,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Ngọc Mạnh Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1302654,
+      "ownershipPct": 5.478446281825905,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Văn Nghĩa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1293468,
+      "ownershipPct": 5.439813607650834,
+      "groupPct": 15.443615473256568,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Văn Long",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1217772,
+      "ownershipPct": 5.121466241620335,
+      "groupPct": 15.443615473256568,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thanh Tùng",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 1000938,
+      "ownershipPct": 4.209548402291213,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Nụ",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 713400,
+      "ownershipPct": 3.0002775698340467,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hằng Nga",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 595604,
+      "ownershipPct": 2.5048742945100053,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HNI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Văn Hờ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 573332,
+      "ownershipPct": 2.4112070923298203,
+      "effectiveDate": "2022-09-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

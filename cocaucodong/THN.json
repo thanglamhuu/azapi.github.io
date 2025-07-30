@@ -1,1 +1,38 @@
-{"data":[{"code":"THN","shareholderType":"COMPANY","shareholderName":"Ủy Ban nhân dân tỉnh Thanh Hóa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20992371,"ownershipPct":63.62209278132647,"effectiveDate":"2019-04-11"},{"code":"THN","shareholderType":"PERSON","shareholderName":"Phạm Văn Tú","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":6883500,"ownershipPct":20.861991990340716,"effectiveDate":"2024-03-21"},{"code":"THN","shareholderType":"PERSON","shareholderName":"Nguyễn Huy Nhắn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1059000,"ownershipPct":3.209537229283187,"effectiveDate":"2019-04-11"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "THN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy Ban nhân dân tỉnh Thanh Hóa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20992371,
+      "ownershipPct": 63.62209278132647,
+      "effectiveDate": "2019-04-11"
+    },
+    {
+      "code": "THN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Tú",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 6883500,
+      "ownershipPct": 20.861991990340716,
+      "effectiveDate": "2024-03-21"
+    },
+    {
+      "code": "THN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Huy Nhắn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1059000,
+      "ownershipPct": 3.209537229283187,
+      "effectiveDate": "2019-04-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

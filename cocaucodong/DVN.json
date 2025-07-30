@@ -1,1 +1,38 @@
-{"data":[{"code":"DVN","shareholderType":"COMPANY","shareholderName":"Bộ Y tế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":154050000,"ownershipPct":65,"effectiveDate":"2020-06-30"},{"code":"DVN","shareholderType":"COMPANY","shareholderName":"CTCP SAM HOLDINGS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11800000,"ownershipPct":4.9789029535864975,"effectiveDate":"2017-06-22"},{"code":"DVN","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư cơ hội PVI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6506818,"ownershipPct":2.7454928270042194,"effectiveDate":"2023-06-01"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DVN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ Y tế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 154050000,
+      "ownershipPct": 65,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DVN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP SAM HOLDINGS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11800000,
+      "ownershipPct": 4.9789029535864975,
+      "effectiveDate": "2017-06-22"
+    },
+    {
+      "code": "DVN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư cơ hội PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6506818,
+      "ownershipPct": 2.7454928270042194,
+      "effectiveDate": "2023-06-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,1 +1,60 @@
-{"data":[{"code":"A32","shareholderType":"COMPANY","shareholderName":"Bộ Quốc Phòng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3468000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"A32","shareholderType":"PERSON","shareholderName":"Vũ Thị Luyến","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":251130,"ownershipPct":3.6930882352941174,"groupPct":3.707794117647059,"effectiveDate":"2022-12-31"},{"code":"A32","shareholderType":"PERSON","shareholderName":"Trương Thị Thịnh","roleType":"Chị/em dâu của Phó chủ tịch HĐQT","enRoleType":"Sister in law of Vice-chairman","numberOfShares":182895,"ownershipPct":2.6896323529411763,"groupPct":2.771985294117647,"effectiveDate":"2020-12-31"},{"code":"A32","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Anh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":173300,"ownershipPct":2.5485294117647057,"effectiveDate":"2023-12-31"},{"code":"A32","shareholderType":"PERSON","shareholderName":"Vũ Xuân Tạo","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":92800,"ownershipPct":1.3647058823529412,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "A32",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ Quốc Phòng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3468000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "A32",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Luyến",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 251130,
+      "ownershipPct": 3.6930882352941174,
+      "groupPct": 3.707794117647059,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "A32",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Thịnh",
+      "roleType": "Chị/em dâu của Phó chủ tịch HĐQT",
+      "enRoleType": "Sister in law of Vice-chairman",
+      "numberOfShares": 182895,
+      "ownershipPct": 2.6896323529411763,
+      "groupPct": 2.771985294117647,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "A32",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 173300,
+      "ownershipPct": 2.5485294117647057,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "A32",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Xuân Tạo",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 92800,
+      "ownershipPct": 1.3647058823529412,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

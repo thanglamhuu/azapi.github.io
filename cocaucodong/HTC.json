@@ -1,1 +1,111 @@
-{"data":[{"code":"HTC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Bến Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3936450,"ownershipPct":23.857282848544237,"effectiveDate":"2022-06-20"},{"code":"HTC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư và Thương mại Thiên Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2802700,"ownershipPct":16.986067812271195,"effectiveDate":"2022-12-29"},{"code":"HTC","shareholderType":"PERSON","shareholderName":"Lê Văn Mỵ","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1683090,"ownershipPct":10.200549782051423,"effectiveDate":"2022-06-20"},{"code":"HTC","shareholderType":"COMPANY","shareholderName":"Công ty Xăng dầu Khu vực II","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1575000,"ownershipPct":9.54545859504304,"effectiveDate":"2022-06-20"},{"code":"HTC","shareholderType":"PERSON","shareholderName":"Trịnh Kim Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1211750,"ownershipPct":7.3439425095513675,"effectiveDate":"2012-08-22"},{"code":"HTC","shareholderType":"PERSON","shareholderName":"Lê Anh Phương","roleType":"Con của Phó chủ tịch HĐQT","enRoleType":"Child of Vice-chairman","numberOfShares":436065,"ownershipPct":2.64281930301425,"groupPct":6.688275564722967,"effectiveDate":"2022-06-20"},{"code":"HTC","shareholderType":"PERSON","shareholderName":"Lê Thụy Mỵ Châu","roleType":"Con của Phó chủ tịch HĐQT","enRoleType":"Child of Vice-chairman","numberOfShares":300000,"ownershipPct":1.8181825895320076,"groupPct":6.688275564722967,"effectiveDate":"2022-06-20"},{"code":"HTC","shareholderType":"PERSON","shareholderName":"Nguyễn Tiến Dũng","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":260415,"ownershipPct":1.5782733968432592,"effectiveDate":"2022-06-20"},{"code":"HTC","shareholderType":"PERSON","shareholderName":"Phạm Thị Khánh Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":259900,"ownershipPct":1.575152183397896,"effectiveDate":"2013-06-06"},{"code":"HTC","shareholderType":"PERSON","shareholderName":"Phan Bạch Ngọc","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":187500,"ownershipPct":1.1363641184575048,"groupPct":6.688275564722967,"effectiveDate":"2022-06-20"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "HTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Bến Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3936450,
+      "ownershipPct": 23.857282848544237,
+      "effectiveDate": "2022-06-20"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư và Thương mại Thiên Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2805200,
+      "ownershipPct": 17.001219333850628,
+      "effectiveDate": "2024-10-31"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Mỵ",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1683090,
+      "ownershipPct": 10.200549782051423,
+      "effectiveDate": "2022-06-20"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Xăng dầu Khu vực II",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1575000,
+      "ownershipPct": 9.54545859504304,
+      "effectiveDate": "2022-06-20"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Kim Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1211750,
+      "ownershipPct": 7.3439425095513675,
+      "effectiveDate": "2012-08-22"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Anh Phương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 436065,
+      "ownershipPct": 2.64281930301425,
+      "groupPct": 6.688275564722967,
+      "effectiveDate": "2022-06-20"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thụy Mỵ Châu",
+      "roleType": "Con của Phó chủ tịch HĐQT",
+      "enRoleType": "Child of Vice-chairman",
+      "numberOfShares": 300000,
+      "ownershipPct": 1.8181825895320076,
+      "groupPct": 6.688275564722967,
+      "effectiveDate": "2022-06-20"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiến Dũng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 260415,
+      "ownershipPct": 1.5782733968432592,
+      "effectiveDate": "2022-06-20"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Khánh Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 259900,
+      "ownershipPct": 1.575152183397896,
+      "effectiveDate": "2013-06-06"
+    },
+    {
+      "code": "HTC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Bạch Ngọc",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 187500,
+      "ownershipPct": 1.1363641184575048,
+      "groupPct": 6.688275564722967,
+      "effectiveDate": "2022-06-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

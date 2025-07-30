@@ -1,1 +1,78 @@
-{"data":[{"code":"AIC","shareholderType":"COMPANY","shareholderName":"DB Insurance Co.,Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":75000000,"ownershipPct":79.8428972828472,"effectiveDate":"2024-01-31"},{"code":"AIC","shareholderType":"COMPANY","shareholderName":"Bảo hiểm Hàng không","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":22389333,"ownershipPct":23.835056199339483,"effectiveDate":"2022-02-18"},{"code":"AIC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Xuất Nhập Khẩu Thủ Công Mỹ Nghệ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11550000,"ownershipPct":12.295806181558468,"effectiveDate":"2024-01-16"},{"code":"AIC","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Vật tư Nông nghiệp - Công ty cổ phần","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5500000,"ownershipPct":5.855145800742128,"effectiveDate":"2020-11-05"},{"code":"AIC","shareholderType":"COMPANY","shareholderName":"CTCP Bia và Nước Giải khát Việt Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4611120,"ownershipPct":4.908869073585098,"effectiveDate":"2020-11-05"},{"code":"AIC","shareholderType":"COMPANY","shareholderName":"TỔNG CTCP CƠ ĐIỆN THỐNG NHẤT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3466200,"ownershipPct":3.6900193408240662,"effectiveDate":"2020-11-05"},{"code":"AIC","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Nghị","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2432500,"ownershipPct":2.5895713018736775,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DB Insurance Co.,Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 75000000,
+      "ownershipPct": 79.8428972828472,
+      "effectiveDate": "2024-01-31"
+    },
+    {
+      "code": "AIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bảo hiểm Hàng không",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 22389333,
+      "ownershipPct": 23.835056199339483,
+      "effectiveDate": "2022-02-18"
+    },
+    {
+      "code": "AIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Xuất Nhập Khẩu Thủ Công Mỹ Nghệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11550000,
+      "ownershipPct": 12.295806181558468,
+      "effectiveDate": "2024-01-16"
+    },
+    {
+      "code": "AIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Vật tư Nông nghiệp - Công ty cổ phần",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5500000,
+      "ownershipPct": 5.855145800742128,
+      "effectiveDate": "2020-11-05"
+    },
+    {
+      "code": "AIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Bia và Nước Giải khát Việt Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4611120,
+      "ownershipPct": 4.908869073585098,
+      "effectiveDate": "2020-11-05"
+    },
+    {
+      "code": "AIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TỔNG CTCP CƠ ĐIỆN THỐNG NHẤT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3466200,
+      "ownershipPct": 3.6900193408240662,
+      "effectiveDate": "2020-11-05"
+    },
+    {
+      "code": "AIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Nghị",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2432500,
+      "ownershipPct": 2.5895713018736775,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"L62","shareholderType":"PERSON","shareholderName":"Vũ Kế Chương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1479162,"ownershipPct":17.82500223240028,"effectiveDate":"2023-12-11"},{"code":"L62","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Kỳ","roleType":"Bố của Tổng Giám đốc","enRoleType":"Father of CEO","numberOfShares":1190370,"ownershipPct":14.344843842244678,"effectiveDate":"2020-06-30"},{"code":"L62","shareholderType":"PERSON","shareholderName":"Hoàng Sỹ Khang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":698529,"ownershipPct":8.417793983617978,"effectiveDate":"2018-12-10"},{"code":"L62","shareholderType":"PERSON","shareholderName":"Vũ Khắc Nhiềm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":698529,"ownershipPct":8.417793983617978,"effectiveDate":"2018-12-10"},{"code":"L62","shareholderType":"PERSON","shareholderName":"Trần Xuân Trường","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":654983,"ownershipPct":7.893032296113768,"effectiveDate":"2018-12-03"},{"code":"L62","shareholderType":"PERSON","shareholderName":"Hoàng Trung Kiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":519835,"ownershipPct":6.264398379271371,"effectiveDate":"2018-12-10"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "L62",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Kế Chương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1479162,
+      "ownershipPct": 17.82500223240028,
+      "effectiveDate": "2023-12-11"
+    },
+    {
+      "code": "L62",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Kỳ",
+      "roleType": "Bố của Tổng Giám đốc",
+      "enRoleType": "Father of CEO",
+      "numberOfShares": 1190370,
+      "ownershipPct": 14.344843842244678,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "L62",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Khắc Nhiềm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 698529,
+      "ownershipPct": 8.417793983617978,
+      "effectiveDate": "2018-12-10"
+    },
+    {
+      "code": "L62",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Sỹ Khang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 698529,
+      "ownershipPct": 8.417793983617978,
+      "effectiveDate": "2018-12-10"
+    },
+    {
+      "code": "L62",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Xuân Trường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 654983,
+      "ownershipPct": 7.893032296113768,
+      "effectiveDate": "2018-12-03"
+    },
+    {
+      "code": "L62",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Trung Kiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 519835,
+      "ownershipPct": 6.264398379271371,
+      "effectiveDate": "2018-12-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

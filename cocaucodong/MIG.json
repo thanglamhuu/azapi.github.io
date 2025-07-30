@@ -1,1 +1,48 @@
-{"data":[{"code":"MIG","shareholderType":"COMPANY","shareholderName":"Ngân hàng Quân đội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":118061773,"ownershipPct":68.37323430192995,"effectiveDate":"2023-08-24"},{"code":"MIG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17448925,"ownershipPct":10.105213626952757,"effectiveDate":"2024-05-03"},{"code":"MIG","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17130725,"ownershipPct":9.920934138325443,"effectiveDate":"2024-05-14"},{"code":"MIG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2177597,"ownershipPct":1.2611139585052629,"effectiveDate":"2023-08-24"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Quân đội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 135771038,
+      "ownershipPct": 67.40245403722199,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "MIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17448925,
+      "ownershipPct": 8.662380303164756,
+      "effectiveDate": "2024-05-03"
+    },
+    {
+      "code": "MIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17130725,
+      "ownershipPct": 8.504412439100522,
+      "effectiveDate": "2024-05-14"
+    },
+    {
+      "code": "MIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2879800,
+      "ownershipPct": 1.4296538495668853,
+      "effectiveDate": "2025-01-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

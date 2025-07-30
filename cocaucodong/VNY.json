@@ -1,1 +1,89 @@
-{"data":[{"code":"VNY","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Quản lý Quỹ Ngân hàng TMCP Công thương Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4000000,"ownershipPct":24.615431574054078,"effectiveDate":"2021-05-13"},{"code":"VNY","shareholderType":"PERSON","shareholderName":"Lê Chí Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":6.1538578935135195,"effectiveDate":"2021-05-13"},{"code":"VNY","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":670249,"ownershipPct":4.1246170992695435,"effectiveDate":"2019-01-11"},{"code":"VNY","shareholderType":"PERSON","shareholderName":"Lê Anh Tuấn","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":355499,"ownershipPct":2.187690327286163,"effectiveDate":"2020-06-30"},{"code":"VNY","shareholderType":"PERSON","shareholderName":"Lê Hải Đoàn","roleType":"Con của Tổng Giám đốc","enRoleType":"Child of CEO","numberOfShares":300356,"ownershipPct":1.8483481414641467,"effectiveDate":"2022-05-17"},{"code":"VNY","shareholderType":"PERSON","shareholderName":"Lê Đức Liên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250314,"ownershipPct":1.5403967847569433,"effectiveDate":"2021-12-31"},{"code":"VNY","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Phượng","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":189873,"ownershipPct":1.1684514598150926,"effectiveDate":"2022-07-30"},{"code":"VNY","shareholderType":"PERSON","shareholderName":"Võ Quốc Dũng","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":175000,"ownershipPct":1.076925131364866,"groupPct":3.9033920618556257,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNY",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý Quỹ Ngân hàng TMCP Công thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4000000,
+      "ownershipPct": 24.61545126645266,
+      "effectiveDate": "2021-05-13"
+    },
+    {
+      "code": "VNY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Chí Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 6.153862816613165,
+      "effectiveDate": "2021-05-13"
+    },
+    {
+      "code": "VNY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 670249,
+      "ownershipPct": 4.124620398972157,
+      "effectiveDate": "2019-01-11"
+    },
+    {
+      "code": "VNY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Anh Tuấn",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 355499,
+      "ownershipPct": 2.1876920774431636,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hải Đoàn",
+      "roleType": "Con của Tổng Giám đốc",
+      "enRoleType": "Child of CEO",
+      "numberOfShares": 300356,
+      "ownershipPct": 1.8483496201466638,
+      "effectiveDate": "2022-05-17"
+    },
+    {
+      "code": "VNY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đức Liên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250314,
+      "ownershipPct": 1.5403980170777078,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "VNY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phượng",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 189873,
+      "ownershipPct": 1.1684523945787915,
+      "effectiveDate": "2022-07-30"
+    },
+    {
+      "code": "VNY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Quốc Dũng",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 175000,
+      "ownershipPct": 1.0769259929073038,
+      "groupPct": 3.9033951845777306,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

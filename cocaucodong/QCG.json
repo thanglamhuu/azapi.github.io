@@ -1,1 +1,72 @@
-{"data":[{"code":"QCG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Như Loan","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":101922260,"ownershipPct":37.04524341898047,"effectiveDate":"2020-06-30"},{"code":"QCG","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Huyền My","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":39384970,"ownershipPct":14.315084856823654,"groupPct":22.6160063502688,"effectiveDate":"2020-06-30"},{"code":"QCG","shareholderType":"PERSON","shareholderName":"Lầu Đức Duy","roleType":"Con dâu/rể của Thành viên HĐQT","enRoleType":"Child in law of Board member","numberOfShares":10538420,"ownershipPct":3.8303539791155745,"groupPct":22.6160063502688,"effectiveDate":"2023-06-30"},{"code":"QCG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Ánh Nguyệt","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":9675554,"ownershipPct":3.5167318026846166,"groupPct":22.6160063502688,"effectiveDate":"2020-06-30"},{"code":"QCG","shareholderType":"PERSON","shareholderName":"Hồ Thảo Nguyên","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":6424810,"ownershipPct":2.3351979280159205,"groupPct":2.806707414537379,"effectiveDate":"2020-06-30"},{"code":"QCG","shareholderType":"PERSON","shareholderName":"Lê Quốc Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4460000,"ownershipPct":1.621056927590233,"effectiveDate":"2017-08-09"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "QCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Như Loan",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 101922260,
+      "ownershipPct": 37.04524341898047,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "QCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Huyền My",
+      "roleType": "Con của Đại diện CBTT",
+      "enRoleType": "Child of Spokeman",
+      "numberOfShares": 39384970,
+      "ownershipPct": 14.315084856823654,
+      "groupPct": 22.6160063502688,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "QCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lầu Đức Duy",
+      "roleType": "Con dâu/rể của Đại diện CBTT",
+      "enRoleType": "Child in law of Spokeman",
+      "numberOfShares": 10538420,
+      "ownershipPct": 3.8303539791155745,
+      "groupPct": 22.6160063502688,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "QCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Ánh Nguyệt",
+      "roleType": "Em gái của Đại diện CBTT",
+      "enRoleType": "Young Sister of Spokeman",
+      "numberOfShares": 9675554,
+      "ownershipPct": 3.5167318026846166,
+      "groupPct": 22.6160063502688,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "QCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Thảo Nguyên",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 6424810,
+      "ownershipPct": 2.3351979280159205,
+      "groupPct": 2.806707414537379,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "QCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quốc Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4460000,
+      "ownershipPct": 1.621056927590233,
+      "effectiveDate": "2017-08-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,89 @@
-{"data":[{"code":"HSL","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết Nhung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4400000,"ownershipPct":12.43517177550626,"effectiveDate":"2022-07-22"},{"code":"HSL","shareholderType":"PERSON","shareholderName":"Nguyễn Tuấn Dũng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2750000,"ownershipPct":7.771982359691413,"effectiveDate":"2022-07-22"},{"code":"HSL","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Giáp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1873437,"ownershipPct":5.294661569452074,"effectiveDate":"2022-07-22"},{"code":"HSL","shareholderType":"PERSON","shareholderName":"Lê Văn Đức","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1100000,"ownershipPct":3.108792943876565,"effectiveDate":"2022-07-22"},{"code":"HSL","shareholderType":"PERSON","shareholderName":"Ogiwara Kotaro","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":786000,"ownershipPct":2.2213738671699823,"effectiveDate":"2019-08-30"},{"code":"HSL","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":693467,"ownershipPct":1.959859378555682,"effectiveDate":"2022-07-22"},{"code":"HSL","shareholderType":"PERSON","shareholderName":"Trần Ngọc Lan","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":388300,"ownershipPct":1.0974039091884276,"effectiveDate":"2022-07-22"},{"code":"HSL","shareholderType":"PERSON","shareholderName":"Lê Thị Khuyên","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":358620,"ownershipPct":1.0135230232118309,"groupPct":1.013944123346956,"effectiveDate":"2022-07-22"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết Nhung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4796000,
+      "ownershipPct": 12.435384809689996,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tuấn Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2997500,
+      "ownershipPct": 7.772115506056248,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Giáp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1873437,
+      "ownershipPct": 4.85757089485221,
+      "effectiveDate": "2022-07-22"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Đức",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1199000,
+      "ownershipPct": 3.108846202422499,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ogiwara Kotaro",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 856740,
+      "ownershipPct": 2.2214119228218947,
+      "effectiveDate": "2024-08-15"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 693467,
+      "ownershipPct": 1.7980669303213703,
+      "effectiveDate": "2022-07-22"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Lan",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 423247,
+      "ownershipPct": 1.097422709455142,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Khuyên",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 390895,
+      "ownershipPct": 1.0135383121734303,
+      "groupPct": 1.0139583564476524,
+      "effectiveDate": "2024-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

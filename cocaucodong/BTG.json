@@ -1,1 +1,88 @@
-{"data":[{"code":"BTG","shareholderType":"COMPANY","shareholderName":"L.thực miền Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":714000,"ownershipPct":60,"effectiveDate":"2020-06-30"},{"code":"BTG","shareholderType":"PERSON","shareholderName":"Ngô Sĩ Tuấn Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":357000,"ownershipPct":30,"effectiveDate":"2023-04-27"},{"code":"BTG","shareholderType":"PERSON","shareholderName":"Hoàng Anh Tú","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":238000,"ownershipPct":20,"effectiveDate":"2023-04-27"},{"code":"BTG","shareholderType":"PERSON","shareholderName":"Trần Văn Tưởng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":119000,"ownershipPct":10,"effectiveDate":"2023-04-27"},{"code":"BTG","shareholderType":"PERSON","shareholderName":"Lê Quang Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":70900,"ownershipPct":5.957983193277311,"effectiveDate":"2024-05-22"},{"code":"BTG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư quốc tế ABC Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":69700,"ownershipPct":5.857142857142857,"effectiveDate":"2024-05-22"},{"code":"BTG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Sông Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":30000,"ownershipPct":2.5210084033613445,"effectiveDate":"2020-06-30"},{"code":"BTG","shareholderType":"PERSON","shareholderName":"Lâm Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20000,"ownershipPct":1.680672268907563,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "L.thực miền Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 714000,
+      "ownershipPct": 60,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Sĩ Tuấn Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 357000,
+      "ownershipPct": 30,
+      "effectiveDate": "2023-04-27"
+    },
+    {
+      "code": "BTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Anh Tú",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 238000,
+      "ownershipPct": 20,
+      "effectiveDate": "2023-04-27"
+    },
+    {
+      "code": "BTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Tưởng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 119000,
+      "ownershipPct": 10,
+      "effectiveDate": "2023-04-27"
+    },
+    {
+      "code": "BTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư quốc tế ABC Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 100800,
+      "ownershipPct": 8.470588235294118,
+      "effectiveDate": "2025-02-25"
+    },
+    {
+      "code": "BTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quang Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 70900,
+      "ownershipPct": 5.957983193277311,
+      "effectiveDate": "2024-05-22"
+    },
+    {
+      "code": "BTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Sông Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 30000,
+      "ownershipPct": 2.5210084033613445,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20000,
+      "ownershipPct": 1.680672268907563,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

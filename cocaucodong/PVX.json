@@ -1,1 +1,68 @@
-{"data":[{"code":"PVX","shareholderType":"COMPANY","shareholderName":"Tập đoàn Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":217873333,"ownershipPct":54.46873781655013,"effectiveDate":"2015-07-29"},{"code":"PVX","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19120468,"ownershipPct":4.780152504582728,"effectiveDate":"2013-12-19"},{"code":"PVX","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Quản lý quỹ Lộc Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10583869,"ownershipPct":2.6459869030677226,"effectiveDate":"2020-06-30"},{"code":"PVX","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9529725,"ownershipPct":2.3824489456395437,"effectiveDate":"2020-06-30"},{"code":"PVX","shareholderType":"COMPANY","shareholderName":"Chứng khoán MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5912700,"ownershipPct":1.4781859792263607,"effectiveDate":"2010-07-30"},{"code":"PVX","shareholderType":"COMPANY","shareholderName":"CK Dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4418760,"ownershipPct":1.1046982051459187,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 217873333,
+      "ownershipPct": 54.46873781655013,
+      "effectiveDate": "2015-07-29"
+    },
+    {
+      "code": "PVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19120468,
+      "ownershipPct": 4.780152504582728,
+      "effectiveDate": "2013-12-19"
+    },
+    {
+      "code": "PVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Quản lý quỹ Lộc Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10583869,
+      "ownershipPct": 2.6459869030677226,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9529725,
+      "ownershipPct": 2.3824489456395437,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5912700,
+      "ownershipPct": 1.4781859792263607,
+      "effectiveDate": "2010-07-30"
+    },
+    {
+      "code": "PVX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4418760,
+      "ownershipPct": 1.1046982051459187,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

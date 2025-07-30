@@ -1,1 +1,108 @@
-{"data":[{"code":"KHL","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":740200,"ownershipPct":6.168333333333333,"effectiveDate":"2022-12-31"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Trường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":599000,"ownershipPct":4.991666666666666,"effectiveDate":"2015-07-08"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Lê Văn An","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":439900,"ownershipPct":3.6658333333333335,"effectiveDate":"2023-12-31"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Đỗ Văn Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":426300,"ownershipPct":3.5525,"effectiveDate":"2021-06-11"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Chen Jin Cai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":272300,"ownershipPct":2.2691666666666666,"effectiveDate":"2013-09-24"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Trần Mạnh Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":272000,"ownershipPct":2.2666666666666666,"effectiveDate":"2012-04-09"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Zhang Hua","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":262500,"ownershipPct":2.1875,"effectiveDate":"2014-04-02"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Zheng Lan Ying","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":259000,"ownershipPct":2.158333333333333,"effectiveDate":"2014-03-27"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Trần Mạnh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":2.0833333333333335,"effectiveDate":"2020-06-30"},{"code":"KHL","shareholderType":"PERSON","shareholderName":"Phạm Thị Hinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":200000,"ownershipPct":1.6666666666666667,"effectiveDate":"2015-07-21"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 740200,
+      "ownershipPct": 6.168333333333333,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Trường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 599000,
+      "ownershipPct": 4.991666666666666,
+      "effectiveDate": "2015-07-08"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Anh Tú",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 562000,
+      "ownershipPct": 4.683333333333334,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn An",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 485000,
+      "ownershipPct": 4.041666666666667,
+      "effectiveDate": "2025-06-20"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn An",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 439900,
+      "ownershipPct": 3.6658333333333335,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 426300,
+      "ownershipPct": 3.5525,
+      "effectiveDate": "2021-06-11"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chen Jin Cai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 272300,
+      "ownershipPct": 2.2691666666666666,
+      "effectiveDate": "2013-09-24"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Mạnh Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 272000,
+      "ownershipPct": 2.2666666666666666,
+      "effectiveDate": "2012-04-09"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Zhang Hua",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 262500,
+      "ownershipPct": 2.1875,
+      "effectiveDate": "2014-04-02"
+    },
+    {
+      "code": "KHL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Zheng Lan Ying",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 259000,
+      "ownershipPct": 2.158333333333333,
+      "effectiveDate": "2014-03-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

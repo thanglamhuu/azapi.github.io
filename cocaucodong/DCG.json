@@ -1,1 +1,109 @@
-{"data":[{"code":"DCG","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1640730,"ownershipPct":24.040014089385547,"effectiveDate":"2020-06-30"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Wang Kuan Hung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":358332,"ownershipPct":5.250288791378046,"effectiveDate":"2020-06-30"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Lương Văn Thư","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":341564,"ownershipPct":5.004603665701782,"effectiveDate":"2020-12-31"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết Minh","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":329199,"ownershipPct":4.823431398348072,"groupPct":4.970288627275386,"effectiveDate":"2020-12-31"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Đặng Anh Đào","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":286406,"ownershipPct":4.19642736786952,"effectiveDate":"2024-06-30"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Đông","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":256344,"ownershipPct":3.7559582452502536,"effectiveDate":"2020-06-30"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Bạch Minh Quân","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":187318,"ownershipPct":2.744587689135642,"effectiveDate":"2024-06-30"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Luận","roleType":"Bố của Thành viên HĐQT","enRoleType":"Father of Board member","numberOfShares":141470,"ownershipPct":2.072821727661086,"effectiveDate":"2020-12-31"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Quang","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":132213,"ownershipPct":1.9371879485350614,"effectiveDate":"2020-12-31"},{"code":"DCG","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Thăng","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":100819,"ownershipPct":1.4772023309610731,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DCG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1640730,
+      "ownershipPct": 24.040014089385547,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Wang Kuan Hung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 358332,
+      "ownershipPct": 5.250288791378046,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Văn Thư",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 341564,
+      "ownershipPct": 5.004603665701782,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết Minh",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 329199,
+      "ownershipPct": 4.823431398348072,
+      "groupPct": 4.970288627275386,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Anh Đào",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 306309,
+      "ownershipPct": 4.488046586400929,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Đông",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 256344,
+      "ownershipPct": 3.7559582452502536,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bạch Minh Quân",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 189365,
+      "ownershipPct": 2.77458038070645,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Luận",
+      "roleType": "Bố của Thành viên HĐQT",
+      "enRoleType": "Father of Board member",
+      "numberOfShares": 183911,
+      "ownershipPct": 2.6946682459594116,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Quang",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 132213,
+      "ownershipPct": 1.9371879485350614,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DCG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Thăng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 100819,
+      "ownershipPct": 1.4772023309610731,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

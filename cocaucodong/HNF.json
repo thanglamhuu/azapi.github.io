@@ -1,1 +1,88 @@
-{"data":[{"code":"HNF","shareholderType":"COMPANY","shareholderName":"CTCP DNA Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15410125,"ownershipPct":51.36708333333333,"effectiveDate":"2020-12-31"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Trịnh Trung Hiếu","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":8235687,"ownershipPct":27.45229,"effectiveDate":"2024-07-09"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Thái Lan Anh","roleType":"Em gái của Trưởng BKS","enRoleType":"Young Sister of Head of Control","numberOfShares":1771200,"ownershipPct":5.904,"effectiveDate":"2023-06-30"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Lê Việt Anh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1350000,"ownershipPct":4.5,"effectiveDate":"2023-02-13"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Trịnh Anh Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1331857,"ownershipPct":4.439523333333334,"effectiveDate":"2020-12-31"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Vũ Lâm Nhi","roleType":"Con của Phó chủ tịch HĐQT","enRoleType":"Child of Vice-chairman","numberOfShares":1140000,"ownershipPct":3.8,"effectiveDate":"2023-02-15"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Lê Thị Lan Anh","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1002000,"ownershipPct":3.34,"effectiveDate":"2024-06-12"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":844500,"ownershipPct":2.815,"effectiveDate":"2017-12-19"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Lê Thị Hà Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":640000,"ownershipPct":2.1333333333333333,"effectiveDate":"2017-12-20"},{"code":"HNF","shareholderType":"PERSON","shareholderName":"Lưu Thanh Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":640000,"ownershipPct":2.1333333333333333,"effectiveDate":"2017-12-15"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "HNF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP DNA Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15410125,
+      "ownershipPct": 51.36708333333333,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "HNF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Trung Hiếu",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 11727687,
+      "ownershipPct": 39.09229,
+      "effectiveDate": "2024-10-02"
+    },
+    {
+      "code": "HNF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Lan Anh",
+      "roleType": "Em gái của Trưởng BKS",
+      "enRoleType": "Young Sister of Head of Control",
+      "numberOfShares": 1771200,
+      "ownershipPct": 5.904,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "HNF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Anh Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1331857,
+      "ownershipPct": 4.439523333333334,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "HNF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 844500,
+      "ownershipPct": 2.815,
+      "effectiveDate": "2017-12-19"
+    },
+    {
+      "code": "HNF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Hà Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 640000,
+      "ownershipPct": 2.1333333333333333,
+      "effectiveDate": "2017-12-20"
+    },
+    {
+      "code": "HNF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Thanh Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 640000,
+      "ownershipPct": 2.1333333333333333,
+      "effectiveDate": "2017-12-15"
+    },
+    {
+      "code": "HNF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Lạc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 485385,
+      "ownershipPct": 1.61795,
+      "effectiveDate": "2017-04-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

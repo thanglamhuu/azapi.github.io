@@ -1,1 +1,90 @@
-{"data":[{"code":"VNX","shareholderType":"PERSON","shareholderName":"Nguyễn Khắc Luận","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":165153,"ownershipPct":13.482449867259671,"effectiveDate":"2020-06-30"},{"code":"VNX","shareholderType":"PERSON","shareholderName":"Phạm Quỳnh Giang","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":150896,"ownershipPct":12.31856372678677,"effectiveDate":"2022-12-23"},{"code":"VNX","shareholderType":"PERSON","shareholderName":"Đinh Văn Khải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":147522,"ownershipPct":12.04312346320007,"effectiveDate":"2015-06-10"},{"code":"VNX","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hằng","roleType":"Vợ của Phó chủ tịch HĐQT","enRoleType":"Wife of Vice-chairman","numberOfShares":93998,"ownershipPct":7.673631860291213,"groupPct":7.787922426094822,"effectiveDate":"2020-06-30"},{"code":"VNX","shareholderType":"PERSON","shareholderName":"Đỗ Thị Hoài","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":62031,"ownershipPct":5.063970062402649,"effectiveDate":"2020-06-30"},{"code":"VNX","shareholderType":"PERSON","shareholderName":"Trịnh Xuân Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":51155,"ownershipPct":4.176095638345465,"effectiveDate":"2020-06-30"},{"code":"VNX","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Vân","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":18596,"ownershipPct":1.5181052583456605,"effectiveDate":"2020-06-30"},{"code":"VNX","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Hồng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":16999,"ownershipPct":1.3877323772111143,"effectiveDate":"2022-12-15"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khắc Luận",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 247729,
+      "ownershipPct": 13.047508544143293,
+      "effectiveDate": "2025-01-15"
+    },
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Quỳnh Giang",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 226344,
+      "ownershipPct": 11.921193214825754,
+      "effectiveDate": "2025-01-13"
+    },
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Khải",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 221283,
+      "ownershipPct": 11.654638064875973,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hằng",
+      "roleType": "Vợ của Phó chủ tịch HĐQT",
+      "enRoleType": "Wife of Vice-chairman",
+      "numberOfShares": 140997,
+      "ownershipPct": 7.426096913153372,
+      "groupPct": 7.499832777593146,
+      "effectiveDate": "2025-01-07"
+    },
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Hoài",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 62031,
+      "ownershipPct": 3.267078147902557,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Xuân Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 51155,
+      "ownershipPct": 2.694255818154718,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khắc Thanh Bình",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 27744,
+      "ownershipPct": 1.4612341592979081,
+      "groupPct": 2.4406571129564973,
+      "effectiveDate": "2025-01-15"
+    },
+    {
+      "code": "VNX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Hồng",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 25498,
+      "ownershipPct": 1.3429407653466718,
+      "effectiveDate": "2025-01-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

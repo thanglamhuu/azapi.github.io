@@ -1,1 +1,38 @@
-{"data":[{"code":"TID","shareholderType":"COMPANY","shareholderName":"Tỉnh ủy Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":96125000,"ownershipPct":48.0625,"effectiveDate":"2020-06-30"},{"code":"TID","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư xây dựng và Vật liệu Xây dựng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":49913939,"ownershipPct":24.9569695,"effectiveDate":"2021-05-24"},{"code":"TID","shareholderType":"PERSON","shareholderName":"Quách Văn Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4820525,"ownershipPct":2.4102625,"effectiveDate":"2021-08-16"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TID",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tỉnh ủy Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 96125000,
+      "ownershipPct": 48.0625,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TID",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư xây dựng và Vật liệu Xây dựng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 49913939,
+      "ownershipPct": 24.9569695,
+      "effectiveDate": "2021-05-24"
+    },
+    {
+      "code": "TID",
+      "shareholderType": "PERSON",
+      "shareholderName": "Quách Văn Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4820525,
+      "ownershipPct": 2.4102625,
+      "effectiveDate": "2021-08-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

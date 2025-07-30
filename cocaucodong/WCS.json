@@ -1,1 +1,48 @@
-{"data":[{"code":"WCS","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Cơ khí Giao thông Vận tải Sài Gòn ( SAMCO)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1275000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"WCS","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":577000,"ownershipPct":23.08,"effectiveDate":"2024-01-23"},{"code":"WCS","shareholderType":"COMPANY","shareholderName":"Công ty CP Đầu tư Thái Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250500,"ownershipPct":10.02,"effectiveDate":"2020-06-30"},{"code":"WCS","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán VINA ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":156800,"ownershipPct":6.272,"effectiveDate":"2012-06-19"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "WCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Cơ khí Giao thông Vận tải Sài Gòn ( SAMCO)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1275000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "WCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 577000,
+      "ownershipPct": 23.08,
+      "effectiveDate": "2024-01-23"
+    },
+    {
+      "code": "WCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Đầu tư Thái Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250500,
+      "ownershipPct": 10.02,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "WCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán VINA ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 156800,
+      "ownershipPct": 6.272,
+      "effectiveDate": "2012-06-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

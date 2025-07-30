@@ -1,1 +1,59 @@
-{"data":[{"code":"DGW","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Created Future","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":53539200,"ownershipPct":32.04917731812907,"effectiveDate":"2022-07-01"},{"code":"DGW","shareholderType":"COMPANY","shareholderName":"Probus Oppotunities","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7704054,"ownershipPct":4.61173481700215,"effectiveDate":"2022-07-01"},{"code":"DGW","shareholderType":"COMPANY","shareholderName":"Evli Emerging Frontier Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7438680,"ownershipPct":4.452878906162593,"effectiveDate":"2022-07-01"},{"code":"DGW","shareholderType":"PERSON","shareholderName":"Mai Phan Việt Hùng","roleType":"Chồng của Thành viên HĐQT","enRoleType":"Husband of Board member","numberOfShares":3181464,"ownershipPct":1.9044607290965156,"groupPct":1.9071544805521141,"effectiveDate":"2022-07-01"},{"code":"DGW","shareholderType":"PERSON","shareholderName":"Hoàng Tùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1801657,"ownershipPct":1.0784924813865067,"effectiveDate":"2017-11-06"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DGW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Created Future",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 53539200,
+      "ownershipPct": 24.428305684160193,
+      "effectiveDate": "2022-07-01"
+    },
+    {
+      "code": "DGW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Probus Oppotunities",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7704054,
+      "ownershipPct": 3.515125106824104,
+      "effectiveDate": "2022-07-01"
+    },
+    {
+      "code": "DGW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Evli Emerging Frontier Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7438680,
+      "ownershipPct": 3.3940430362547205,
+      "effectiveDate": "2022-07-01"
+    },
+    {
+      "code": "DGW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Phan Việt Hùng",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 3181464,
+      "ownershipPct": 1.4516050877702884,
+      "groupPct": 1.454274264527736,
+      "effectiveDate": "2022-07-01"
+    },
+    {
+      "code": "DGW",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Tùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2342154,
+      "ownershipPct": 1.0686535075492076,
+      "effectiveDate": "2024-09-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

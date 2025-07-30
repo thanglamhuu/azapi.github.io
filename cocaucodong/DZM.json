@@ -1,1 +1,108 @@
-{"data":[{"code":"DZM","shareholderType":"PERSON","shareholderName":"Hoàng Mạnh Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":601620,"ownershipPct":11.149400897148528,"effectiveDate":"2020-05-21"},{"code":"DZM","shareholderType":"COMPANY","shareholderName":"CTCP Quản lý và phát triển bất động sản Conasi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":401000,"ownershipPct":7.431451347622352,"effectiveDate":"2018-11-30"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Phamová Hoàng Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":303100,"ownershipPct":5.617139410135499,"effectiveDate":"2020-06-30"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":289301,"ownershipPct":5.361412235208215,"effectiveDate":"2016-11-17"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Bùi Thắng Mỹ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":281200,"ownershipPct":5.211282092148143,"effectiveDate":"2020-06-30"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Đặng Đình Hưng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":278123,"ownershipPct":5.154258212356039,"effectiveDate":"2020-12-31"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Vũ Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":275000,"ownershipPct":5.096381846873184,"effectiveDate":"2020-05-21"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Vũ Thị Thanh Bình","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":269080,"ownershipPct":4.986670644933223,"effectiveDate":"2020-03-06"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250100,"ownershipPct":4.634927636010849,"effectiveDate":"2021-09-28"},{"code":"DZM","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":224400,"ownershipPct":4.1586475870485184,"effectiveDate":"2021-05-12"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Mạnh Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 601620,
+      "ownershipPct": 11.149400897148528,
+      "effectiveDate": "2020-05-21"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quản lý và phát triển bất động sản Conasi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 401000,
+      "ownershipPct": 7.431451347622352,
+      "effectiveDate": "2018-11-30"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phamová Hoàng Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 303100,
+      "ownershipPct": 5.617139410135499,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 289301,
+      "ownershipPct": 5.361412235208215,
+      "effectiveDate": "2016-11-17"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thắng Mỹ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 281200,
+      "ownershipPct": 5.211282092148143,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Đình Hưng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 278123,
+      "ownershipPct": 5.154258212356039,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 275000,
+      "ownershipPct": 5.096381846873184,
+      "effectiveDate": "2020-05-21"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Thanh Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 269080,
+      "ownershipPct": 4.986670644933223,
+      "effectiveDate": "2020-03-06"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250100,
+      "ownershipPct": 4.634927636010849,
+      "effectiveDate": "2021-09-28"
+    },
+    {
+      "code": "DZM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 224400,
+      "ownershipPct": 4.1586475870485184,
+      "effectiveDate": "2021-05-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

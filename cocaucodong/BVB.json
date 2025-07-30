@@ -1,1 +1,108 @@
-{"data":[{"code":"BVB","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Phượng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":22866665,"ownershipPct":4.558018059320682,"effectiveDate":"2023-06-30"},{"code":"BVB","shareholderType":"COMPANY","shareholderName":"Công ty CP Đầu tư Khu đô thị mới Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20930000,"ownershipPct":4.171982140009568,"effectiveDate":"2023-03-29"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Ngô Quang Trung","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":15680000,"ownershipPct":3.125498325625897,"effectiveDate":"2023-06-30"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Lê Anh Tài","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":14372299,"ownershipPct":2.864833957901451,"effectiveDate":"2023-06-30"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Phan Việt Hải","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":7502110,"ownershipPct":1.4953974645192154,"effectiveDate":"2023-06-30"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tú","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":6747361,"ownershipPct":1.3449531573911657,"effectiveDate":"2023-06-30"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Nguyễn Hoài Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6257998,"ownershipPct":1.247408308084835,"effectiveDate":"2023-03-29"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Phạm Anh Tú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5957773,"ownershipPct":1.1875643836708658,"effectiveDate":"2023-06-30"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Lê Văn Bé Mười","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":5921479,"ownershipPct":1.1803298915643439,"effectiveDate":"2023-06-30"},{"code":"BVB","shareholderType":"PERSON","shareholderName":"Văn Thành Khánh Linh","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":5769530,"ownershipPct":1.1500418593525754,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Phượng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 28297497,
+      "ownershipPct": 4.41582612902219,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty CP Đầu tư Khu đô thị mới Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20930000,
+      "ownershipPct": 3.2661277737898318,
+      "effectiveDate": "2023-03-29"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Anh Tài",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 17785719,
+      "ownershipPct": 2.7754625323803874,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Quang Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 17248000,
+      "ownershipPct": 2.691551449705065,
+      "effectiveDate": "2024-08-15"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tú",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 14085732,
+      "ownershipPct": 2.198079335850941,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Việt Hải",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 8252321,
+      "ownershipPct": 1.2877751942823257,
+      "effectiveDate": "2024-08-15"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Thành Khánh Linh",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 8115036,
+      "ownershipPct": 1.266351861677226,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lý Công Nha",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 7705414,
+      "ownershipPct": 1.2024303236478262,
+      "effectiveDate": "2025-07-01"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Bé Mười",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 7327829,
+      "ownershipPct": 1.143508161418183,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "BVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Công Toại",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6619772,
+      "ownershipPct": 1.033015823476171,
+      "effectiveDate": "2025-07-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

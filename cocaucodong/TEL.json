@@ -1,1 +1,58 @@
-{"data":[{"code":"TEL","shareholderType":"PERSON","shareholderName":"Nguyễn Hòa Hiệp","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1450000,"ownershipPct":29,"effectiveDate":"2022-12-31"},{"code":"TEL","shareholderType":"PERSON","shareholderName":"Lê Hải Đoàn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1249900,"ownershipPct":24.998,"effectiveDate":"2021-12-31"},{"code":"TEL","shareholderType":"PERSON","shareholderName":"Vũ Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":570900,"ownershipPct":11.418,"effectiveDate":"2024-06-24"},{"code":"TEL","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Nguyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":361648,"ownershipPct":7.23296,"effectiveDate":"2024-06-18"},{"code":"TEL","shareholderType":"PERSON","shareholderName":"Lại Trung Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":141100,"ownershipPct":2.822,"effectiveDate":"2024-06-20"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hải Đoàn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1484750,
+      "ownershipPct": 29.695,
+      "effectiveDate": "2025-05-13"
+    },
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hòa Hiệp",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1450000,
+      "ownershipPct": 29,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 570900,
+      "ownershipPct": 11.418,
+      "effectiveDate": "2024-06-24"
+    },
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 361648,
+      "ownershipPct": 7.23296,
+      "effectiveDate": "2024-06-18"
+    },
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lại Trung Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 141100,
+      "ownershipPct": 2.822,
+      "effectiveDate": "2024-06-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

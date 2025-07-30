@@ -1,1 +1,78 @@
-{"data":[{"code":"AGF","shareholderType":"COMPANY","shareholderName":"CTCP Hùng Vương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22370625,"ownershipPct":79.58317157150815,"effectiveDate":"2020-06-30"},{"code":"AGF","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2316893,"ownershipPct":8.242312994466012,"effectiveDate":"2020-06-30"},{"code":"AGF","shareholderType":"COMPANY","shareholderName":"Vietnam Dragon Fund Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":634989,"ownershipPct":2.2589640894262177,"effectiveDate":"2007-12-07"},{"code":"AGF","shareholderType":"COMPANY","shareholderName":"PXP Viet Nam Funds LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":600000,"ownershipPct":2.134491233164245,"effectiveDate":"2009-06-04"},{"code":"AGF","shareholderType":"COMPANY","shareholderName":"Quỹ Đầu Tư Chứng Khoán Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":579832,"ownershipPct":2.0627438678468173,"effectiveDate":"2008-04-03"},{"code":"AGF","shareholderType":"PERSON","shareholderName":"Trần Văn Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":448290,"ownershipPct":1.5947851248586655,"effectiveDate":"2010-05-19"},{"code":"AGF","shareholderType":"COMPANY","shareholderName":"Vietnam Emerging Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":423644,"ownershipPct":1.5071073399710555,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AGF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hùng Vương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22370625,
+      "ownershipPct": 79.58317157150815,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "AGF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2316893,
+      "ownershipPct": 8.242312994466012,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "AGF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Dragon Fund Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 634989,
+      "ownershipPct": 2.2589640894262177,
+      "effectiveDate": "2007-12-07"
+    },
+    {
+      "code": "AGF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PXP Viet Nam Funds LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 600000,
+      "ownershipPct": 2.134491233164245,
+      "effectiveDate": "2009-06-04"
+    },
+    {
+      "code": "AGF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ Đầu Tư Chứng Khoán Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 579832,
+      "ownershipPct": 2.0627438678468173,
+      "effectiveDate": "2008-04-03"
+    },
+    {
+      "code": "AGF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Văn Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 448290,
+      "ownershipPct": 1.5947851248586655,
+      "effectiveDate": "2010-05-19"
+    },
+    {
+      "code": "AGF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Emerging Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 423644,
+      "ownershipPct": 1.5071073399710555,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

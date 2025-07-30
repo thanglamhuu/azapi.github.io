@@ -1,1 +1,28 @@
-{"data":[{"code":"CTW","shareholderType":"COMPANY","shareholderName":"Ủy ban nhân dân Tp.Cần Thơ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14280000,"ownershipPct":51.002550127506375,"effectiveDate":"2019-08-30"},{"code":"CTW","shareholderType":"COMPANY","shareholderName":"M.trường Bình Dg","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6900000,"ownershipPct":24.64408934732451,"effectiveDate":"2022-04-13"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân Tp.Cần Thơ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14280000,
+      "ownershipPct": 51.002550127506375,
+      "effectiveDate": "2019-08-30"
+    },
+    {
+      "code": "CTW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "M.trường Bình Dg",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6900000,
+      "ownershipPct": 24.64408934732451,
+      "effectiveDate": "2022-04-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

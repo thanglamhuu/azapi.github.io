@@ -1,1 +1,68 @@
-{"data":[{"code":"DC1","shareholderType":"COMPANY","shareholderName":"TCT ĐTPT Xây dựng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2327420,"ownershipPct":51.67064542462076,"effectiveDate":"2023-09-22"},{"code":"DC1","shareholderType":"PERSON","shareholderName":"Trần Duy Anh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1520555,"ownershipPct":33.75757630923263,"effectiveDate":"2023-09-22"},{"code":"DC1","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thọ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1006133,"ownershipPct":22.336983223058134,"effectiveDate":"2023-09-22"},{"code":"DC1","shareholderType":"PERSON","shareholderName":"Lê Thu Trang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":698181,"ownershipPct":15.500194590236033,"effectiveDate":"2023-09-22"},{"code":"DC1","shareholderType":"PERSON","shareholderName":"Phùng Thúy Phượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":404818,"ownershipPct":8.987293801507303,"effectiveDate":"2023-09-22"},{"code":"DC1","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":263105,"ownershipPct":5.841148208937297,"effectiveDate":"2023-09-22"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DC1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT ĐTPT Xây dựng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2327420,
+      "ownershipPct": 51.67064542462076,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "DC1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thọ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1006133,
+      "ownershipPct": 22.336983223058134,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "DC1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Duy Anh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 822373,
+      "ownershipPct": 18.257359518171043,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "DC1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thu Trang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 698181,
+      "ownershipPct": 15.500194590236033,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "DC1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Thúy Phượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 404818,
+      "ownershipPct": 8.987293801507303,
+      "effectiveDate": "2023-09-22"
+    },
+    {
+      "code": "DC1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 263105,
+      "ownershipPct": 5.841148208937297,
+      "effectiveDate": "2023-09-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,28 @@
-{"data":[{"code":"MBN","shareholderType":"COMPANY","shareholderName":"UBND tỉnh Bắc Ninh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3715154,"ownershipPct":64.61137391304348,"effectiveDate":"2020-06-30"},{"code":"MBN","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Môi trường Thuận Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1412900,"ownershipPct":24.57217391304348,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MBN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "UBND tỉnh Bắc Ninh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3715154,
+      "ownershipPct": 64.61137391304348,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MBN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Môi trường Thuận Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1412900,
+      "ownershipPct": 24.57217391304348,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

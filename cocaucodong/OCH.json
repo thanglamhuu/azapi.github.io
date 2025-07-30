@@ -1,1 +1,48 @@
-{"data":[{"code":"OCH","shareholderType":"COMPANY","shareholderName":"Tập đoàn Đại Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":119694552,"ownershipPct":59.847276,"effectiveDate":"2019-09-16"},{"code":"OCH","shareholderType":"COMPANY","shareholderName":"CÔNG TY CỔ PHẦN IDS EQUITY HOLDINGS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":19729181,"ownershipPct":9.8645905,"effectiveDate":"2022-11-18"},{"code":"OCH","shareholderType":"COMPANY","shareholderName":"CTCP LEADVISORS CAPITAL MANAGEMENT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12915814,"ownershipPct":6.457907,"effectiveDate":"2023-06-23"},{"code":"OCH","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý quỹ Đầu tư Chứng khoán Hapaco","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12219868,"ownershipPct":6.109934,"effectiveDate":"2013-12-16"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "OCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Đại Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 119694552,
+      "ownershipPct": 59.847276,
+      "effectiveDate": "2019-09-16"
+    },
+    {
+      "code": "OCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY CỔ PHẦN IDS EQUITY HOLDINGS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19729181,
+      "ownershipPct": 9.8645905,
+      "effectiveDate": "2022-11-18"
+    },
+    {
+      "code": "OCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quản lý Quỹ Leadvisors",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12915814,
+      "ownershipPct": 6.457907,
+      "effectiveDate": "2023-06-23"
+    },
+    {
+      "code": "OCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý quỹ Đầu tư Chứng khoán Hapaco",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12219868,
+      "ownershipPct": 6.109934,
+      "effectiveDate": "2013-12-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

@@ -1,1 +1,100 @@
-{"data":[{"code":"DTD","shareholderType":"PERSON","shareholderName":"Nguyễn Huy Cương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":14605097,"ownershipPct":25.7379921521233,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tâm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2893830,"ownershipPct":5.099683612479874,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Trí","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":2609084,"ownershipPct":4.59788685526912,"groupPct":5.648250775372791,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"COMPANY","shareholderName":"PHILLIP SECURITIES (THAILAND) PUBLIC COMPANY LIMITED","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2458095,"ownershipPct":4.33180483629609,"effectiveDate":"2024-06-11"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Chung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1994844,"ownershipPct":3.5154356877404,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Chung","roleType":"Chị của Phó TGĐ","enRoleType":"Elder Sister of Deputy CEO","numberOfShares":1994844,"ownershipPct":3.5154356877404,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Phạm Ngọc Oánh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":1160232,"ownershipPct":2.0446315495639857,"groupPct":2.051724649898225,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Tuyển","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1129898,"ownershipPct":1.991175125827635,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Trần Việt Đức","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1093372,"ownershipPct":1.9268067822727475,"effectiveDate":"2023-10-30"},{"code":"DTD","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Anh","roleType":"Bố chồng/vợ của Thành viên HĐQT","enRoleType":"Father in law of Board member","numberOfShares":596032,"ownershipPct":1.0503639201036703,"groupPct":5.648250775372791,"effectiveDate":"2023-10-30"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Huy Cương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 14605097,
+      "ownershipPct": 21.901276061389446,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tâm",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 2893830,
+      "ownershipPct": 4.339482969865289,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PHILLIP SECURITIES (THAILAND) PUBLIC COMPANY LIMITED",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2851390,
+      "ownershipPct": 4.275841478402044,
+      "effectiveDate": "2025-05-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Trí",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 2609084,
+      "ownershipPct": 3.912488150633592,
+      "groupPct": 4.806276214719854,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Chung",
+      "roleType": "Chị của Phó TGĐ",
+      "enRoleType": "Elder Sister of Deputy CEO",
+      "numberOfShares": 1994844,
+      "ownershipPct": 2.991396027250375,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Chung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1994844,
+      "ownershipPct": 2.991396027250375,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Ngọc Oánh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1160232,
+      "ownershipPct": 1.7398420104473116,
+      "groupPct": 1.7458777551018725,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Tuyển",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1129898,
+      "ownershipPct": 1.6943542394283182,
+      "effectiveDate": "2023-10-30"
+    },
+    {
+      "code": "DTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Việt Đức",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1093372,
+      "ownershipPct": 1.6395811688065818,
+      "effectiveDate": "2023-10-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

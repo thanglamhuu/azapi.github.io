@@ -1,1 +1,98 @@
-{"data":[{"code":"VC2","shareholderType":"COMPANY","shareholderName":"Đầu tư MST","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14868000,"ownershipPct":22.125194253937646,"effectiveDate":"2022-06-30"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Đỗ Trọng Quỳnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3623102,"ownershipPct":5.391568170018159,"effectiveDate":"2022-05-26"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Tạ Ngọc Phúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1888000,"ownershipPct":2.8095484766904946,"effectiveDate":"2022-06-30"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Giáp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":748000,"ownershipPct":1.1131050108922087,"effectiveDate":"2021-09-01"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Nguyễn Toàn Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":739000,"ownershipPct":1.0997120361622224,"effectiveDate":"2021-09-01"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Đào Quỳnh Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":718600,"ownershipPct":1.0693546267742529,"effectiveDate":"2021-09-01"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Nguyễn Đăng Kiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":708900,"ownershipPct":1.0549199762319341,"effectiveDate":"2021-09-01"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Hoàng Thị Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":700000,"ownershipPct":1.041675812332281,"effectiveDate":"2021-09-01"},{"code":"VC2","shareholderType":"PERSON","shareholderName":"Lã Quốc Đạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":700000,"ownershipPct":1.041675812332281,"effectiveDate":"2021-09-01"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VC2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư MST",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14868000,
+      "ownershipPct": 21.62007788055765,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Trọng Quỳnh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3623102,
+      "ownershipPct": 5.268479110115965,
+      "effectiveDate": "2022-05-26"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Ngọc Phúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1888000,
+      "ownershipPct": 2.7454067149914474,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Giáp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 748000,
+      "ownershipPct": 1.087692914625849,
+      "effectiveDate": "2021-09-01"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Toàn Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 739000,
+      "ownershipPct": 1.0746057004124363,
+      "effectiveDate": "2021-09-01"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Quỳnh Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 718600,
+      "ownershipPct": 1.0449413481953678,
+      "effectiveDate": "2021-09-01"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Kiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 708900,
+      "ownershipPct": 1.030836239543134,
+      "effectiveDate": "2021-09-01"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Xuân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 700000,
+      "ownershipPct": 1.0178944388209816,
+      "effectiveDate": "2021-09-01"
+    },
+    {
+      "code": "VC2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lã Quốc Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 700000,
+      "ownershipPct": 1.0178944388209816,
+      "effectiveDate": "2021-09-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

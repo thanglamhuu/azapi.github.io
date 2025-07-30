@@ -1,1 +1,49 @@
-{"data":[{"code":"BHG","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư Legend HighLand","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2145000,"ownershipPct":24.004987665688972,"effectiveDate":"2021-12-14"},{"code":"BHG","shareholderType":"COMPANY","shareholderName":"CTCP Năng lượng Nghĩa Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2044919,"ownershipPct":22.884967539549198,"effectiveDate":"2024-05-14"},{"code":"BHG","shareholderType":"PERSON","shareholderName":"Trịnh Quang Hưng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1237398,"ownershipPct":13.847889849672821,"effectiveDate":"2020-06-30"},{"code":"BHG","shareholderType":"PERSON","shareholderName":"Trịnh Quang Vinh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":965342,"ownershipPct":10.803274034112599,"groupPct":10.804393147756686,"effectiveDate":"2024-05-14"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BHG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Legend HighLand",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2145000,
+      "ownershipPct": 24.004987665688972,
+      "effectiveDate": "2021-12-14"
+    },
+    {
+      "code": "BHG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Năng lượng Nghĩa Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2044919,
+      "ownershipPct": 22.884967539549198,
+      "effectiveDate": "2024-05-14"
+    },
+    {
+      "code": "BHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Quang Hưng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1237398,
+      "ownershipPct": 13.847889849672821,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Quang Vinh",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 965342,
+      "ownershipPct": 10.803274034112599,
+      "groupPct": 10.804393147756686,
+      "effectiveDate": "2024-05-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

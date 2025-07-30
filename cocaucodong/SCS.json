@@ -1,1 +1,108 @@
-{"data":[{"code":"SCS","shareholderType":"COMPANY","shareholderName":"CTCP Gemadept","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":34117034,"ownershipPct":35.955442233371905,"effectiveDate":"2022-08-05"},{"code":"SCS","shareholderType":"COMPANY","shareholderName":"Cảng Hàng không VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13899050,"ownershipPct":14.64800513941944,"effectiveDate":"2023-09-22"},{"code":"SCS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Sửa chữa máy bay 41","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13324625,"ownershipPct":14.04262704867144,"effectiveDate":"2022-08-05"},{"code":"SCS","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5686931,"ownershipPct":5.993373253245635,"effectiveDate":"2022-08-05"},{"code":"SCS","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4627535,"ownershipPct":4.876891331626503,"effectiveDate":"2024-03-11"},{"code":"SCS","shareholderType":"COMPANY","shareholderName":"The Ton Poh Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4370471,"ownershipPct":4.605975348652147,"effectiveDate":"2022-08-05"},{"code":"SCS","shareholderType":"COMPANY","shareholderName":"CTCP Thương mại dịch vụ đầu tư Sài Gòn Hàng không","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4232230,"ownershipPct":4.460285184325917,"effectiveDate":"2022-08-05"},{"code":"SCS","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2562417,"ownershipPct":2.7004937305309173,"effectiveDate":"2019-02-01"},{"code":"SCS","shareholderType":"PERSON","shareholderName":"Đặng Thị Thanh Trà","roleType":"Mẹ chồng/vợ của Thành viên HĐQT","enRoleType":"Mother in law of Board member","numberOfShares":2103000,"ownershipPct":2.2163208858302608,"effectiveDate":"2023-06-30"},{"code":"SCS","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Khánh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1378050,"ownershipPct":1.4523067031471188,"effectiveDate":"2024-03-11"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Gemadept",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 34117034,
+      "ownershipPct": 35.955442233371905,
+      "effectiveDate": "2022-08-05"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng Hàng không VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13974100,
+      "ownershipPct": 14.727099234750664,
+      "effectiveDate": "2025-05-14"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Sửa chữa máy bay 41",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13324625,
+      "ownershipPct": 14.04262704867144,
+      "effectiveDate": "2022-08-05"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5686931,
+      "ownershipPct": 5.993373253245635,
+      "effectiveDate": "2022-08-05"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4627535,
+      "ownershipPct": 4.876891331626503,
+      "effectiveDate": "2024-03-11"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "The Ton Poh Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4370471,
+      "ownershipPct": 4.605975348652147,
+      "effectiveDate": "2022-08-05"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thương mại dịch vụ đầu tư Sài Gòn Hàng không",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4232230,
+      "ownershipPct": 4.460285184325917,
+      "effectiveDate": "2022-08-05"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2562417,
+      "ownershipPct": 2.7004937305309173,
+      "effectiveDate": "2019-02-01"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Thanh Trà",
+      "roleType": "Mẹ chồng/vợ của Thành viên HĐQT",
+      "enRoleType": "Mother in law of Board member",
+      "numberOfShares": 2057600,
+      "ownershipPct": 2.1684744910529457,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "SCS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Khánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1400050,
+      "ownershipPct": 1.4754921807925139,
+      "effectiveDate": "2024-03-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

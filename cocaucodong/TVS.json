@@ -1,1 +1,78 @@
-{"data":[{"code":"TVS","shareholderType":"PERSON","shareholderName":"Nguyễn Trung Hà","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":48976437,"ownershipPct":29.328037750337774,"effectiveDate":"2024-06-03"},{"code":"TVS","shareholderType":"PERSON","shareholderName":"Đinh Thị Hoa","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":21968458,"ownershipPct":13.155137551976471,"effectiveDate":"2024-06-03"},{"code":"TVS","shareholderType":"COMPANY","shareholderName":"Wardhaven Vietnam Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8891232,"ownershipPct":5.324241690815753,"effectiveDate":"2023-06-15"},{"code":"TVS","shareholderType":"COMPANY","shareholderName":"Apollo Asia Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7293788,"ownershipPct":4.3676613267510795,"effectiveDate":"2023-06-15"},{"code":"TVS","shareholderType":"COMPANY","shareholderName":"Panah Master Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2772018,"ownershipPct":1.659937993215305,"effectiveDate":"2023-06-15"},{"code":"TVS","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Thảo","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1950031,"ownershipPct":1.1677162792044042,"effectiveDate":"2024-06-03"},{"code":"TVS","shareholderType":"PERSON","shareholderName":"Phan Thanh Diện","roleType":"Anh của Thành viên HĐQT","enRoleType":"Elder Brother of Board member","numberOfShares":1907543,"ownershipPct":1.1422736430253708,"effectiveDate":"2024-06-03"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TVS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trung Hà",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 51976437,
+      "ownershipPct": 31.124495774652882,
+      "effectiveDate": "2024-08-08"
+    },
+    {
+      "code": "TVS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Hoa",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 26003458,
+      "ownershipPct": 15.57137359468029,
+      "effectiveDate": "2025-03-17"
+    },
+    {
+      "code": "TVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Wardhaven Vietnam Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8891232,
+      "ownershipPct": 5.324241690815753,
+      "effectiveDate": "2023-06-15"
+    },
+    {
+      "code": "TVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Apollo Asia Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7293788,
+      "ownershipPct": 4.3676613267510795,
+      "effectiveDate": "2023-06-15"
+    },
+    {
+      "code": "TVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Panah Master Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2772018,
+      "ownershipPct": 1.659937993215305,
+      "effectiveDate": "2023-06-15"
+    },
+    {
+      "code": "TVS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Thảo",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1950031,
+      "ownershipPct": 1.1677162792044042,
+      "effectiveDate": "2024-06-03"
+    },
+    {
+      "code": "TVS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thanh Diện",
+      "roleType": "Anh của Thành viên HĐQT",
+      "enRoleType": "Elder Brother of Board member",
+      "numberOfShares": 1907543,
+      "ownershipPct": 1.1422736430253708,
+      "effectiveDate": "2024-06-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

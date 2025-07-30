@@ -1,1 +1,110 @@
-{"data":[{"code":"LHC","shareholderType":"PERSON","shareholderName":"Trần Việt Thắng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1234400,"ownershipPct":8.572222222222223,"effectiveDate":"2024-05-03"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Mai Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1107300,"ownershipPct":7.689583333333333,"effectiveDate":"2024-06-06"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Lê Đình Hiển","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1072000,"ownershipPct":7.444444444444445,"effectiveDate":"2022-08-03"},{"code":"LHC","shareholderType":"COMPANY","shareholderName":"Cao su Phước Hòa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":760800,"ownershipPct":5.283333333333333,"effectiveDate":"2023-11-15"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Phạm Văn Ba","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":752484,"ownershipPct":5.225583333333334,"effectiveDate":"2022-08-03"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Trần Ngọc Huệ","roleType":"Em trai của Thành viên HĐQT","enRoleType":"Young Brother of Board member","numberOfShares":608900,"ownershipPct":4.228472222222222,"effectiveDate":"2022-12-23"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Trần Thị Bưởi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":552400,"ownershipPct":3.8361111111111112,"effectiveDate":"2022-08-03"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Phạm Thị Thanh Hương","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":504400,"ownershipPct":3.5027777777777778,"groupPct":4.079166666666667,"effectiveDate":"2023-07-28"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Hoàng Thị Lụa","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":328000,"ownershipPct":2.2777777777777777,"effectiveDate":"2022-12-31"},{"code":"LHC","shareholderType":"PERSON","shareholderName":"Lê Huy Sáu","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":222000,"ownershipPct":1.5416666666666667,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Mai Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1294600,
+      "ownershipPct": 8.990277777777777,
+      "effectiveDate": "2025-05-15"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Việt Thắng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1285100,
+      "ownershipPct": 8.924305555555556,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Hiển",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1072000,
+      "ownershipPct": 7.444444444444445,
+      "effectiveDate": "2022-08-03"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hữu Quỳnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 803400,
+      "ownershipPct": 5.579166666666667,
+      "effectiveDate": "2025-02-11"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Phước Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 760800,
+      "ownershipPct": 5.283333333333333,
+      "effectiveDate": "2023-11-15"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Ba",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 752484,
+      "ownershipPct": 5.225583333333334,
+      "effectiveDate": "2022-08-03"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Huệ",
+      "roleType": "Em trai của Thành viên HĐQT",
+      "enRoleType": "Young Brother of Board member",
+      "numberOfShares": 608900,
+      "ownershipPct": 4.228472222222222,
+      "groupPct": 4.920833333333333,
+      "effectiveDate": "2024-12-05"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Bưởi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 552400,
+      "ownershipPct": 3.8361111111111112,
+      "effectiveDate": "2022-08-03"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thanh Hương",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 504400,
+      "ownershipPct": 3.5027777777777778,
+      "groupPct": 4.079166666666667,
+      "effectiveDate": "2023-07-28"
+    },
+    {
+      "code": "LHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Lụa",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 328000,
+      "ownershipPct": 2.2777777777777777,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

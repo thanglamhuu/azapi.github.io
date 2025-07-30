@@ -1,1 +1,70 @@
-{"data":[{"code":"DP1","shareholderType":"COMPANY","shareholderName":"Dược Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13721550,"ownershipPct":65.40612040612041,"effectiveDate":"2020-06-30"},{"code":"DP1","shareholderType":"COMPANY","shareholderName":"Ngân hàng Ngoại Thương Trung Quốc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3000000,"ownershipPct":14.3000143000143,"effectiveDate":"2020-06-30"},{"code":"DP1","shareholderType":"PERSON","shareholderName":"Lê Thị Kim Ánh","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":1518800,"ownershipPct":7.239620572953906,"groupPct":10.91186424519758,"effectiveDate":"2022-06-29"},{"code":"DP1","shareholderType":"PERSON","shareholderName":"Nguyễn Doãn Liêm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1210940,"ownershipPct":5.772153105486439,"effectiveDate":"2020-06-30"},{"code":"DP1","shareholderType":"PERSON","shareholderName":"Nguyễn Thành Lâm","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":770400,"ownershipPct":3.672243672243672,"groupPct":10.91186424519758,"effectiveDate":"2022-06-29"},{"code":"DP1","shareholderType":"PERSON","shareholderName":"Lê Nam Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":700000,"ownershipPct":3.33667000333667,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DP1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13721550,
+      "ownershipPct": 65.40612040612041,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DP1",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Ngoại Thương Trung Quốc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3000000,
+      "ownershipPct": 14.3000143000143,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DP1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Kim Ánh",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 1518800,
+      "ownershipPct": 7.239620572953906,
+      "groupPct": 10.91186424519758,
+      "effectiveDate": "2022-06-29"
+    },
+    {
+      "code": "DP1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Doãn Liêm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1210940,
+      "ownershipPct": 5.772153105486439,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DP1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thành Lâm",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 770400,
+      "ownershipPct": 3.672243672243672,
+      "groupPct": 10.91186424519758,
+      "effectiveDate": "2022-06-29"
+    },
+    {
+      "code": "DP1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Nam Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 700000,
+      "ownershipPct": 3.33667000333667,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,99 @@
-{"data":[{"code":"HRC","shareholderType":"COMPANY","shareholderName":"Cao su Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16632000,"ownershipPct":55.060774422244236,"effectiveDate":"2020-06-30"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Nguyễn Lượng Khoa Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2467451,"ownershipPct":8.168576413476488,"effectiveDate":"2023-02-14"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Lê Thị Phương Nga","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1706382,"ownershipPct":5.649032851141051,"effectiveDate":"2020-06-02"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Thùy Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1511500,"ownershipPct":5.003869681290413,"effectiveDate":"2019-04-08"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Phạm Văn Khoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1483184,"ownershipPct":4.910128646625895,"effectiveDate":"2016-02-17"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Trần Việt Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1365150,"ownershipPct":4.519373268550187,"effectiveDate":"2016-02-17"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Trần Ngọc Xuân Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1185212,"ownershipPct":3.9236826944767276,"effectiveDate":"2020-04-17"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Trịnh Thị Mai Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1170230,"ownershipPct":3.8740842984693886,"effectiveDate":"2016-02-29"},{"code":"HRC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu","roleType":"Chị của Thành viên HĐQT","enRoleType":"Elder Sister of Board member","numberOfShares":638020,"ownershipPct":2.1121858644107903,"groupPct":2.1207005536732972,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cao su Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16632000,
+      "ownershipPct": 55.060774422244236,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Lượng Khoa Toàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2467451,
+      "ownershipPct": 8.168576413476488,
+      "effectiveDate": "2023-02-14"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Phương Nga",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1706382,
+      "ownershipPct": 5.649032851141051,
+      "effectiveDate": "2020-06-02"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Thùy Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1511500,
+      "ownershipPct": 5.003869681290413,
+      "effectiveDate": "2019-04-08"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Khoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1483184,
+      "ownershipPct": 4.910128646625895,
+      "effectiveDate": "2016-02-17"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Việt Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1365150,
+      "ownershipPct": 4.519373268550187,
+      "effectiveDate": "2016-02-17"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Xuân Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1185212,
+      "ownershipPct": 3.9236826944767276,
+      "effectiveDate": "2020-04-17"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Thị Mai Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1170230,
+      "ownershipPct": 3.8740842984693886,
+      "effectiveDate": "2016-02-29"
+    },
+    {
+      "code": "HRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu",
+      "roleType": "Chị của Thành viên HĐQT",
+      "enRoleType": "Elder Sister of Board member",
+      "numberOfShares": 638020,
+      "ownershipPct": 2.1121858644107903,
+      "groupPct": 2.1207005536732972,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

@@ -1,1 +1,108 @@
-{"data":[{"code":"HMH","shareholderType":"COMPANY","shareholderName":"American LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1795500,"ownershipPct":13.975321706768563,"effectiveDate":"2020-12-25"},{"code":"HMH","shareholderType":"COMPANY","shareholderName":"CTCP Cánh Đồng Xanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1428800,"ownershipPct":11.121102564539639,"effectiveDate":"2022-11-11"},{"code":"HMH","shareholderType":"PERSON","shareholderName":"Trần Quang Tiến","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1388505,"ownershipPct":10.807465367004557,"effectiveDate":"2022-04-07"},{"code":"HMH","shareholderType":"COMPANY","shareholderName":"CTCP Đại lý Cánh Đồng Xanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1084200,"ownershipPct":8.438899356434684,"effectiveDate":"2024-01-12"},{"code":"HMH","shareholderType":"PERSON","shareholderName":"Vũ Đức Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":7.783526430948796,"effectiveDate":"2022-03-17"},{"code":"HMH","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Quản lý Quỹ Ngân hàng TMCP Công thương Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":656000,"ownershipPct":5.10599333870241,"effectiveDate":"2016-02-19"},{"code":"HMH","shareholderType":"PERSON","shareholderName":"Peter Eric Dennis","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":655417,"ownershipPct":5.1014555427931665,"effectiveDate":"2018-03-14"},{"code":"HMH","shareholderType":"PERSON","shareholderName":"Vũ Thị Ngọc Ánh","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":610000,"ownershipPct":4.747951122878765,"effectiveDate":"2023-10-11"},{"code":"HMH","shareholderType":"PERSON","shareholderName":"Phan Trọng Long","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":536700,"ownershipPct":4.177418635490219,"effectiveDate":"2023-05-16"},{"code":"HMH","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Quân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":526718,"ownershipPct":4.0997234746564875,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":21,"totalPages":3}
+{
+  "data": [
+    {
+      "code": "HMH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "American LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1795500,
+      "ownershipPct": 13.602430391806815,
+      "effectiveDate": "2020-12-25"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Cánh Đồng Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1428800,
+      "ownershipPct": 10.824367888506586,
+      "effectiveDate": "2022-11-11"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quang Tiến",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1388505,
+      "ownershipPct": 10.519099198649803,
+      "effectiveDate": "2022-04-07"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đại lý Cánh Đồng Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1374300,
+      "ownershipPct": 10.411484314931831,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quang Thành Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 7.575845386692739,
+      "effectiveDate": "2025-04-03"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đức Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 7.575845386692739,
+      "effectiveDate": "2022-03-17"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý Quỹ Ngân hàng TMCP Công thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 656000,
+      "ownershipPct": 4.969754573670437,
+      "effectiveDate": "2016-02-19"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Peter Eric Dennis",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 655417,
+      "ownershipPct": 4.965337855809995,
+      "effectiveDate": "2018-03-14"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Ngọc Ánh",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 610000,
+      "ownershipPct": 4.621265685882571,
+      "effectiveDate": "2023-10-11"
+    },
+    {
+      "code": "HMH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Trọng Long",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 536700,
+      "ownershipPct": 4.065956219037993,
+      "effectiveDate": "2023-05-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 21,
+  "totalPages": 3
+}

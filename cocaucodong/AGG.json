@@ -1,1 +1,111 @@
-{"data":[{"code":"AGG","shareholderType":"COMPANY","shareholderName":"CTCP quản lý và đầu tư Trường Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":30099882,"ownershipPct":24.057124849966073,"effectiveDate":"2024-06-05"},{"code":"AGG","shareholderType":"PERSON","shareholderName":"Nguyễn Bá Sáng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":7892678,"ownershipPct":6.308168917292783,"effectiveDate":"2022-12-13"},{"code":"AGG","shareholderType":"PERSON","shareholderName":"Võ Ngọc Mai Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4014698,"ownershipPct":3.2087199219222553,"effectiveDate":"2021-06-07"},{"code":"AGG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3704900,"ownershipPct":2.9611159889809304,"effectiveDate":"2020-04-07"},{"code":"AGG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Bích Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3675000,"ownershipPct":2.937218618452568,"effectiveDate":"2020-03-31"},{"code":"AGG","shareholderType":"COMPANY","shareholderName":"Hanoi Investments Holdings Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2843775,"ownershipPct":2.272867721548286,"effectiveDate":"2022-12-07"},{"code":"AGG","shareholderType":"COMPANY","shareholderName":"KIM VIETNAM IPO BALANCED FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2649900,"ownershipPct":2.1179144536156356,"effectiveDate":"2022-12-07"},{"code":"AGG","shareholderType":"COMPANY","shareholderName":"DC Developing Markets Strategies Public Limited Company","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2435400,"ownershipPct":1.9464767954773834,"effectiveDate":"2022-12-07"},{"code":"AGG","shareholderType":"COMPANY","shareholderName":"KIM KOIC VIETNAM IPO PRIVATE FUND","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1391500,"ownershipPct":1.1121468592045574,"effectiveDate":"2022-12-07"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "AGG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Bá Sáng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 42508891,
+      "ownershipPct": 26.15479782844418,
+      "effectiveDate": "2024-12-23"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hương Giang",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 5527245,
+      "ownershipPct": 3.400793860354507,
+      "groupPct": 7.620464675270484,
+      "effectiveDate": "2025-01-20"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Ngọc Mai Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5018372,
+      "ownershipPct": 3.0876953503191857,
+      "effectiveDate": "2024-08-07"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4631125,
+      "ownershipPct": 2.8494306777670007,
+      "effectiveDate": "2024-08-07"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Bích Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4593750,
+      "ownershipPct": 2.826434651621833,
+      "effectiveDate": "2024-08-07"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hanoi Investments Holdings Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2843775,
+      "ownershipPct": 1.7497130234374698,
+      "effectiveDate": "2022-12-07"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quỳnh Giang",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 2780380,
+      "ownershipPct": 1.7107074561472242,
+      "groupPct": 7.620464675270484,
+      "effectiveDate": "2024-12-12"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KIM VIETNAM IPO BALANCED FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2649900,
+      "ownershipPct": 1.6304259446710627,
+      "effectiveDate": "2022-12-07"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mai Giang",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 2443328,
+      "ownershipPct": 1.5033266774373593,
+      "groupPct": 7.620464675270484,
+      "effectiveDate": "2024-10-18"
+    },
+    {
+      "code": "AGG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DC Developing Markets Strategies Public Limited Company",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2435400,
+      "ownershipPct": 1.498448751142272,
+      "effectiveDate": "2022-12-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

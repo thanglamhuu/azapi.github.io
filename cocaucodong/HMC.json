@@ -1,1 +1,68 @@
-{"data":[{"code":"HMC","shareholderType":"COMPANY","shareholderName":"TCT Thép Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15197741,"ownershipPct":55.66938299155249,"effectiveDate":"2022-12-31"},{"code":"HMC","shareholderType":"PERSON","shareholderName":"Nguyễn Thúy Ly","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2400400,"ownershipPct":8.792674314749975,"effectiveDate":"2024-06-07"},{"code":"HMC","shareholderType":"PERSON","shareholderName":"Trần Linh Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1380197,"ownershipPct":5.0556668518559285,"effectiveDate":"2022-06-21"},{"code":"HMC","shareholderType":"COMPANY","shareholderName":"Sacombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1040000,"ownershipPct":3.8095239490668114,"effectiveDate":"2022-06-21"},{"code":"HMC","shareholderType":"PERSON","shareholderName":"Trần Linh Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":3.663003797179626,"effectiveDate":"2020-03-09"},{"code":"HMC","shareholderType":"PERSON","shareholderName":"Thái Thành Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":690000,"ownershipPct":2.527472620053942,"effectiveDate":"2021-09-21"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thép Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15197741,
+      "ownershipPct": 55.66938299155249,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thúy Ly",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3542100,
+      "ownershipPct": 12.974725749989954,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "HMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Linh Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1380197,
+      "ownershipPct": 5.0556668518559285,
+      "effectiveDate": "2022-06-21"
+    },
+    {
+      "code": "HMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sacombank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1040000,
+      "ownershipPct": 3.8095239490668114,
+      "effectiveDate": "2022-06-21"
+    },
+    {
+      "code": "HMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Linh Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 3.663003797179626,
+      "effectiveDate": "2020-03-09"
+    },
+    {
+      "code": "HMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Thành Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 690000,
+      "ownershipPct": 2.527472620053942,
+      "effectiveDate": "2021-09-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

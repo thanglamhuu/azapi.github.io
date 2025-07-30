@@ -1,1 +1,38 @@
-{"data":[{"code":"TOT","shareholderType":"COMPANY","shareholderName":"CTCP TRANSIMEX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6888559,"ownershipPct":82.29276908585146,"effectiveDate":"2024-03-01"},{"code":"TOT","shareholderType":"PERSON","shareholderName":"Bùi Minh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":150568,"ownershipPct":1.798729989206521,"effectiveDate":"2023-08-07"},{"code":"TOT","shareholderType":"PERSON","shareholderName":"Bùi Tuấn Ngọc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":101926,"ownershipPct":1.217638229104882,"effectiveDate":"2023-08-07"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TOT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP TRANSIMEX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7577414,
+      "ownershipPct": 82.29304977213988,
+      "effectiveDate": "2024-08-22"
+    },
+    {
+      "code": "TOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Minh Tuấn",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 165624,
+      "ownershipPct": 1.7987276497576739,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "TOT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Tuấn Ngọc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 112118,
+      "ownershipPct": 1.2176360106961002,
+      "effectiveDate": "2024-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

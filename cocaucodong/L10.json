@@ -1,1 +1,68 @@
-{"data":[{"code":"L10","shareholderType":"PERSON","shareholderName":"Đặng Văn Long","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":3999498,"ownershipPct":40.852890704800814,"effectiveDate":"2023-06-30"},{"code":"L10","shareholderType":"COMPANY","shareholderName":"LILAMA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3560400,"ownershipPct":36.36772216547497,"effectiveDate":"2019-05-23"},{"code":"L10","shareholderType":"PERSON","shareholderName":"Trịnh Ngọc Tuấn Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1047259,"ownershipPct":10.697231869254342,"effectiveDate":"2020-12-31"},{"code":"L10","shareholderType":"PERSON","shareholderName":"Đỗ Văn Nhuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":379991,"ownershipPct":3.881419816138917,"effectiveDate":"2020-04-14"},{"code":"L10","shareholderType":"PERSON","shareholderName":"Trần Đình Đại","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":258820,"ownershipPct":2.643718079673136,"effectiveDate":"2009-08-28"},{"code":"L10","shareholderType":"COMPANY","shareholderName":"CTCP LILAMA 10","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":100000,"ownershipPct":1.0214504596527068,"effectiveDate":"2008-06-19"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "L10",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Văn Long",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3999498,
+      "ownershipPct": 40.852890704800814,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "L10",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LILAMA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3560400,
+      "ownershipPct": 36.36772216547497,
+      "effectiveDate": "2019-05-23"
+    },
+    {
+      "code": "L10",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Ngọc Tuấn Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1047259,
+      "ownershipPct": 10.697231869254342,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "L10",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Nhuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 379991,
+      "ownershipPct": 3.881419816138917,
+      "effectiveDate": "2020-04-14"
+    },
+    {
+      "code": "L10",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Đại",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 258820,
+      "ownershipPct": 2.643718079673136,
+      "effectiveDate": "2009-08-28"
+    },
+    {
+      "code": "L10",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP LILAMA 10",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 100000,
+      "ownershipPct": 1.0214504596527068,
+      "effectiveDate": "2008-06-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

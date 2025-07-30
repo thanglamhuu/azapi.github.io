@@ -1,1 +1,98 @@
-{"data":[{"code":"PVP","shareholderType":"COMPANY","shareholderName":"TCT V.tải dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":67320000,"ownershipPct":64.9164490008103,"effectiveDate":"2024-07-25"},{"code":"PVP","shareholderType":"PERSON","shareholderName":"Lê Mạnh Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":25838986,"ownershipPct":24.916447072217043,"effectiveDate":"2024-07-25"},{"code":"PVP","shareholderType":"PERSON","shareholderName":"Hoàng Đức Chính","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":20740506,"ownershipPct":20,"effectiveDate":"2024-07-25"},{"code":"PVP","shareholderType":"PERSON","shareholderName":"Bùi Văn Vinh","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":10370254,"ownershipPct":10.000000964296628,"effectiveDate":"2024-07-25"},{"code":"PVP","shareholderType":"PERSON","shareholderName":"Nguyễn Thế Dân","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":10370253,"ownershipPct":10,"effectiveDate":"2024-07-25"},{"code":"PVP","shareholderType":"PERSON","shareholderName":"Nguyễn Lan Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9294618,"ownershipPct":8.9627687964797,"effectiveDate":"2024-07-25"},{"code":"PVP","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Quản lý Quỹ Đầu tư Tài chính Dầu khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9294618,"ownershipPct":8.9627687964797,"effectiveDate":"2024-07-25"},{"code":"PVP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5170000,"ownershipPct":4.9854135670556925,"effectiveDate":"2024-07-25"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PVP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT V.tải dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 67320000,
+      "ownershipPct": 64.91649782784307,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Mạnh Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 25838986,
+      "ownershipPct": 24.916465813170937,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Đức Chính",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 20740506,
+      "ownershipPct": 20.00001504303871,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Văn Vinh",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 10370254,
+      "ownershipPct": 10.000008485816709,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thế Dân",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 10370253,
+      "ownershipPct": 10.000007521519356,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Quản lý Quỹ Đầu tư Tài chính Dầu khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9294618,
+      "ownershipPct": 8.9627755378436,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Lan Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9294618,
+      "ownershipPct": 8.9627755378436,
+      "effectiveDate": "2024-07-25"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Ngọc Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6400050,
+      "ownershipPct": 6.1715512763381914,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "PVP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Chứng khoán Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5170000,
+      "ownershipPct": 4.985417316844157,
+      "effectiveDate": "2024-07-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

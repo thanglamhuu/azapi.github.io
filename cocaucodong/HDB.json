@@ -1,1 +1,48 @@
-{"data":[{"code":"HDB","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Sovico","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":301306862,"ownershipPct":10.345120217498984,"effectiveDate":"2023-07-19"},{"code":"HDB","shareholderType":"PERSON","shareholderName":"Phạm Văn Đẩu","roleType":"GĐ Tài chính","enRoleType":"CFO","numberOfShares":126285767,"ownershipPct":4.335916655539249,"effectiveDate":"2024-03-14"},{"code":"HDB","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Phương Thảo","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":108961173,"ownershipPct":3.7410911462238934,"effectiveDate":"2024-03-14"},{"code":"HDB","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Đặng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":80401183,"ownershipPct":2.7605076706289404,"effectiveDate":"2024-03-14"},{"code":"HDB","shareholderType":"PERSON","shareholderName":"Đào Duy Tường","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":79784988,"ownershipPct":2.7393511283912075,"effectiveDate":"2024-03-20"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HDB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Sovico",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 451293232,
+      "ownershipPct": 12.909869490673161,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "HDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Đẩu",
+      "roleType": "GĐ Tài chính",
+      "enRoleType": "CFO",
+      "numberOfShares": 151542920,
+      "ownershipPct": 4.335095633420719,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "HDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phương Thảo",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 130753407,
+      "ownershipPct": 3.740382749260619,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "HDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Duy Tường",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 95741985,
+      "ownershipPct": 2.7388324120224947,
+      "effectiveDate": "2024-12-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

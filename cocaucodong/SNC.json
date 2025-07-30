@@ -1,1 +1,68 @@
-{"data":[{"code":"SNC","shareholderType":"COMPANY","shareholderName":"TCT Thủy sản VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2539217,"ownershipPct":50.78434,"effectiveDate":"2020-06-30"},{"code":"SNC","shareholderType":"COMPANY","shareholderName":"Camimex Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1225000,"ownershipPct":24.5,"effectiveDate":"2023-05-04"},{"code":"SNC","shareholderType":"PERSON","shareholderName":"Bùi Đức Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":323770,"ownershipPct":6.4754,"effectiveDate":"2023-06-14"},{"code":"SNC","shareholderType":"PERSON","shareholderName":"Ngô Minh Hiển","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":252600,"ownershipPct":5.052,"effectiveDate":"2022-02-28"},{"code":"SNC","shareholderType":"PERSON","shareholderName":"Trần Thiện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":150000,"ownershipPct":3,"effectiveDate":"2021-10-20"},{"code":"SNC","shareholderType":"PERSON","shareholderName":"Nguyễn Phước An","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":51050,"ownershipPct":1.021,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thủy sản VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2539217,
+      "ownershipPct": 50.78434,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Camimex Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1225000,
+      "ownershipPct": 24.5,
+      "effectiveDate": "2023-05-04"
+    },
+    {
+      "code": "SNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đức Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 323770,
+      "ownershipPct": 6.4754,
+      "effectiveDate": "2023-06-14"
+    },
+    {
+      "code": "SNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Minh Hiển",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 252600,
+      "ownershipPct": 5.052,
+      "effectiveDate": "2022-02-28"
+    },
+    {
+      "code": "SNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thiện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2025-06-30"
+    },
+    {
+      "code": "SNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phước An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 51050,
+      "ownershipPct": 1.021,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

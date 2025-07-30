@@ -1,1 +1,78 @@
-{"data":[{"code":"HNM","shareholderType":"PERSON","shareholderName":"Hà Quang Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":14075000,"ownershipPct":31.70045045045045,"effectiveDate":"2023-07-06"},{"code":"HNM","shareholderType":"PERSON","shareholderName":"Hoàng Văn Thuật","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10711900,"ownershipPct":24.125900900900902,"effectiveDate":"2023-07-06"},{"code":"HNM","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Hoàng Mai Xanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5550000,"ownershipPct":12.5,"effectiveDate":"2023-07-06"},{"code":"HNM","shareholderType":"PERSON","shareholderName":"Vũ Thị Thanh Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2214500,"ownershipPct":4.987612612612613,"effectiveDate":"2024-04-08"},{"code":"HNM","shareholderType":"PERSON","shareholderName":"Lê Thế Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1001000,"ownershipPct":2.2545045045045047,"effectiveDate":"2015-12-10"},{"code":"HNM","shareholderType":"COMPANY","shareholderName":"Intereffekt Investment Funds N.V.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":646000,"ownershipPct":1.454954954954955,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HNM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Phương Thảo",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 10000000,
+      "ownershipPct": 22.52252252252252,
+      "effectiveDate": "2025-05-06"
+    },
+    {
+      "code": "HNM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Mạc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8519700,
+      "ownershipPct": 19.188513513513513,
+      "effectiveDate": "2024-12-18"
+    },
+    {
+      "code": "HNM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Văn Chung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6283300,
+      "ownershipPct": 14.151576576576577,
+      "effectiveDate": "2024-12-24"
+    },
+    {
+      "code": "HNM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Quang Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 4075000,
+      "ownershipPct": 9.177927927927929,
+      "effectiveDate": "2025-05-06"
+    },
+    {
+      "code": "HNM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Thanh Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2214500,
+      "ownershipPct": 4.987612612612613,
+      "effectiveDate": "2024-04-08"
+    },
+    {
+      "code": "HNM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thế Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1001000,
+      "ownershipPct": 2.2545045045045047,
+      "effectiveDate": "2015-12-10"
+    },
+    {
+      "code": "HNM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Intereffekt Investment Funds N.V.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 646000,
+      "ownershipPct": 1.454954954954955,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

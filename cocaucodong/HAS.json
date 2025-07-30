@@ -1,1 +1,98 @@
-{"data":[{"code":"HAS","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2210000,"ownershipPct":28.333333333333332,"effectiveDate":"2020-06-30"},{"code":"HAS","shareholderType":"PERSON","shareholderName":"Phạm Thị Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1094960,"ownershipPct":14.037948717948717,"effectiveDate":"2023-08-21"},{"code":"HAS","shareholderType":"PERSON","shareholderName":"Robert Alexander Stone","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":935000,"ownershipPct":11.987179487179487,"effectiveDate":"2012-07-20"},{"code":"HAS","shareholderType":"PERSON","shareholderName":"Đoàn Ngọc Cương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":389800,"ownershipPct":4.9974358974358974,"effectiveDate":"2022-12-31"},{"code":"HAS","shareholderType":"PERSON","shareholderName":"Phạm Minh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":358607,"ownershipPct":4.597525641025641,"effectiveDate":"2014-03-11"},{"code":"HAS","shareholderType":"PERSON","shareholderName":"Nguyễn Hoài Nam","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":322910,"ownershipPct":4.1398717948717945,"effectiveDate":"2021-12-31"},{"code":"HAS","shareholderType":"COMPANY","shareholderName":"CTCP Hacisco","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":200000,"ownershipPct":2.5641025641025643,"effectiveDate":"2010-10-19"},{"code":"HAS","shareholderType":"PERSON","shareholderName":"Đặng Thị Thanh Trà","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":91800,"ownershipPct":1.176923076923077,"effectiveDate":"2019-07-02"},{"code":"HAS","shareholderType":"PERSON","shareholderName":"Hà Thu Nga","roleType":"Thư ký công ty","enRoleType":"Secretary of the company","numberOfShares":91370,"ownershipPct":1.1714102564102564,"effectiveDate":"2021-05-15"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2210000,
+      "ownershipPct": 28.333333333333332,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1094960,
+      "ownershipPct": 14.037948717948717,
+      "effectiveDate": "2023-08-21"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Robert Alexander Stone",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 935000,
+      "ownershipPct": 11.987179487179487,
+      "effectiveDate": "2012-07-20"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Ngọc Cương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 389800,
+      "ownershipPct": 4.9974358974358974,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 358607,
+      "ownershipPct": 4.597525641025641,
+      "effectiveDate": "2014-03-11"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoài Nam",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 322910,
+      "ownershipPct": 4.1398717948717945,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hacisco",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 200000,
+      "ownershipPct": 2.5641025641025643,
+      "effectiveDate": "2010-10-19"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thị Thanh Trà",
+      "roleType": "Mẹ của Chủ tịch HĐQT",
+      "enRoleType": "Mother of Chairman",
+      "numberOfShares": 91800,
+      "ownershipPct": 1.176923076923077,
+      "effectiveDate": "2019-07-02"
+    },
+    {
+      "code": "HAS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thu Nga",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 91370,
+      "ownershipPct": 1.1714102564102564,
+      "effectiveDate": "2021-05-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

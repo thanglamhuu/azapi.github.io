@@ -1,1 +1,58 @@
-{"data":[{"code":"DLR","shareholderType":"PERSON","shareholderName":"Trịnh Ngọc Thanh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1323036,"ownershipPct":29.4008,"effectiveDate":"2015-10-21"},{"code":"DLR","shareholderType":"PERSON","shareholderName":"Đinh Thanh Tâm","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":1102500,"ownershipPct":24.5,"effectiveDate":"2022-12-31"},{"code":"DLR","shareholderType":"PERSON","shareholderName":"Đinh Thị Thu Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":330700,"ownershipPct":7.348888888888889,"effectiveDate":"2021-01-29"},{"code":"DLR","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":225000,"ownershipPct":5,"effectiveDate":"2021-06-30"},{"code":"DLR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Khoáng sản Việt Phương Huế","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":145600,"ownershipPct":3.2355555555555555,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DLR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Ngọc Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1323036,
+      "ownershipPct": 29.4008,
+      "effectiveDate": "2015-10-21"
+    },
+    {
+      "code": "DLR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thanh Tâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1102500,
+      "ownershipPct": 24.5,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "DLR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Thu Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330700,
+      "ownershipPct": 7.348888888888889,
+      "effectiveDate": "2021-01-29"
+    },
+    {
+      "code": "DLR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 225000,
+      "ownershipPct": 5,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "DLR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Khoáng sản Việt Phương Huế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 145600,
+      "ownershipPct": 3.2355555555555555,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

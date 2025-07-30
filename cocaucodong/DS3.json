@@ -1,1 +1,110 @@
-{"data":[{"code":"DS3","shareholderType":"PERSON","shareholderName":"Hoàng Hà Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2440700,"ownershipPct":22.87499308792256,"effectiveDate":"2023-02-13"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Tạ Thị Thanh Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":952000,"ownershipPct":8.922437587455352,"effectiveDate":"2024-02-19"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":550000,"ownershipPct":5.154769614601307,"effectiveDate":"2022-05-17"},{"code":"DS3","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần HLS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":530000,"ownershipPct":4.967323446797622,"effectiveDate":"2019-01-31"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Vương Công Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":451093,"ownershipPct":4.227782708653359,"effectiveDate":"2022-03-22"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Bùi Thị Huệ","roleType":"Vợ của Đại diện CBTT","enRoleType":"Wife of Spokeman","numberOfShares":445000,"ownershipPct":4.170677233631967,"groupPct":7.919600589705644,"effectiveDate":"2024-06-24"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Phạm Thị Huệ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":440193,"ownershipPct":4.125624547200351,"effectiveDate":"2021-06-30"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Phạm Thị Ngọc Lan","roleType":"Con của Đại diện CBTT","enRoleType":"Child of Spokeman","numberOfShares":400000,"ownershipPct":3.7489233560736777,"groupPct":7.919600589705644,"effectiveDate":"2022-03-22"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Đinh Thị Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":377094,"ownershipPct":3.5342412600881183,"effectiveDate":"2020-12-31"},{"code":"DS3","shareholderType":"PERSON","shareholderName":"Nguyễn Hải Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":350100,"ownershipPct":3.2812451674034864,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":18,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Hà Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2440700,
+      "ownershipPct": 22.87499308792256,
+      "effectiveDate": "2023-02-13"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Thị Thanh Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 952000,
+      "ownershipPct": 8.922437587455352,
+      "effectiveDate": "2024-02-19"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 550000,
+      "ownershipPct": 5.154769614601307,
+      "effectiveDate": "2022-05-17"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Ngọc",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 547300,
+      "ownershipPct": 5.129464381947809,
+      "effectiveDate": "2025-04-11"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần HLS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 530000,
+      "ownershipPct": 4.967323446797622,
+      "effectiveDate": "2019-01-31"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vương Công Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 451093,
+      "ownershipPct": 4.227782708653359,
+      "effectiveDate": "2022-03-22"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Huệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 440193,
+      "ownershipPct": 4.125624547200351,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Huệ",
+      "roleType": "Vợ của Đại diện CBTT",
+      "enRoleType": "Wife of Spokeman",
+      "numberOfShares": 423800,
+      "ownershipPct": 3.9719842957600613,
+      "groupPct": 7.720907651833739,
+      "effectiveDate": "2024-09-06"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Huệ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 423800,
+      "ownershipPct": 3.9719842957600613,
+      "effectiveDate": "2024-09-06"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Ngọc Lan",
+      "roleType": "Con của Đại diện CBTT",
+      "enRoleType": "Child of Spokeman",
+      "numberOfShares": 400000,
+      "ownershipPct": 3.7489233560736777,
+      "groupPct": 7.720907651833739,
+      "effectiveDate": "2022-03-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 18,
+  "totalPages": 2
+}

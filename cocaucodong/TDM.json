@@ -1,1 +1,108 @@
-{"data":[{"code":"TDM","shareholderType":"COMPANY","shareholderName":"M.trường Bình Dg","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15619000,"ownershipPct":14.19909090909091,"effectiveDate":"2018-07-26"},{"code":"TDM","shareholderType":"COMPANY","shareholderName":"Chứng khoán Vietcap","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15510000,"ownershipPct":14.1,"effectiveDate":"2024-04-11"},{"code":"TDM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Sản xuất và Thương mại Quỳnh Phúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7072727,"ownershipPct":6.429751818181818,"effectiveDate":"2024-01-08"},{"code":"TDM","shareholderType":"PERSON","shareholderName":"Phạm Văn Chiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5360880,"ownershipPct":4.873527272727273,"effectiveDate":"2018-08-10"},{"code":"TDM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương mại N.T.P","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4600000,"ownershipPct":4.181818181818182,"effectiveDate":"2024-05-29"},{"code":"TDM","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Nhựa thiếu niên tiền phong phía Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4492900,"ownershipPct":4.084454545454546,"effectiveDate":"2022-02-22"},{"code":"TDM","shareholderType":"PERSON","shareholderName":"Nguyễn Hiền Triết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4000000,"ownershipPct":3.6363636363636362,"effectiveDate":"2019-02-19"},{"code":"TDM","shareholderType":"COMPANY","shareholderName":"Bảo hiểm bưu điện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3562250,"ownershipPct":3.238409090909091,"effectiveDate":"2019-02-27"},{"code":"TDM","shareholderType":"COMPANY","shareholderName":"CTCP Tân Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3000000,"ownershipPct":2.727272727272727,"effectiveDate":"2020-03-06"},{"code":"TDM","shareholderType":"PERSON","shareholderName":"Trần Thế Hưng","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":2397402,"ownershipPct":2.1794563636363637,"effectiveDate":"2024-02-28"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "TDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "M.trường Bình Dg",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15619000,
+      "ownershipPct": 14.058505850585059,
+      "effectiveDate": "2018-07-26"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán Vietcap",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15510000,
+      "ownershipPct": 13.96039603960396,
+      "effectiveDate": "2024-04-11"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Sản xuất và Thương mại Quỳnh Phúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7072727,
+      "ownershipPct": 6.366090909090909,
+      "effectiveDate": "2024-01-08"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Chiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5360880,
+      "ownershipPct": 4.825274527452745,
+      "effectiveDate": "2018-08-10"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương mại N.T.P",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4600000,
+      "ownershipPct": 4.14041404140414,
+      "effectiveDate": "2024-05-29"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Nhựa thiếu niên tiền phong phía Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4492900,
+      "ownershipPct": 4.044014401440144,
+      "effectiveDate": "2022-02-22"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tân Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4300000,
+      "ownershipPct": 3.8703870387038704,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hiền Triết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4000000,
+      "ownershipPct": 3.6003600360036003,
+      "effectiveDate": "2019-02-19"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bảo hiểm bưu điện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3562250,
+      "ownershipPct": 3.2063456345634562,
+      "effectiveDate": "2019-02-27"
+    },
+    {
+      "code": "TDM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thế Hưng",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 2617402,
+      "ownershipPct": 2.355897389738974,
+      "effectiveDate": "2025-07-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

@@ -1,1 +1,28 @@
-{"data":[{"code":"DOC","shareholderType":"COMPANY","shareholderName":"Tổng công ty Công nghiệp thực phẩm Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7210800,"ownershipPct":72.108,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DOC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Công nghiệp thực phẩm Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7210800,
+      "ownershipPct": 72.108,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DOC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đức Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1692300,
+      "ownershipPct": 16.923,
+      "effectiveDate": "2024-11-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

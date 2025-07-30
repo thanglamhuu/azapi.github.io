@@ -1,1 +1,48 @@
-{"data":[{"code":"HHG","shareholderType":"PERSON","shareholderName":"Phạm Thị Loan","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":1083336,"ownershipPct":3.1044389336490568,"effectiveDate":"2021-12-31"},{"code":"HHG","shareholderType":"PERSON","shareholderName":"Vũ Ngọc Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":617900,"ownershipPct":1.7706720879780162,"effectiveDate":"2014-08-18"},{"code":"HHG","shareholderType":"PERSON","shareholderName":"Võ Thị Việt Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":599100,"ownershipPct":1.7167982649419478,"effectiveDate":"2017-06-01"},{"code":"HHG","shareholderType":"PERSON","shareholderName":"Lưu Huy Hà","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":370367,"ownershipPct":1.0613343732127432,"effectiveDate":"2022-08-16"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Loan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1083336,
+      "ownershipPct": 3.1044389336490568,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "HHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Ngọc Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 617900,
+      "ownershipPct": 1.7706720879780162,
+      "effectiveDate": "2014-08-18"
+    },
+    {
+      "code": "HHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thị Việt Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 599100,
+      "ownershipPct": 1.7167982649419478,
+      "effectiveDate": "2017-06-01"
+    },
+    {
+      "code": "HHG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Huy Hà",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 370367,
+      "ownershipPct": 1.0613343732127432,
+      "effectiveDate": "2022-08-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

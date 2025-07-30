@@ -1,0 +1,113 @@
+{
+  "data": [
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Viết Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1423700,
+      "ownershipPct": 11.864166666666666,
+      "effectiveDate": "2025-04-14"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hoàng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 713065,
+      "ownershipPct": 5.942208333333333,
+      "effectiveDate": "2024-03-15"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thuyến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 593567,
+      "ownershipPct": 4.946391666666667,
+      "effectiveDate": "2025-02-13"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Bích Nhuận",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 290400,
+      "ownershipPct": 2.42,
+      "groupPct": 5.861941666666667,
+      "effectiveDate": "2024-03-15"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hồng Ngọc",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 212933,
+      "ownershipPct": 1.7744416666666667,
+      "groupPct": 3.4419416666666667,
+      "effectiveDate": "2024-03-15"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hồng Ngọc",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 212933,
+      "ownershipPct": 1.7744416666666667,
+      "groupPct": 5.861941666666667,
+      "effectiveDate": "2024-03-15"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Anh",
+      "roleType": "Con của Thành viên BKS",
+      "enRoleType": "Child of Control member",
+      "numberOfShares": 207200,
+      "ownershipPct": 1.7266666666666666,
+      "effectiveDate": "2024-03-15"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Trọng Tú",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 204300,
+      "ownershipPct": 1.7025,
+      "effectiveDate": "2024-03-15"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Minh Trang",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 200000,
+      "ownershipPct": 1.6666666666666667,
+      "groupPct": 5.861941666666667,
+      "effectiveDate": "2024-03-15"
+    },
+    {
+      "code": "DDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Minh Trang",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 200000,
+      "ownershipPct": 1.6666666666666667,
+      "groupPct": 3.4419416666666667,
+      "effectiveDate": "2024-03-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

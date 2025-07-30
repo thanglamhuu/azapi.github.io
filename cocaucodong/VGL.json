@@ -1,1 +1,68 @@
-{"data":[{"code":"VGL","shareholderType":"COMPANY","shareholderName":"TCT Thép Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4756130,"ownershipPct":51.003227292200506,"effectiveDate":"2020-06-30"},{"code":"VGL","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Thảo","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2000000,"ownershipPct":21.44736468187392,"effectiveDate":"2019-06-18"},{"code":"VGL","shareholderType":"PERSON","shareholderName":"Vũ Đình Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1180000,"ownershipPct":12.653945162305613,"effectiveDate":"2022-06-06"},{"code":"VGL","shareholderType":"COMPANY","shareholderName":"CTCP CIC30","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":854515,"ownershipPct":9.163547415565747,"effectiveDate":"2022-12-06"},{"code":"VGL","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hợp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":327110,"ownershipPct":3.507823730543889,"effectiveDate":"2022-06-06"},{"code":"VGL","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Thành","roleType":"Bố của Thành viên HĐQT","enRoleType":"Father of Board member","numberOfShares":327110,"ownershipPct":3.507823730543889,"effectiveDate":"2022-06-10"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VGL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Thép Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4756130,
+      "ownershipPct": 51.003227292200506,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Thảo",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2000000,
+      "ownershipPct": 21.44736468187392,
+      "effectiveDate": "2019-06-18"
+    },
+    {
+      "code": "VGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đình Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1180000,
+      "ownershipPct": 12.653945162305613,
+      "effectiveDate": "2022-06-06"
+    },
+    {
+      "code": "VGL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP CIC30",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 854515,
+      "ownershipPct": 9.163547415565747,
+      "effectiveDate": "2022-12-06"
+    },
+    {
+      "code": "VGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Thành",
+      "roleType": "Bố của Thành viên HĐQT",
+      "enRoleType": "Father of Board member",
+      "numberOfShares": 327110,
+      "ownershipPct": 3.507823730543889,
+      "effectiveDate": "2022-06-10"
+    },
+    {
+      "code": "VGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hợp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 327110,
+      "ownershipPct": 3.507823730543889,
+      "effectiveDate": "2022-06-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

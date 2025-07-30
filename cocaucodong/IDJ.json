@@ -1,1 +1,109 @@
-{"data":[{"code":"IDJ","shareholderType":"COMPANY","shareholderName":"CTCP TẬP ĐOÀN APEC GROUP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17169446,"ownershipPct":9.89649368826283,"effectiveDate":"2022-07-05"},{"code":"IDJ","shareholderType":"COMPANY","shareholderName":"CTCP Chứng khoán Châu Á Thái Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":16433201,"ownershipPct":9.472120997640483,"effectiveDate":"2022-11-17"},{"code":"IDJ","shareholderType":"PERSON","shareholderName":"Nguyễn Thu Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8544223,"ownershipPct":4.924902585127679,"effectiveDate":"2022-07-05"},{"code":"IDJ","shareholderType":"PERSON","shareholderName":"Huỳnh Thị Mai Dung","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":5931596,"ownershipPct":3.418980576037517,"groupPct":4.046514029758443,"effectiveDate":"2023-06-30"},{"code":"IDJ","shareholderType":"PERSON","shareholderName":"Huỳnh Thị Mai Dung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5931596,"ownershipPct":3.418980576037517,"effectiveDate":"2023-06-30"},{"code":"IDJ","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư APEC Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4914822,"ownershipPct":2.832910561117423,"effectiveDate":"2022-07-05"},{"code":"IDJ","shareholderType":"COMPANY","shareholderName":"Asean Small Cap Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2302781,"ownershipPct":1.3273263232809938,"effectiveDate":"2022-07-05"},{"code":"IDJ","shareholderType":"PERSON","shareholderName":"Nguyễn Đỗ Lăng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2260000,"ownershipPct":1.30266729255411,"effectiveDate":"2022-07-05"},{"code":"IDJ","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư BG Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2063752,"ownershipPct":1.1895496594438626,"effectiveDate":"2022-07-05"},{"code":"IDJ","shareholderType":"COMPANY","shareholderName":"CTCP Thương Mại và Đầu tư Barotex Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1963940,"ownershipPct":1.1320178772295215,"effectiveDate":"2022-07-05"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "IDJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP TẬP ĐOÀN APEC GROUP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17169446,
+      "ownershipPct": 9.89649368826283,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Chứng khoán Châu Á Thái Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 16433201,
+      "ownershipPct": 9.472120997640483,
+      "effectiveDate": "2022-11-17"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8544223,
+      "ownershipPct": 4.924902585127679,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Thị Mai Dung",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 5931596,
+      "ownershipPct": 3.418980576037517,
+      "groupPct": 4.046514029758443,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Thị Mai Dung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5931596,
+      "ownershipPct": 3.418980576037517,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư APEC Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4914822,
+      "ownershipPct": 2.832910561117423,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Asean Small Cap Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2302781,
+      "ownershipPct": 1.3273263232809938,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đỗ Lăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2260000,
+      "ownershipPct": 1.30266729255411,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư BG Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2063752,
+      "ownershipPct": 1.1895496594438626,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "IDJ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thương Mại và Đầu tư Barotex Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1963940,
+      "ownershipPct": 1.1320178772295215,
+      "effectiveDate": "2022-07-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

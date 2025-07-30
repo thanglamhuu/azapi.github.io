@@ -1,1 +1,78 @@
-{"data":[{"code":"SDD","shareholderType":"PERSON","shareholderName":"Bùi Kim Thanh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1635500,"ownershipPct":10.217191694756917,"effectiveDate":"2023-03-17"},{"code":"SDD","shareholderType":"PERSON","shareholderName":"Đỗ Nguyên Hữu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":895200,"ownershipPct":5.592436566888653,"effectiveDate":"2023-03-13"},{"code":"SDD","shareholderType":"PERSON","shareholderName":"Lê Trần Vi Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":500000,"ownershipPct":3.123568234410552,"effectiveDate":"2024-05-14"},{"code":"SDD","shareholderType":"PERSON","shareholderName":"Nguyễn Gia Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":460900,"ownershipPct":2.879305198479647,"effectiveDate":"2018-08-23"},{"code":"SDD","shareholderType":"PERSON","shareholderName":"Nguyễn Tiến Khanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":224400,"ownershipPct":1.4018574236034558,"effectiveDate":"2023-03-27"},{"code":"SDD","shareholderType":"COMPANY","shareholderName":"CTCP Sông Đà 2","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":184000,"ownershipPct":1.149473110263083,"effectiveDate":"2009-05-25"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SDD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Kim Thanh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1635500,
+      "ownershipPct": 10.217191694756917,
+      "effectiveDate": "2023-03-17"
+    },
+    {
+      "code": "SDD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Bảo Ngọc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 939500,
+      "ownershipPct": 5.869184712457427,
+      "effectiveDate": "2024-08-16"
+    },
+    {
+      "code": "SDD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Nguyên Hữu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 895200,
+      "ownershipPct": 5.592436566888653,
+      "effectiveDate": "2023-03-13"
+    },
+    {
+      "code": "SDD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Trần Vi Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 500000,
+      "ownershipPct": 3.123568234410552,
+      "effectiveDate": "2024-05-14"
+    },
+    {
+      "code": "SDD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Gia Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 460900,
+      "ownershipPct": 2.879305198479647,
+      "effectiveDate": "2018-08-23"
+    },
+    {
+      "code": "SDD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiến Khanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 224400,
+      "ownershipPct": 1.4018574236034558,
+      "effectiveDate": "2023-03-27"
+    },
+    {
+      "code": "SDD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Sông Đà 2",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 184000,
+      "ownershipPct": 1.149473110263083,
+      "effectiveDate": "2009-05-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,88 @@
-{"data":[{"code":"VNH","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Điệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1446790,"ownershipPct":18.032870455714527,"effectiveDate":"2020-08-10"},{"code":"VNH","shareholderType":"PERSON","shareholderName":"Bùi Thị Kim Cúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":398000,"ownershipPct":4.960693978652314,"effectiveDate":"2021-04-05"},{"code":"VNH","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":390700,"ownershipPct":4.869706375526279,"effectiveDate":"2024-03-06"},{"code":"VNH","shareholderType":"PERSON","shareholderName":"Phạm Hùng Ước","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":378100,"ownershipPct":4.7126592797196984,"effectiveDate":"2017-12-19"},{"code":"VNH","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Bích Liên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":339250,"ownershipPct":4.228430734316074,"effectiveDate":"2021-05-12"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Điệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1446790,
+      "ownershipPct": 18.032870455714527,
+      "effectiveDate": "2020-08-10"
+    },
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Vũ Hồng Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 423300,
+      "ownershipPct": 5.27603457578775,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Kim Cúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 398000,
+      "ownershipPct": 4.960693978652314,
+      "effectiveDate": "2021-04-05"
+    },
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 390700,
+      "ownershipPct": 4.869706375526279,
+      "effectiveDate": "2024-03-06"
+    },
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Hùng Ước",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 378100,
+      "ownershipPct": 4.7126592797196984,
+      "effectiveDate": "2017-12-19"
+    },
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Mậu Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 353800,
+      "ownershipPct": 4.4097827378070065,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Tuyến",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 344000,
+      "ownershipPct": 4.287634996624111,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "VNH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Bích Liên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 339250,
+      "ownershipPct": 4.228430734316074,
+      "effectiveDate": "2021-05-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

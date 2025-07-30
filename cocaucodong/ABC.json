@@ -1,1 +1,48 @@
-{"data":[{"code":"ABC","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5772000,"ownershipPct":28.309382510177056,"effectiveDate":"2020-06-30"},{"code":"ABC","shareholderType":"PERSON","shareholderName":"Vũ Hoàng Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800000,"ownershipPct":3.9236843395948795,"effectiveDate":"2023-11-17"},{"code":"ABC","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":300270,"ownershipPct":1.4727058708126932,"effectiveDate":"2023-06-30"},{"code":"ABC","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":276770,"ownershipPct":1.3574476433370934,"effectiveDate":"2023-04-25"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ABC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5772000,
+      "ownershipPct": 28.309382510177056,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "ABC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hoàng Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 800000,
+      "ownershipPct": 3.9236843395948795,
+      "effectiveDate": "2023-11-17"
+    },
+    {
+      "code": "ABC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 300270,
+      "ownershipPct": 1.4727058708126932,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "ABC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 276770,
+      "ownershipPct": 1.3574476433370934,
+      "effectiveDate": "2023-04-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

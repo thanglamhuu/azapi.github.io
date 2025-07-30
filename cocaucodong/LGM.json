@@ -1,1 +1,48 @@
-{"data":[{"code":"LGM","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dệt may và Thương mại Hà Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5377634,"ownershipPct":72.67072972972973,"effectiveDate":"2024-05-10"},{"code":"LGM","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Vũ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":295300,"ownershipPct":3.9905405405405405,"effectiveDate":"2024-06-14"},{"code":"LGM","shareholderType":"PERSON","shareholderName":"Lê Thị Thu Hồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":141800,"ownershipPct":1.9162162162162162,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LGM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Dệt may và Thương mại Hà Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9373634,
+      "ownershipPct": 79.16920608108109,
+      "effectiveDate": "2025-02-12"
+    },
+    {
+      "code": "LGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Chiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 757670,
+      "ownershipPct": 6.399239864864865,
+      "effectiveDate": "2025-02-14"
+    },
+    {
+      "code": "LGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Lâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 607000,
+      "ownershipPct": 5.1266891891891895,
+      "effectiveDate": "2025-02-14"
+    },
+    {
+      "code": "LGM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu Hồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 141800,
+      "ownershipPct": 1.197635135135135,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

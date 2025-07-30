@@ -1,1 +1,108 @@
-{"data":[{"code":"TCR","shareholderType":"COMPANY","shareholderName":"Uinon Time Enterprise Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13265602,"ownershipPct":29.20321525907393,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"COMPANY","shareholderName":"Charmstar Business Corporation","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7014353,"ownershipPct":15.441565378045489,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"COMPANY","shareholderName":"TCROWN CO, LTD","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2992568,"ownershipPct":6.5879111616205845,"effectiveDate":"2024-06-12"},{"code":"TCR","shareholderType":"PERSON","shareholderName":"Chen Sin Siang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1579237,"ownershipPct":3.4765703098957843,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"PERSON","shareholderName":"Chen Cheng Jen","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1308151,"ownershipPct":2.8797950703159056,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"PERSON","shareholderName":"Hsu Rong Sheng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":789631,"ownershipPct":1.7383126727484968,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"PERSON","shareholderName":"Hsu Jong Chin","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":789630,"ownershipPct":1.7383104713244484,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"PERSON","shareholderName":"Pai Tien An","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":623047,"ownershipPct":1.3715906490727097,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"PERSON","shareholderName":"Chen Wen Chin","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":521585,"ownershipPct":1.1482297622757018,"effectiveDate":"2020-06-30"},{"code":"TCR","shareholderType":"PERSON","shareholderName":"Chen Jo Yen","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":455275,"ownershipPct":1.0022533336274435,"effectiveDate":"2016-11-25"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Uinon Time Enterprise Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13265602,
+      "ownershipPct": 29.20321525907393,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Charmstar Business Corporation",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7014353,
+      "ownershipPct": 15.441565378045489,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCROWN CO, LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2992568,
+      "ownershipPct": 6.5879111616205845,
+      "effectiveDate": "2024-06-12"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chen Sin Siang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1579237,
+      "ownershipPct": 3.4765703098957843,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chen Cheng Jen",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1308151,
+      "ownershipPct": 2.8797950703159056,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hsu Rong Sheng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 789631,
+      "ownershipPct": 1.7383126727484968,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hsu Jong Chin",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 789630,
+      "ownershipPct": 1.7383104713244484,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Pai Tien An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 623047,
+      "ownershipPct": 1.3715906490727097,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chen Wen Chin",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 521585,
+      "ownershipPct": 1.1482297622757018,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TCR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chen Jo Yen",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 455275,
+      "ownershipPct": 1.0022533336274435,
+      "effectiveDate": "2016-11-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

@@ -1,1 +1,38 @@
-{"data":[{"code":"PVB","shareholderType":"COMPANY","shareholderName":"TCT Khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11434000,"ownershipPct":52.935190086591675,"effectiveDate":"2015-03-11"},{"code":"PVB","shareholderType":"COMPANY","shareholderName":"Samarang Unicts - Samarang Asian Properity","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1057600,"ownershipPct":4.896296749657107,"effectiveDate":"2018-10-15"},{"code":"PVB","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":242000,"ownershipPct":1.1203704741083773,"effectiveDate":"2014-02-19"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PVB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11434000,
+      "ownershipPct": 52.935190086591675,
+      "effectiveDate": "2015-03-11"
+    },
+    {
+      "code": "PVB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Samarang Unicts - Samarang Asian Properity",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1057600,
+      "ownershipPct": 4.896296749657107,
+      "effectiveDate": "2018-10-15"
+    },
+    {
+      "code": "PVB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 242000,
+      "ownershipPct": 1.1203704741083773,
+      "effectiveDate": "2014-02-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

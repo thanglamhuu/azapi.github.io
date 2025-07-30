@@ -1,1 +1,78 @@
-{"data":[{"code":"PTD","shareholderType":"PERSON","shareholderName":"Tô Khải Đạt","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1187500,"ownershipPct":23.75,"effectiveDate":"2024-07-05"},{"code":"PTD","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Nghĩa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":265375,"ownershipPct":5.3075,"effectiveDate":"2024-07-05"},{"code":"PTD","shareholderType":"PERSON","shareholderName":"Lê Vũ Nguyên Khang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":254687,"ownershipPct":5.09374,"effectiveDate":"2024-07-05"},{"code":"PTD","shareholderType":"PERSON","shareholderName":"Hồ Thanh Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2024-07-05"},{"code":"PTD","shareholderType":"PERSON","shareholderName":"Trần Minh Trúc","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":250000,"ownershipPct":5,"effectiveDate":"2024-07-05"},{"code":"PTD","shareholderType":"PERSON","shareholderName":"Bùi Quang Huân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":100000,"ownershipPct":2,"effectiveDate":"2024-07-05"},{"code":"PTD","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Vũ","roleType":"Kế toán trưởng","enRoleType":"Chief Accountant","numberOfShares":59375,"ownershipPct":1.1875,"effectiveDate":"2024-07-05"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tô Khải Đạt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1187500,
+      "ownershipPct": 23.750318254264606,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "PTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 265375,
+      "ownershipPct": 5.3075711214530275,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "PTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Vũ Nguyên Khang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 254687,
+      "ownershipPct": 5.093808257030644,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "PTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Thanh Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5.000067000897812,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "PTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Minh Trúc",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 250000,
+      "ownershipPct": 5.000067000897812,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "PTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Quang Huân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 100000,
+      "ownershipPct": 2.000026800359125,
+      "effectiveDate": "2024-07-05"
+    },
+    {
+      "code": "PTD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Vũ",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 59375,
+      "ownershipPct": 1.1875159127132304,
+      "effectiveDate": "2024-07-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,69 @@
-{"data":[{"code":"PHN","shareholderType":"COMPANY","shareholderName":"GP Batteries International Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3554233,"ownershipPct":48.99747184656663,"effectiveDate":"2019-12-30"},{"code":"PHN","shareholderType":"PERSON","shareholderName":"Lê Xuân Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":364600,"ownershipPct":5.026254113126009,"effectiveDate":"2021-07-08"},{"code":"PHN","shareholderType":"PERSON","shareholderName":"Phạm Văn Nghĩa","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":364350,"ownershipPct":5.022807696427486,"effectiveDate":"2020-06-30"},{"code":"PHN","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":144533,"ownershipPct":1.992483778750525,"effectiveDate":"2022-12-27"},{"code":"PHN","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":117980,"ownershipPct":1.6264329683669954,"effectiveDate":"2020-06-30"},{"code":"PHN","shareholderType":"PERSON","shareholderName":"Phạm Nam Long","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":94052,"ownershipPct":1.2965695333179577,"groupPct":2.905480919189662,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "GP Batteries International Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3554233,
+      "ownershipPct": 48.99747184656663,
+      "effectiveDate": "2019-12-30"
+    },
+    {
+      "code": "PHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 364600,
+      "ownershipPct": 5.026254113126009,
+      "effectiveDate": "2021-07-08"
+    },
+    {
+      "code": "PHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Nghĩa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 364350,
+      "ownershipPct": 5.022807696427486,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PHN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 144533,
+      "ownershipPct": 1.992483778750525,
+      "effectiveDate": "2022-12-27"
+    },
+    {
+      "code": "PHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 117980,
+      "ownershipPct": 1.6264329683669954,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PHN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Nam Long",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 94052,
+      "ownershipPct": 1.2965695333179577,
+      "groupPct": 2.905480919189662,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

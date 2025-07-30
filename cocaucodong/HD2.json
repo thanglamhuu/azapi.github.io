@@ -1,1 +1,48 @@
-{"data":[{"code":"HD2","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Đầu tư Phát triển Nhà và Đô thị","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4570800,"ownershipPct":50.99999966526648,"effectiveDate":"2020-06-30"},{"code":"HD2","shareholderType":"PERSON","shareholderName":"Văn Phụng Hà","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1166800,"ownershipPct":13.01890251365908,"effectiveDate":"2022-04-01"},{"code":"HD2","shareholderType":"PERSON","shareholderName":"Lê Quang Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":448500,"ownershipPct":5.0042661787590825,"effectiveDate":"2023-07-13"},{"code":"HD2","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":438600,"ownershipPct":4.893804115950354,"effectiveDate":"2020-08-26"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HD2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Đầu tư Phát triển Nhà và Đô thị",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4570800,
+      "ownershipPct": 50.99999966526648,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HD2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Phụng Hà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1166800,
+      "ownershipPct": 13.01890251365908,
+      "effectiveDate": "2022-04-01"
+    },
+    {
+      "code": "HD2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quang Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 448500,
+      "ownershipPct": 5.0042661787590825,
+      "effectiveDate": "2023-07-13"
+    },
+    {
+      "code": "HD2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 438600,
+      "ownershipPct": 4.893804115950354,
+      "effectiveDate": "2020-08-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

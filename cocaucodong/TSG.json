@@ -1,1 +1,38 @@
-{"data":[{"code":"TSG","shareholderType":"COMPANY","shareholderName":"Tổng công ty Đường sắt Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2329200,"ownershipPct":75.76851761491169,"effectiveDate":"2020-06-30"},{"code":"TSG","shareholderType":"PERSON","shareholderName":"Uông Nhật Phương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":59300,"ownershipPct":1.9290198757359878,"effectiveDate":"2023-12-31"},{"code":"TSG","shareholderType":"PERSON","shareholderName":"Phạm Văn Dũng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":36500,"ownershipPct":1.1873393838847142,"effectiveDate":"2023-12-31"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TSG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Đường sắt Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2329200,
+      "ownershipPct": 75.76851761491169,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Uông Nhật Phương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 62897,
+      "ownershipPct": 2.0460297322793664,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "TSG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Dũng",
+      "roleType": "Anh của Phó TGĐ",
+      "enRoleType": "Elder Brother of Deputy CEO",
+      "numberOfShares": 36500,
+      "ownershipPct": 1.1873393838847142,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

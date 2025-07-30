@@ -1,1 +1,78 @@
-{"data":[{"code":"CHP","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Năng lượng R.E.E","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":35622704,"ownershipPct":24.247537319246018,"effectiveDate":"2024-01-10"},{"code":"CHP","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Quyền","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":35472704,"ownershipPct":24.145435844919785,"effectiveDate":"2022-12-31"},{"code":"CHP","shareholderType":"COMPANY","shareholderName":"Tổng công ty Điện lực Miền Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":33745998,"ownershipPct":22.9701076560668,"effectiveDate":"2020-08-13"},{"code":"CHP","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Điện lực Miền Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":33745998,"ownershipPct":22.9701076560668,"effectiveDate":"2020-08-13"},{"code":"CHP","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Công","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":33324802,"ownershipPct":22.68340943886473,"effectiveDate":"2021-12-06"},{"code":"CHP","shareholderType":"COMPANY","shareholderName":"Tài chính Điện lực","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7182560,"ownershipPct":4.888999769577393,"effectiveDate":"2020-08-13"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CHP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Năng lượng REE",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35622704,
+      "ownershipPct": 24.247537319246018,
+      "effectiveDate": "2024-01-10"
+    },
+    {
+      "code": "CHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Quyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35472704,
+      "ownershipPct": 24.145435844919785,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "CHP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Năng lượng R.E.E",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 34972704,
+      "ownershipPct": 23.805097597165684,
+      "effectiveDate": "2022-01-06"
+    },
+    {
+      "code": "CHP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Điện lực Miền Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 33745998,
+      "ownershipPct": 22.9701076560668,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "CHP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Điện lực Miền Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 33745998,
+      "ownershipPct": 22.9701076560668,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "CHP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Công",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 33324802,
+      "ownershipPct": 22.68340943886473,
+      "effectiveDate": "2021-12-06"
+    },
+    {
+      "code": "CHP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tài chính Điện lực",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7182560,
+      "ownershipPct": 4.888999769577393,
+      "effectiveDate": "2020-08-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

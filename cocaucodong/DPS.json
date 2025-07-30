@@ -1,1 +1,109 @@
-{"data":[{"code":"DPS","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2504420,"ownershipPct":8.056616678446634,"effectiveDate":"2016-09-23"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000000,"ownershipPct":6.43391817542316,"effectiveDate":"2024-02-02"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Tạ Quang Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1728800,"ownershipPct":5.561478870835779,"effectiveDate":"2024-05-24"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Trần Thị Vân Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1695425,"ownershipPct":5.454112861283405,"effectiveDate":"2020-06-30"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Phạm Hồng Nhung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1642220,"ownershipPct":5.28295455302171,"effectiveDate":"2016-09-12"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Lê Tuấn Điệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1519000,"ownershipPct":4.88656085423389,"effectiveDate":"2022-09-23"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Trần Thanh Sang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1435418,"ownershipPct":4.61768097976478,"effectiveDate":"2018-03-08"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Bùi Thị Thanh Chuyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1422200,"ownershipPct":4.575159214543409,"effectiveDate":"2016-10-11"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Chu Duy Thọ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1215100,"ownershipPct":3.9089269874783406,"effectiveDate":"2016-09-26"},{"code":"DPS","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Nguyên","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1039401,"ownershipPct":3.343710492726504,"groupPct":5.720142510000802,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":16,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2504420,
+      "ownershipPct": 8.056616678446634,
+      "effectiveDate": "2016-09-23"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 6.43391817542316,
+      "effectiveDate": "2024-02-02"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Quang Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1728800,
+      "ownershipPct": 5.561478870835779,
+      "effectiveDate": "2024-05-24"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Vân Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1695425,
+      "ownershipPct": 5.454112861283405,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Hồng Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1642220,
+      "ownershipPct": 5.28295455302171,
+      "effectiveDate": "2016-09-12"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Tuấn Điệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1519000,
+      "ownershipPct": 4.88656085423389,
+      "effectiveDate": "2022-09-23"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thanh Sang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1435418,
+      "ownershipPct": 4.61768097976478,
+      "effectiveDate": "2018-03-08"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Thanh Chuyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1422200,
+      "ownershipPct": 4.575159214543409,
+      "effectiveDate": "2016-10-11"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chu Duy Thọ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1215100,
+      "ownershipPct": 3.9089269874783406,
+      "effectiveDate": "2016-09-26"
+    },
+    {
+      "code": "DPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Nguyên",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1039401,
+      "ownershipPct": 3.343710492726504,
+      "groupPct": 5.720142510000802,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 16,
+  "totalPages": 2
+}

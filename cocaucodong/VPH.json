@@ -1,1 +1,113 @@
-{"data":[{"code":"VPH","shareholderType":"PERSON","shareholderName":"Võ Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10503463,"ownershipPct":11.0147916583646,"effectiveDate":"2020-06-30"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Võ Nguyễn Như Nguyện","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":7820881,"ownershipPct":8.201616438298702,"groupPct":36.563170500997295,"effectiveDate":"2021-09-23"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Võ Phan Khôi Nguyên","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":7780656,"ownershipPct":8.159433208400362,"groupPct":36.563170500997295,"effectiveDate":"2021-11-05"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Võ Gwenyth Ngọc","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":7780656,"ownershipPct":8.159433208400362,"groupPct":36.563170500997295,"effectiveDate":"2021-11-05"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Phan Tiết Hồng Minh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":6619139,"ownershipPct":6.9413713403622985,"groupPct":36.563170500997295,"effectiveDate":"2020-06-30"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Võ Phan Hồng Ngọc","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":4855657,"ownershipPct":5.092039665344628,"groupPct":36.563170500997295,"effectiveDate":"2020-06-30"},{"code":"VPH","shareholderType":"COMPANY","shareholderName":"Ngân hàng Thương mại Cổ phần Đại Tín","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4438123,"ownershipPct":4.654179312022719,"effectiveDate":"2020-06-30"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Trần Thị Minh Duyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2200000,"ownershipPct":2.307100205751391,"effectiveDate":"2016-02-18"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Lý Chí Nguyễn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1359300,"ownershipPct":1.425473322580848,"effectiveDate":"2012-12-27"},{"code":"VPH","shareholderType":"PERSON","shareholderName":"Quách Thị Tú Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1002000,"ownershipPct":1.050779275528588,"effectiveDate":"2012-08-06"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10503463,
+      "ownershipPct": 11.0147916583646,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Nguyễn Như Nguyện",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 7820881,
+      "ownershipPct": 8.201616438298702,
+      "groupPct": 36.563170500997295,
+      "effectiveDate": "2021-09-23"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Phan Khôi Nguyên",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 7780656,
+      "ownershipPct": 8.159433208400362,
+      "groupPct": 36.563170500997295,
+      "effectiveDate": "2021-11-05"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Gwenyth Ngọc",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 7780656,
+      "ownershipPct": 8.159433208400362,
+      "groupPct": 36.563170500997295,
+      "effectiveDate": "2021-11-05"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Tiết Hồng Minh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 6619139,
+      "ownershipPct": 6.9413713403622985,
+      "groupPct": 36.563170500997295,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Phan Hồng Ngọc",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 4855657,
+      "ownershipPct": 5.092039665344628,
+      "groupPct": 36.563170500997295,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Thương mại Cổ phần Đại Tín",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4438123,
+      "ownershipPct": 4.654179312022719,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Minh Duyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2200000,
+      "ownershipPct": 2.307100205751391,
+      "effectiveDate": "2016-02-18"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lý Chí Nguyễn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1359300,
+      "ownershipPct": 1.425473322580848,
+      "effectiveDate": "2012-12-27"
+    },
+    {
+      "code": "VPH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Quách Thị Tú Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1002000,
+      "ownershipPct": 1.050779275528588,
+      "effectiveDate": "2012-08-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

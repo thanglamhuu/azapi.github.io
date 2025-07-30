@@ -1,1 +1,88 @@
-{"data":[{"code":"QNC","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư BLUECEM Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14727106,"ownershipPct":24.57302609624241,"effectiveDate":"2024-04-17"},{"code":"QNC","shareholderType":"PERSON","shareholderName":"Tô Ngọc Hoàng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":12818891,"ownershipPct":21.389059267169458,"effectiveDate":"2022-12-31"},{"code":"QNC","shareholderType":"COMPANY","shareholderName":"Konex Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9256998,"ownershipPct":15.445835279983982,"effectiveDate":"2018-06-22"},{"code":"QNC","shareholderType":"PERSON","shareholderName":"Đào Thị Đầm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2792953,"ownershipPct":4.660203230327705,"effectiveDate":"2017-03-22"},{"code":"QNC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2175129,"ownershipPct":3.6293282386704933,"effectiveDate":"2020-12-31"},{"code":"QNC","shareholderType":"PERSON","shareholderName":"Đỗ Hoàng Phúc","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1729647,"ownershipPct":2.886015817926984,"effectiveDate":"2022-12-31"},{"code":"QNC","shareholderType":"PERSON","shareholderName":"Nguyễn Trường Giang","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":1300326,"ownershipPct":2.169668958152573,"effectiveDate":"2022-12-31"},{"code":"QNC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Núi Rùa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":1.668557698725222,"effectiveDate":"2019-07-10"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "QNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư BLUECEM Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14727106,
+      "ownershipPct": 24.57302609624241,
+      "effectiveDate": "2024-04-17"
+    },
+    {
+      "code": "QNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tô Ngọc Hoàng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 12818891,
+      "ownershipPct": 21.389059267169458,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "QNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Konex Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9256998,
+      "ownershipPct": 15.445835279983982,
+      "effectiveDate": "2018-06-22"
+    },
+    {
+      "code": "QNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Đầm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2792953,
+      "ownershipPct": 4.660203230327705,
+      "effectiveDate": "2017-03-22"
+    },
+    {
+      "code": "QNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2175129,
+      "ownershipPct": 3.6293282386704933,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "QNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Hoàng Phúc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1729647,
+      "ownershipPct": 2.886015817926984,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "QNC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trường Giang",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1300326,
+      "ownershipPct": 2.169668958152573,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "QNC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Núi Rùa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 1.668557698725222,
+      "effectiveDate": "2019-07-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

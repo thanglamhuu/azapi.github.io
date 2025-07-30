@@ -1,1 +1,79 @@
-{"data":[{"code":"BWE","shareholderType":"COMPANY","shareholderName":"Nước Thủ Dầu Một","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":82293750,"ownershipPct":37.41838648357237,"effectiveDate":"2024-05-17"},{"code":"BWE","shareholderType":"COMPANY","shareholderName":"Công ty Đầu tư và Phát triển công nghiệp (Becamex IDC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":42750000,"ownershipPct":19.438122848609023,"effectiveDate":"2024-05-17"},{"code":"BWE","shareholderType":"COMPANY","shareholderName":"ISK corp. Co., Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13680000,"ownershipPct":6.220199311554888,"effectiveDate":"2024-05-17"},{"code":"BWE","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thiền","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":10216212,"ownershipPct":4.645239389554004,"groupPct":4.650422888980301,"effectiveDate":"2024-05-17"},{"code":"BWE","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4108560,"ownershipPct":1.8681331932369847,"effectiveDate":"2024-05-17"},{"code":"BWE","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Phong","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3000000,"ownershipPct":1.3640787963936158,"effectiveDate":"2024-06-26"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BWE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nước Thủ Dầu Một",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 82293750,
+      "ownershipPct": 37.41838648357237,
+      "effectiveDate": "2024-05-17"
+    },
+    {
+      "code": "BWE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Đầu tư và Phát triển công nghiệp (Becamex IDC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 42750000,
+      "ownershipPct": 19.438122848609023,
+      "effectiveDate": "2024-05-17"
+    },
+    {
+      "code": "BWE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ISK corp. Co., Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13680000,
+      "ownershipPct": 6.220199311554888,
+      "effectiveDate": "2024-05-17"
+    },
+    {
+      "code": "BWE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thiền",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 10216212,
+      "ownershipPct": 4.645239389554004,
+      "groupPct": 4.650422888980301,
+      "effectiveDate": "2024-05-17"
+    },
+    {
+      "code": "BWE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Norges Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4108560,
+      "ownershipPct": 1.8681331932369847,
+      "effectiveDate": "2024-05-17"
+    },
+    {
+      "code": "BWE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Phong",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3000000,
+      "ownershipPct": 1.3640787963936158,
+      "effectiveDate": "2024-06-26"
+    },
+    {
+      "code": "BWE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Chiến Công",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 2312769,
+      "ownershipPct": 1.0515997179521555,
+      "effectiveDate": "2025-07-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

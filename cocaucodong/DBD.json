@@ -1,1 +1,82 @@
-{"data":[{"code":"DBD","shareholderType":"COMPANY","shareholderName":"Quỹ Đầu tư & Phát triển Bình Định","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9988485,"ownershipPct":10.676732593607513,"effectiveDate":"2022-06-09"},{"code":"DBD","shareholderType":"COMPANY","shareholderName":"KWE Beteiligungen AG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6822875,"ownershipPct":7.292999077899187,"effectiveDate":"2024-06-19"},{"code":"DBD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thủy","roleType":"Chị của Thành viên HĐQT","enRoleType":"Elder Sister of Board member","numberOfShares":1745187,"ownershipPct":1.8654375438157154,"groupPct":2.27691004023975,"effectiveDate":"2024-06-19"},{"code":"DBD","shareholderType":"PERSON","shareholderName":"Phạm Minh Đức","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":1630142,"ownershipPct":1.7424654713511147,"groupPct":2.363485928016449,"effectiveDate":"2022-06-09"},{"code":"DBD","shareholderType":"PERSON","shareholderName":"Trương Công Minh","roleType":"Em trai của Thành viên HĐQT","enRoleType":"Young Brother of Board member","numberOfShares":1081250,"ownershipPct":1.1557525607575247,"groupPct":1.6478460802035946,"effectiveDate":"2024-06-19"},{"code":"DBD","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Ngọc Trâm","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":1052361,"ownershipPct":1.1248729901422885,"groupPct":2.07531258871236,"effectiveDate":"2022-06-09"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DBD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ Đầu tư & Phát triển Bình Định",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9988485,
+      "ownershipPct": 10.676732593607513,
+      "effectiveDate": "2022-06-09"
+    },
+    {
+      "code": "DBD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KWE Beteiligungen AG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9368550,
+      "ownershipPct": 10.014081528864654,
+      "effectiveDate": "2024-12-06"
+    },
+    {
+      "code": "DBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thủy",
+      "roleType": "Chị của Thành viên HĐQT",
+      "enRoleType": "Elder Sister of Board member",
+      "numberOfShares": 2881762,
+      "ownershipPct": 3.08032722404044,
+      "groupPct": 3.4917997204644746,
+      "effectiveDate": "2024-10-28"
+    },
+    {
+      "code": "DBD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Bảo Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2814500,
+      "ownershipPct": 3.008430596302477,
+      "effectiveDate": "2024-10-11"
+    },
+    {
+      "code": "DBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Đức",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1630142,
+      "ownershipPct": 1.7424654713511147,
+      "groupPct": 2.363485928016449,
+      "effectiveDate": "2022-06-09"
+    },
+    {
+      "code": "DBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Công Minh",
+      "roleType": "Em trai của Thành viên HĐQT",
+      "enRoleType": "Young Brother of Board member",
+      "numberOfShares": 1081250,
+      "ownershipPct": 1.1557525607575247,
+      "groupPct": 1.6478460802035946,
+      "effectiveDate": "2024-06-19"
+    },
+    {
+      "code": "DBD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Ngọc Trâm",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1052361,
+      "ownershipPct": 1.1248729901422885,
+      "groupPct": 2.07531258871236,
+      "effectiveDate": "2022-06-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

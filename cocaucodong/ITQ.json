@@ -1,1 +1,48 @@
-{"data":[{"code":"ITQ","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Quảng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2787865,"ownershipPct":8.75494864619109,"effectiveDate":"2020-04-10"},{"code":"ITQ","shareholderType":"PERSON","shareholderName":"Phạm Thị Tươi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":502300,"ownershipPct":1.5774116411597352,"effectiveDate":"2014-03-05"},{"code":"ITQ","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Bích Hạnh","roleType":"Vợ của Tổng Giám đốc","enRoleType":"Wife of CEO","numberOfShares":453700,"ownershipPct":1.4247892924431054,"effectiveDate":"2020-12-31"},{"code":"ITQ","shareholderType":"PERSON","shareholderName":"Đồng Xuân Hồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":364000,"ownershipPct":1.1430974266019183,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ITQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Quảng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2787865,
+      "ownershipPct": 8.75494864619109,
+      "effectiveDate": "2020-04-10"
+    },
+    {
+      "code": "ITQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Tươi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 502300,
+      "ownershipPct": 1.5774116411597352,
+      "effectiveDate": "2014-03-05"
+    },
+    {
+      "code": "ITQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Bích Hạnh",
+      "roleType": "Vợ của Tổng Giám đốc",
+      "enRoleType": "Wife of CEO",
+      "numberOfShares": 453700,
+      "ownershipPct": 1.4247892924431054,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "ITQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đồng Xuân Hồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 364000,
+      "ownershipPct": 1.1430974266019183,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

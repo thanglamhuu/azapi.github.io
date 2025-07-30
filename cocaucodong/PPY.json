@@ -1,1 +1,48 @@
-{"data":[{"code":"PPY","shareholderType":"COMPANY","shareholderName":"TCT Dầu Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6272562,"ownershipPct":30.597863414634148,"effectiveDate":"2022-09-22"},{"code":"PPY","shareholderType":"PERSON","shareholderName":"Đỗ Tiến Cường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":826356,"ownershipPct":4.031004878048781,"effectiveDate":"2022-09-22"},{"code":"PPY","shareholderType":"PERSON","shareholderName":"Lê Thị Liên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":581185,"ownershipPct":2.835048780487805,"effectiveDate":"2022-09-22"},{"code":"PPY","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Mạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":391608,"ownershipPct":1.9102829268292683,"effectiveDate":"2022-09-22"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PPY",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Dầu Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6272562,
+      "ownershipPct": 67.12948901612954,
+      "effectiveDate": "2022-09-22"
+    },
+    {
+      "code": "PPY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Tiến Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 826356,
+      "ownershipPct": 8.843731799767422,
+      "effectiveDate": "2022-09-22"
+    },
+    {
+      "code": "PPY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Liên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 581185,
+      "ownershipPct": 6.219891022813205,
+      "effectiveDate": "2022-09-22"
+    },
+    {
+      "code": "PPY",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Mạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 391608,
+      "ownershipPct": 4.191021935634667,
+      "effectiveDate": "2022-09-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

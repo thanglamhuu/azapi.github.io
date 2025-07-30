@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "AIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thiên Trúc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 51720344,
+      "ownershipPct": 30.316500874454075,
+      "effectiveDate": "2024-08-05"
+    },
+    {
+      "code": "AIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Bảo Tùng",
+      "roleType": "Tổng Giám đốc",
+      "enRoleType": "CEO",
+      "numberOfShares": 14471211,
+      "ownershipPct": 8.482474148584732,
+      "effectiveDate": "2024-08-05"
+    },
+    {
+      "code": "AIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Bá Lương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1825663,
+      "ownershipPct": 1.0701342963990814,
+      "effectiveDate": "2024-08-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

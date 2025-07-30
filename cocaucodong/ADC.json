@@ -1,1 +1,111 @@
-{"data":[{"code":"ADC","shareholderType":"COMPANY","shareholderName":"Nhà Xuất bản Giáo dục Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1487772,"ownershipPct":37.40060171908246,"effectiveDate":"2021-07-28"},{"code":"ADC","shareholderType":"PERSON","shareholderName":"Lê Hoàng Hải","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":409645,"ownershipPct":10.297928372904943,"effectiveDate":"2021-07-28"},{"code":"ADC","shareholderType":"PERSON","shareholderName":"Peter Eric Dennis","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":317925,"ownershipPct":7.992210030528395,"effectiveDate":"2022-12-31"},{"code":"ADC","shareholderType":"PERSON","shareholderName":"Phạm Văn Thắng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":281244,"ownershipPct":7.070098664231903,"effectiveDate":"2021-07-28"},{"code":"ADC","shareholderType":"PERSON","shareholderName":"Nguyễn Việt Hưng","roleType":"Anh/em rể của Thành viên HĐQT","enRoleType":"Brother in law of Board member","numberOfShares":198640,"ownershipPct":4.9935443908599835,"groupPct":14.689024660024696,"effectiveDate":"2023-06-30"},{"code":"ADC","shareholderType":"PERSON","shareholderName":"Phạm Thị Ngọc Diệp","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":195780,"ownershipPct":4.921647809316188,"groupPct":14.689024660024696,"effectiveDate":"2023-06-30"},{"code":"ADC","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":190236,"ownershipPct":4.782279051246677,"effectiveDate":"2021-07-28"},{"code":"ADC","shareholderType":"PERSON","shareholderName":"Phạm Xuân Hà","roleType":"Bố của Thành viên HĐQT","enRoleType":"Father of Board member","numberOfShares":189900,"ownershipPct":4.773832459848524,"groupPct":14.689024660024696,"effectiveDate":"2023-06-30"},{"code":"ADC","shareholderType":"PERSON","shareholderName":"Willem Stuive","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":47100,"ownershipPct":1.1840311156338363,"effectiveDate":"2013-09-04"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ADC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhà Xuất bản Giáo dục Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1487772,
+      "ownershipPct": 37.40060171908246,
+      "effectiveDate": "2021-07-28"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hoàng Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 409645,
+      "ownershipPct": 10.297928372904943,
+      "effectiveDate": "2021-07-28"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Peter Eric Dennis",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 317925,
+      "ownershipPct": 7.992210030528395,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Thắng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 281244,
+      "ownershipPct": 7.070098664231903,
+      "effectiveDate": "2021-07-28"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Việt Hưng",
+      "roleType": "Anh/em rể của Thành viên HĐQT",
+      "enRoleType": "Brother in law of Board member",
+      "numberOfShares": 198640,
+      "ownershipPct": 4.9935443908599835,
+      "groupPct": 14.689024660024696,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Ngọc Diệp",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 195780,
+      "ownershipPct": 4.921647809316188,
+      "groupPct": 14.689024660024696,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 190236,
+      "ownershipPct": 4.782279051246677,
+      "effectiveDate": "2021-07-28"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Xuân Hà",
+      "roleType": "Bố của Thành viên HĐQT",
+      "enRoleType": "Father of Board member",
+      "numberOfShares": 189900,
+      "ownershipPct": 4.773832459848524,
+      "groupPct": 14.689024660024696,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Ngọc Tới",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 84381,
+      "ownershipPct": 2.1212256808555994,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "ADC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Willem Stuive",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 47100,
+      "ownershipPct": 1.1840311156338363,
+      "effectiveDate": "2013-09-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

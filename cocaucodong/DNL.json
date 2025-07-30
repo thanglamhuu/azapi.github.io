@@ -1,1 +1,58 @@
-{"data":[{"code":"DNL","shareholderType":"COMPANY","shareholderName":"Cảng Đà Nẵng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1943924,"ownershipPct":45.10264501160093,"effectiveDate":"2020-12-31"},{"code":"DNL","shareholderType":"COMPANY","shareholderName":"Container Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1332000,"ownershipPct":30.904872389791183,"effectiveDate":"2020-06-30"},{"code":"DNL","shareholderType":"PERSON","shareholderName":"Đặng Trần Gia Thoại","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":678000,"ownershipPct":15.730858468677495,"effectiveDate":"2023-06-30"},{"code":"DNL","shareholderType":"PERSON","shareholderName":"Bùi Minh Hưng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":666000,"ownershipPct":15.452436194895592,"effectiveDate":"2023-06-30"},{"code":"DNL","shareholderType":"COMPANY","shareholderName":"DV KT Hàng Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":560000,"ownershipPct":12.993039443155453,"effectiveDate":"2023-08-10"},{"code":"DNL","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Sia","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":191000,"ownershipPct":4.431554524361949,"effectiveDate":"2022-08-12"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DNL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng Đà Nẵng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1943924,
+      "ownershipPct": 45.10264501160093,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DNL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Container Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1332000,
+      "ownershipPct": 30.904872389791183,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DNL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Trần Gia Thoại",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 678000,
+      "ownershipPct": 15.730858468677495,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "DNL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Minh Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 666000,
+      "ownershipPct": 15.452436194895592,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "DNL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Sia",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 191000,
+      "ownershipPct": 4.431554524361949,
+      "effectiveDate": "2022-08-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

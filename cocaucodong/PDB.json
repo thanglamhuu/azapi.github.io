@@ -1,1 +1,69 @@
-{"data":[{"code":"PDB","shareholderType":"COMPANY","shareholderName":"Đầu tư Din Capital","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":1936756,"ownershipPct":21.736926262805724,"effectiveDate":"2020-06-30"},{"code":"PDB","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Kỹ thuật Xây dựng Dinco","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1936656,"ownershipPct":21.735803925956745,"effectiveDate":"2022-12-31"},{"code":"PDB","shareholderType":"PERSON","shareholderName":"Lê Trường Kỹ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1270740,"ownershipPct":14.26198327471181,"effectiveDate":"2022-05-17"},{"code":"PDB","shareholderType":"PERSON","shareholderName":"Huỳnh Phước Huyền Vy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":649736,"ownershipPct":7.292226549080183,"groupPct":7.769399283791963,"effectiveDate":"2022-05-17"},{"code":"PDB","shareholderType":"PERSON","shareholderName":"Peter Eric Dennis","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":434500,"ownershipPct":4.87655360881241,"effectiveDate":"2021-10-28"},{"code":"PDB","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Minh Phượng","roleType":"Trưởng ban KT nội bộ","enRoleType":"Head of Internal Audit","numberOfShares":336470,"ownershipPct":3.776326795758599,"effectiveDate":"2022-05-20"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PDB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư Din Capital",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 1936756,
+      "ownershipPct": 21.736926262805724,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PDB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Kỹ thuật Xây dựng Dinco",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1936656,
+      "ownershipPct": 21.735803925956745,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "PDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Trường Kỹ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1270740,
+      "ownershipPct": 14.26198327471181,
+      "effectiveDate": "2022-05-17"
+    },
+    {
+      "code": "PDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Phước Huyền Vy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 649736,
+      "ownershipPct": 7.292226549080183,
+      "groupPct": 7.769399283791963,
+      "effectiveDate": "2022-05-17"
+    },
+    {
+      "code": "PDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Peter Eric Dennis",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 434500,
+      "ownershipPct": 4.87655360881241,
+      "effectiveDate": "2021-10-28"
+    },
+    {
+      "code": "PDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Minh Phượng",
+      "roleType": "Trưởng ban KT nội bộ",
+      "enRoleType": "Head of Internal Audit",
+      "numberOfShares": 336470,
+      "ownershipPct": 3.776326795758599,
+      "effectiveDate": "2022-05-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

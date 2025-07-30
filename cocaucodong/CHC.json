@@ -1,1 +1,38 @@
-{"data":[{"code":"CHC","shareholderType":"COMPANY","shareholderName":"TCT L.nghiệp VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":901680,"ownershipPct":13.39474323771064,"effectiveDate":"2021-06-14"},{"code":"CHC","shareholderType":"PERSON","shareholderName":"Dương Phú Minh Hoàng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":273115,"ownershipPct":4.0572102069108125,"effectiveDate":"2023-09-11"},{"code":"CHC","shareholderType":"PERSON","shareholderName":"Tống Thị Nguyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":97682,"ownershipPct":1.4510971840853195,"effectiveDate":"2021-06-14"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT L.nghiệp VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 901680,
+      "ownershipPct": 13.39474323771064,
+      "effectiveDate": "2021-06-14"
+    },
+    {
+      "code": "CHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Phú Minh Hoàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 273115,
+      "ownershipPct": 4.0572102069108125,
+      "effectiveDate": "2023-09-11"
+    },
+    {
+      "code": "CHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tống Thị Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 97682,
+      "ownershipPct": 1.4510971840853195,
+      "effectiveDate": "2021-06-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

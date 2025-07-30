@@ -1,1 +1,28 @@
-{"data":[{"code":"S96","shareholderType":"PERSON","shareholderName":"Lê Bình Trạt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":559500,"ownershipPct":5.0154488374019275,"effectiveDate":"2023-04-28"},{"code":"S96","shareholderType":"COMPANY","shareholderName":"CTCP Sông Đà 9","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":252800,"ownershipPct":2.2661402432443385,"effectiveDate":"2014-02-24"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "S96",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Bình Trạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 559500,
+      "ownershipPct": 5.0154488374019275,
+      "effectiveDate": "2023-04-28"
+    },
+    {
+      "code": "S96",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Sông Đà 9",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 252800,
+      "ownershipPct": 2.2661402432443385,
+      "effectiveDate": "2014-02-24"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

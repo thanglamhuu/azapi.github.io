@@ -1,1 +1,78 @@
-{"data":[{"code":"PRC","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Dũng","roleType":"Trưởng ban KT nội bộ","enRoleType":"Head of Internal Audit","numberOfShares":238000,"ownershipPct":19.833333333333332,"effectiveDate":"2024-05-17"},{"code":"PRC","shareholderType":"PERSON","shareholderName":"Nguyễn Lê Minh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":235000,"ownershipPct":19.583333333333332,"effectiveDate":"2024-03-01"},{"code":"PRC","shareholderType":"PERSON","shareholderName":"Vũ Dương Ngọc Duy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":143600,"ownershipPct":11.966666666666667,"effectiveDate":"2012-07-04"},{"code":"PRC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":110610,"ownershipPct":9.2175,"effectiveDate":"2024-05-23"},{"code":"PRC","shareholderType":"PERSON","shareholderName":"Lê Nam Hùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":108500,"ownershipPct":9.041666666666666,"effectiveDate":"2024-03-26"},{"code":"PRC","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":69100,"ownershipPct":5.758333333333334,"effectiveDate":"2016-08-26"},{"code":"PRC","shareholderType":"PERSON","shareholderName":"Tôn Hưng Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":24200,"ownershipPct":2.0166666666666666,"effectiveDate":"2021-12-31"},{"code":"PRC","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Bình","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":12600,"ownershipPct":1.05,"effectiveDate":"2024-05-23"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quang Tuấn",
+      "roleType": "GĐ Tài chính",
+      "enRoleType": "CFO",
+      "numberOfShares": 647374,
+      "ownershipPct": 20.883032258064517,
+      "effectiveDate": "2025-05-14"
+    },
+    {
+      "code": "PRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Văn Khánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 509659,
+      "ownershipPct": 16.440612903225805,
+      "effectiveDate": "2025-05-14"
+    },
+    {
+      "code": "PRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Quang Vinh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 406869,
+      "ownershipPct": 13.124806451612903,
+      "effectiveDate": "2025-05-14"
+    },
+    {
+      "code": "PRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Dương Ngọc Duy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 370961,
+      "ownershipPct": 11.966483870967743,
+      "effectiveDate": "2025-05-14"
+    },
+    {
+      "code": "PRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 285738,
+      "ownershipPct": 9.217354838709678,
+      "effectiveDate": "2025-05-14"
+    },
+    {
+      "code": "PRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tất Long",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 210610,
+      "ownershipPct": 6.7938709677419356,
+      "effectiveDate": "2025-06-11"
+    },
+    {
+      "code": "PRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 178506,
+      "ownershipPct": 5.758258064516129,
+      "effectiveDate": "2025-05-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,109 @@
-{"data":[{"code":"DTI","shareholderType":"PERSON","shareholderName":"Trần Đăng Quân","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1115000,"ownershipPct":8.266117074906589,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Châu Thị Thu Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":638868,"ownershipPct":4.736284917857779,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Trung","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":636553,"ownershipPct":4.7191225312852145,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Lang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":630766,"ownershipPct":4.676220271632762,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Tạ Thị Dinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":617279,"ownershipPct":4.576233616037008,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Huỳnh Xuân Phong","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":616878,"ownershipPct":4.573260779313208,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Lê Thị Mỹ Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":591416,"ownershipPct":4.384496767688749,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Dương Thị Liên Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":578685,"ownershipPct":4.29011476187652,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Vũ Thị Minh Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":430791,"ownershipPct":3.193694027637744,"effectiveDate":"2023-06-29"},{"code":"DTI","shareholderType":"PERSON","shareholderName":"Tạ Ngọc Phúc","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":390294,"ownershipPct":2.8934671727655537,"groupPct":3.474630804815847,"effectiveDate":"2023-06-29"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đăng Quân",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1115000,
+      "ownershipPct": 8.266117074906589,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Châu Thị Thu Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 638868,
+      "ownershipPct": 4.736284917857779,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 636553,
+      "ownershipPct": 4.7191225312852145,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Lang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 630766,
+      "ownershipPct": 4.676220271632762,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Thị Dinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 617279,
+      "ownershipPct": 4.576233616037008,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Xuân Phong",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 616878,
+      "ownershipPct": 4.573260779313208,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Mỹ Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 591416,
+      "ownershipPct": 4.384496767688749,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thị Liên Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 578685,
+      "ownershipPct": 4.29011476187652,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Minh Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 430791,
+      "ownershipPct": 3.193694027637744,
+      "effectiveDate": "2023-06-29"
+    },
+    {
+      "code": "DTI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Ngọc Phúc",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 390294,
+      "ownershipPct": 2.8934671727655537,
+      "groupPct": 3.474630804815847,
+      "effectiveDate": "2023-06-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

@@ -1,1 +1,48 @@
-{"data":[{"code":"PPS","shareholderType":"COMPANY","shareholderName":"PVPOWER","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7650000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"PPS","shareholderType":"COMPANY","shareholderName":"Công ty YTL Power Services Sdn.Bhd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2700000,"ownershipPct":18,"effectiveDate":"2020-06-30"},{"code":"PPS","shareholderType":"PERSON","shareholderName":"Bùi Duy Nhị","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2250000,"ownershipPct":15,"effectiveDate":"2020-12-31"},{"code":"PPS","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1220700,"ownershipPct":8.138,"effectiveDate":"2024-03-19"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PPS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PVPOWER",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7650000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PPS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty YTL Power Services Sdn.Bhd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2700000,
+      "ownershipPct": 18,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Duy Nhị",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2250000,
+      "ownershipPct": 15,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PPS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1350600,
+      "ownershipPct": 9.004,
+      "effectiveDate": "2025-02-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

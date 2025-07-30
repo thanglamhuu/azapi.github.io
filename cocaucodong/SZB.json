@@ -1,1 +1,79 @@
-{"data":[{"code":"SZB","shareholderType":"COMPANY","shareholderName":"TCT P.triển KCN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13867000,"ownershipPct":46.223333333333336,"effectiveDate":"2020-06-30"},{"code":"SZB","shareholderType":"COMPANY","shareholderName":"Sonadezi Long Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2521456,"ownershipPct":8.404853333333334,"effectiveDate":"2020-06-30"},{"code":"SZB","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1802100,"ownershipPct":6.007,"effectiveDate":"2021-03-02"},{"code":"SZB","shareholderType":"COMPANY","shareholderName":"Sonadezi Châu Đức","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1260725,"ownershipPct":4.202416666666666,"effectiveDate":"2020-12-31"},{"code":"SZB","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư phát triển tỉnh Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":900000,"ownershipPct":3,"effectiveDate":"2020-12-31"},{"code":"SZB","shareholderType":"PERSON","shareholderName":"Trần Trung Chiến","roleType":"Chồng của Chủ tịch HĐQT","enRoleType":"Husband of Chairman","numberOfShares":856300,"ownershipPct":2.8543333333333334,"groupPct":2.857666666666667,"effectiveDate":"2022-06-30"},{"code":"SZB","shareholderType":"PERSON","shareholderName":"Lương Minh Hiền","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":350324,"ownershipPct":1.1677466666666667,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SZB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT P.triển KCN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13867000,
+      "ownershipPct": 46.223333333333336,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SZB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sonadezi Long Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2521456,
+      "ownershipPct": 8.404853333333334,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SZB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1802100,
+      "ownershipPct": 6.007,
+      "effectiveDate": "2021-03-02"
+    },
+    {
+      "code": "SZB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sonadezi Châu Đức",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1260725,
+      "ownershipPct": 4.202416666666666,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SZB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư phát triển tỉnh Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 900000,
+      "ownershipPct": 3,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "SZB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Trung Chiến",
+      "roleType": "Chồng của Chủ tịch HĐQT",
+      "enRoleType": "Husband of Chairman",
+      "numberOfShares": 856300,
+      "ownershipPct": 2.8543333333333334,
+      "groupPct": 2.856,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "SZB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lương Minh Hiền",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 350324,
+      "ownershipPct": 1.1677466666666667,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

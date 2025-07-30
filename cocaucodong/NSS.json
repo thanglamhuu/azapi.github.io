@@ -1,1 +1,28 @@
-{"data":[{"code":"NSS","shareholderType":"COMPANY","shareholderName":"Tổng công ty Công nghiệp thực phẩm Đồng Nai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8654142,"ownershipPct":84.31596749085293,"effectiveDate":"2020-06-30"},{"code":"NSS","shareholderType":"PERSON","shareholderName":"Lê Thị Khánh Xương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":810000,"ownershipPct":7.891704766063565,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NSS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty Công nghiệp thực phẩm Đồng Nai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8654142,
+      "ownershipPct": 84.31596749085293,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NSS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Khánh Xương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 810000,
+      "ownershipPct": 7.891704766063565,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,1 +1,80 @@
-{"data":[{"code":"CLM","shareholderType":"COMPANY","shareholderName":"Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam (TKV) ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6095348,"ownershipPct":55.412254545454545,"effectiveDate":"2020-06-30"},{"code":"CLM","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Hương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":656412,"ownershipPct":5.967381818181818,"effectiveDate":"2020-06-30"},{"code":"CLM","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Cứ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":501673,"ownershipPct":4.560663636363636,"effectiveDate":"2022-12-31"},{"code":"CLM","shareholderType":"PERSON","shareholderName":"Phạm Hồng Khanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":287809,"ownershipPct":2.6164454545454547,"effectiveDate":"2016-06-17"},{"code":"CLM","shareholderType":"PERSON","shareholderName":"Nguyễn Thái Hà","roleType":"Chồng của Phó TGĐ","enRoleType":"Husband of Deputy CEO","numberOfShares":218801,"ownershipPct":1.9891,"groupPct":3.9231818181818183,"effectiveDate":"2024-02-01"},{"code":"CLM","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lợi","roleType":"Mẹ của Phó TGĐ","enRoleType":"Mother of Deputy CEO","numberOfShares":212749,"ownershipPct":1.9340818181818182,"groupPct":3.9231818181818183,"effectiveDate":"2020-06-30"},{"code":"CLM","shareholderType":"PERSON","shareholderName":"Đinh Thị Vân","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":119488,"ownershipPct":1.0862545454545454,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CLM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VINACOMIN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6095348,
+      "ownershipPct": 55.412254545454545,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CLM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 656412,
+      "ownershipPct": 5.967381818181818,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CLM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Cứ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 501673,
+      "ownershipPct": 4.560663636363636,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "CLM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Hồng Khanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 287809,
+      "ownershipPct": 2.6164454545454547,
+      "effectiveDate": "2016-06-17"
+    },
+    {
+      "code": "CLM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thái Hà",
+      "roleType": "Chồng của Phó TGĐ",
+      "enRoleType": "Husband of Deputy CEO",
+      "numberOfShares": 218801,
+      "ownershipPct": 1.9891,
+      "groupPct": 3.9231818181818183,
+      "effectiveDate": "2024-02-01"
+    },
+    {
+      "code": "CLM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lợi",
+      "roleType": "Mẹ của Phó TGĐ",
+      "enRoleType": "Mother of Deputy CEO",
+      "numberOfShares": 212749,
+      "ownershipPct": 1.9340818181818182,
+      "groupPct": 3.9231818181818183,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CLM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 119488,
+      "ownershipPct": 1.0862545454545454,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

@@ -1,1 +1,109 @@
-{"data":[{"code":"SPI","shareholderType":"PERSON","shareholderName":"Đoàn Quốc Khánh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":3403100,"ownershipPct":20.23847754980672,"groupPct":21.167707404103478,"effectiveDate":"2020-06-30"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1157700,"ownershipPct":6.884924174843889,"effectiveDate":"2021-06-03"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Quyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":989500,"ownershipPct":5.884626821290515,"effectiveDate":"2021-06-04"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Nguyễn Đại Quyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":965250,"ownershipPct":5.740410347903658,"effectiveDate":"2020-06-30"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":835800,"ownershipPct":4.970561998215879,"effectiveDate":"2022-09-07"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Hoàng Minh Chính","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":818200,"ownershipPct":4.865893547427892,"effectiveDate":"2016-06-09"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Nguyễn Cảnh Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":799500,"ownershipPct":4.754683318465656,"effectiveDate":"2021-09-13"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Phạm Thị Hồng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":776600,"ownershipPct":4.6184953910199225,"effectiveDate":"2021-10-19"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Phạm Thị Mai Tuyết","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":750000,"ownershipPct":4.460303300624442,"effectiveDate":"2017-06-15"},{"code":"SPI","shareholderType":"PERSON","shareholderName":"Cao Xuân Tân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":739000,"ownershipPct":4.39488551888195,"effectiveDate":"2016-07-07"}],"currentPage":1,"size":10,"totalElements":19,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Quốc Khánh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 3403100,
+      "ownershipPct": 20.23847754980672,
+      "groupPct": 21.167707404103478,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1157700,
+      "ownershipPct": 6.884924174843889,
+      "effectiveDate": "2021-06-03"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Quyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 989500,
+      "ownershipPct": 5.884626821290515,
+      "effectiveDate": "2021-06-04"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đại Quyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 965250,
+      "ownershipPct": 5.740410347903658,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 835800,
+      "ownershipPct": 4.970561998215879,
+      "effectiveDate": "2022-09-07"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Minh Chính",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 818200,
+      "ownershipPct": 4.865893547427892,
+      "effectiveDate": "2016-06-09"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Cảnh Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 799500,
+      "ownershipPct": 4.754683318465656,
+      "effectiveDate": "2021-09-13"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Hồng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 776600,
+      "ownershipPct": 4.6184953910199225,
+      "effectiveDate": "2021-10-19"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Mai Tuyết",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 750000,
+      "ownershipPct": 4.460303300624442,
+      "effectiveDate": "2017-06-15"
+    },
+    {
+      "code": "SPI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Xuân Tân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 739000,
+      "ownershipPct": 4.39488551888195,
+      "effectiveDate": "2016-07-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 20,
+  "totalPages": 2
+}

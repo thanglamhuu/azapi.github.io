@@ -1,1 +1,78 @@
-{"data":[{"code":"PNG","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Bến Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2754000,"ownershipPct":30.6,"effectiveDate":"2020-06-30"},{"code":"PNG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư VINA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2582966,"ownershipPct":28.69962222222222,"effectiveDate":"2023-06-30"},{"code":"PNG","shareholderType":"COMPANY","shareholderName":"CTCP Đầu Tư New Asia","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2533120,"ownershipPct":28.145777777777777,"effectiveDate":"2022-06-09"},{"code":"PNG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư và Thương mại Thiên Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1746900,"ownershipPct":19.41,"effectiveDate":"2022-01-28"},{"code":"PNG","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Điệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":384100,"ownershipPct":4.267777777777778,"effectiveDate":"2018-10-19"},{"code":"PNG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Dịch vụ Văn hóa Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":189800,"ownershipPct":2.108888888888889,"effectiveDate":"2021-12-20"},{"code":"PNG","shareholderType":"PERSON","shareholderName":"Trần Xuân Ánh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":98785,"ownershipPct":1.097611111111111,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Bến Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2754000,
+      "ownershipPct": 30.6,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư VINA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2582966,
+      "ownershipPct": 28.69962222222222,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "PNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu Tư New Asia",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2533120,
+      "ownershipPct": 28.145777777777777,
+      "effectiveDate": "2022-06-09"
+    },
+    {
+      "code": "PNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư và Thương mại Thiên Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1746900,
+      "ownershipPct": 19.41,
+      "effectiveDate": "2022-01-28"
+    },
+    {
+      "code": "PNG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Điệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 384100,
+      "ownershipPct": 4.267777777777778,
+      "effectiveDate": "2018-10-19"
+    },
+    {
+      "code": "PNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Dịch vụ Văn hóa Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 189800,
+      "ownershipPct": 2.108888888888889,
+      "effectiveDate": "2021-12-20"
+    },
+    {
+      "code": "PNG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Xuân Ánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 98785,
+      "ownershipPct": 1.097611111111111,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

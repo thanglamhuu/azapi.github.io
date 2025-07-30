@@ -1,1 +1,98 @@
-{"data":[{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Daiwa Securities Group INC.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":231737895,"ownershipPct":15.35563959497217,"effectiveDate":"2022-07-25"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Nguyễn Duy Hưng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":94237688,"ownershipPct":6.244468446524181,"effectiveDate":"2022-07-14"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Công ty TNHH bất động sản Sài Gòn Đan Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":58901068,"ownershipPct":3.9029592979039887,"effectiveDate":"2023-07-14"},{"code":"SSI","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Linh","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":47118844,"ownershipPct":3.1222342232620903,"groupPct":3.752693252338894,"effectiveDate":"2022-07-14"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Dầu thực vật SG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":40299000,"ownershipPct":2.6703311516564154,"effectiveDate":"2015-01-06"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":37049259,"ownershipPct":2.4549936835526145,"effectiveDate":"2021-09-08"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Công ty En Fund L.P","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":31238880,"ownershipPct":2.0699807540350026,"effectiveDate":"2021-09-08"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG, London Branch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29327506,"ownershipPct":1.9433274491225696,"effectiveDate":"2021-09-08"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần đầu tư Đường Mặt Trời","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22527307,"ownershipPct":1.4927261134278178,"effectiveDate":"2021-09-08"},{"code":"SSI","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20693882,"ownershipPct":1.3712379402293349,"effectiveDate":"2021-09-08"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Daiwa Securities Group INC.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 301259263,
+      "ownershipPct": 15.277827072435644,
+      "effectiveDate": "2024-10-30"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Nguyễn Duy Hưng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 164108992,
+      "ownershipPct": 8.32249530135684,
+      "effectiveDate": "2024-11-04"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH bất động sản Sài Gòn Đan Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 76571387,
+      "ownershipPct": 3.8831815414835784,
+      "effectiveDate": "2024-11-04"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dầu thực vật SG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 48358800,
+      "ownershipPct": 2.452430429767402,
+      "effectiveDate": "2024-09-23"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 37049259,
+      "ownershipPct": 1.8788871967859788,
+      "effectiveDate": "2021-09-08"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty En Fund L.P",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 31238880,
+      "ownershipPct": 1.5842241723089139,
+      "effectiveDate": "2021-09-08"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, London Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29327506,
+      "ownershipPct": 1.4872922434714273,
+      "effectiveDate": "2021-09-08"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần đầu tư Đường Mặt Trời",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22527307,
+      "ownershipPct": 1.1424322602610528,
+      "effectiveDate": "2021-09-08"
+    },
+    {
+      "code": "SSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Norges Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20693882,
+      "ownershipPct": 1.0494533761552376,
+      "effectiveDate": "2021-09-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

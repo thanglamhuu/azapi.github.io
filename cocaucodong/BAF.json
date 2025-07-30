@@ -1,1 +1,38 @@
-{"data":[{"code":"BAF","shareholderType":"COMPANY","shareholderName":"CTCP Siba Holdings","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":85804442,"ownershipPct":35.89818950369356,"effectiveDate":"2024-06-14"},{"code":"BAF","shareholderType":"PERSON","shareholderName":"Bùi Hương Giang","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":7195025,"ownershipPct":3.0101981309290813,"effectiveDate":"2024-06-12"},{"code":"BAF","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2888800,"ownershipPct":1.208593487948677,"effectiveDate":"2022-05-09"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Siba Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 95681935,
+      "ownershipPct": 40.03065755861555,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "BAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hương Giang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 7988755,
+      "ownershipPct": 3.342272663326445,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "BAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2888800,
+      "ownershipPct": 1.208593487948677,
+      "effectiveDate": "2022-05-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

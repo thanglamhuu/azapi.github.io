@@ -1,1 +1,48 @@
-{"data":[{"code":"VE4","shareholderType":"COMPANY","shareholderName":"Xây dựng điện VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":562602,"ownershipPct":54.72782101167315,"effectiveDate":"2020-06-30"},{"code":"VE4","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư SPX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":101000,"ownershipPct":9.82490272373541,"effectiveDate":"2023-02-20"},{"code":"VE4","shareholderType":"COMPANY","shareholderName":"Vinaconex 39","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":72700,"ownershipPct":7.071984435797665,"effectiveDate":"2022-11-14"},{"code":"VE4","shareholderType":"PERSON","shareholderName":"Đinh Mã Lương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":51600,"ownershipPct":5.019455252918288,"effectiveDate":"2024-04-04"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VE4",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Xây dựng điện VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 562602,
+      "ownershipPct": 54.72782101167315,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VE4",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư SPX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 101000,
+      "ownershipPct": 9.82490272373541,
+      "effectiveDate": "2023-02-20"
+    },
+    {
+      "code": "VE4",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vinaconex 39",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 72700,
+      "ownershipPct": 7.071984435797665,
+      "effectiveDate": "2022-11-14"
+    },
+    {
+      "code": "VE4",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Mã Lương",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 51600,
+      "ownershipPct": 5.019455252918288,
+      "effectiveDate": "2024-04-04"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

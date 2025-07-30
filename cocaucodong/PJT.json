@@ -1,1 +1,68 @@
-{"data":[{"code":"PJT","shareholderType":"COMPANY","shareholderName":"Tổng công ty vận tải thủy PETROLIMEX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8497459,"ownershipPct":34.14831971774284,"effectiveDate":"2024-07-19"},{"code":"PJT","shareholderType":"PERSON","shareholderName":"Ngô Anh Dũng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2688923,"ownershipPct":10.805842346564098,"effectiveDate":"2024-07-19"},{"code":"PJT","shareholderType":"PERSON","shareholderName":"Phan Văn Kỳ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1255693,"ownershipPct":5.046191576956318,"effectiveDate":"2024-07-19"},{"code":"PJT","shareholderType":"PERSON","shareholderName":"Phan Văn Cầu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":840466,"ownershipPct":3.3775392949695253,"effectiveDate":"2024-07-19"},{"code":"PJT","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán VINA ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":586824,"ownershipPct":2.358240689368989,"effectiveDate":"2024-07-19"},{"code":"PJT","shareholderType":"PERSON","shareholderName":"Phạm Ngọc Sinh","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":566829,"ownershipPct":2.2778877682479495,"effectiveDate":"2024-07-19"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PJT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty vận tải thủy PETROLIMEX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8497459,
+      "ownershipPct": 34.149951462426735,
+      "effectiveDate": "2024-07-19"
+    },
+    {
+      "code": "PJT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Anh Dũng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2688923,
+      "ownershipPct": 10.806358693369733,
+      "effectiveDate": "2024-07-19"
+    },
+    {
+      "code": "PJT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Văn Kỳ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1255693,
+      "ownershipPct": 5.046432704377746,
+      "effectiveDate": "2024-07-19"
+    },
+    {
+      "code": "PJT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Văn Cầu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 840466,
+      "ownershipPct": 3.377700687443146,
+      "effectiveDate": "2024-07-19"
+    },
+    {
+      "code": "PJT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Ngọc Sinh",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 588829,
+      "ownershipPct": 2.366411155342941,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "PJT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán VINA ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 586824,
+      "ownershipPct": 2.358353375637012,
+      "effectiveDate": "2024-07-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

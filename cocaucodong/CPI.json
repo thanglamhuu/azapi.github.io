@@ -1,1 +1,38 @@
-{"data":[{"code":"CPI","shareholderType":"COMPANY","shareholderName":"Hàng hải Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20655000,"ownershipPct":56.58129023421449,"effectiveDate":"2020-06-30"},{"code":"CPI","shareholderType":"COMPANY","shareholderName":"Cảng Quảng Ninh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2970999,"ownershipPct":8.138608409806876,"effectiveDate":"2023-03-15"},{"code":"CPI","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Xuất nhập khẩu tổng hợp Hà Nội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1800000,"ownershipPct":4.930831392959869,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CPI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hàng hải Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20655000,
+      "ownershipPct": 56.58129023421449,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CPI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Cảng Quảng Ninh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2970999,
+      "ownershipPct": 8.138608409806876,
+      "effectiveDate": "2023-03-15"
+    },
+    {
+      "code": "CPI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Xuất nhập khẩu tổng hợp Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1800000,
+      "ownershipPct": 4.930831392959869,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

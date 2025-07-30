@@ -1,1 +1,28 @@
-{"data":[{"code":"BHI","shareholderType":"COMPANY","shareholderName":"DB Insurance Co.,Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":75000000,"ownershipPct":75,"effectiveDate":"2024-02-19"},{"code":"BHI","shareholderType":"COMPANY","shareholderName":"Tổng công ty rau quả, nông sản - CTCP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10100000,"ownershipPct":10.1,"effectiveDate":"2024-01-29"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BHI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DB Insurance Co.,Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 75000000,
+      "ownershipPct": 75,
+      "effectiveDate": "2024-02-19"
+    },
+    {
+      "code": "BHI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng công ty rau quả, nông sản - CTCP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10100000,
+      "ownershipPct": 10.1,
+      "effectiveDate": "2024-01-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

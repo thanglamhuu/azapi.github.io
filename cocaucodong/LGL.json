@@ -1,1 +1,69 @@
-{"data":[{"code":"LGL","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn Đầu tư Long Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12409583,"ownershipPct":24.09763462408563,"effectiveDate":"2021-12-31"},{"code":"LGL","shareholderType":"PERSON","shareholderName":"Lê Hà Giang","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":10685369,"ownershipPct":20.749457736455064,"effectiveDate":"2020-06-30"},{"code":"LGL","shareholderType":"PERSON","shareholderName":"Hồ Kim Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1312300,"ownershipPct":2.5482988362451477,"effectiveDate":"2020-06-30"},{"code":"LGL","shareholderType":"PERSON","shareholderName":"Đinh Thị Nga","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":1100803,"ownershipPct":2.137601923215094,"groupPct":2.1413302885016825,"effectiveDate":"2020-06-30"},{"code":"LGL","shareholderType":"COMPANY","shareholderName":"Chứng khoán BIDV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":593531,"ownershipPct":1.1525522796429313,"effectiveDate":"2020-06-30"},{"code":"LGL","shareholderType":"PERSON","shareholderName":"Dương Văn Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":521160,"ownershipPct":1.012018152478489,"effectiveDate":"2016-05-06"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LGL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn Đầu tư Long Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12409583,
+      "ownershipPct": 24.09763462408563,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "LGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hà Giang",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 10685369,
+      "ownershipPct": 20.749457736455064,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Kim Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1312300,
+      "ownershipPct": 2.5482988362451477,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Nga",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1100803,
+      "ownershipPct": 2.137601923215094,
+      "groupPct": 2.1413302885016825,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LGL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 593531,
+      "ownershipPct": 1.1525522796429313,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LGL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Văn Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 521160,
+      "ownershipPct": 1.012018152478489,
+      "effectiveDate": "2016-05-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

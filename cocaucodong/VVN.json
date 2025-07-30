@@ -1,1 +1,28 @@
-{"data":[{"code":"VVN","shareholderType":"COMPANY","shareholderName":"Bộ Công Thương Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":45512500,"ownershipPct":82.75,"effectiveDate":"2020-06-30"},{"code":"VVN","shareholderType":"PERSON","shareholderName":"Phạm Thị Thêu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":567400,"ownershipPct":1.0316363636363637,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VVN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bộ Công Thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 45512500,
+      "ownershipPct": 82.75,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VVN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thêu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 567400,
+      "ownershipPct": 1.0316363636363637,
+      "effectiveDate": "2022-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

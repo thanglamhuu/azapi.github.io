@@ -1,1 +1,48 @@
-{"data":[{"code":"MKV","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn Mavin","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2858879,"ownershipPct":57.17758,"effectiveDate":"2016-09-28"},{"code":"MKV","shareholderType":"PERSON","shareholderName":"Đào Mạnh Lương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":974342,"ownershipPct":19.48684,"effectiveDate":"2020-06-16"},{"code":"MKV","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thùy Dương","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":600896,"ownershipPct":12.01792,"effectiveDate":"2022-09-27"},{"code":"MKV","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Ngọc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":350000,"ownershipPct":7,"effectiveDate":"2015-12-31"},{"code":"MKV","shareholderType":"PERSON","shareholderName":"Lâm Minh Tuyền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":53000,"ownershipPct":1.06,"effectiveDate":"2010-10-07"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MKV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tập đoàn Mavin",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2858879,
+      "ownershipPct": 57.17758,
+      "effectiveDate": "2016-09-28"
+    },
+    {
+      "code": "MKV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Mạnh Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 974342,
+      "ownershipPct": 19.48684,
+      "effectiveDate": "2020-06-16"
+    },
+    {
+      "code": "MKV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Ngọc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 350000,
+      "ownershipPct": 7,
+      "effectiveDate": "2015-12-31"
+    },
+    {
+      "code": "MKV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Minh Tuyền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 53000,
+      "ownershipPct": 1.06,
+      "effectiveDate": "2010-10-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

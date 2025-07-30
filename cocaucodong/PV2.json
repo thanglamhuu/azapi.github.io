@@ -1,1 +1,108 @@
-{"data":[{"code":"PV2","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần quản lý Quỹ PVI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11989000,"ownershipPct":32.51800980775073,"effectiveDate":"2016-01-07"},{"code":"PV2","shareholderType":"PERSON","shareholderName":"Nguyễn Phúc Anh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":9145000,"ownershipPct":24.804170463915288,"effectiveDate":"2022-06-30"},{"code":"PV2","shareholderType":"PERSON","shareholderName":"Chu Minh Châu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7478400,"ownershipPct":20.28381721130061,"effectiveDate":"2022-06-30"},{"code":"PV2","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3098816,"ownershipPct":8.40498199019225,"effectiveDate":"2012-05-23"},{"code":"PV2","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Tuấn","roleType":"Người ĐD theo pháp luật","enRoleType":"Legal representative","numberOfShares":2110200,"ownershipPct":5.723538601744565,"effectiveDate":"2022-12-31"},{"code":"PV2","shareholderType":"PERSON","shareholderName":"Tôn Thiện Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1829000,"ownershipPct":4.960834092783058,"effectiveDate":"2019-02-01"},{"code":"PV2","shareholderType":"COMPANY","shareholderName":"Ngân hàng TMCP Đại chúng Việt Nam (PVcomBank)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1338816,"ownershipPct":3.6312980080718655,"effectiveDate":"2014-09-12"},{"code":"PV2","shareholderType":"COMPANY","shareholderName":"VIB Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1200000,"ownershipPct":3.254784533263898,"effectiveDate":"2020-06-30"},{"code":"PV2","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư PV2","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":481200,"ownershipPct":1.305168597838823,"effectiveDate":"2011-07-29"},{"code":"PV2","shareholderType":"PERSON","shareholderName":"Lê Anh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":394300,"ownershipPct":1.0694679512216292,"effectiveDate":"2014-12-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần quản lý Quỹ PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11989000,
+      "ownershipPct": 32.51800980775073,
+      "effectiveDate": "2016-01-07"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phúc Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 9145000,
+      "ownershipPct": 24.804170463915288,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Chu Minh Châu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7478400,
+      "ownershipPct": 20.28381721130061,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3098816,
+      "ownershipPct": 8.40498199019225,
+      "effectiveDate": "2012-05-23"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2110200,
+      "ownershipPct": 5.723538601744565,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Khoa Anh Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1829000,
+      "ownershipPct": 4.960834092783058,
+      "effectiveDate": "2025-01-23"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tôn Thiện Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1829000,
+      "ownershipPct": 4.960834092783058,
+      "effectiveDate": "2019-02-01"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng TMCP Đại chúng Việt Nam (PVcomBank)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1338816,
+      "ownershipPct": 3.6312980080718655,
+      "effectiveDate": "2014-09-12"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VIB Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1200000,
+      "ownershipPct": 3.254784533263898,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PV2",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư PV2",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 481200,
+      "ownershipPct": 1.305168597838823,
+      "effectiveDate": "2011-07-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

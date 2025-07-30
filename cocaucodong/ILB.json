@@ -1,1 +1,48 @@
-{"data":[{"code":"ILB","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tân Cảng Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12575000,"ownershipPct":51.32182785699841,"effectiveDate":"2020-06-30"},{"code":"ILB","shareholderType":"COMPANY","shareholderName":"Công ty Quản lý nợ và khai thác tài sản - Ngân hàng TMCP Quân đội","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1875000,"ownershipPct":7.6523600184391265,"effectiveDate":"2020-06-30"},{"code":"ILB","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư Cổ phiếu Tiếp cận thị trường Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1231900,"ownershipPct":5.0277025635814185,"effectiveDate":"2023-02-02"},{"code":"ILB","shareholderType":"COMPANY","shareholderName":"Chứng khoán MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":325020,"ownershipPct":1.326490695036312,"effectiveDate":"2019-08-09"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "ILB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Tổng công ty Tân cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19604425,
+      "ownershipPct": 51.321166784102786,
+      "effectiveDate": "2025-04-03"
+    },
+    {
+      "code": "ILB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tân Cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13266625,
+      "ownershipPct": 34.72984666916513,
+      "effectiveDate": "2025-03-06"
+    },
+    {
+      "code": "ILB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4844563,
+      "ownershipPct": 12.682270748521995,
+      "effectiveDate": "2025-06-16"
+    },
+    {
+      "code": "ILB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Quản lý nợ và khai thác tài sản - Ngân hàng TMCP Quân đội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1978125,
+      "ownershipPct": 5.178406561008717,
+      "effectiveDate": "2025-03-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

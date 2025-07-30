@@ -1,1 +1,38 @@
-{"data":[{"code":"BTP","shareholderType":"COMPANY","shareholderName":"Phát điện 3","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":48123557,"ownershipPct":79.56200649410769,"effectiveDate":"2022-12-31"},{"code":"BTP","shareholderType":"COMPANY","shareholderName":"Samarang Unicts - Samarang Asian Properity","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4886210,"ownershipPct":8.078302934913435,"effectiveDate":"2022-12-31"},{"code":"BTP","shareholderType":"COMPANY","shareholderName":"Nh.điện Phả Lại","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":670000,"ownershipPct":1.107701667834989,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BTP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Phát điện 3",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 48123557,
+      "ownershipPct": 79.56200649410769,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "BTP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Samarang Unicts - Samarang Asian Properity",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4799210,
+      "ownershipPct": 7.934467046702025,
+      "effectiveDate": "2024-11-25"
+    },
+    {
+      "code": "BTP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nh.điện Phả Lại",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 670000,
+      "ownershipPct": 1.107701667834989,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

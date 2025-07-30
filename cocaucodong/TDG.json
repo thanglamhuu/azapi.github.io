@@ -1,1 +1,58 @@
-{"data":[{"code":"TDG","shareholderType":"PERSON","shareholderName":"Lê Minh Hiếu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1390351,"ownershipPct":7.178164353127744,"effectiveDate":"2024-01-05"},{"code":"TDG","shareholderType":"PERSON","shareholderName":"Võ Anh Thái","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1091268,"ownershipPct":5.634045688685092,"effectiveDate":"2023-11-30"},{"code":"TDG","shareholderType":"PERSON","shareholderName":"Trương Đình Hải","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1000000,"ownershipPct":5.162843305847044,"effectiveDate":"2024-07-19"},{"code":"TDG","shareholderType":"PERSON","shareholderName":"Kim Văn Hùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":796600,"ownershipPct":4.112720977437755,"effectiveDate":"2020-08-31"},{"code":"TDG","shareholderType":"COMPANY","shareholderName":"Chứng khoán APG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":640497,"ownershipPct":3.306785648865114,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Đình Hải",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2019720,
+      "ownershipPct": 8.689684155890108,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "TDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Minh Hiếu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1984443,
+      "ownershipPct": 8.537907677978648,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "TDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Anh Thái",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1282544,
+      "ownershipPct": 5.518043231750897,
+      "effectiveDate": "2025-05-16"
+    },
+    {
+      "code": "TDG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kim Văn Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 955920,
+      "ownershipPct": 4.1127695315679755,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "TDG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán APG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 768596,
+      "ownershipPct": 3.306822967282848,
+      "effectiveDate": "2024-10-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

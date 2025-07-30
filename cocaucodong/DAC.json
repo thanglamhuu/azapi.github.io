@@ -1,1 +1,48 @@
-{"data":[{"code":"DAC","shareholderType":"COMPANY","shareholderName":"TCT Viglacera","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":512550,"ownershipPct":51.00131943711977,"effectiveDate":"2020-06-30"},{"code":"DAC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Nguyễn Duy Hưng Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":118300,"ownershipPct":11.771448813601149,"effectiveDate":"2013-01-15"},{"code":"DAC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần CSC Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":99400,"ownershipPct":9.890803145155994,"effectiveDate":"2020-12-31"},{"code":"DAC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Tuyết Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54176,"ownershipPct":5.390786229295484,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Viglacera",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 512550,
+      "ownershipPct": 51.00131943711977,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Nguyễn Duy Hưng Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 118300,
+      "ownershipPct": 11.771448813601149,
+      "effectiveDate": "2013-01-15"
+    },
+    {
+      "code": "DAC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần CSC Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 99400,
+      "ownershipPct": 9.890803145155994,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "DAC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Tuyết Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 54176,
+      "ownershipPct": 5.390786229295484,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

@@ -1,1 +1,71 @@
-{"data":[{"code":"VTE","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4992000,"ownershipPct":32,"effectiveDate":"2020-06-30"},{"code":"VTE","shareholderType":"PERSON","shareholderName":"Ngô Thị Kiều Trang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2642860,"ownershipPct":16.941410256410258,"effectiveDate":"2022-02-11"},{"code":"VTE","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Hà","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":1987336,"ownershipPct":12.739333333333333,"groupPct":24.12507692307692,"effectiveDate":"2022-12-31"},{"code":"VTE","shareholderType":"PERSON","shareholderName":"Ngô Phúc Lâm","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":1602536,"ownershipPct":10.272666666666666,"groupPct":24.12507692307692,"effectiveDate":"2021-03-18"},{"code":"VTE","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Huệ","roleType":"Chị/em dâu của Chủ tịch HĐQT","enRoleType":"Sister in law of Chairman","numberOfShares":173640,"ownershipPct":1.113076923076923,"groupPct":24.12507692307692,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VTE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4992000,
+      "ownershipPct": 32,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "VTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thị Kiều Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2642860,
+      "ownershipPct": 16.941410256410258,
+      "effectiveDate": "2022-02-11"
+    },
+    {
+      "code": "VTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Văn Lợi",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 1996800,
+      "ownershipPct": 12.8,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "VTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Hà",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 1987336,
+      "ownershipPct": 12.739333333333333,
+      "groupPct": 24.375846153846155,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "VTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Phúc Lâm",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 1622936,
+      "ownershipPct": 10.403435897435898,
+      "groupPct": 24.375846153846155,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "VTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Huệ",
+      "roleType": "Chị/em dâu của Chủ tịch HĐQT",
+      "enRoleType": "Sister in law of Chairman",
+      "numberOfShares": 173640,
+      "ownershipPct": 1.113076923076923,
+      "groupPct": 24.375846153846155,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

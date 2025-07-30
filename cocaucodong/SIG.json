@@ -1,1 +1,38 @@
-{"data":[{"code":"SIG","shareholderType":"PERSON","shareholderName":"Phan Đình Toại","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":6480112,"ownershipPct":64.80112,"effectiveDate":"2020-08-13"},{"code":"SIG","shareholderType":"PERSON","shareholderName":"Nguyễn Khắc Sơn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1769375,"ownershipPct":17.69375,"effectiveDate":"2020-07-29"},{"code":"SIG","shareholderType":"PERSON","shareholderName":"Hoàng Thị Tuyết","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":453750,"ownershipPct":4.5375,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Đình Toại",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 6480112,
+      "ownershipPct": 64.80112,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "SIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Khắc Sơn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1769375,
+      "ownershipPct": 17.69375,
+      "effectiveDate": "2020-07-29"
+    },
+    {
+      "code": "SIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Tuyết",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 453750,
+      "ownershipPct": 4.5375,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

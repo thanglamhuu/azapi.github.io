@@ -1,1 +1,98 @@
-{"data":[{"code":"DTE","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9131468,"ownershipPct":18.001593545323317,"effectiveDate":"2023-06-09"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Nguyễn Ngọc Tưởng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":8007700,"ownershipPct":15.786219765856435,"effectiveDate":"2020-12-01"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thùy Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6458860,"ownershipPct":12.732867539605566,"effectiveDate":"2022-01-06"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Lý Văn Lực","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3707200,"ownershipPct":7.3083000007471535,"effectiveDate":"2023-05-24"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Võ Minh Toàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3077100,"ownershipPct":6.066133451742303,"effectiveDate":"2022-10-07"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Trương Thị Tuyết Hằng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2511089,"ownershipPct":4.950310676676782,"effectiveDate":"2022-09-23"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Võ Quang Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2307906,"ownershipPct":4.549759770588142,"effectiveDate":"2022-10-03"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Võ Quang Oánh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2162165,"ownershipPct":4.26244887546274,"effectiveDate":"2022-09-27"},{"code":"DTE","shareholderType":"PERSON","shareholderName":"Trương Vĩnh Mạnh Hùng","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":547200,"ownershipPct":1.0787391455569817,"effectiveDate":"2023-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9131468,
+      "ownershipPct": 18.001593545323317,
+      "effectiveDate": "2023-06-09"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Tưởng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 8007700,
+      "ownershipPct": 15.786219765856435,
+      "effectiveDate": "2020-12-01"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thùy Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6458860,
+      "ownershipPct": 12.732867539605566,
+      "effectiveDate": "2022-01-06"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lý Văn Lực",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3707200,
+      "ownershipPct": 7.3083000007471535,
+      "effectiveDate": "2023-05-24"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Minh Toàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3077100,
+      "ownershipPct": 6.066133451742303,
+      "effectiveDate": "2022-10-07"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Thị Tuyết Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2511089,
+      "ownershipPct": 4.950310676676782,
+      "effectiveDate": "2022-09-23"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Quang Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2307906,
+      "ownershipPct": 4.549759770588142,
+      "effectiveDate": "2022-10-03"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Quang Oánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2162165,
+      "ownershipPct": 4.26244887546274,
+      "effectiveDate": "2022-09-27"
+    },
+    {
+      "code": "DTE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Vĩnh Mạnh Hùng",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 547200,
+      "ownershipPct": 1.0787391455569817,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

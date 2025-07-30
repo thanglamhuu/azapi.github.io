@@ -1,1 +1,98 @@
-{"data":[{"code":"DAE","shareholderType":"COMPANY","shareholderName":"Nhà Xuất bản Giáo dục Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":566377,"ownershipPct":29.41212821799094,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Đặng Xuân Phương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":307500,"ownershipPct":15.968567627273378,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":136852,"ownershipPct":7.106765583504444,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Hồ Văn Lĩnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":97788,"ownershipPct":5.078160296376615,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Dương Khánh Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":96375,"ownershipPct":5.004782780742998,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Yu Jen Chieh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":96246,"ownershipPct":4.998083771884727,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"COMPANY","shareholderName":"MeKong Portfolio Investments Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":89307,"ownershipPct":4.637739411671231,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Nguyễn Lệ Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":87251,"ownershipPct":4.530970712348714,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Nguyễn Hữu Hiếu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":81854,"ownershipPct":4.250702876627106,"effectiveDate":"2023-08-08"},{"code":"DAE","shareholderType":"PERSON","shareholderName":"Lưu Quang Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22359,"ownershipPct":1.1611096051323755,"effectiveDate":"2023-08-08"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DAE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhà Xuất bản Giáo dục Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 566377,
+      "ownershipPct": 29.41212821799094,
+      "effectiveDate": "2023-08-08"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Xuân Phương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 307500,
+      "ownershipPct": 15.968567627273378,
+      "effectiveDate": "2023-08-08"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Văn Lĩnh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 234640,
+      "ownershipPct": 12.184925879881058,
+      "effectiveDate": "2024-09-18"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Khánh Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 116300,
+      "ownershipPct": 6.039494032689086,
+      "effectiveDate": "2025-04-03"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Yu Jen Chieh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 96246,
+      "ownershipPct": 4.998083771884727,
+      "effectiveDate": "2023-08-08"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "MeKong Portfolio Investments Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 89307,
+      "ownershipPct": 4.637739411671231,
+      "effectiveDate": "2023-08-08"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Lệ Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 87251,
+      "ownershipPct": 4.530970712348714,
+      "effectiveDate": "2023-08-08"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Hiếu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 81854,
+      "ownershipPct": 4.250702876627106,
+      "effectiveDate": "2023-08-08"
+    },
+    {
+      "code": "DAE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Quang Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22359,
+      "ownershipPct": 1.1611096051323755,
+      "effectiveDate": "2023-08-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

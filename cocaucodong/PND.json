@@ -1,1 +1,68 @@
-{"data":[{"code":"PND","shareholderType":"COMPANY","shareholderName":"TCT Dầu Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3783333,"ownershipPct":56.75000067500007,"effectiveDate":"2020-06-30"},{"code":"PND","shareholderType":"PERSON","shareholderName":"Tôn Quốc Bình","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1450000,"ownershipPct":21.75000217500022,"effectiveDate":"2022-12-31"},{"code":"PND","shareholderType":"COMPANY","shareholderName":"CTCP Đầu tư xăng dầu Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":969200,"ownershipPct":14.538001453800145,"effectiveDate":"2018-02-09"},{"code":"PND","shareholderType":"COMPANY","shareholderName":"CTCP Quản lý quỹ Thái Bình Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":600000,"ownershipPct":9.00000090000009,"effectiveDate":"2020-06-30"},{"code":"PND","shareholderType":"COMPANY","shareholderName":"CTCP Thương mại Vận tải Trung Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":500000,"ownershipPct":7.500000750000075,"effectiveDate":"2020-06-30"},{"code":"PND","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thu Hiền","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":500000,"ownershipPct":7.500000750000075,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT Dầu Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3783333,
+      "ownershipPct": 56.75000067500007,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PND",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tôn Quốc Bình",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1450000,
+      "ownershipPct": 21.75000217500022,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "PND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư xăng dầu Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 969200,
+      "ownershipPct": 14.538001453800145,
+      "effectiveDate": "2018-02-09"
+    },
+    {
+      "code": "PND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quản lý quỹ Thái Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 600000,
+      "ownershipPct": 9.00000090000009,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PND",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Hiền",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 500000,
+      "ownershipPct": 7.500000750000075,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "PND",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thương mại Vận tải Trung Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 500000,
+      "ownershipPct": 7.500000750000075,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,58 @@
-{"data":[{"code":"HNG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Ôtô Trường Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":306346880,"ownershipPct":27.634820587590827,"effectiveDate":"2020-05-19"},{"code":"HNG","shareholderType":"COMPANY","shareholderName":"Hoàng Anh Gia Lai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":91375000,"ownershipPct":8.242720576070864,"effectiveDate":"2024-01-11"},{"code":"HNG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH SX&TM Trân Oanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":54980000,"ownershipPct":4.95961452555268,"effectiveDate":"2020-05-19"},{"code":"HNG","shareholderType":"PERSON","shareholderName":"Trần Bá Dương","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":50760000,"ownershipPct":4.578938401546999,"effectiveDate":"2020-05-19"},{"code":"HNG","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Hưng Thắng Lợi Gia Lai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":43600000,"ownershipPct":3.9330518973098734,"effectiveDate":"2020-09-23"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Ôtô Trường Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 306346880,
+      "ownershipPct": 27.634820587590827,
+      "effectiveDate": "2020-05-19"
+    },
+    {
+      "code": "HNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hoàng Anh Gia Lai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 91375000,
+      "ownershipPct": 8.242720576070864,
+      "effectiveDate": "2024-01-11"
+    },
+    {
+      "code": "HNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH SX&TM Trân Oanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 54980000,
+      "ownershipPct": 4.95961452555268,
+      "effectiveDate": "2020-05-19"
+    },
+    {
+      "code": "HNG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Bá Dương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 50760000,
+      "ownershipPct": 4.578938401546999,
+      "effectiveDate": "2020-05-19"
+    },
+    {
+      "code": "HNG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Hưng Thắng Lợi Gia Lai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 43600000,
+      "ownershipPct": 3.9330518973098734,
+      "effectiveDate": "2020-09-23"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

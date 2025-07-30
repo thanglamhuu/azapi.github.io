@@ -1,1 +1,78 @@
-{"data":[{"code":"VST","shareholderType":"COMPANY","shareholderName":"Hàng hải Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29888000,"ownershipPct":44.557323926005324,"effectiveDate":"2018-12-28"},{"code":"VST","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Mua bán nợ Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6000000,"ownershipPct":8.944858925188434,"effectiveDate":"2023-02-03"},{"code":"VST","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3694857,"ownershipPct":5.508329102290827,"effectiveDate":"2012-03-07"},{"code":"VST","shareholderType":"PERSON","shareholderName":"Trương Đình Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3314478,"ownershipPct":4.941256353440119,"effectiveDate":"2016-07-15"},{"code":"VST","shareholderType":"COMPANY","shareholderName":"Thuê tàu biển VN","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":2098400,"ownershipPct":3.128315328102569,"effectiveDate":"2024-01-09"},{"code":"VST","shareholderType":"COMPANY","shareholderName":"Công đoàn Công ty cổ phần Vận tải và Thuê tàu biển Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2029200,"ownershipPct":3.0251512884987286,"effectiveDate":"2024-07-05"},{"code":"VST","shareholderType":"COMPANY","shareholderName":"Chứng khoán SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1822377,"ownershipPct":2.7168175289180208,"effectiveDate":"2009-04-15"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hàng hải Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29888000,
+      "ownershipPct": 43.312026998371174,
+      "effectiveDate": "2018-12-28"
+    },
+    {
+      "code": "VST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Mua bán nợ Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7636100,
+      "ownershipPct": 11.065811341082112,
+      "effectiveDate": "2024-12-06"
+    },
+    {
+      "code": "VST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3694857,
+      "ownershipPct": 5.35438122788814,
+      "effectiveDate": "2012-03-07"
+    },
+    {
+      "code": "VST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Đình Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3314478,
+      "ownershipPct": 4.8031571407088895,
+      "effectiveDate": "2016-07-15"
+    },
+    {
+      "code": "VST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Thuê tàu biển VN",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 2003400,
+      "ownershipPct": 2.9032158354033997,
+      "effectiveDate": "2025-06-06"
+    },
+    {
+      "code": "VST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn Công ty cổ phần Vận tải và Thuê tàu biển Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1996500,
+      "ownershipPct": 2.8932167392347448,
+      "effectiveDate": "2025-07-11"
+    },
+    {
+      "code": "VST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1822377,
+      "ownershipPct": 2.640887373702177,
+      "effectiveDate": "2009-04-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

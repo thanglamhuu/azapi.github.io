@@ -1,1 +1,108 @@
-{"data":[{"code":"PTL","shareholderType":"PERSON","shareholderName":"Đỗ Thị Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":23964820,"ownershipPct":24.23992374253882,"effectiveDate":"2021-12-07"},{"code":"PTL","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20083840,"ownershipPct":20.31439209880779,"effectiveDate":"2021-12-07"},{"code":"PTL","shareholderType":"PERSON","shareholderName":"Lê Thị Tư","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8516000,"ownershipPct":8.613759276784078,"effectiveDate":"2021-12-07"},{"code":"PTL","shareholderType":"PERSON","shareholderName":"Lê Văn Thăng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8515000,"ownershipPct":8.61274779730113,"effectiveDate":"2021-12-07"},{"code":"PTL","shareholderType":"COMPANY","shareholderName":"Ngân hàng BIDV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5705400,"ownershipPct":5.770895042010789,"effectiveDate":"2020-06-30"},{"code":"PTL","shareholderType":"PERSON","shareholderName":"Lâm Hoàng Khanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4665000,"ownershipPct":4.718551787951823,"effectiveDate":"2017-07-12"},{"code":"PTL","shareholderType":"COMPANY","shareholderName":"Dầu khí Đông Đô","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4611500,"ownershipPct":4.664437635614112,"effectiveDate":"2014-08-27"},{"code":"PTL","shareholderType":"PERSON","shareholderName":"Trần Thị Hường","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3761470,"ownershipPct":3.804649730723932,"effectiveDate":"2021-12-06"},{"code":"PTL","shareholderType":"COMPANY","shareholderName":"DV khoan D.khí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2000000,"ownershipPct":2.022958965895744,"effectiveDate":"2020-06-30"},{"code":"PTL","shareholderType":"COMPANY","shareholderName":"H.tầng KT HCM","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1500000,"ownershipPct":1.517219224421808,"effectiveDate":"2013-12-03"}],"currentPage":1,"size":10,"totalElements":12,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "PTL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 23964820,
+      "ownershipPct": 23.96482,
+      "effectiveDate": "2021-12-07"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20083840,
+      "ownershipPct": 20.08384,
+      "effectiveDate": "2021-12-07"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Tư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8516000,
+      "ownershipPct": 8.516,
+      "effectiveDate": "2021-12-07"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Thăng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8515000,
+      "ownershipPct": 8.515,
+      "effectiveDate": "2021-12-07"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5705400,
+      "ownershipPct": 5.7054,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Hoàng Khanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4665000,
+      "ownershipPct": 4.665,
+      "effectiveDate": "2017-07-12"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dầu khí Đông Đô",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4611500,
+      "ownershipPct": 4.6115,
+      "effectiveDate": "2014-08-27"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Hường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3761470,
+      "ownershipPct": 3.76147,
+      "effectiveDate": "2021-12-06"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DV khoan D.khí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2000000,
+      "ownershipPct": 2,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "H.tầng KT HCM",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1500000,
+      "ownershipPct": 1.5,
+      "effectiveDate": "2013-12-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 12,
+  "totalPages": 2
+}

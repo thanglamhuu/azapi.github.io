@@ -1,1 +1,58 @@
-{"data":[{"code":"NET","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Masan HPC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11703630,"ownershipPct":52.252141159889554,"effectiveDate":"2020-02-19"},{"code":"NET","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8064498,"ownershipPct":36.00483677966981,"effectiveDate":"2019-07-10"},{"code":"NET","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2018720,"ownershipPct":9.012797089645883,"effectiveDate":"2019-06-20"},{"code":"NET","shareholderType":"COMPANY","shareholderName":"Frontaura Global Frontier Fund LLC.","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1097522,"ownershipPct":4.9000074737568005,"effectiveDate":"2020-06-30"},{"code":"NET","shareholderType":"COMPANY","shareholderName":"JOM SILKKITIE INVESTMENT FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":800000,"ownershipPct":3.571687837697504,"effectiveDate":"2019-09-10"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NET",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Masan HPC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11703630,
+      "ownershipPct": 52.252141159889554,
+      "effectiveDate": "2020-02-19"
+    },
+    {
+      "code": "NET",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8064498,
+      "ownershipPct": 36.00483677966981,
+      "effectiveDate": "2019-07-10"
+    },
+    {
+      "code": "NET",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2018720,
+      "ownershipPct": 9.012797089645883,
+      "effectiveDate": "2019-06-20"
+    },
+    {
+      "code": "NET",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Frontaura Global Frontier Fund LLC.",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1097522,
+      "ownershipPct": 4.9000074737568005,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NET",
+      "shareholderType": "COMPANY",
+      "shareholderName": "JOM SILKKITIE INVESTMENT FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 800000,
+      "ownershipPct": 3.571687837697504,
+      "effectiveDate": "2019-09-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

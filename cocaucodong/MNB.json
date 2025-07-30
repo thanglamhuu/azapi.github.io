@@ -1,1 +1,88 @@
-{"data":[{"code":"MNB","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5040000,"ownershipPct":25.2,"effectiveDate":"2020-06-30"},{"code":"MNB","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần 4M","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4861206,"ownershipPct":24.30603,"effectiveDate":"2021-07-08"},{"code":"MNB","shareholderType":"PERSON","shareholderName":"La Văn Tốt","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1694720,"ownershipPct":8.4736,"effectiveDate":"2024-05-24"},{"code":"MNB","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Tốn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1420000,"ownershipPct":7.1,"effectiveDate":"2020-06-30"},{"code":"MNB","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":333623,"ownershipPct":1.668115,"effectiveDate":"2020-06-30"},{"code":"MNB","shareholderType":"PERSON","shareholderName":"Phạm Phú Cường","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":325622,"ownershipPct":1.62811,"effectiveDate":"2024-05-24"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MNB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5040000,
+      "ownershipPct": 25.2,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MNB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần 4M",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4861206,
+      "ownershipPct": 24.30603,
+      "effectiveDate": "2021-07-08"
+    },
+    {
+      "code": "MNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "La Văn Tốt",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1694720,
+      "ownershipPct": 8.4736,
+      "effectiveDate": "2024-05-24"
+    },
+    {
+      "code": "MNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Tốn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1420000,
+      "ownershipPct": 7.1,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Anh Đào",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 398900,
+      "ownershipPct": 1.9945,
+      "effectiveDate": "2024-06-30"
+    },
+    {
+      "code": "MNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 333623,
+      "ownershipPct": 1.668115,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Phú Cường",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 325622,
+      "ownershipPct": 1.62811,
+      "effectiveDate": "2024-05-24"
+    },
+    {
+      "code": "MNB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Văn Hải",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 212857,
+      "ownershipPct": 1.064285,
+      "effectiveDate": "2024-08-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

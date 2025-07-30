@@ -1,1 +1,89 @@
-{"data":[{"code":"HAX","shareholderType":"PERSON","shareholderName":"Đỗ Tiến Dũng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":17772388,"ownershipPct":16.54173563676162,"effectiveDate":"2024-05-09"},{"code":"HAX","shareholderType":"PERSON","shareholderName":"Vũ Thị Hạnh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":14274687,"ownershipPct":13.28623360302047,"groupPct":13.473118930798016,"effectiveDate":"2024-05-09"},{"code":"HAX","shareholderType":"COMPANY","shareholderName":"AFC VF Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5463995,"ownershipPct":5.085639634391692,"effectiveDate":"2024-05-09"},{"code":"HAX","shareholderType":"PERSON","shareholderName":"Vũ Ngọc Diệp Linh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4193750,"ownershipPct":3.903352989292662,"effectiveDate":"2023-06-21"},{"code":"HAX","shareholderType":"PERSON","shareholderName":"Trần Quốc Hải","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2293680,"ownershipPct":2.1348536952562247,"effectiveDate":"2024-05-09"},{"code":"HAX","shareholderType":"PERSON","shareholderName":"Hoàng Đức Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2080108,"ownershipPct":1.9360705287276496,"effectiveDate":"2023-06-21"},{"code":"HAX","shareholderType":"PERSON","shareholderName":"Trần Văn Mỹ","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":1513750,"ownershipPct":1.408930095389989,"effectiveDate":"2023-09-20"},{"code":"HAX","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Quản lý quỹ SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1446140,"ownershipPct":1.3460017626076162,"effectiveDate":"2023-06-21"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HAX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Tiến Dũng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 18672888,
+      "ownershipPct": 17.379880344209138,
+      "effectiveDate": "2024-07-31"
+    },
+    {
+      "code": "HAX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Hạnh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 14274687,
+      "ownershipPct": 13.28623360302047,
+      "groupPct": 13.473118930798016,
+      "effectiveDate": "2024-05-09"
+    },
+    {
+      "code": "HAX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10851200,
+      "ownershipPct": 10.099806606834584,
+      "effectiveDate": "2024-12-27"
+    },
+    {
+      "code": "HAX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "AFC VF Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5463995,
+      "ownershipPct": 5.085639634391692,
+      "effectiveDate": "2024-05-09"
+    },
+    {
+      "code": "HAX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Ngọc Diệp Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4193750,
+      "ownershipPct": 3.903352989292662,
+      "effectiveDate": "2023-06-21"
+    },
+    {
+      "code": "HAX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quốc Hải",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 2238680,
+      "ownershipPct": 2.0836621806425506,
+      "effectiveDate": "2025-04-09"
+    },
+    {
+      "code": "HAX",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Đức Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2080108,
+      "ownershipPct": 1.9360705287276496,
+      "effectiveDate": "2023-06-21"
+    },
+    {
+      "code": "HAX",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Quản lý quỹ SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1446140,
+      "ownershipPct": 1.3460017626076162,
+      "effectiveDate": "2023-06-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

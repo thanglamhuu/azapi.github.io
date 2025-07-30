@@ -1,1 +1,48 @@
-{"data":[{"code":"PPE","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Long","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":361100,"ownershipPct":18.055,"effectiveDate":"2021-04-26"},{"code":"PPE","shareholderType":"PERSON","shareholderName":"Hoàng Việt","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":342700,"ownershipPct":17.135,"effectiveDate":"2024-04-11"},{"code":"PPE","shareholderType":"PERSON","shareholderName":"Nguyễn Mạnh Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":90200,"ownershipPct":4.51,"effectiveDate":"2023-12-31"},{"code":"PPE","shareholderType":"PERSON","shareholderName":"Thái Minh Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":62800,"ownershipPct":3.14,"effectiveDate":"2020-12-31"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PPE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 399000,
+      "ownershipPct": 19.95,
+      "effectiveDate": "2024-08-09"
+    },
+    {
+      "code": "PPE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 361100,
+      "ownershipPct": 18.055,
+      "effectiveDate": "2021-04-26"
+    },
+    {
+      "code": "PPE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 90200,
+      "ownershipPct": 4.51,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "PPE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Minh Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 62800,
+      "ownershipPct": 3.14,
+      "effectiveDate": "2020-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

@@ -1,1 +1,68 @@
-{"data":[{"code":"GPC","shareholderType":"PERSON","shareholderName":"Đặng Đức Thành","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":12000000,"ownershipPct":28.850314949271528,"effectiveDate":"2022-06-23"},{"code":"GPC","shareholderType":"PERSON","shareholderName":"Đặng Đức Thành","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":12000000,"ownershipPct":28.850314949271528,"effectiveDate":"2022-06-23"},{"code":"GPC","shareholderType":"PERSON","shareholderName":"Đặng Đức Thành","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":12000000,"ownershipPct":28.850314949271528,"effectiveDate":"2022-06-23"},{"code":"GPC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Loan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6000000,"ownershipPct":14.425157474635764,"effectiveDate":"2022-06-23"},{"code":"GPC","shareholderType":"PERSON","shareholderName":"Đặng Bích Vân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3600000,"ownershipPct":8.65509448478146,"effectiveDate":"2022-06-23"},{"code":"GPC","shareholderType":"PERSON","shareholderName":"Lâm Thị Diệu Hương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":523000,"ownershipPct":1.2573928932057508,"effectiveDate":"2022-06-23"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Đức Thành",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 15600000,
+      "ownershipPct": 28.850345361751245,
+      "effectiveDate": "2024-10-09"
+    },
+    {
+      "code": "GPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Đức Thành",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 15600000,
+      "ownershipPct": 28.850345361751245,
+      "effectiveDate": "2024-10-09"
+    },
+    {
+      "code": "GPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Đức Thành",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 15600000,
+      "ownershipPct": 28.850345361751245,
+      "effectiveDate": "2024-10-09"
+    },
+    {
+      "code": "GPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Loan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7800000,
+      "ownershipPct": 14.425172680875622,
+      "effectiveDate": "2024-10-09"
+    },
+    {
+      "code": "GPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Bích Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4680000,
+      "ownershipPct": 8.655103608525373,
+      "effectiveDate": "2024-10-09"
+    },
+    {
+      "code": "GPC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Thị Diệu Hương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 679900,
+      "ownershipPct": 1.2573942186829916,
+      "effectiveDate": "2024-10-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

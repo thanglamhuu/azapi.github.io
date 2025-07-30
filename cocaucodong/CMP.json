@@ -1,1 +1,18 @@
-{"data":[{"code":"CMP","shareholderType":"COMPANY","shareholderName":"Công ty công nghiệp tàu thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":32044425,"ownershipPct":98.88601951247962,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CMP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty công nghiệp tàu thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 32044425,
+      "ownershipPct": 98.88601951247962,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 1,
+  "totalPages": 1
+}

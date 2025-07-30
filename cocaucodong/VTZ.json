@@ -1,1 +1,58 @@
-{"data":[{"code":"VTZ","shareholderType":"PERSON","shareholderName":"Nguyễn Phúc Lợi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10369783,"ownershipPct":21.53201610977347,"effectiveDate":"2024-07-12"},{"code":"VTZ","shareholderType":"PERSON","shareholderName":"Phan Văn Quân","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":7201600,"ownershipPct":14.95354022510834,"effectiveDate":"2024-07-12"},{"code":"VTZ","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":5393063,"ownershipPct":11.198259346123564,"effectiveDate":"2024-07-12"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VTZ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Phúc Lợi",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18369782,
+      "ownershipPct": 24.120039759015754,
+      "effectiveDate": "2024-12-12"
+    },
+    {
+      "code": "VTZ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Văn Quân",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 17201600,
+      "ownershipPct": 22.586183979683884,
+      "effectiveDate": "2024-12-12"
+    },
+    {
+      "code": "VTZ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 15393063,
+      "ownershipPct": 20.211524098273692,
+      "effectiveDate": "2024-12-12"
+    },
+    {
+      "code": "VTZ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Bích Ngoan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2427848,
+      "ownershipPct": 3.187832620378776,
+      "effectiveDate": "2024-11-15"
+    },
+    {
+      "code": "VTZ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Phương Thùy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2404836,
+      "ownershipPct": 3.1576172179894355,
+      "effectiveDate": "2024-10-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

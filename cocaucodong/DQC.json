@@ -1,1 +1,112 @@
-{"data":[{"code":"DQC","shareholderType":"COMPANY","shareholderName":"Đèn Điện Quang","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":6801350,"ownershipPct":24.680070074583607,"effectiveDate":"2019-02-27"},{"code":"DQC","shareholderType":"PERSON","shareholderName":"Nguyễn Thái Nga","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4125632,"ownershipPct":14.970687710813959,"effectiveDate":"2020-06-30"},{"code":"DQC","shareholderType":"PERSON","shareholderName":"Trần Thị Lĩnh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":2957472,"ownershipPct":10.731783572911104,"groupPct":10.743867149458167,"effectiveDate":"2022-06-30"},{"code":"DQC","shareholderType":"PERSON","shareholderName":"Hồ Quỳnh Hưng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2517994,"ownershipPct":9.13704902223545,"effectiveDate":"2020-06-30"},{"code":"DQC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư và Thương mại Điện Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2437835,"ownershipPct":8.846175925407827,"effectiveDate":"2020-06-30"},{"code":"DQC","shareholderType":"PERSON","shareholderName":"Nguyễn Thái Quỳnh Lê","roleType":"Em gái của Thành viên HĐQT","enRoleType":"Young Sister of Board member","numberOfShares":2230417,"ownershipPct":8.093517883294133,"effectiveDate":"2020-06-30"},{"code":"DQC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lĩnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2026180,"ownershipPct":7.352402741179297,"effectiveDate":"2014-09-15"},{"code":"DQC","shareholderType":"COMPANY","shareholderName":"Amersham Industries Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1759281,"ownershipPct":6.383905895283072,"effectiveDate":"2020-06-30"},{"code":"DQC","shareholderType":"PERSON","shareholderName":"Hồ Đức Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1421935,"ownershipPct":5.159777903137325,"effectiveDate":"2015-09-15"},{"code":"DQC","shareholderType":"COMPANY","shareholderName":"CK Sacombank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1362944,"ownershipPct":4.94571716317103,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":15,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DQC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đèn Điện Quang",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 6801350,
+      "ownershipPct": 24.680070074583607,
+      "effectiveDate": "2019-02-27"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thái Nga",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4125632,
+      "ownershipPct": 14.970687710813959,
+      "groupPct": 14.993965831999967,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Lĩnh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 2957472,
+      "ownershipPct": 10.731783572911104,
+      "groupPct": 10.743867149458167,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Quỳnh Hưng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2517994,
+      "ownershipPct": 9.13704902223545,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư và Thương mại Điện Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2437835,
+      "ownershipPct": 8.846175925407827,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thái Quỳnh Lê",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 2230417,
+      "ownershipPct": 8.093517883294133,
+      "groupPct": 16.210313887774273,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thái Quỳnh Lê",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 2230417,
+      "ownershipPct": 8.093517883294133,
+      "groupPct": 16.210313887774273,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lĩnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2026180,
+      "ownershipPct": 7.352402741179297,
+      "effectiveDate": "2014-09-15"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Amersham Industries Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1759281,
+      "ownershipPct": 6.383905895283072,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DQC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Đức Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1421935,
+      "ownershipPct": 5.159777903137325,
+      "effectiveDate": "2015-09-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 16,
+  "totalPages": 2
+}

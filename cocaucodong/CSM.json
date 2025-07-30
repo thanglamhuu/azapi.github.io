@@ -1,1 +1,98 @@
-{"data":[{"code":"CSM","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":52849498,"ownershipPct":51.00059288631763,"effectiveDate":"2022-06-30"},{"code":"CSM","shareholderType":"COMPANY","shareholderName":"Đầu tư Sài Gòn VRG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8256500,"ownershipPct":7.967651748856374,"effectiveDate":"2024-07-04"},{"code":"CSM","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Tuyến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5180000,"ownershipPct":4.998781088727187,"effectiveDate":"2020-06-30"},{"code":"CSM","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4812975,"ownershipPct":4.644596218246473,"effectiveDate":"2020-06-30"},{"code":"CSM","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3250159,"ownershipPct":3.136454313620939,"effectiveDate":"2020-06-30"},{"code":"CSM","shareholderType":"COMPANY","shareholderName":"Balestrand Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2690506,"ownershipPct":2.5963804077040598,"effectiveDate":"2020-06-30"},{"code":"CSM","shareholderType":"COMPANY","shareholderName":"FTIF – Templeton Frontier Markets Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2330159,"ownershipPct":2.248639911762057,"effectiveDate":"2020-06-30"},{"code":"CSM","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư Beira Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1770703,"ownershipPct":1.7087561139290532,"effectiveDate":"2020-06-30"},{"code":"CSM","shareholderType":"COMPANY","shareholderName":"Amersham Industries Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1515164,"ownershipPct":1.462156978671861,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 52849498,
+      "ownershipPct": 51.00059288631763,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư Sài Gòn VRG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8256500,
+      "ownershipPct": 7.967651748856374,
+      "effectiveDate": "2024-07-04"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Tuyến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5180000,
+      "ownershipPct": 4.998781088727187,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4812975,
+      "ownershipPct": 4.644596218246473,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3250159,
+      "ownershipPct": 3.136454313620939,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Balestrand Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2690506,
+      "ownershipPct": 2.5963804077040598,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "FTIF – Templeton Frontier Markets Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2330159,
+      "ownershipPct": 2.248639911762057,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư Beira Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1770703,
+      "ownershipPct": 1.7087561139290532,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CSM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Amersham Industries Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1515164,
+      "ownershipPct": 1.462156978671861,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

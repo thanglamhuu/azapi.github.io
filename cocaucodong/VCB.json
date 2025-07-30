@@ -1,1 +1,38 @@
-{"data":[{"code":"VCB","shareholderType":"COMPANY","shareholderName":"Ngân hàng nhà nước","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4180828481,"ownershipPct":74.80336757829095,"effectiveDate":"2023-07-25"},{"code":"VCB","shareholderType":"COMPANY","shareholderName":"Mizuho Corporate Bank Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":838372264,"ownershipPct":15.000153418500398,"effectiveDate":"2023-07-25"},{"code":"VCB","shareholderType":"COMPANY","shareholderName":"GIC Private Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":142320603,"ownershipPct":2.5463996977045604,"effectiveDate":"2023-07-25"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VCB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng nhà nước",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4180828481,
+      "ownershipPct": 50.0357952405563,
+      "effectiveDate": "2023-07-25"
+    },
+    {
+      "code": "VCB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Mizuho Corporate Bank Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 838372264,
+      "ownershipPct": 10.033567061529403,
+      "effectiveDate": "2023-07-25"
+    },
+    {
+      "code": "VCB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "GIC Private Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 142320603,
+      "ownershipPct": 1.7032807211735272,
+      "effectiveDate": "2023-07-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

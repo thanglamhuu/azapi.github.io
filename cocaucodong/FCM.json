@@ -1,1 +1,48 @@
-{"data":[{"code":"FCM","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Phan Vũ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":23001000,"ownershipPct":51.000035055456465,"effectiveDate":"2021-11-29"},{"code":"FCM","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1500000,"ownershipPct":3.3259446364586194,"effectiveDate":"2021-09-22"},{"code":"FCM","shareholderType":"COMPANY","shareholderName":"ANDBANC INVESTMENTS SIF-VIETNAM VALUE AND INCOME PORTFOLIO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1185503,"ownershipPct":2.628611562903735,"effectiveDate":"2021-11-29"},{"code":"FCM","shareholderType":"COMPANY","shareholderName":"CHỨNG KHOÁN VIX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1100000,"ownershipPct":2.4390260667363206,"effectiveDate":"2021-11-29"}],"currentPage":1,"size":10,"totalElements":4,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "FCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Phan Vũ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 23001000,
+      "ownershipPct": 49.75703829217387,
+      "effectiveDate": "2021-11-29"
+    },
+    {
+      "code": "FCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hiệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1500000,
+      "ownershipPct": 3.2448831545698362,
+      "effectiveDate": "2021-09-22"
+    },
+    {
+      "code": "FCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "ANDBANC INVESTMENTS SIF-VIETNAM VALUE AND INCOME PORTFOLIO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1185503,
+      "ownershipPct": 2.5645458095946694,
+      "effectiveDate": "2021-11-29"
+    },
+    {
+      "code": "FCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CHỨNG KHOÁN VIX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1100000,
+      "ownershipPct": 2.3795809800178795,
+      "effectiveDate": "2021-11-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

@@ -1,1 +1,82 @@
-{"data":[{"code":"PIS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Thương Mại Ánh Vy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":26627000,"ownershipPct":96.82545454545455,"effectiveDate":"2017-10-03"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PIS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương Mại Ánh Vy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 24097000,
+      "ownershipPct": 87.62545454545455,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "PIS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Con của Người ĐD theo pháp luật",
+      "enRoleType": "Child of Legal representative",
+      "numberOfShares": 1265000,
+      "ownershipPct": 4.6,
+      "groupPct": 9.2,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "PIS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 1265000,
+      "ownershipPct": 4.6,
+      "groupPct": 9.2,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "PIS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 1265000,
+      "ownershipPct": 4.6,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "PIS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Em gái của Phó chủ tịch HĐQT",
+      "enRoleType": "Young Sister of Vice-chairman",
+      "numberOfShares": 1265000,
+      "ownershipPct": 4.6,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "PIS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Duy Việt",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1265000,
+      "ownershipPct": 4.6,
+      "groupPct": 9.2,
+      "effectiveDate": "2025-04-16"
+    },
+    {
+      "code": "PIS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Duy Việt",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1265000,
+      "ownershipPct": 4.6,
+      "groupPct": 9.2,
+      "effectiveDate": "2025-04-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

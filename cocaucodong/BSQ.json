@@ -1,1 +1,90 @@
-{"data":[{"code":"BSQ","shareholderType":"COMPANY","shareholderName":"SABECO","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29950000,"ownershipPct":66.55555555555556,"effectiveDate":"2020-06-30"},{"code":"BSQ","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2026332,"ownershipPct":4.50296,"effectiveDate":"2021-12-31"},{"code":"BSQ","shareholderType":"PERSON","shareholderName":"Trương Quang Vinh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1232900,"ownershipPct":2.739777777777778,"effectiveDate":"2018-04-05"},{"code":"BSQ","shareholderType":"COMPANY","shareholderName":"CTCP Bia Sài Gòn Bình Tây","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1166667,"ownershipPct":2.5925933333333333,"effectiveDate":"2021-12-31"},{"code":"BSQ","shareholderType":"PERSON","shareholderName":"Đinh Văn Thuận","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":950000,"ownershipPct":2.111111111111111,"effectiveDate":"2020-06-30"},{"code":"BSQ","shareholderType":"PERSON","shareholderName":"Bùi Thị Nhự","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":502150,"ownershipPct":1.115888888888889,"effectiveDate":"2024-07-12"},{"code":"BSQ","shareholderType":"PERSON","shareholderName":"Đinh Văn Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":450000,"ownershipPct":1,"groupPct":2.375777777777778,"effectiveDate":"2020-06-30"},{"code":"BSQ","shareholderType":"PERSON","shareholderName":"Phạm Thị Cẩn","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":450000,"ownershipPct":1,"groupPct":2.375777777777778,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BSQ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SABECO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29950000,
+      "ownershipPct": 66.55555555555556,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2026332,
+      "ownershipPct": 4.50296,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "BSQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Quang Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1232900,
+      "ownershipPct": 2.739777777777778,
+      "effectiveDate": "2018-04-05"
+    },
+    {
+      "code": "BSQ",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Bia Sài Gòn Bình Tây",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1166667,
+      "ownershipPct": 2.5925933333333333,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "BSQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Thuận",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 650000,
+      "ownershipPct": 1.4444444444444444,
+      "effectiveDate": "2024-11-27"
+    },
+    {
+      "code": "BSQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Nhự",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 502150,
+      "ownershipPct": 1.115888888888889,
+      "effectiveDate": "2024-07-12"
+    },
+    {
+      "code": "BSQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Cẩn",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 450000,
+      "ownershipPct": 1,
+      "groupPct": 3.0424444444444445,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BSQ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Văn Thành",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 450000,
+      "ownershipPct": 1,
+      "groupPct": 3.0424444444444445,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

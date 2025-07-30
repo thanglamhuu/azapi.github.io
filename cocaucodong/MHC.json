@@ -1,1 +1,108 @@
-{"data":[{"code":"MHC","shareholderType":"COMPANY","shareholderName":"CTCP Thương mại và Đầu tư HT Đông Nam Á","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7825352,"ownershipPct":18.695067046453705,"effectiveDate":"2022-07-22"},{"code":"MHC","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Đầu tư và Thương mại Phong Sơn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6512170,"ownershipPct":15.557824717393471,"effectiveDate":"2024-06-20"},{"code":"MHC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư Japan Asia MB Capital - JAMBF","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2182134,"ownershipPct":5.213202094212019,"effectiveDate":"2020-06-30"},{"code":"MHC","shareholderType":"PERSON","shareholderName":"Nguyễn Chiến Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2177150,"ownershipPct":5.201295126428394,"effectiveDate":"2021-01-04"},{"code":"MHC","shareholderType":"PERSON","shareholderName":"Bùi Thu Nga","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2145200,"ownershipPct":5.1249653469968495,"effectiveDate":"2021-01-04"},{"code":"MHC","shareholderType":"PERSON","shareholderName":"Trần Hoàng Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1955870,"ownershipPct":4.672648691604852,"effectiveDate":"2020-07-10"},{"code":"MHC","shareholderType":"COMPANY","shareholderName":"CHỨNG KHOÁN VIX","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1874242,"ownershipPct":4.477636258570795,"effectiveDate":"2020-06-30"},{"code":"MHC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý Quỹ Đầu tư MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1761548,"ownershipPct":4.20840595612139,"effectiveDate":"2020-06-30"},{"code":"MHC","shareholderType":"PERSON","shareholderName":"Dương Thị Hồng Hạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1386500,"ownershipPct":3.312401852326651,"effectiveDate":"2023-11-10"},{"code":"MHC","shareholderType":"COMPANY","shareholderName":"CTCP MHC","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":1281500,"ownershipPct":3.0615528119412936,"effectiveDate":"2021-01-12"}],"currentPage":1,"size":10,"totalElements":17,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "MHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Thương mại và Đầu tư HT Đông Nam Á",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8216619,
+      "ownershipPct": 18.899120387665914,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Đầu tư và Thương mại Phong Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8199900,
+      "ownershipPct": 18.860664863105097,
+      "effectiveDate": "2025-05-08"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư Japan Asia MB Capital - JAMBF",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2291240,
+      "ownershipPct": 5.270102045261639,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Chiến Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2286007,
+      "ownershipPct": 5.258065574179232,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thu Nga",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2252460,
+      "ownershipPct": 5.1809038131623195,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hoàng Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2053663,
+      "ownershipPct": 4.7236490182513196,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CHỨNG KHOÁN VIX",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1967954,
+      "ownershipPct": 4.526508964744341,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý Quỹ Đầu tư MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1849625,
+      "ownershipPct": 4.254339351384866,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thị Hồng Hạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1455825,
+      "ownershipPct": 3.348556375605797,
+      "effectiveDate": "2024-10-21"
+    },
+    {
+      "code": "MHC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP MHC",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 1281500,
+      "ownershipPct": 2.947589851348087,
+      "effectiveDate": "2021-01-12"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 17,
+  "totalPages": 2
+}

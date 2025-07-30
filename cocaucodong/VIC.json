@@ -1,1 +1,112 @@
-{"data":[{"code":"VIC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Tập đoàn Đầu tư Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1260132658,"ownershipPct":32.956176635843214,"effectiveDate":"2023-06-30"},{"code":"VIC","shareholderType":"PERSON","shareholderName":"Phạm Nhật Vượng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":691274400,"ownershipPct":18.07885946420455,"groupPct":18.773302175108483,"effectiveDate":"2023-03-21"},{"code":"VIC","shareholderType":"PERSON","shareholderName":"Phạm Nhật Vượng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":691274400,"ownershipPct":18.07885946420455,"groupPct":18.412456875913342,"effectiveDate":"2023-03-21"},{"code":"VIC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Quản lý và Đầu tư Bất động sản VMI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":243462578,"ownershipPct":6.367262743210133,"effectiveDate":"2022-11-17"},{"code":"VIC","shareholderType":"COMPANY","shareholderName":"SK Investment Vina I Pte.Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":231471238,"ownershipPct":6.05365392065357,"effectiveDate":"2021-08-17"},{"code":"VIC","shareholderType":"PERSON","shareholderName":"Phạm Thu Hương","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":170610525,"ownershipPct":4.461967208085758,"groupPct":7.45160016006971,"effectiveDate":"2023-12-21"},{"code":"VIC","shareholderType":"PERSON","shareholderName":"Phạm Thúy Hằng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":114163446,"ownershipPct":2.985710010645997,"groupPct":7.45160016006971,"effectiveDate":"2023-12-21"},{"code":"VIC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Vinpearl","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":87483040,"ownershipPct":2.2879388932403475,"effectiveDate":"2021-08-17"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "VIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn Đầu tư Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1260132658,
+      "ownershipPct": 32.956176635843214,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Nhật Vượng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 449939195,
+      "ownershipPct": 11.767233784214094,
+      "groupPct": 12.461676495118025,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Nhật Vượng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 449939195,
+      "ownershipPct": 11.767233784214094,
+      "groupPct": 12.100831195922886,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Quản lý và Đầu tư Bất động sản VMI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 243462578,
+      "ownershipPct": 6.367262743210133,
+      "effectiveDate": "2022-11-17"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SK Investment Vina I Pte.Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 231471238,
+      "ownershipPct": 6.05365392065357,
+      "effectiveDate": "2021-08-17"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thu Hương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 170610525,
+      "ownershipPct": 4.461967208085758,
+      "groupPct": 7.45160016006971,
+      "effectiveDate": "2023-12-21"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư và Phát triển Đường sắt cao tốc VinSpeed",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 135646608,
+      "ownershipPct": 3.54755790584469,
+      "effectiveDate": "2025-06-27"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thúy Hằng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 114163446,
+      "ownershipPct": 2.985710010645997,
+      "groupPct": 7.45160016006971,
+      "effectiveDate": "2023-12-21"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VinEnergo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 105688597,
+      "ownershipPct": 2.7640677741457673,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "VIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Vinpearl",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 87483040,
+      "ownershipPct": 2.2879388932403475,
+      "effectiveDate": "2021-08-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

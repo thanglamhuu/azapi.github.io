@@ -1,1 +1,78 @@
-{"data":[{"code":"MTG","shareholderType":"COMPANY","shareholderName":"Dầu khí An Pha","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4256345,"ownershipPct":40.730574162679424,"effectiveDate":"2020-12-31"},{"code":"MTG","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Tú","roleType":"Tổng Giám đốc","enRoleType":"CEO","numberOfShares":3000000,"ownershipPct":28.708133971291865,"effectiveDate":"2024-01-16"},{"code":"MTG","shareholderType":"PERSON","shareholderName":"Trương Hữu Phước","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1558000,"ownershipPct":14.909090909090908,"effectiveDate":"2024-02-01"},{"code":"MTG","shareholderType":"COMPANY","shareholderName":"CK Rồng Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":573110,"ownershipPct":5.484306220095694,"effectiveDate":"2012-03-27"},{"code":"MTG","shareholderType":"PERSON","shareholderName":"Trần Quang Tuyến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":390000,"ownershipPct":3.7320574162679425,"effectiveDate":"2010-04-21"},{"code":"MTG","shareholderType":"PERSON","shareholderName":"Cao Thị Như Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":327000,"ownershipPct":3.1291866028708135,"effectiveDate":"2020-06-30"},{"code":"MTG","shareholderType":"PERSON","shareholderName":"Vũ Minh Trí","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":314500,"ownershipPct":3.0095693779904304,"effectiveDate":"2021-10-08"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dầu khí An Pha",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4256345,
+      "ownershipPct": 40.730574162679424,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "MTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Tú",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3000000,
+      "ownershipPct": 28.708133971291865,
+      "effectiveDate": "2024-01-16"
+    },
+    {
+      "code": "MTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Hữu Phước",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1558000,
+      "ownershipPct": 14.909090909090908,
+      "effectiveDate": "2024-02-01"
+    },
+    {
+      "code": "MTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Rồng Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 573110,
+      "ownershipPct": 5.484306220095694,
+      "effectiveDate": "2012-03-27"
+    },
+    {
+      "code": "MTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quang Tuyến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 390000,
+      "ownershipPct": 3.7320574162679425,
+      "effectiveDate": "2010-04-21"
+    },
+    {
+      "code": "MTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Thị Như Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 327000,
+      "ownershipPct": 3.1291866028708135,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "MTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Minh Trí",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 314500,
+      "ownershipPct": 3.0095693779904304,
+      "effectiveDate": "2021-10-08"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

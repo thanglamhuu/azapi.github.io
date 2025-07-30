@@ -1,1 +1,28 @@
-{"data":[{"code":"LAS","shareholderType":"COMPANY","shareholderName":"Viet Nam Chemical Group","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":78791985,"ownershipPct":69.81614246068455,"effectiveDate":"2021-12-31"},{"code":"LAS","shareholderType":"COMPANY","shareholderName":"Vietnam Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4706352,"ownershipPct":4.170212765957447,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Viet Nam Chemical Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 78791985,
+      "ownershipPct": 69.81614246068455,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "LAS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4706352,
+      "ownershipPct": 4.170212765957447,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

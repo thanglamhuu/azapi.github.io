@@ -1,1 +1,29 @@
-{"data":[{"code":"LM7","shareholderType":"COMPANY","shareholderName":"LILAMA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2550000,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"LM7","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Phan","roleType":"Anh/em rể của Chủ tịch HĐQT","enRoleType":"Brother in law of Chairman","numberOfShares":82600,"ownershipPct":1.652,"groupPct":2.21398,"effectiveDate":"2021-06-30"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "LM7",
+      "shareholderType": "COMPANY",
+      "shareholderName": "LILAMA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2550000,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "LM7",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Phan",
+      "roleType": "Anh/em rể của Chủ tịch HĐQT",
+      "enRoleType": "Brother in law of Chairman",
+      "numberOfShares": 82600,
+      "ownershipPct": 1.652,
+      "groupPct": 2.21398,
+      "effectiveDate": "2021-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

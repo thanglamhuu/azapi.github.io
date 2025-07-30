@@ -1,1 +1,80 @@
-{"data":[{"code":"MA1","shareholderType":"PERSON","shareholderName":"Vũ Thanh Tùng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1925042,"ownershipPct":36.39216857618983,"effectiveDate":"2020-06-30"},{"code":"MA1","shareholderType":"PERSON","shareholderName":"Hoàng Thị Liên Hồng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":330115,"ownershipPct":6.240695387180595,"effectiveDate":"2023-03-20"},{"code":"MA1","shareholderType":"PERSON","shareholderName":"Phạm Mạnh Kiếm","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":193022,"ownershipPct":3.649005664766438,"effectiveDate":"2020-06-30"},{"code":"MA1","shareholderType":"PERSON","shareholderName":"Vũ Ngọc Lan","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":176342,"ownershipPct":3.333676767084805,"groupPct":4.445834983548263,"effectiveDate":"2020-06-30"},{"code":"MA1","shareholderType":"PERSON","shareholderName":"Hoàng Diệu Thúy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":162485,"ownershipPct":3.0717155839208727,"effectiveDate":"2023-07-17"},{"code":"MA1","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Trang","roleType":"Trưởng BKS","enRoleType":"Head of Control","numberOfShares":125143,"ownershipPct":2.3657796308496772,"effectiveDate":"2020-06-30"},{"code":"MA1","shareholderType":"PERSON","shareholderName":"Vũ Tường Vân","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":94558,"ownershipPct":1.7875821287158193,"effectiveDate":"2020-06-30"},{"code":"MA1","shareholderType":"PERSON","shareholderName":"Vũ Bảo Thạch","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":58830,"ownershipPct":1.1121582164634578,"groupPct":4.445834983548263,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MA1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thanh Tùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1925042,
+      "ownershipPct": 19.153899668789037,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "MA1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Liên Hồng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 627218,
+      "ownershipPct": 6.240731704793206,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "MA1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Mạnh Kiếm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 366741,
+      "ownershipPct": 3.649021849098025,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "MA1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Ngọc Lan",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 335049,
+      "ownershipPct": 3.3336908649931267,
+      "groupPct": 4.445856440226411,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "MA1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Diệu Thúy",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 308721,
+      "ownershipPct": 3.0717309334800076,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "MA1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Trang",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 237771,
+      "ownershipPct": 2.365788319500374,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "MA1",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Bảo Thạch",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 111777,
+      "ownershipPct": 1.1121655752332844,
+      "groupPct": 4.445856440226411,
+      "effectiveDate": "2024-12-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

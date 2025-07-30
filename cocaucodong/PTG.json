@@ -1,1 +1,108 @@
-{"data":[{"code":"PTG","shareholderType":"PERSON","shareholderName":"Huỳnh Văn Nghi","roleType":"Phụ trách QT công ty","enRoleType":"In charge of Corp Governance","numberOfShares":666930,"ownershipPct":13.348785123048886,"effectiveDate":"2020-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Huỳnh Mỹ Linh","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":501945,"ownershipPct":10.046565529499007,"effectiveDate":"2020-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Huỳnh Thanh Vũ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":442500,"ownershipPct":8.856757706129777,"effectiveDate":"2020-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Dương Thị Thu Hồng","roleType":"Vợ của Phụ trách QT công ty","enRoleType":"Wife of In charge of Corp Governance","numberOfShares":358650,"ownershipPct":7.17847717808688,"effectiveDate":"2020-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Nguyễn Quốc Bình","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":322845,"ownershipPct":6.461830376577328,"effectiveDate":"2020-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Bùi Trọng Thủy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":254085,"ownershipPct":5.085580297767196,"effectiveDate":"2020-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Lệ Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":240000,"ownershipPct":4.803665196544964,"effectiveDate":"2020-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Ngô Thị Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":163000,"ownershipPct":3.2624892793201212,"effectiveDate":"2020-12-31"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Đặng Thùy Mai","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":153810,"ownershipPct":3.0785489328357536,"effectiveDate":"2022-06-30"},{"code":"PTG","shareholderType":"PERSON","shareholderName":"Đoàn Tấn Kiểu","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":96435,"ownershipPct":1.9301727217867233,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Văn Nghi",
+      "roleType": "Phụ trách QT công ty",
+      "enRoleType": "In charge of Corp Governance",
+      "numberOfShares": 666930,
+      "ownershipPct": 13.348785123048886,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Mỹ Linh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 501945,
+      "ownershipPct": 10.046565529499007,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Thanh Vũ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 442500,
+      "ownershipPct": 8.856757706129777,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thị Thu Hồng",
+      "roleType": "Vợ của Phụ trách QT công ty",
+      "enRoleType": "Wife of In charge of Corp Governance",
+      "numberOfShares": 358650,
+      "ownershipPct": 7.17847717808688,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quốc Bình",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 322845,
+      "ownershipPct": 6.461830376577328,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Trọng Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 254085,
+      "ownershipPct": 5.085580297767196,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Lệ Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 240000,
+      "ownershipPct": 4.803665196544964,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Thị Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 163000,
+      "ownershipPct": 3.2624892793201212,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thùy Mai",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 153810,
+      "ownershipPct": 3.0785489328357536,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "PTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Tấn Kiểu",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 96435,
+      "ownershipPct": 1.9301727217867233,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

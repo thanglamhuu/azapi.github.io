@@ -1,1 +1,111 @@
-{"data":[{"code":"NDT","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8394655,"ownershipPct":53.674347070609315,"effectiveDate":"2024-03-05"},{"code":"NDT","shareholderType":"PERSON","shareholderName":"Trung Thị Nga","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":719000,"ownershipPct":4.597193755284535,"effectiveDate":"2020-06-30"},{"code":"NDT","shareholderType":"PERSON","shareholderName":"Đỗ Thị Thơ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":515000,"ownershipPct":3.292843927637741,"effectiveDate":"2020-06-30"},{"code":"NDT","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Miêng","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":350960,"ownershipPct":2.2439932132888183,"effectiveDate":"2023-12-31"},{"code":"NDT","shareholderType":"PERSON","shareholderName":"Bùi Thị Hải","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":210600,"ownershipPct":1.3465493808941906,"effectiveDate":"2023-12-31"},{"code":"NDT","shareholderType":"PERSON","shareholderName":"Vũ Ngọc Tú","roleType":"Con của Thành viên HĐQT","enRoleType":"Child of Board member","numberOfShares":180000,"ownershipPct":1.1508969067471715,"groupPct":1.1726360705412848,"effectiveDate":"2023-05-05"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NDT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8394655,
+      "ownershipPct": 53.674347070609315,
+      "effectiveDate": "2024-03-05"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Tân",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3127995,
+      "ownershipPct": 19.99999872122566,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Ngọc Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2175164,
+      "ownershipPct": 13.907719551487803,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Khánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1593553,
+      "ownershipPct": 10.188973435764863,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Vũ",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1576257,
+      "ownershipPct": 10.078385030769867,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trung Thị Nga",
+      "roleType": "Chị/em dâu của Thành viên HĐQT",
+      "enRoleType": "Sister in law of Board member",
+      "numberOfShares": 826850,
+      "ownershipPct": 5.286772818577215,
+      "groupPct": 6.670745530555801,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Thơ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 515000,
+      "ownershipPct": 3.292843927637741,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Miêng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 350960,
+      "ownershipPct": 2.2439932132888183,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Hải",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 210600,
+      "ownershipPct": 1.3465493808941906,
+      "groupPct": 6.670745530555801,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "NDT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Ngọc Tú",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 180000,
+      "ownershipPct": 1.1508969067471715,
+      "groupPct": 1.1726360705412848,
+      "effectiveDate": "2023-05-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

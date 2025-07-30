@@ -1,1 +1,89 @@
-{"data":[{"code":"HAG","shareholderType":"PERSON","shareholderName":"Đoàn Nguyên Đức","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":319950533,"ownershipPct":30.258251366716692,"effectiveDate":"2021-02-08"},{"code":"HAG","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG, Hong Kong Branch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":39380120,"ownershipPct":3.7242431154551863,"effectiveDate":"2020-06-30"},{"code":"HAG","shareholderType":"COMPANY","shareholderName":"Deutsche Bank AG, London Branch","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":35417913,"ownershipPct":3.34953064272127,"effectiveDate":"2020-06-30"},{"code":"HAG","shareholderType":"COMPANY","shareholderName":"Credit Suisse (HongKong) Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":33905390,"ownershipPct":3.2064888396562305,"effectiveDate":"2015-09-04"},{"code":"HAG","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán LPBank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":29188800,"ownershipPct":2.760433118243376,"effectiveDate":"2024-06-10"},{"code":"HAG","shareholderType":"COMPANY","shareholderName":"VietNam Century Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":20543362,"ownershipPct":1.942819739929784,"effectiveDate":"2020-06-30"},{"code":"HAG","shareholderType":"COMPANY","shareholderName":"Red River Holding","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14420679,"ownershipPct":1.3637874766745042,"effectiveDate":"2020-06-30"},{"code":"HAG","shareholderType":"PERSON","shareholderName":"Đoàn Hoàng Anh","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":11000000,"ownershipPct":1.040288203032572,"groupPct":1.100436815787022,"effectiveDate":"2024-05-09"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HAG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Nguyên Đức",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 329950533,
+      "ownershipPct": 31.20396791492812,
+      "effectiveDate": "2025-06-19"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, Hong Kong Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 39380120,
+      "ownershipPct": 3.7242431154551863,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, London Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35417913,
+      "ownershipPct": 3.34953064272127,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Credit Suisse (HongKong) Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 33905390,
+      "ownershipPct": 3.2064888396562305,
+      "effectiveDate": "2015-09-04"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán LPBank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 29188800,
+      "ownershipPct": 2.760433118243376,
+      "effectiveDate": "2024-06-10"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VietNam Century Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20543362,
+      "ownershipPct": 1.942819739929784,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Red River Holding",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14420679,
+      "ownershipPct": 1.3637874766745042,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Hoàng Anh",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 13000000,
+      "ownershipPct": 1.2294315126748578,
+      "groupPct": 1.2895801254293078,
+      "effectiveDate": "2025-06-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

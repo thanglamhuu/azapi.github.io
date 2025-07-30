@@ -1,1 +1,28 @@
-{"data":[{"code":"SZC","shareholderType":"COMPANY","shareholderName":"TCT P.triển KCN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":56208000,"ownershipPct":31.226670136296683,"effectiveDate":"2023-07-06"},{"code":"SZC","shareholderType":"COMPANY","shareholderName":"Sonadezi Long Thành","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12096000,"ownershipPct":6.7200007466667495,"effectiveDate":"2023-07-06"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SZC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT P.triển KCN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 56208000,
+      "ownershipPct": 31.22911936700273,
+      "effectiveDate": "2023-07-06"
+    },
+    {
+      "code": "SZC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Sonadezi Long Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12096000,
+      "ownershipPct": 6.720527822787949,
+      "effectiveDate": "2023-07-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

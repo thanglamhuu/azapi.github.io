@@ -1,1 +1,108 @@
-{"data":[{"code":"KBC","shareholderType":"PERSON","shareholderName":"Đặng Thành Tâm","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":138666665,"ownershipPct":18.064852174789603,"effectiveDate":"2022-12-13"},{"code":"KBC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Tư vấn và Đầu tư Kinh Bắc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":62255783,"ownershipPct":8.110395652197878,"effectiveDate":"2022-09-19"},{"code":"KBC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Đầu tư Vinatex Tân Tạo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":39239852,"ownershipPct":5.111986545148556,"effectiveDate":"2023-06-30"},{"code":"KBC","shareholderType":"COMPANY","shareholderName":"PYN ELITE FUND (NON - UCITS)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":30943448,"ownershipPct":4.031169379448832,"effectiveDate":"2022-06-21"},{"code":"KBC","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22494375,"ownershipPct":2.930463202091742,"effectiveDate":"2022-06-21"},{"code":"KBC","shareholderType":"COMPANY","shareholderName":"CTBC Vietnam Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17000000,"ownershipPct":2.2146814230473004,"effectiveDate":"2023-11-23"},{"code":"KBC","shareholderType":"COMPANY","shareholderName":"Đô thị Kinh Bắc","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":15896923,"ownershipPct":2.0709776501007857,"effectiveDate":"2022-10-14"},{"code":"KBC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14226727,"ownershipPct":1.853392235156791,"effectiveDate":"2014-03-21"},{"code":"KBC","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Kim Xuân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":14226727,"ownershipPct":1.853392235156791,"effectiveDate":"2014-03-21"},{"code":"KBC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư Beira Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":13996500,"ownershipPct":1.8233993257459729,"effectiveDate":"2022-06-21"}],"currentPage":1,"size":10,"totalElements":13,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư và Phát triển DTT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 86550000,
+      "ownershipPct": 9.190290696476321,
+      "effectiveDate": "2025-01-21"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Tư vấn và Đầu tư Kinh Bắc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 62255783,
+      "ownershipPct": 6.6106151739659005,
+      "effectiveDate": "2022-09-19"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Thành Tâm",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 52116665,
+      "ownershipPct": 5.533995395504022,
+      "effectiveDate": "2025-01-21"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "QUỸ ĐẦU TƯ HẠ TẦNG PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 50000000,
+      "ownershipPct": 5.309237837363559,
+      "effectiveDate": "2025-06-24"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Đầu tư Vinatex Tân Tạo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 39239852,
+      "ownershipPct": 4.166674139418923,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 30943448,
+      "ownershipPct": 3.285722498801835,
+      "effectiveDate": "2022-06-21"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22494375,
+      "ownershipPct": 2.388559737556898,
+      "effectiveDate": "2022-06-21"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTBC Vietnam Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17000000,
+      "ownershipPct": 1.8051408647036102,
+      "effectiveDate": "2023-11-23"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đô thị Kinh Bắc",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 15896923,
+      "ownershipPct": 1.6880109017851006,
+      "effectiveDate": "2022-10-14"
+    },
+    {
+      "code": "KBC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Kim Xuân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 14226727,
+      "ownershipPct": 1.5106615458048351,
+      "effectiveDate": "2014-03-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 15,
+  "totalPages": 2
+}

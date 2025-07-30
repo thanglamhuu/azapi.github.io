@@ -1,1 +1,98 @@
-{"data":[{"code":"FRT","shareholderType":"COMPANY","shareholderName":"CTCP FPT","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":63400650,"ownershipPct":46.53518663710455,"effectiveDate":"2023-06-06"},{"code":"FRT","shareholderType":"COMPANY","shareholderName":"Công ty quản lý quỹ đầu tư Dragon Capital","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":9592500,"ownershipPct":7.040760273221574,"effectiveDate":"2022-12-31"},{"code":"FRT","shareholderType":"COMPANY","shareholderName":"CTBC Vietnam Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6700000,"ownershipPct":4.9177058984190305,"effectiveDate":"2024-01-16"},{"code":"FRT","shareholderType":"COMPANY","shareholderName":"VOF Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6516763,"ownershipPct":4.7832125139849095,"effectiveDate":"2023-06-06"},{"code":"FRT","shareholderType":"COMPANY","shareholderName":"Hanoi Investments Holdings Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3090700,"ownershipPct":2.268530391081149,"effectiveDate":"2024-04-09"},{"code":"FRT","shareholderType":"COMPANY","shareholderName":"Norges Bank","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2985900,"ownershipPct":2.1916086629984153,"effectiveDate":"2024-04-09"},{"code":"FRT","shareholderType":"COMPANY","shareholderName":"DC Developing Markets Strategies Public Limited Company","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2420000,"ownershipPct":1.7762460110707543,"effectiveDate":"2024-04-09"},{"code":"FRT","shareholderType":"COMPANY","shareholderName":"Vietnam Enterprise Investments Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1392200,"ownershipPct":1.0218552465341753,"effectiveDate":"2024-04-09"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP FPT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 63400650,
+      "ownershipPct": 37.22814936433352,
+      "effectiveDate": "2023-06-06"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty quản lý quỹ đầu tư Dragon Capital",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11990625,
+      "ownershipPct": 7.040760283557213,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTBC Vietnam Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8375000,
+      "ownershipPct": 4.917705905638084,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VOF Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6516763,
+      "ownershipPct": 3.826570016805225,
+      "effectiveDate": "2023-06-06"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Hanoi Investments Holdings Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3083000,
+      "ownershipPct": 1.8103029620396673,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Enterprise Investments Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2962250,
+      "ownershipPct": 1.739399918683751,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Amersham Industries Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2639750,
+      "ownershipPct": 1.5500315420188815,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Norges Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2134000,
+      "ownershipPct": 1.2530608241948265,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "FRT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "DC Developing Markets Strategies Public Limited Company",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2024500,
+      "ownershipPct": 1.1887636544434987,
+      "effectiveDate": "2025-07-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

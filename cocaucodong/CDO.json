@@ -1,1 +1,108 @@
-{"data":[{"code":"CDO","shareholderType":"PERSON","shareholderName":"Phạm Thị Ngọc Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1130875,"ownershipPct":3.5895124500178146,"effectiveDate":"2016-10-31"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hiền","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1093359,"ownershipPct":3.47043284433649,"effectiveDate":"2016-11-16"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hoàn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1092190,"ownershipPct":3.466722319252753,"effectiveDate":"2015-12-28"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Hà Thị Lan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1082359,"ownershipPct":3.4355177237880685,"effectiveDate":"2016-10-27"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Mầu Tiến Doanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":993670,"ownershipPct":3.1540098032136195,"effectiveDate":"2016-08-25"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Đỗ Thị Hải Yến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":901610,"ownershipPct":2.8618019852420136,"effectiveDate":"2016-08-29"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Đặng Hoàng Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":882300,"ownershipPct":2.800510078170194,"effectiveDate":"2015-07-15"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tú","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":585133,"ownershipPct":1.8572717483508556,"effectiveDate":"2016-11-11"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Nguyễn Minh Quang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":548459,"ownershipPct":1.740864736442419,"effectiveDate":"2016-12-21"},{"code":"CDO","shareholderType":"PERSON","shareholderName":"Lê Kim Thu","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":434780,"ownershipPct":1.380036010185693,"groupPct":1.7450577250100976,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Ngọc Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1130875,
+      "ownershipPct": 3.5895124500178146,
+      "effectiveDate": "2016-10-31"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hiền",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1093359,
+      "ownershipPct": 3.47043284433649,
+      "effectiveDate": "2016-11-16"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hoàn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1092190,
+      "ownershipPct": 3.466722319252753,
+      "effectiveDate": "2015-12-28"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Thị Lan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1082359,
+      "ownershipPct": 3.4355177237880685,
+      "effectiveDate": "2016-10-27"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mầu Tiến Doanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 993670,
+      "ownershipPct": 3.1540098032136195,
+      "effectiveDate": "2016-08-25"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Hải Yến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 901610,
+      "ownershipPct": 2.8618019852420136,
+      "effectiveDate": "2016-08-29"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Hoàng Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 882300,
+      "ownershipPct": 2.800510078170194,
+      "effectiveDate": "2015-07-15"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đình Nhân",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 665002,
+      "ownershipPct": 2.110784090449207,
+      "effectiveDate": "2024-11-08"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 585133,
+      "ownershipPct": 1.8572717483508556,
+      "effectiveDate": "2016-11-11"
+    },
+    {
+      "code": "CDO",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Quang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 548459,
+      "ownershipPct": 1.740864736442419,
+      "effectiveDate": "2016-12-21"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

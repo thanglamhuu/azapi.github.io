@@ -1,1 +1,82 @@
-{"data":[{"code":"TSA","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Trường","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":7000000,"ownershipPct":20,"effectiveDate":"2023-04-20"},{"code":"TSA","shareholderType":"PERSON","shareholderName":"Hoàng Kim Huế","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":3500000,"ownershipPct":10,"groupPct":20,"effectiveDate":"2023-04-20"},{"code":"TSA","shareholderType":"PERSON","shareholderName":"Nguyễn Diệu Linh","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":1750000,"ownershipPct":5,"groupPct":20,"effectiveDate":"2023-04-20"},{"code":"TSA","shareholderType":"PERSON","shareholderName":"Đặng Văn Thuyết","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1050000,"ownershipPct":3,"groupPct":20,"effectiveDate":"2023-04-20"},{"code":"TSA","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Thỏa","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":903950,"ownershipPct":2.5827142857142857,"effectiveDate":"2023-04-20"},{"code":"TSA","shareholderType":"PERSON","shareholderName":"Nguyễn Xuân Chính","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":700000,"ownershipPct":2,"groupPct":20,"effectiveDate":"2023-04-20"},{"code":"TSA","shareholderType":"PERSON","shareholderName":"Hoàng Thị Thảo","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":578750,"ownershipPct":1.6535714285714285,"effectiveDate":"2023-04-20"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TSA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Trường",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 8085000,
+      "ownershipPct": 20.000002968460553,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "TSA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Kim Huế",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 4042500,
+      "ownershipPct": 10.000001484230276,
+      "groupPct": 19.545457446450087,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "TSA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Diệu Linh",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 2021250,
+      "ownershipPct": 5.000000742115138,
+      "groupPct": 19.545457446450087,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "TSA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Văn Thuyết",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1102500,
+      "ownershipPct": 2.7272731320628028,
+      "groupPct": 19.545457446450087,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "TSA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Thỏa",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 813062,
+      "ownershipPct": 2.0112853943775475,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "TSA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Chính",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 735000,
+      "ownershipPct": 1.8181820880418684,
+      "groupPct": 19.545457446450087,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "TSA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Thảo",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 668456,
+      "ownershipPct": 1.6535710555702248,
+      "effectiveDate": "2025-06-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

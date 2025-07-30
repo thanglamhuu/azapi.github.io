@@ -1,1 +1,109 @@
-{"data":[{"code":"XLV","shareholderType":"PERSON","shareholderName":"Trần Xuân Chính","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":518250,"ownershipPct":17.275,"effectiveDate":"2020-08-31"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Trần Xuân Minh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":332325,"ownershipPct":11.0775,"effectiveDate":"2020-08-13"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Nguyễn Anh Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":330050,"ownershipPct":11.001666666666667,"effectiveDate":"2020-08-13"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Ngô Đình Khương","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":323950,"ownershipPct":10.798333333333334,"effectiveDate":"2020-06-30"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Lưu Quang Hưng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":150600,"ownershipPct":5.02,"effectiveDate":"2024-03-04"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Vũ Hồng Vân","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":128800,"ownershipPct":4.293333333333333,"effectiveDate":"2020-12-31"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Đặng Vũ Quyền","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":72200,"ownershipPct":2.4066666666666667,"effectiveDate":"2020-06-30"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hồng Giang","roleType":"Vợ của Thành viên HĐQT","enRoleType":"Wife of Board member","numberOfShares":57500,"ownershipPct":1.9166666666666667,"groupPct":2.1083333333333334,"effectiveDate":"2020-12-31"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Đinh Hữu Phương","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":55750,"ownershipPct":1.8583333333333334,"effectiveDate":"2020-08-13"},{"code":"XLV","shareholderType":"PERSON","shareholderName":"Trần Ngọc Tân","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":53450,"ownershipPct":1.7816666666666667,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Xuân Chính",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 518250,
+      "ownershipPct": 17.275,
+      "effectiveDate": "2020-08-31"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Xuân Minh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 332325,
+      "ownershipPct": 11.0775,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 330050,
+      "ownershipPct": 11.001666666666667,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Đình Khương",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 323950,
+      "ownershipPct": 10.798333333333334,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lưu Quang Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 150600,
+      "ownershipPct": 5.02,
+      "effectiveDate": "2024-03-04"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Hồng Vân",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 128800,
+      "ownershipPct": 4.293333333333333,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Vũ Quyền",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 72200,
+      "ownershipPct": 2.4066666666666667,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hồng Giang",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 57500,
+      "ownershipPct": 1.9166666666666667,
+      "groupPct": 2.1083333333333334,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Hữu Phương",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 55750,
+      "ownershipPct": 1.8583333333333334,
+      "effectiveDate": "2020-08-13"
+    },
+    {
+      "code": "XLV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Ngọc Tân",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 53450,
+      "ownershipPct": 1.7816666666666667,
+      "effectiveDate": "2021-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

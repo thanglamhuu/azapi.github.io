@@ -81,12 +81,14 @@
   "newFiscalDateQuarter": [
     "2024-09-30",
     "2024-12-31",
-    "2025-03-31"
+    "2025-03-31",
+    "2025-06-30"
   ],
-  "choNhanGiaRaPE": 0.4515996480493847,
-  "choNhanGiaRaPB": 0.07095521445767848,
-  "choNhanGiaRaPS": 0.17806854439772246,
+  "choNhanGiaRaPE": 0.43241222600490337,
+  "choNhanGiaRaPB": 0.07262368762014877,
+  "choNhanGiaRaPS": 0.18577517717669048,
   "PE": [
+    null,
     null,
     null,
     null
@@ -94,9 +96,11 @@
   "PETb": [
     null,
     null,
+    null,
     null
   ],
   "PB": [
+    null,
     null,
     null,
     null
@@ -104,14 +108,17 @@
   "PBTb": [
     null,
     null,
+    null,
     null
   ],
   "PS": [
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
+    null,
     null,
     null,
     null

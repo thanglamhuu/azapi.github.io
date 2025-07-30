@@ -1,1 +1,39 @@
-{"data":[{"code":"TCH","shareholderType":"PERSON","shareholderName":"Đỗ Hữu Hạ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":262120987,"ownershipPct":39.226993754471636,"effectiveDate":"2022-01-13"},{"code":"TCH","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Hà","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":32663925,"ownershipPct":4.888229655458797,"groupPct":5.267137911903714,"effectiveDate":"2022-07-05"},{"code":"TCH","shareholderType":"PERSON","shareholderName":"Trần Thị Hoàng Hà","roleType":"Đại diện CBTT","enRoleType":"Spokeman","numberOfShares":23091118,"ownershipPct":3.4556376119923873,"effectiveDate":"2022-01-13"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Hữu Hạ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 262120987,
+      "ownershipPct": 39.226993754471636,
+      "effectiveDate": "2022-01-13"
+    },
+    {
+      "code": "TCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hà",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 32663925,
+      "ownershipPct": 4.888229655458797,
+      "groupPct": 5.267137911903714,
+      "effectiveDate": "2022-07-05"
+    },
+    {
+      "code": "TCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Hoàng Hà",
+      "roleType": "Đại diện CBTT",
+      "enRoleType": "Spokeman",
+      "numberOfShares": 23091118,
+      "ownershipPct": 3.4556376119923873,
+      "effectiveDate": "2022-01-13"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

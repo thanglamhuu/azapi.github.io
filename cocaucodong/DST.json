@@ -1,1 +1,28 @@
-{"data":[{"code":"DST","shareholderType":"PERSON","shareholderName":"Đặng Hoàng Tuấn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1577000,"ownershipPct":4.8946273937738605,"effectiveDate":"2021-03-15"},{"code":"DST","shareholderType":"PERSON","shareholderName":"Cao Thị Xuân Thu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1376000,"ownershipPct":4.270771904776685,"effectiveDate":"2022-11-22"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Hoàng Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1577000,
+      "ownershipPct": 4.8946273937738605,
+      "effectiveDate": "2021-03-15"
+    },
+    {
+      "code": "DST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Thị Xuân Thu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1376000,
+      "ownershipPct": 4.270771904776685,
+      "effectiveDate": "2022-11-22"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

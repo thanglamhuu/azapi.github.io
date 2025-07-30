@@ -1,1 +1,68 @@
-{"data":[{"code":"DC4","shareholderType":"COMPANY","shareholderName":"TCT ĐTPT Xây dựng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18841340,"ownershipPct":32.62611108120212,"effectiveDate":"2022-06-09"},{"code":"DC4","shareholderType":"COMPANY","shareholderName":"CTCP Phát triển và Kinh doanh nhà (HDTC)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7492094,"ownershipPct":12.973487611539728,"effectiveDate":"2024-06-27"},{"code":"DC4","shareholderType":"PERSON","shareholderName":"Lê Đình Thắng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":5312152,"ownershipPct":9.198648356870054,"effectiveDate":"2022-06-09"},{"code":"DC4","shareholderType":"PERSON","shareholderName":"Huỳnh Tấn Gia Thạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2625000,"ownershipPct":4.545512240008172,"effectiveDate":"2022-06-09"},{"code":"DC4","shareholderType":"COMPANY","shareholderName":"Công ty Backathome.com","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1655403,"ownershipPct":2.8665350851985707,"effectiveDate":"2022-06-09"},{"code":"DC4","shareholderType":"COMPANY","shareholderName":"Hạ tầng Vĩnh Phúc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":817056,"ownershipPct":1.4148335423893779,"effectiveDate":"2022-06-09"},{"code":"DC4","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Đa","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":600825,"ownershipPct":1.0404028158487275,"effectiveDate":"2024-06-27"},{"code":"DC4","shareholderType":"PERSON","shareholderName":"Phạm Thị Thúy","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":600000,"ownershipPct":1.038974226287582,"groupPct":1.0639823359143243,"effectiveDate":"2023-08-11"}],"currentPage":1,"size":10,"totalElements":8,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "DC4",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT ĐTPT Xây dựng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15648021,
+      "ownershipPct": 16.422212717240352,
+      "effectiveDate": "2025-06-02"
+    },
+    {
+      "code": "DC4",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Thắng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 11808500,
+      "ownershipPct": 12.392729973428123,
+      "effectiveDate": "2025-06-02"
+    },
+    {
+      "code": "DC4",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Phát triển và Kinh doanh nhà (HDTC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7492094,
+      "ownershipPct": 7.862768165096414,
+      "effectiveDate": "2024-06-27"
+    },
+    {
+      "code": "DC4",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Tấn Gia Thạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2625000,
+      "ownershipPct": 2.754872861095721,
+      "effectiveDate": "2022-06-09"
+    },
+    {
+      "code": "DC4",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Backathome.com",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1655403,
+      "ownershipPct": 1.7373046852862628,
+      "effectiveDate": "2022-06-09"
+    },
+    {
+      "code": "DC4",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Gia Phúc",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1347775,
+      "ownershipPct": 1.4144566744241087,
+      "effectiveDate": "2025-06-02"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

@@ -1,1 +1,92 @@
-{"data":[{"code":"BAB","shareholderType":"PERSON","shareholderName":"Thái Hương","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":37555713,"ownershipPct":4.191796271447523,"effectiveDate":"2024-01-11"},{"code":"BAB","shareholderType":"PERSON","shareholderName":"Nguyễn Trọng Trung","roleType":"Phó TGĐ","enRoleType":"Deputy CEO","numberOfShares":33153012,"ownershipPct":3.700386998080824,"groupPct":10.559896131236023,"effectiveDate":"2024-01-11"},{"code":"BAB","shareholderType":"PERSON","shareholderName":"Trần Thị Thoảng","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":27843095,"ownershipPct":3.1077184397100694,"effectiveDate":"2024-01-11"},{"code":"BAB","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Danh","roleType":"Anh/em rể của Phó chủ tịch HĐQT","enRoleType":"Brother in law of Vice-chairman","numberOfShares":27353279,"ownershipPct":3.053047426474471,"groupPct":10.559896131236023,"effectiveDate":"2024-01-11"},{"code":"BAB","shareholderType":"PERSON","shareholderName":"Hoàng Ngọc Hoà","roleType":"Anh/em rể của Phó chủ tịch HĐQT","enRoleType":"Brother in law of Vice-chairman","numberOfShares":23196752,"ownershipPct":2.5891149648335228,"groupPct":10.559896131236023,"effectiveDate":"2024-01-11"},{"code":"BAB","shareholderType":"PERSON","shareholderName":"Nguyễn Hồng Tiến","roleType":"Bố của Kế toán trưởng","enRoleType":"Father of Chief Accountant","numberOfShares":15890230,"ownershipPct":1.7735945225282654,"groupPct":2.108099095133655,"effectiveDate":"2024-01-11"},{"code":"BAB","shareholderType":"PERSON","shareholderName":"Đào Đình Phát","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12782580,"ownershipPct":1.4267328963633223,"effectiveDate":"2024-01-11"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Hương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 40810813,
+      "ownershipPct": 3.872640208838207,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trọng Trung",
+      "roleType": "Phó TGĐ",
+      "enRoleType": "Deputy CEO",
+      "numberOfShares": 33626012,
+      "ownershipPct": 3.190856455961219,
+      "groupPct": 9.17768617169705,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Thoảng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 27843095,
+      "ownershipPct": 2.6421009852340367,
+      "effectiveDate": "2024-01-11"
+    },
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Danh",
+      "roleType": "Anh/em rể của Phó chủ tịch HĐQT",
+      "enRoleType": "Brother in law of Vice-chairman",
+      "numberOfShares": 27761779,
+      "ownershipPct": 2.6343847064325856,
+      "groupPct": 9.17768617169705,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Ngọc Hoà",
+      "roleType": "Anh/em rể của Phó chủ tịch HĐQT",
+      "enRoleType": "Brother in law of Vice-chairman",
+      "numberOfShares": 23755752,
+      "ownershipPct": 2.254242775962063,
+      "groupPct": 9.17768617169705,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Tiến",
+      "roleType": "Bố của Kế toán trưởng",
+      "enRoleType": "Father of Chief Accountant",
+      "numberOfShares": 15890230,
+      "ownershipPct": 1.507863703320175,
+      "groupPct": 1.7922507473821339,
+      "effectiveDate": "2024-01-11"
+    },
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Đình Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12782580,
+      "ownershipPct": 1.2129710153211377,
+      "effectiveDate": "2024-01-11"
+    },
+    {
+      "code": "BAB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đăng Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11471994,
+      "ownershipPct": 1.0886062289411058,
+      "effectiveDate": "2024-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

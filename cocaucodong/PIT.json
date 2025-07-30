@@ -1,1 +1,68 @@
-{"data":[{"code":"PIT","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8005611,"ownershipPct":56.33697566365065,"effectiveDate":"2023-12-29"},{"code":"PIT","shareholderType":"PERSON","shareholderName":"Huỳnh Đức Thông","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1060000,"ownershipPct":7.459417426536174,"effectiveDate":"2022-12-31"},{"code":"PIT","shareholderType":"COMPANY","shareholderName":"Petrolimex Inter Trading","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":989120,"ownershipPct":6.960621665033453,"effectiveDate":"2022-06-04"},{"code":"PIT","shareholderType":"PERSON","shareholderName":"Lê Thúy Đào","roleType":"Thành viên BKS","enRoleType":"Control member","numberOfShares":381500,"ownershipPct":2.6846865549278776,"effectiveDate":"2023-11-16"},{"code":"PIT","shareholderType":"PERSON","shareholderName":"Hà Huy Thắng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":321455,"ownershipPct":2.2621387064596092,"effectiveDate":"2021-01-20"},{"code":"PIT","shareholderType":"PERSON","shareholderName":"Vũ Thị Phương Thảo","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":201000,"ownershipPct":1.4144744365412933,"effectiveDate":"2019-01-25"}],"currentPage":1,"size":10,"totalElements":6,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PIT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Đóng tàu và Thương mại Petrolimex",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8005611,
+      "ownershipPct": 56.33697566365065,
+      "effectiveDate": "2023-12-29"
+    },
+    {
+      "code": "PIT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH giải pháp công nghệ logigo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1508100,
+      "ownershipPct": 10.612780585810569,
+      "effectiveDate": "2025-03-04"
+    },
+    {
+      "code": "PIT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Petrolimex Inter Trading",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 989120,
+      "ownershipPct": 6.960621665033453,
+      "effectiveDate": "2022-06-04"
+    },
+    {
+      "code": "PIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thúy Đào",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 381500,
+      "ownershipPct": 2.6846865549278776,
+      "effectiveDate": "2023-11-16"
+    },
+    {
+      "code": "PIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hà Huy Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 321455,
+      "ownershipPct": 2.2621387064596092,
+      "effectiveDate": "2021-01-20"
+    },
+    {
+      "code": "PIT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Phương Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 201000,
+      "ownershipPct": 1.4144744365412933,
+      "effectiveDate": "2019-01-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

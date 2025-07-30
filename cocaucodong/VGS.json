@@ -1,1 +1,113 @@
-{"data":[{"code":"VGS","shareholderType":"PERSON","shareholderName":"Lê Minh Hải","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":17077500,"ownershipPct":30.531981085851157,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Thủy","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":5724123,"ownershipPct":10.233864158634788,"groupPct":41.07116147964765,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Thanh Thủy","roleType":"Mẹ của Chủ tịch HĐQT","enRoleType":"Mother of Chairman","numberOfShares":5724123,"ownershipPct":10.233864158634788,"groupPct":41.07116147964765,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Lê Khánh Huyền","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":4389550,"ownershipPct":7.847849953178038,"groupPct":41.07116147964765,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Lê Khánh Huyền","roleType":"Chị của Chủ tịch HĐQT","enRoleType":"Elder Sister of Chairman","numberOfShares":4389550,"ownershipPct":7.847849953178038,"groupPct":41.07116147964765,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Nguyễn Thị Nhi","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2983780,"ownershipPct":5.334546305041193,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Lê Quốc Khánh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2745050,"ownershipPct":4.907733256022,"groupPct":41.07116147964765,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"COMPANY","shareholderName":"Chứng khoán MB","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2270693,"ownershipPct":4.05965485157515,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Nguyễn Vũ Lê","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1980000,"ownershipPct":3.539939836040714,"effectiveDate":"2023-09-05"},{"code":"VGS","shareholderType":"PERSON","shareholderName":"Trần Xuân Ninh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1870000,"ownershipPct":3.3432765118162298,"effectiveDate":"2023-09-05"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Thủy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 15793787,
+      "ownershipPct": 25.670871871381248,
+      "groupPct": 72.97615708822006,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thanh Thủy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 15793787,
+      "ownershipPct": 25.670871871381248,
+      "groupPct": 72.97615708822006,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Minh Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10542085,
+      "ownershipPct": 17.134871661382427,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Khánh Huyền",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 5069929,
+      "ownershipPct": 8.240550398457321,
+      "groupPct": 72.97615708822006,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Khánh Huyền",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 5069929,
+      "ownershipPct": 8.240550398457321,
+      "groupPct": 72.97615708822006,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Quốc Khánh",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 3170532,
+      "ownershipPct": 5.153312548542926,
+      "groupPct": 72.97615708822006,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán MB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2270693,
+      "ownershipPct": 3.690734151488956,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Vũ Lê",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1980000,
+      "ownershipPct": 3.218248182360245,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hữu Thể",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1888497,
+      "ownershipPct": 3.069521231132715,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "VGS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Xuân Ninh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1870000,
+      "ownershipPct": 3.039456616673565,
+      "effectiveDate": "2023-09-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

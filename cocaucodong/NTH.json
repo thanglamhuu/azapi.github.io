@@ -1,1 +1,111 @@
-{"data":[{"code":"NTH","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Cao","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2001145,"ownershipPct":18.52559879126681,"effectiveDate":"2022-12-31"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Võ Thụy Vân Khanh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":1098900,"ownershipPct":10.173066175476087,"effectiveDate":"2022-12-31"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Bùi Thị Sâm","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":708127,"ownershipPct":6.555485332278966,"effectiveDate":"2020-12-31"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Đinh Thị Hiên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":664413,"ownershipPct":6.150803000133401,"effectiveDate":"2020-12-31"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Trần Minh Hòa","roleType":"Bố của Thành viên HĐQT","enRoleType":"Father of Board member","numberOfShares":550029,"ownershipPct":5.091893179935333,"groupPct":5.686224646370463,"effectiveDate":"2024-05-14"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Thọ","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":500031,"ownershipPct":4.629036721075151,"effectiveDate":"2023-06-30"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Đinh Vạn Tiến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":433746,"ownershipPct":4.0154033682300945,"effectiveDate":"2020-01-22"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Trần Minh Huy","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":420100,"ownershipPct":3.8890755303644595,"effectiveDate":"2024-05-14"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Nguyễn Cao Nguyên","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":367283,"ownershipPct":3.4001221804780997,"groupPct":9.426143345158554,"effectiveDate":"2022-12-31"},{"code":"NTH","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Hiển","roleType":"Em trai của Chủ tịch HĐQT","enRoleType":"Young Brother of Chairman","numberOfShares":254700,"ownershipPct":2.357885116838438,"groupPct":9.426143345158554,"effectiveDate":"2023-12-31"}],"currentPage":1,"size":10,"totalElements":16,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Cao",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2001145,
+      "ownershipPct": 18.52559879126681,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Thụy Vân Khanh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1098900,
+      "ownershipPct": 10.173066175476087,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Sâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 708127,
+      "ownershipPct": 6.555485332278966,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Hiên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 664413,
+      "ownershipPct": 6.150803000133401,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Minh Hòa",
+      "roleType": "Bố của Thành viên HĐQT",
+      "enRoleType": "Father of Board member",
+      "numberOfShares": 550029,
+      "ownershipPct": 5.091893179935333,
+      "groupPct": 5.7667648918219525,
+      "effectiveDate": "2024-05-14"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Thọ",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 513031,
+      "ownershipPct": 4.7493842142785265,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Vạn Tiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 433746,
+      "ownershipPct": 4.0154033682300945,
+      "effectiveDate": "2020-01-22"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Minh Huy",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 423300,
+      "ownershipPct": 3.918699528691444,
+      "effectiveDate": "2024-12-31"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Cao Nguyên",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 367283,
+      "ownershipPct": 3.4001221804780997,
+      "groupPct": 9.527975839407565,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "NTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Hiển",
+      "roleType": "Em trai của Chủ tịch HĐQT",
+      "enRoleType": "Young Brother of Chairman",
+      "numberOfShares": 254700,
+      "ownershipPct": 2.357885116838438,
+      "groupPct": 9.527975839407565,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 16,
+  "totalPages": 2
+}

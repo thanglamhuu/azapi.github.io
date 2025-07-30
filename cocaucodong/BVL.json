@@ -1,1 +1,58 @@
-{"data":[{"code":"BVL","shareholderType":"COMPANY","shareholderName":"CTCP Tập đoàn Bách Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38993796,"ownershipPct":47.10058985481035,"effectiveDate":"2024-07-17"},{"code":"BVL","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần BV Asset","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4515400,"ownershipPct":5.4541497686044895,"effectiveDate":"2024-07-17"},{"code":"BVL","shareholderType":"PERSON","shareholderName":"Tạ Thu Thanh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4082585,"ownershipPct":4.931352711400575,"effectiveDate":"2024-07-17"},{"code":"BVL","shareholderType":"PERSON","shareholderName":"Nguyễn Tân Thành","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":1243340,"ownershipPct":1.5018298651939375,"effectiveDate":"2024-07-17"},{"code":"BVL","shareholderType":"PERSON","shareholderName":"Nguyễn Vũ Thiện","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":909500,"ownershipPct":1.0985846690317098,"effectiveDate":"2024-07-17"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "BVL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Tập đoàn Bách Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38993796,
+      "ownershipPct": 47.10061204300608,
+      "effectiveDate": "2024-07-17"
+    },
+    {
+      "code": "BVL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần BV Asset",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4515400,
+      "ownershipPct": 5.454152337951135,
+      "effectiveDate": "2024-07-17"
+    },
+    {
+      "code": "BVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Tạ Thu Thanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4082585,
+      "ownershipPct": 4.931355034467431,
+      "effectiveDate": "2024-07-17"
+    },
+    {
+      "code": "BVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tân Thành",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1243340,
+      "ownershipPct": 1.5018305726775403,
+      "effectiveDate": "2024-07-17"
+    },
+    {
+      "code": "BVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Vũ Thiện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 909500,
+      "ownershipPct": 1.0985851865541387,
+      "effectiveDate": "2024-07-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

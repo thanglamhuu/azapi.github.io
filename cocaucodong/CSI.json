@@ -1,1 +1,58 @@
-{"data":[{"code":"CSI","shareholderType":"PERSON","shareholderName":"Li You Mu","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":4320000,"ownershipPct":25.714285714285715,"effectiveDate":"2020-06-30"},{"code":"CSI","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Đầu tư và Phát triển Kirin Capital","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1693100,"ownershipPct":10.07797619047619,"effectiveDate":"2024-01-02"},{"code":"CSI","shareholderType":"PERSON","shareholderName":"Wang Wei Ya","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":825000,"ownershipPct":4.910714285714286,"effectiveDate":"2021-06-30"},{"code":"CSI","shareholderType":"PERSON","shareholderName":"Hoàng Xuân Hùng","roleType":"Phó chủ tịch HĐQT","enRoleType":"Vice-chairman","numberOfShares":822525,"ownershipPct":4.895982142857143,"effectiveDate":"2021-06-11"},{"code":"CSI","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Minh","roleType":"GĐ Tài chính","enRoleType":"CFO","numberOfShares":743500,"ownershipPct":4.425595238095238,"effectiveDate":"2021-06-18"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "CSI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Li You Mu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 4320000,
+      "ownershipPct": 25.714285714285715,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CSI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư và Phát triển Kirin Capital",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1693100,
+      "ownershipPct": 10.07797619047619,
+      "effectiveDate": "2024-01-02"
+    },
+    {
+      "code": "CSI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Wang Wei Ya",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 825000,
+      "ownershipPct": 4.910714285714286,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "CSI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Xuân Hùng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 822525,
+      "ownershipPct": 4.895982142857143,
+      "effectiveDate": "2021-06-11"
+    },
+    {
+      "code": "CSI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Minh",
+      "roleType": "GĐ Tài chính",
+      "enRoleType": "CFO",
+      "numberOfShares": 743500,
+      "ownershipPct": 4.425595238095238,
+      "effectiveDate": "2021-06-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

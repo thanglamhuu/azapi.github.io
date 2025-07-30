@@ -1,1 +1,108 @@
-{"data":[{"code":"PVS","shareholderType":"COMPANY","shareholderName":"Tập đoàn Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":245565000,"ownershipPct":51.39681866533033,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"PERSON","shareholderName":"Trương Ngọc Phượng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":38165135,"ownershipPct":7.9879727279247925,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":27921115,"ownershipPct":5.843896665195913,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"Quỹ ETF VanEck Vietnam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18483876,"ownershipPct":3.868680076576268,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"CTBC Vietnam Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":18000000,"ownershipPct":3.767404703341054,"effectiveDate":"2024-01-18"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"Ngân hàng Đại Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17958901,"ownershipPct":3.7588026719020196,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"Acadian Frontier Markets Equity Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15709331,"ownershipPct":3.2879670830967456,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"Vietnam Investment Property Holdings Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15184286,"ownershipPct":3.1780750274042067,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Quản lý Quỹ Ngân hàng Thương mại cổ phần Công thương Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12255138,"ownershipPct":2.5650035856274265,"effectiveDate":"2020-06-30"},{"code":"PVS","shareholderType":"COMPANY","shareholderName":"TGIT-Templetion Frontier Markets Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":10731430,"ownershipPct":2.2460911030875157,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 245565000,
+      "ownershipPct": 51.39681866533033,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trương Ngọc Phượng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 38165135,
+      "ownershipPct": 7.9879727279247925,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tài chính cổ phần Dầu khí Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 27921115,
+      "ownershipPct": 5.843896665195913,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ ETF VanEck Vietnam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18483876,
+      "ownershipPct": 3.868680076576268,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTBC Vietnam Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 18000000,
+      "ownershipPct": 3.767404703341054,
+      "effectiveDate": "2024-01-18"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "MBV Bank",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17958901,
+      "ownershipPct": 3.7588026719020196,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Acadian Frontier Markets Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15709331,
+      "ownershipPct": 3.2879670830967456,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Quản lý Quỹ Ngân hàng Thương mại cổ phần Công thương Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12255138,
+      "ownershipPct": 2.5650035856274265,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Investment Property Holdings Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11469886,
+      "ownershipPct": 2.4006501368436504,
+      "effectiveDate": "2025-02-11"
+    },
+    {
+      "code": "PVS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TGIT-Templetion Frontier Markets Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10731430,
+      "ownershipPct": 2.2460911030875157,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

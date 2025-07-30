@@ -1,1 +1,48 @@
-{"data":[{"code":"PPT","shareholderType":"PERSON","shareholderName":"Phạm Văn Kỳ","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":2970000,"ownershipPct":17.142869016705813,"effectiveDate":"2024-06-17"},{"code":"PPT","shareholderType":"PERSON","shareholderName":"Phạm Thị Ly","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":990000,"ownershipPct":5.714289672235271,"effectiveDate":"2024-06-17"},{"code":"PPT","shareholderType":"PERSON","shareholderName":"Nguyễn Văn Trìu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":528000,"ownershipPct":3.0476211585254775,"effectiveDate":"2024-06-17"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "PPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Kỳ",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3547800,
+      "ownershipPct": 18.05962792524053,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "PPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Ly",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1379700,
+      "ownershipPct": 7.02318863759354,
+      "effectiveDate": "2025-06-17"
+    },
+    {
+      "code": "PPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Trìu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 528000,
+      "ownershipPct": 2.68771733032499,
+      "effectiveDate": "2024-06-17"
+    },
+    {
+      "code": "PPT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thà",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 209520,
+      "ownershipPct": 1.0665351042607802,
+      "effectiveDate": "2025-06-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

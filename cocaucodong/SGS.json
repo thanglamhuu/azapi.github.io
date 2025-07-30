@@ -1,1 +1,38 @@
-{"data":[{"code":"SGS","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Cơ khí GTVT Sài Gòn","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7354200,"ownershipPct":51,"effectiveDate":"2022-12-31"},{"code":"SGS","shareholderType":"COMPANY","shareholderName":"Tổng Công ty Cơ khí Giao thông Vận tải Sài Gòn ( SAMCO)","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7354200,"ownershipPct":51,"effectiveDate":"2020-06-30"},{"code":"SGS","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Dịch vụ Tiếp vận Toàn Cầu","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5396354,"ownershipPct":37.42270457697642,"effectiveDate":"2017-11-07"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Cơ khí GTVT Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7354200,
+      "ownershipPct": 51,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Cơ khí Giao thông Vận tải Sài Gòn ( SAMCO)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7354200,
+      "ownershipPct": 51,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SGS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Dịch vụ Tiếp vận Toàn Cầu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5396354,
+      "ownershipPct": 37.42270457697642,
+      "effectiveDate": "2017-11-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

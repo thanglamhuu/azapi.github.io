@@ -1,1 +1,48 @@
-{"data":[{"code":"HMR","shareholderType":"COMPANY","shareholderName":"TCT C.trình Đ.sắt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3350000,"ownershipPct":59.68879154963506,"effectiveDate":"2021-12-31"},{"code":"HMR","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Hoàng Ngân","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":17.817549716308974,"effectiveDate":"2021-11-26"},{"code":"HMR","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Ánh","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":74417,"ownershipPct":1.3259285972385648,"effectiveDate":"2024-07-05"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HMR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT C.trình Đ.sắt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2825000,
+      "ownershipPct": 50.33457794857285,
+      "effectiveDate": "2024-12-25"
+    },
+    {
+      "code": "HMR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Hoàng Ngân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1000000,
+      "ownershipPct": 17.817549716308974,
+      "effectiveDate": "2021-11-26"
+    },
+    {
+      "code": "HMR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hải Duy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 275000,
+      "ownershipPct": 4.899826171984968,
+      "effectiveDate": "2025-05-27"
+    },
+    {
+      "code": "HMR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Ánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 74417,
+      "ownershipPct": 1.3259285972385648,
+      "effectiveDate": "2024-07-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

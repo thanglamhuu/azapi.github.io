@@ -1,1 +1,38 @@
-{"data":[{"code":"HAI","shareholderType":"COMPANY","shareholderName":"Tập đoàn FLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":15097400,"ownershipPct":8.264270135252307,"effectiveDate":"2022-04-19"},{"code":"HAI","shareholderType":"PERSON","shareholderName":"Phạm Văn Nùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5855715,"ownershipPct":3.2054003070097474,"effectiveDate":"2017-07-07"},{"code":"HAI","shareholderType":"COMPANY","shareholderName":"Quỹ tầm nhìn SSI","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2217177,"ownershipPct":1.2136758425734433,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HAI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn FLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 15097400,
+      "ownershipPct": 8.264270135252307,
+      "effectiveDate": "2022-04-19"
+    },
+    {
+      "code": "HAI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Nùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5855715,
+      "ownershipPct": 3.2054003070097474,
+      "effectiveDate": "2017-07-07"
+    },
+    {
+      "code": "HAI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ tầm nhìn SSI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2217177,
+      "ownershipPct": 1.2136758425734433,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}
