@@ -161,7 +161,7 @@
     24,
     34,
     79,
-    null
+    137
   ],
   "tiLePhaiThuTaiSan": [
     19,
@@ -201,7 +201,7 @@
     17,
     22,
     30,
-    null
+    42
   ],
   "tsTienTuongDuongTienDTTCNH": [
     1,
@@ -241,7 +241,7 @@
     12,
     4,
     5,
-    0
+    3
   ],
   "tsKhoanPhaiThu": [
     82,
@@ -281,7 +281,7 @@
     55,
     71,
     117,
-    0
+    267
   ],
   "tsHangTonKho": [
     290,
@@ -321,7 +321,7 @@
     214,
     185,
     213,
-    0
+    310
   ],
   "tsTaiSanCoDinh": [
     60,
@@ -361,7 +361,7 @@
     46,
     49,
     48,
-    0
+    48
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
@@ -401,7 +401,7 @@
     1,
     1,
     2,
-    0
+    2
   ],
   "tsKhac": [
     6,
@@ -441,7 +441,7 @@
     5,
     13,
     9,
-    0
+    8
   ],
   "nvVonChuSoHuu": [
     161,
@@ -481,7 +481,7 @@
     179,
     183,
     184,
-    0
+    186
   ],
   "nvVayNganHan": [
     237,
@@ -521,7 +521,7 @@
     56,
     65,
     150,
-    0
+    259
   ],
   "nvVayDaiHanTPCD": [
     0,
@@ -601,7 +601,7 @@
     6,
     6,
     6,
-    0
+    6
   ],
   "nvKhac": [
     41,
@@ -641,7 +641,7 @@
     91,
     68,
     53,
-    0
+    187
   ],
   "nvTileVayRongVCSHQ": [
     146,
@@ -681,7 +681,7 @@
     24,
     34,
     79,
-    null
+    137
   ],
   "tangTruongDoanhSoThuanYoY": [
     240,
@@ -721,7 +721,7 @@
     52,
     77,
     14,
-    -100
+    107
   ],
   "tangTruongDoanhThuanKep": [
     18,
@@ -802,7 +802,7 @@
     280,
     276,
     50,
-    0
+    522
   ],
   "tangTruongLNSTYoY": [
     -113,
@@ -842,7 +842,7 @@
     288,
     -5,
     -318,
-    -100
+    53
   ],
   "tangTruongLNSTCtyMeNam": [
     4,
@@ -923,7 +923,7 @@
     5,
     3,
     2,
-    0
+    10
   ],
   "bienLoiNhuanGop": [
     6,
@@ -963,7 +963,7 @@
     16,
     7,
     30,
-    null
+    10
   ],
   "bienLoiNhuanRong": [
     1,
@@ -1003,7 +1003,7 @@
     2,
     1,
     4,
-    null
+    2
   ],
   "ROACuoiKy": [
     4,
@@ -1043,7 +1043,7 @@
     4.3,
     4.4,
     4.4,
-    null
+    3.2
   ],
   "ROECuoiKy": [
     11,
@@ -1083,12 +1083,12 @@
     8,
     8,
     9,
-    null
+    11
   ],
   "lastQuaterPrice": 6.5,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.6277912096391974,
+  "choNhanGiaRaPB": 0.06896358799421194,
+  "choNhanGiaRaPS": 0.011384077369198338,
   "PE": [
     4.7,
     4.9,
@@ -1127,7 +1127,7 @@
     4.2,
     5.3,
     5.2,
-    0
+    4.1
   ],
   "PETb": [
     6.8,
@@ -1207,7 +1207,7 @@
     0.3,
     0.4,
     0.5,
-    null
+    0.4
   ],
   "PBTb": [
     0.5,
@@ -1287,7 +1287,7 @@
     0.1,
     0.1,
     0.1,
-    0
+    0.1
   ],
   "PSTb": [
     0.2,
@@ -1329,7 +1329,7 @@
     0.2,
     0.2
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 12853052,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": 41,
@@ -1531,7 +1531,7 @@
     214,
     185,
     213,
-    0
+    310
   ],
   "hangTonKhoVongQuay": [
     1.8,
@@ -1571,7 +1571,7 @@
     4.8,
     4.5,
     3.7,
-    3.5
+    4.3
   ],
   "coTucLNST": [
     25,
