@@ -370,56 +370,57 @@
     "2025-03-31",
     "2025-06-30"
   ],
+  "lastQuaterPrice": 4,
   "choNhanGiaRaPE": 0,
   "choNhanGiaRaPB": null,
   "choNhanGiaRaPS": 0,
   "PE": [
     -7.4,
     -9.2,
-    null,
-    null,
-    null,
-    null
+    -5,
+    -2.9,
+    -2.8,
+    0
   ],
   "PETb": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    -2.9,
+    -2.9,
+    -2.9,
+    -2.9,
+    -2.9,
+    -2.9
   ],
   "PB": [
     -3.4,
     -4.1,
-    null,
-    null,
-    null,
+    -2.1,
+    -1.1,
+    -1,
     null
   ],
   "PBTb": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    -1.1,
+    -1.1,
+    -1.1,
+    -1.1,
+    -1.1,
+    -1.1
   ],
   "PS": [
     43.1,
     24.5,
-    null,
-    null,
-    null,
-    null
+    13.5,
+    2.5,
+    1.2,
+    0
   ],
   "PSTb": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    13.5,
+    13.5,
+    13.5,
+    13.5,
+    13.5,
+    13.5
   ],
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,

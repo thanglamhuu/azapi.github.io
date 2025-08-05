@@ -162,6 +162,7 @@
     "2025-03-31",
     "2025-06-30"
   ],
+  "lastQuaterPrice": 10,
   "choNhanGiaRaPE": -32.87972052534531,
   "choNhanGiaRaPB": 0.11429208248816108,
   "choNhanGiaRaPS": 6.106430088874572,
@@ -169,55 +170,55 @@
     -22.7,
     -21.9,
     -22.3,
-    null,
-    null,
-    null,
-    null
+    -23.4,
+    -245.9,
+    -224.4,
+    -328.8
   ],
   "PETb": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    -23.4,
+    -23.4,
+    -23.4,
+    -23.4,
+    -23.4,
+    -23.4,
+    -23.4
   ],
   "PB": [
     1.1,
     1.1,
     1.1,
-    null,
-    null,
-    null,
-    null
+    1.1,
+    1.1,
+    1.1,
+    1.1
   ],
   "PBTb": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    1.1,
+    1.1,
+    1.1,
+    1.1,
+    1.1,
+    1.1,
+    1.1
   ],
   "PS": [
     31.2,
     32.8,
     33.6,
-    null,
-    null,
-    null,
-    null
+    33.1,
+    55.2,
+    54.7,
+    61.1
   ],
   "PSTb": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    33.6,
+    33.6,
+    33.6,
+    33.6,
+    33.6,
+    33.6,
+    33.6
   ],
   "soCoPhieuLuuHanh": 18600000,
   "isNganHang": false,

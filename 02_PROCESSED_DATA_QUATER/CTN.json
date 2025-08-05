@@ -194,50 +194,51 @@
     -7,
     -21
   ],
+  "lastQuaterPrice": 0.5,
   "choNhanGiaRaPE": 1.3469857171953614,
   "choNhanGiaRaPB": -0.2820890095780156,
   "choNhanGiaRaPS": 0.02777168527738295,
   "PE": [
-    null,
-    null,
-    null,
-    null,
-    null
+    -0.1,
+    -0.1,
+    -0.1,
+    2,
+    0.7
   ],
   "PETb": [
-    null,
-    null,
-    null,
-    null,
-    null
+    -0.1,
+    -0.1,
+    -0.1,
+    -0.1,
+    -0.1
   ],
   "PB": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0.1,
+    0.2,
+    0.3,
+    -0.1,
+    -0.1
   ],
   "PBTb": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0.1,
+    0.1,
+    0.1,
+    0.1,
+    0.1
   ],
   "PS": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0.1,
+    0.1,
+    0,
+    0,
+    0
   ],
   "PSTb": [
-    null,
-    null,
-    null,
-    null,
-    null
+    0,
+    0,
+    0,
+    0,
+    0
   ],
   "soCoPhieuLuuHanh": 6973345,
   "isNganHang": false,
