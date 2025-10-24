@@ -6291,7 +6291,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Phân bổ lợi thế thương mại",
@@ -7171,7 +7171,7 @@
       207590215475,
       19793588075,
       16536943913,
-      null
+      0
     ],
     [
       "Tiền chi trả cho người cung cấp hàng hóa và dịch vụ",
@@ -7215,7 +7215,7 @@
       -19933090657,
       -3256918450,
       -1558406691,
-      null
+      0
     ],
     [
       "Tiền chi trả cho người lao động",
@@ -7259,7 +7259,7 @@
       -8299389280,
       -2403090449,
       -1674606176,
-      null
+      0
     ],
     [
       "Tiền chi trả lãi vay",
@@ -7303,7 +7303,7 @@
       -63031999998,
       -13274999998,
       0,
-      null
+      0
     ],
     [
       "Tiền chi nộp thuế thu nhập doanh nghiệp",
@@ -7347,7 +7347,7 @@
       -3406908334,
       -1130826404,
       0,
-      null
+      0
     ],
     [
       "Tiền thu khác từ hoạt động kinh doanh",
@@ -7391,7 +7391,7 @@
       12152779764,
       1323417558,
       629537973,
-      null
+      0
     ],
     [
       "Tiền chi khác cho hoạt động kinh doanh",
@@ -7435,7 +7435,7 @@
       -42320302489,
       -4610241169,
       -3943849588,
-      null
+      16776461193
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
@@ -7479,7 +7479,7 @@
       50114102750,
       -3559070837,
       9552704255,
-      null
+      16776461193
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
@@ -7567,7 +7567,7 @@
       7407407,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
@@ -7611,7 +7611,7 @@
       -83727273,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
@@ -7655,7 +7655,7 @@
       0,
       0,
       -15000000000,
-      null
+      0
     ],
     [
       "Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
@@ -7699,7 +7699,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền chi đầu tư góp vốn vào đơn vị khác",
@@ -7743,7 +7743,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
@@ -7787,7 +7787,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
@@ -7831,7 +7831,7 @@
       2179307844,
       0,
       436915176,
-      null
+      -436915176
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động đầu tư",
@@ -7875,7 +7875,7 @@
       2102987978,
       0,
       -14563084824,
-      null
+      -436915176
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
@@ -7963,7 +7963,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",
@@ -8007,7 +8007,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền vay ngắn hạn, dài hạn nhận được",
@@ -8051,7 +8051,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền chi trả nợ gốc vay",
@@ -8095,7 +8095,7 @@
       -32813000002,
       -17365000002,
       -17360775996,
-      null
+      -14000000000
     ],
     [
       "Tiền chi trả nợ thuê tài chính",
@@ -8139,7 +8139,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
@@ -8183,7 +8183,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền lãi đã nhận",
@@ -8227,7 +8227,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động tài chính",
@@ -8271,7 +8271,7 @@
       -32813000002,
       -17365000002,
       -17360775996,
-      null
+      -14000000000
     ],
     [
       "Lưu chuyển tiền thuần trong kỳ",
@@ -8315,7 +8315,7 @@
       19404090726,
       -20924070839,
       -22371156565,
-      null
+      2339546017
     ],
     [
       "Tiền và tương đương tiền đầu kỳ",
@@ -8359,7 +8359,7 @@
       61017759261,
       80421849987,
       59497779148,
-      null
+      37126622583
     ],
     [
       "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
@@ -8403,7 +8403,7 @@
       0,
       0,
       0,
-      null
+      0
     ],
     [
       "Tiền và tương đương tiền cuối kỳ",
@@ -8447,7 +8447,7 @@
       80421849987,
       59497779148,
       37126622583,
-      null
+      39466168600
     ]
   ]
 }

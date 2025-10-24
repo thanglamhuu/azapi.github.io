@@ -78,18 +78,31 @@
   "ROECuoiKy": [
     6.7
   ],
-  "newFiscalDateQuarter": [],
-  "lastQuaterPrice": 18,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": 0,
-  "choNhanGiaRaPS": 0,
-  "PE": [],
-  "PETb": [],
-  "PB": [],
-  "PBTb": [],
-  "PS": [],
-  "PSTb": [],
-  "soCoPhieuLuuHanh": 0,
+  "newFiscalDateQuarter": [
+    "2025-09-30"
+  ],
+  "choNhanGiaRaPE": 3.5036070222206783,
+  "choNhanGiaRaPB": 0.0989090004975106,
+  "choNhanGiaRaPS": 0.14251540227156462,
+  "PE": [
+    null
+  ],
+  "PETb": [
+    null
+  ],
+  "PB": [
+    null
+  ],
+  "PBTb": [
+    null
+  ],
+  "PS": [
+    null
+  ],
+  "PSTb": [
+    null
+  ],
+  "soCoPhieuLuuHanh": 5565004,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
