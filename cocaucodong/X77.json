@@ -1,1 +1,38 @@
-{"data":[{"code":"X77","shareholderType":"COMPANY","shareholderName":"CTCP Fujisan Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":693800,"ownershipPct":51.74225525532916,"effectiveDate":"2017-02-17"},{"code":"X77","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Tuấn Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":203260,"ownershipPct":15.15873566330096,"effectiveDate":"2020-06-30"},{"code":"X77","shareholderType":"PERSON","shareholderName":"Ngô Quang Huy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":188630,"ownershipPct":14.067658703967627,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "X77",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Fujisan Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 693800,
+      "ownershipPct": 51.74225525532916,
+      "effectiveDate": "2017-02-17"
+    },
+    {
+      "code": "X77",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Tuấn Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 203260,
+      "ownershipPct": 15.15873566330096,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "X77",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Quang Huy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 188630,
+      "ownershipPct": 14.067658703967627,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

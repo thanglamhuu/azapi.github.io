@@ -1,1 +1,100 @@
-{"data":[{"code":"NVB","shareholderType":"PERSON","shareholderName":"Trần Hải Anh","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":27636561,"ownershipPct":4.963430848012838,"groupPct":8.717470780230444,"effectiveDate":"2022-12-31"},{"code":"NVB","shareholderType":"PERSON","shareholderName":"Nguyễn Trần Trung Sơn","roleType":"Nhóm cổ đông lớn","enRoleType":"Major Shareholder Group","numberOfShares":16934686,"ownershipPct":3.0414110820015243,"groupPct":8.717470780230444,"effectiveDate":"2022-12-31"},{"code":"NVB","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần năng lượng Sài Gòn - Bình Định","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":11650550,"ownershipPct":2.092398517540441,"effectiveDate":"2020-12-23"},{"code":"NVB","shareholderType":"PERSON","shareholderName":"Nguyễn Tiến Dũng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":8896734,"ownershipPct":1.597822680693327,"effectiveDate":"2022-12-31"},{"code":"NVB","shareholderType":"COMPANY","shareholderName":"CTCP Gemadept","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6997103,"ownershipPct":1.2566555179178471,"effectiveDate":"2020-06-30"},{"code":"NVB","shareholderType":"PERSON","shareholderName":"Lê Kim Chi","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":6250876,"ownershipPct":1.1226357275604262,"effectiveDate":"2022-02-24"},{"code":"NVB","shareholderType":"PERSON","shareholderName":"Phạm Thế Hiệp","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":5885501,"ownershipPct":1.0570156402386826,"effectiveDate":"2022-02-24"}],"currentPage":1,"size":10,"totalElements":7,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 58500000,
+      "ownershipPct": 4.980280002426052,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vương Khả Huấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 58500000,
+      "ownershipPct": 4.980280002426052,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Dương Thế Bằng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 58500000,
+      "ownershipPct": 4.980280002426052,
+      "effectiveDate": "2024-11-25"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vương Khả Nguyện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 58500000,
+      "ownershipPct": 4.980280002426052,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 58497884,
+      "ownershipPct": 4.98009986101605,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 58356806,
+      "ownershipPct": 4.968089468841994,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thị Thanh Hương",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 56329164,
+      "ownershipPct": 4.795470239702179,
+      "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Hải Anh",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 27636561,
+      "ownershipPct": 2.352783112549192,
+      "groupPct": 4.132286449418095,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "NVB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trần Trung Sơn",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 16934686,
+      "ownershipPct": 1.441700479199392,
+      "groupPct": 4.132286449418095,
+      "effectiveDate": "2022-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

@@ -12,6 +12,16 @@
     },
     {
       "code": "VOC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Trịnh Bá",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6931688,
+      "ownershipPct": 5.69104105090312,
+      "effectiveDate": "2025-07-24"
+    },
+    {
+      "code": "VOC",
       "shareholderType": "COMPANY",
       "shareholderName": "CK Rồng Việt",
       "roleType": "Cổ đông lớn",
@@ -33,6 +43,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 3,
+  "totalElements": 4,
   "totalPages": 1
 }

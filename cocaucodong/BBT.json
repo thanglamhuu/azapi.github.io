@@ -7,8 +7,18 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 3989279,
-      "ownershipPct": 40.70692857142857,
+      "ownershipPct": 20.353464285714285,
       "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BBT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư Phát triển Sài Gòn 3 Group",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1451300,
+      "ownershipPct": 7.404591836734694,
+      "effectiveDate": "2025-06-24"
     },
     {
       "code": "BBT",
@@ -17,7 +27,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 933800,
-      "ownershipPct": 9.528571428571428,
+      "ownershipPct": 4.764285714285714,
       "effectiveDate": "2019-06-12"
     },
     {
@@ -27,42 +37,12 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 769360,
-      "ownershipPct": 7.85061224489796,
+      "ownershipPct": 3.92530612244898,
       "effectiveDate": "2020-02-06"
-    },
-    {
-      "code": "BBT",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Công ty Cổ phần Đầu tư Phát triển Gia Định",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 108530,
-      "ownershipPct": 1.1074489795918367,
-      "effectiveDate": "2020-06-30"
-    },
-    {
-      "code": "BBT",
-      "shareholderType": "PERSON",
-      "shareholderName": "Châu Vinh Quang",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 106990,
-      "ownershipPct": 1.091734693877551,
-      "effectiveDate": "2007-11-09"
-    },
-    {
-      "code": "BBT",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Ngân hàng Nông nghiệp và Phát triển nông thôn ",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 106000,
-      "ownershipPct": 1.0816326530612246,
-      "effectiveDate": "2007-09-04"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 6,
+  "totalElements": 4,
   "totalPages": 1
 }

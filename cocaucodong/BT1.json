@@ -53,6 +53,16 @@
     {
       "code": "BT1",
       "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thị Lương Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 118220,
+      "ownershipPct": 2.085023895234516,
+      "effectiveDate": "2025-09-12"
+    },
+    {
+      "code": "BT1",
+      "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Ngọc Long",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -93,6 +103,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 9,
+  "totalElements": 10,
   "totalPages": 1
 }

@@ -1,1 +1,28 @@
-{"data":[{"code":"HTG","shareholderType":"COMPANY","shareholderName":"T.đoàn Dệt May VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22274205,"ownershipPct":61.86813780785601,"effectiveDate":"2023-05-25"},{"code":"HTG","shareholderType":"PERSON","shareholderName":"Nguyễn Đức Trị","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":1123185,"ownershipPct":3.1197236607868497,"effectiveDate":"2023-05-25"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HTG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22274205,
+      "ownershipPct": 61.86813780785601,
+      "effectiveDate": "2023-05-25"
+    },
+    {
+      "code": "HTG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Trị",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1123185,
+      "ownershipPct": 3.1197236607868497,
+      "effectiveDate": "2023-05-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,1 +1,28 @@
-{"data":[{"code":"KSF","shareholderType":"PERSON","shareholderName":"Đỗ Anh Tuấn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":162721860,"ownershipPct":54.24062,"effectiveDate":"2021-08-31"},{"code":"KSF","shareholderType":"PERSON","shareholderName":"Đỗ Thị Định","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":12721860,"ownershipPct":4.24062,"effectiveDate":"2021-08-31"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KSF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Anh Tuấn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 162721860,
+      "ownershipPct": 18.084480471467153,
+      "effectiveDate": "2021-08-31"
+    },
+    {
+      "code": "KSF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Định",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12721860,
+      "ownershipPct": 1.4138741330190001,
+      "effectiveDate": "2021-08-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

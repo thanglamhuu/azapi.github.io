@@ -24,16 +24,6 @@
     {
       "code": "MBG",
       "shareholderType": "COMPANY",
-      "shareholderName": "Công ty TNHH AAI Quốc tế",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 4628820,
-      "ownershipPct": 3.8503378929739123,
-      "effectiveDate": "2022-09-29"
-    },
-    {
-      "code": "MBG",
-      "shareholderType": "COMPANY",
       "shareholderName": "CÔNG TY TNHH QUANG NGÂN VIỆT NAM",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -43,8 +33,18 @@
     },
     {
       "code": "MBG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH AAI Quốc tế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4628820,
+      "ownershipPct": 3.8503378929739123,
+      "effectiveDate": "2022-09-29"
+    },
+    {
+      "code": "MBG",
       "shareholderType": "PERSON",
-      "shareholderName": "Trần Minh Tuấn",
+      "shareholderName": "Trần Thị Hiền",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 4050217,
@@ -54,7 +54,7 @@
     {
       "code": "MBG",
       "shareholderType": "PERSON",
-      "shareholderName": "Trần Thị Hiền",
+      "shareholderName": "Trần Minh Tuấn",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 4050217,

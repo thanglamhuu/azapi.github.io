@@ -1,1 +1,108 @@
-{"data":[{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Abbott Laboratories (Chile) Holdco SpA","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17949800,"ownershipPct":51.68761958294393,"effectiveDate":"2017-12-04"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"SCIC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":12054467,"ownershipPct":34.71162378250183,"effectiveDate":"2020-06-30"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Công ty Cổ phần Chứng khoán Woori CBV ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":7458620,"ownershipPct":21.477582656839477,"effectiveDate":"2012-01-12"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Deutsche Bank Aktiengesellschaf","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1698726,"ownershipPct":4.8915922886971455,"effectiveDate":"2020-06-30"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Quỹ đầu tư chứng khoán Bản Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1388378,"ownershipPct":3.997924985310618,"effectiveDate":"2011-04-22"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Công ty Chứng khoán Ngân hàng Việt Nam Thịnh Vượng ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1355580,"ownershipPct":3.903481005596003,"effectiveDate":"2011-09-06"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Deutsche Investment Management Americas Inc","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":894420,"ownershipPct":2.575540713956518,"effectiveDate":"2009-12-08"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Deutsche Asset Management (Asia) Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":871141,"ownershipPct":2.5085073154634236,"effectiveDate":"2010-04-22"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"Vietnam Dragon Fund Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":817246,"ownershipPct":2.3533131485410754,"effectiveDate":"2010-11-09"},{"code":"DMC","shareholderType":"COMPANY","shareholderName":"VOF Investment Limited","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":631550,"ownershipPct":1.8185894075481754,"effectiveDate":"2008-08-28"}],"currentPage":1,"size":10,"totalElements":11,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Abbott Laboratories (Chile) Holdco SpA",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17949800,
+      "ownershipPct": 51.68761958294393,
+      "effectiveDate": "2017-12-04"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SCIC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 12054467,
+      "ownershipPct": 34.71162378250183,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Chứng khoán Woori CBV ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7458620,
+      "ownershipPct": 21.477582656839477,
+      "effectiveDate": "2012-01-12"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank Aktiengesellschaf",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1698726,
+      "ownershipPct": 4.8915922886971455,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Quỹ đầu tư chứng khoán Bản Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1388378,
+      "ownershipPct": 3.997924985310618,
+      "effectiveDate": "2011-04-22"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Chứng khoán Ngân hàng Việt Nam Thịnh Vượng ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1355580,
+      "ownershipPct": 3.903481005596003,
+      "effectiveDate": "2011-09-06"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Investment Management Americas Inc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 894420,
+      "ownershipPct": 2.575540713956518,
+      "effectiveDate": "2009-12-08"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Asset Management (Asia) Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 871141,
+      "ownershipPct": 2.5085073154634236,
+      "effectiveDate": "2010-04-22"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Dragon Fund Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 817246,
+      "ownershipPct": 2.3533131485410754,
+      "effectiveDate": "2010-11-09"
+    },
+    {
+      "code": "DMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VOF Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 631550,
+      "ownershipPct": 1.8185894075481754,
+      "effectiveDate": "2008-08-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 11,
+  "totalPages": 2
+}

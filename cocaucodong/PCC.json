@@ -32,16 +32,6 @@
     },
     {
       "code": "PCC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Thị Hương Giang",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 1150066,
-      "ownershipPct": 10.000573913043478,
-      "effectiveDate": "2023-06-30"
-    },
-    {
-      "code": "PCC",
       "shareholderType": "COMPANY",
       "shareholderName": "Bảo hiểm Petro",
       "roleType": "Cổ đông lớn",
@@ -49,6 +39,16 @@
       "numberOfShares": 1150066,
       "ownershipPct": 10.000573913043478,
       "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "PCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hương Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1150066,
+      "ownershipPct": 10.000573913043478,
+      "effectiveDate": "2023-06-30"
     },
     {
       "code": "PCC",
@@ -64,8 +64,8 @@
       "code": "PCC",
       "shareholderType": "PERSON",
       "shareholderName": "Lê Thị Minh",
-      "roleType": "Vợ của Chủ tịch HĐQT",
-      "enRoleType": "Wife of Chairman",
+      "roleType": "Em gái của Phó TGĐ",
+      "enRoleType": "Young Sister of Deputy CEO",
       "numberOfShares": 287713,
       "ownershipPct": 2.5018521739130435,
       "effectiveDate": "2020-06-30"
@@ -74,8 +74,8 @@
       "code": "PCC",
       "shareholderType": "PERSON",
       "shareholderName": "Lê Thị Minh",
-      "roleType": "Em gái của Phó TGĐ",
-      "enRoleType": "Young Sister of Deputy CEO",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
       "numberOfShares": 287713,
       "ownershipPct": 2.5018521739130435,
       "effectiveDate": "2020-06-30"

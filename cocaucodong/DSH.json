@@ -7,7 +7,7 @@
       "roleType": "Chủ tịch HĐQT",
       "enRoleType": "Chairman",
       "numberOfShares": 2000000,
-      "ownershipPct": 20,
+      "ownershipPct": 5.714285714285714,
       "effectiveDate": "2025-03-20"
     },
     {
@@ -17,8 +17,18 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 1500000,
-      "ownershipPct": 15,
+      "ownershipPct": 4.285714285714286,
       "effectiveDate": "2025-03-20"
+    },
+    {
+      "code": "DSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Khuất Thảo Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1250000,
+      "ownershipPct": 3.5714285714285716,
+      "effectiveDate": "2025-07-23"
     },
     {
       "code": "DSH",
@@ -27,53 +37,22 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 1000000,
-      "ownershipPct": 10,
+      "ownershipPct": 2.857142857142857,
       "effectiveDate": "2025-03-20"
     },
     {
       "code": "DSH",
       "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Tiến Hưng",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
-      "numberOfShares": 300000,
-      "ownershipPct": 3,
-      "effectiveDate": "2025-03-20"
-    },
-    {
-      "code": "DSH",
-      "shareholderType": "PERSON",
-      "shareholderName": "Đậu Hiếu Thắng",
-      "roleType": "Phó TGĐ",
-      "enRoleType": "Deputy CEO",
-      "numberOfShares": 150000,
-      "ownershipPct": 1.5,
-      "effectiveDate": "2025-03-20"
-    },
-    {
-      "code": "DSH",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Thị Minh Hoàn",
-      "roleType": "Em gái của Chủ tịch HĐQT",
-      "enRoleType": "Young Sister of Chairman",
-      "numberOfShares": 150000,
-      "ownershipPct": 1.5,
-      "groupPct": 1.7,
-      "effectiveDate": "2025-03-20"
-    },
-    {
-      "code": "DSH",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Giang Nam",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
-      "numberOfShares": 100000,
-      "ownershipPct": 1,
-      "effectiveDate": "2025-03-20"
+      "shareholderName": "Vũ Hoàng Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 937500,
+      "ownershipPct": 2.6785714285714284,
+      "effectiveDate": "2025-07-23"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 7,
+  "totalElements": 5,
   "totalPages": 1
 }

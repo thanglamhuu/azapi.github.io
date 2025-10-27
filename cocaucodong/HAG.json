@@ -7,8 +7,19 @@
       "roleType": "Chủ tịch HĐQT",
       "enRoleType": "Chairman",
       "numberOfShares": 329950533,
-      "ownershipPct": 31.20396791492812,
+      "ownershipPct": 26.033668901799434,
       "effectiveDate": "2025-06-19"
+    },
+    {
+      "code": "HAG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Hoàng Nam",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 52000000,
+      "ownershipPct": 4.10289012290691,
+      "groupPct": 5.178795023825179,
+      "effectiveDate": "2025-08-28"
     },
     {
       "code": "HAG",
@@ -17,7 +28,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 39380120,
-      "ownershipPct": 3.7242431154551863,
+      "ownershipPct": 3.1071597189786324,
       "effectiveDate": "2020-06-30"
     },
     {
@@ -27,7 +38,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 35417913,
-      "ownershipPct": 3.34953064272127,
+      "ownershipPct": 2.7945347196476202,
       "effectiveDate": "2020-06-30"
     },
     {
@@ -37,7 +48,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 33905390,
-      "ownershipPct": 3.2064888396562305,
+      "ownershipPct": 2.67519403354436,
       "effectiveDate": "2015-09-04"
     },
     {
@@ -47,7 +58,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 29188800,
-      "ownershipPct": 2.760433118243376,
+      "ownershipPct": 2.303046908067408,
       "effectiveDate": "2024-06-10"
     },
     {
@@ -57,7 +68,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 20543362,
-      "ownershipPct": 1.942819739929784,
+      "ownershipPct": 1.620906866175022,
       "effectiveDate": "2020-06-30"
     },
     {
@@ -67,7 +78,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 14420679,
-      "ownershipPct": 1.3637874766745042,
+      "ownershipPct": 1.1378165660521367,
       "effectiveDate": "2020-06-30"
     },
     {
@@ -77,13 +88,13 @@
       "roleType": "Con của Chủ tịch HĐQT",
       "enRoleType": "Child of Chairman",
       "numberOfShares": 13000000,
-      "ownershipPct": 1.2294315126748578,
-      "groupPct": 1.2895801254293078,
+      "ownershipPct": 1.0257225307267275,
+      "groupPct": 5.178795023825179,
       "effectiveDate": "2025-06-13"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 8,
+  "totalElements": 9,
   "totalPages": 1
 }

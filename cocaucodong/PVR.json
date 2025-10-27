@@ -14,8 +14,8 @@
       "code": "PVR",
       "shareholderType": "PERSON",
       "shareholderName": "Trần Thị Thắm",
-      "roleType": "Vợ của Chủ tịch HĐQT",
-      "enRoleType": "Wife of Chairman",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
       "numberOfShares": 12483000,
       "ownershipPct": 24.048912517346263,
       "effectiveDate": "2025-06-13"
@@ -24,21 +24,11 @@
       "code": "PVR",
       "shareholderType": "PERSON",
       "shareholderName": "Trần Thị Thắm",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
       "numberOfShares": 12483000,
       "ownershipPct": 24.048912517346263,
       "effectiveDate": "2025-06-13"
-    },
-    {
-      "code": "PVR",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Công ty cổ phần quản lý Quỹ PVI",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 4350000,
-      "ownershipPct": 8.380418925775555,
-      "effectiveDate": "2017-07-21"
     },
     {
       "code": "PVR",
@@ -49,6 +39,16 @@
       "numberOfShares": 4350000,
       "ownershipPct": 8.380418925775555,
       "effectiveDate": "2017-01-23"
+    },
+    {
+      "code": "PVR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần quản lý Quỹ PVI",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4350000,
+      "ownershipPct": 8.380418925775555,
+      "effectiveDate": "2017-07-21"
     },
     {
       "code": "PVR",

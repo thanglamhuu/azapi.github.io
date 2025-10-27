@@ -18,6 +18,16 @@
       "enRoleType": "Vice-chairman",
       "numberOfShares": 998332,
       "ownershipPct": 14.061014084507041,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TNP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lâm Ánh Vy",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 998332,
+      "ownershipPct": 14.061014084507041,
       "groupPct": 28.110760563380282,
       "effectiveDate": "2020-06-30"
     },
@@ -45,22 +55,12 @@
     {
       "code": "TNP",
       "shareholderType": "PERSON",
-      "shareholderName": "Lâm Ánh Vy",
-      "roleType": "Phó chủ tịch HĐQT",
-      "enRoleType": "Vice-chairman",
-      "numberOfShares": 998332,
-      "ownershipPct": 14.061014084507041,
-      "effectiveDate": "2020-06-30"
-    },
-    {
-      "code": "TNP",
-      "shareholderType": "PERSON",
       "shareholderName": "Lâm Duy Việt",
       "roleType": "Chủ tịch HĐQT",
       "enRoleType": "Chairman",
       "numberOfShares": 997532,
       "ownershipPct": 14.049746478873239,
-      "groupPct": 31.166535211267604,
+      "groupPct": 28.110760563380282,
       "effectiveDate": "2025-06-24"
     },
     {
@@ -71,7 +71,7 @@
       "enRoleType": "Chairman",
       "numberOfShares": 997532,
       "ownershipPct": 14.049746478873239,
-      "groupPct": 28.110760563380282,
+      "groupPct": 31.166535211267604,
       "effectiveDate": "2025-06-24"
     },
     {
@@ -88,9 +88,9 @@
     {
       "code": "TNP",
       "shareholderType": "PERSON",
-      "shareholderName": "Lâm Đình An",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
+      "shareholderName": "Đồng Thị Ánh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
       "numberOfShares": 106500,
       "ownershipPct": 1.5,
       "effectiveDate": "2025-06-24"
@@ -98,9 +98,9 @@
     {
       "code": "TNP",
       "shareholderType": "PERSON",
-      "shareholderName": "Đồng Thị Ánh",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
+      "shareholderName": "Lâm Đình An",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
       "numberOfShares": 106500,
       "ownershipPct": 1.5,
       "effectiveDate": "2025-06-24"

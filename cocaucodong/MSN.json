@@ -1,1 +1,109 @@
-{"data":[{"code":"MSN","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần Masan","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":446278464,"ownershipPct":31.027077018261522,"effectiveDate":"2023-06-30"},{"code":"MSN","shareholderType":"COMPANY","shareholderName":"Công ty TNHH MTV Tư vấn xây dựng Hoa Hướng Dương","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":189081487,"ownershipPct":13.14570684700666,"effectiveDate":"2023-06-30"},{"code":"MSN","shareholderType":"COMPANY","shareholderName":"SK Investment Vina I Pte.Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":131879918,"ownershipPct":9.168823286413422,"effectiveDate":"2022-04-12"},{"code":"MSN","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Yến","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":50898280,"ownershipPct":3.538653511313152,"groupPct":3.5386690151716915,"effectiveDate":"2022-04-12"},{"code":"MSN","shareholderType":"COMPANY","shareholderName":"BankInvest Private Equity New Markets K/S","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":49511218,"ownershipPct":3.442219372149529,"effectiveDate":"2011-10-04"},{"code":"MSN","shareholderType":"COMPANY","shareholderName":"Government of Singapore","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":44054712,"ownershipPct":3.062861088993374,"effectiveDate":"2022-04-12"},{"code":"MSN","shareholderType":"COMPANY","shareholderName":"Adorlis Investment Pte Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":39558206,"ownershipPct":2.750245873989239,"effectiveDate":"2022-04-12"},{"code":"MSN","shareholderType":"COMPANY","shareholderName":"Arsolis Investment Pte Ltd","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":39558206,"ownershipPct":2.750245873989239,"effectiveDate":"2022-04-12"},{"code":"MSN","shareholderType":"COMPANY","shareholderName":"PENM III Germany GmbH & Co.KG","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":22558525,"ownershipPct":1.5683595536292292,"effectiveDate":"2017-12-26"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Masan",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 446278464,
+      "ownershipPct": 30.86476887977552,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Tư vấn xây dựng Hoa Hướng Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 189081487,
+      "ownershipPct": 13.076939324814203,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "GIC Private Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 71201130,
+      "ownershipPct": 4.924294131811055,
+      "effectiveDate": "2024-03-13"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "SK Investment Vina I Pte.Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 55497918,
+      "ownershipPct": 3.8382547009454924,
+      "effectiveDate": "2024-10-31"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Yến",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 50898280,
+      "ownershipPct": 3.5201421876770214,
+      "groupPct": 4.107799160210513,
+      "effectiveDate": "2022-04-12"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "BankInvest Private Equity New Markets K/S",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 49511218,
+      "ownershipPct": 3.4242125125853744,
+      "effectiveDate": "2011-10-04"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Government of Singapore",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 44054712,
+      "ownershipPct": 3.046838719838099,
+      "effectiveDate": "2022-04-12"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Arsolis Investment Pte Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 39558206,
+      "ownershipPct": 2.735858850425167,
+      "effectiveDate": "2022-04-12"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Adorlis Investment Pte Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 39558206,
+      "ownershipPct": 2.735858850425167,
+      "effectiveDate": "2022-04-12"
+    },
+    {
+      "code": "MSN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PENM III Germany GmbH & Co.KG",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22558525,
+      "ownershipPct": 1.5601551868602785,
+      "effectiveDate": "2017-12-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

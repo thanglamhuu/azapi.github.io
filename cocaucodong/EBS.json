@@ -52,6 +52,16 @@
     },
     {
       "code": "EBS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Anh Thư",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 795200,
+      "ownershipPct": 7.979462116821252,
+      "effectiveDate": "2025-09-12"
+    },
+    {
+      "code": "EBS",
       "shareholderType": "COMPANY",
       "shareholderName": "PYN ELITE FUND (NON - UCITS)",
       "roleType": "Cổ đông lớn",
@@ -89,20 +99,10 @@
       "numberOfShares": 412900,
       "ownershipPct": 4.143259441694536,
       "effectiveDate": "2014-05-29"
-    },
-    {
-      "code": "EBS",
-      "shareholderType": "PERSON",
-      "shareholderName": "Lê Thị Tuyết Nhung",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 382000,
-      "ownershipPct": 3.833192314670169,
-      "effectiveDate": "2020-06-30"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 12,
+  "totalElements": 13,
   "totalPages": 2
 }

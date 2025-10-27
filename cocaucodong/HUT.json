@@ -3,6 +3,16 @@
     {
       "code": "HUT",
       "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hồng Quân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 45000000,
+      "ownershipPct": 4.201624344610327,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HUT",
+      "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Hữu Quang",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -14,16 +24,6 @@
       "code": "HUT",
       "shareholderType": "PERSON",
       "shareholderName": "Đinh Thị Nhung",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 45000000,
-      "ownershipPct": 4.201624344610327,
-      "effectiveDate": "2023-09-05"
-    },
-    {
-      "code": "HUT",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Hồng Quân",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 45000000,
@@ -53,26 +53,6 @@
     {
       "code": "HUT",
       "shareholderType": "PERSON",
-      "shareholderName": "Đỗ Quốc Tuyển",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 43000000,
-      "ownershipPct": 4.014885484849868,
-      "effectiveDate": "2023-09-05"
-    },
-    {
-      "code": "HUT",
-      "shareholderType": "PERSON",
-      "shareholderName": "Đỗ Thị Thúy Hường",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 43000000,
-      "ownershipPct": 4.014885484849868,
-      "effectiveDate": "2023-09-05"
-    },
-    {
-      "code": "HUT",
-      "shareholderType": "PERSON",
       "shareholderName": "Đinh Tân Trang",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -83,7 +63,27 @@
     {
       "code": "HUT",
       "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Quốc Tuyển",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 43000000,
+      "ownershipPct": 4.014885484849868,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HUT",
+      "shareholderType": "PERSON",
       "shareholderName": "Đào Minh Tuấn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 43000000,
+      "ownershipPct": 4.014885484849868,
+      "effectiveDate": "2023-09-05"
+    },
+    {
+      "code": "HUT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Thúy Hường",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 43000000,

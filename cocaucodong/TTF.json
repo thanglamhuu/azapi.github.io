@@ -72,16 +72,6 @@
     },
     {
       "code": "TTF",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Công ty cổ phần Đầu tư xây dựng Tân Liên Phát",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 7000000,
-      "ownershipPct": 1.778760389863315,
-      "effectiveDate": "2017-03-31"
-    },
-    {
-      "code": "TTF",
       "shareholderType": "PERSON",
       "shareholderName": "Vũ Xuân Dương",
       "roleType": "Phó chủ tịch HĐQT",
@@ -90,6 +80,16 @@
       "ownershipPct": 1.778760389863315,
       "groupPct": 1.7787756363809426,
       "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "TTF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Đầu tư xây dựng Tân Liên Phát",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7000000,
+      "ownershipPct": 1.778760389863315,
+      "effectiveDate": "2017-03-31"
     },
     {
       "code": "TTF",

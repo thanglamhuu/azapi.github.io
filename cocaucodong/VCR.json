@@ -13,6 +13,16 @@
     {
       "code": "VCR",
       "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Imperia An Phú ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 50697400,
+      "ownershipPct": 24.14161904761905,
+      "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "VCR",
+      "shareholderType": "COMPANY",
       "shareholderName": "Chứng khoán Agribank",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -23,6 +33,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 2,
+  "totalElements": 3,
   "totalPages": 1
 }

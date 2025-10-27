@@ -13,16 +13,6 @@
     },
     {
       "code": "IBD",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Công ty TNHH MTV XSKT Bình Dương",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 2610000,
-      "ownershipPct": 29,
-      "effectiveDate": "2020-09-18"
-    },
-    {
-      "code": "IBD",
       "shareholderType": "PERSON",
       "shareholderName": "Vũ Thế Anh",
       "roleType": "Thành viên HĐQT",
@@ -30,6 +20,16 @@
       "numberOfShares": 2610000,
       "ownershipPct": 29,
       "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "IBD",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV XSKT Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2610000,
+      "ownershipPct": 29,
+      "effectiveDate": "2020-09-18"
     },
     {
       "code": "IBD",
@@ -45,21 +45,21 @@
       "code": "IBD",
       "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Thị Như Hoa",
-      "roleType": "Chị/em dâu của Chủ tịch HĐQT",
-      "enRoleType": "Sister in law of Chairman",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
       "numberOfShares": 1379059,
       "ownershipPct": 15.322877777777778,
+      "groupPct": 53.79965555555555,
       "effectiveDate": "2022-12-31"
     },
     {
       "code": "IBD",
       "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Thị Như Hoa",
-      "roleType": "Nhóm cổ đông lớn",
-      "enRoleType": "Major Shareholder Group",
+      "roleType": "Chị/em dâu của Chủ tịch HĐQT",
+      "enRoleType": "Sister in law of Chairman",
       "numberOfShares": 1379059,
       "ownershipPct": 15.322877777777778,
-      "groupPct": 53.79965555555555,
       "effectiveDate": "2022-12-31"
     },
     {

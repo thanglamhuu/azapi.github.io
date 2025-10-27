@@ -6,9 +6,9 @@
       "shareholderName": "TCT Xây dựng số 1",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 5226687,
-      "ownershipPct": 11.884929979540415,
-      "effectiveDate": "2022-04-30"
+      "numberOfShares": 6272024,
+      "ownershipPct": 11.88492931165944,
+      "effectiveDate": "2025-10-16"
     },
     {
       "code": "CDC",
@@ -16,9 +16,19 @@
       "shareholderName": "Phùng Khánh Ly",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 2554300,
-      "ownershipPct": 5.808206354568407,
-      "effectiveDate": "2025-06-23"
+      "numberOfShares": 3065160,
+      "ownershipPct": 5.808206398592551,
+      "effectiveDate": "2025-10-16"
+    },
+    {
+      "code": "CDC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Trang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3000000,
+      "ownershipPct": 5.684733976620357,
+      "effectiveDate": "2025-10-16"
     },
     {
       "code": "CDC",
@@ -26,9 +36,40 @@
       "shareholderName": "CÔNG TY TNHH NƯỚC SẠCH REE",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 1200000,
-      "ownershipPct": 2.728672288095403,
-      "effectiveDate": "2020-12-23"
+      "numberOfShares": 1440000,
+      "ownershipPct": 2.7286723087777713,
+      "effectiveDate": "2025-10-16"
+    },
+    {
+      "code": "CDC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Minh Hoàng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1365772,
+      "ownershipPct": 2.588016830905579,
+      "effectiveDate": "2025-10-16"
+    },
+    {
+      "code": "CDC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Duy Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1276143,
+      "ownershipPct": 2.418177823708744,
+      "effectiveDate": "2025-10-16"
+    },
+    {
+      "code": "CDC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Tòng",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
+      "numberOfShares": 1182007,
+      "ownershipPct": 2.239798451167699,
+      "groupPct": 4.513692041815842,
+      "effectiveDate": "2025-10-16"
     },
     {
       "code": "CDC",
@@ -37,28 +78,18 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 1150660,
-      "ownershipPct": 2.6164783791832136,
+      "ownershipPct": 2.1803986658459933,
       "effectiveDate": "2020-12-24"
     },
     {
       "code": "CDC",
       "shareholderType": "PERSON",
-      "shareholderName": "Văn Minh Hoàng",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
-      "numberOfShares": 1138144,
-      "ownershipPct": 2.5880183272183785,
-      "effectiveDate": "2025-05-12"
-    },
-    {
-      "code": "CDC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Trịnh Duy Minh",
+      "shareholderName": "Hồ Đình Thuần",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 1063453,
-      "ownershipPct": 2.4181789423266005,
-      "effectiveDate": "2024-09-06"
+      "numberOfShares": 1044600,
+      "ownershipPct": 1.9794243706592083,
+      "effectiveDate": "2025-10-16"
     },
     {
       "code": "CDC",
@@ -67,43 +98,12 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 999600,
-      "ownershipPct": 2.2729840159834707,
+      "ownershipPct": 1.8941533610099028,
       "effectiveDate": "2020-12-24"
-    },
-    {
-      "code": "CDC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Mạnh Tòng",
-      "roleType": "Nhóm cổ đông lớn",
-      "enRoleType": "Major Shareholder Group",
-      "numberOfShares": 985006,
-      "ownershipPct": 2.239798813173084,
-      "groupPct": 4.5136923865859195,
-      "effectiveDate": "2020-12-31"
-    },
-    {
-      "code": "CDC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Hồ Đình Thuần",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 870500,
-      "ownershipPct": 1.9794243556558737,
-      "effectiveDate": "2022-06-30"
-    },
-    {
-      "code": "CDC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Thị Tú Oanh",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 766620,
-      "ownershipPct": 1.7432122912497483,
-      "effectiveDate": "2020-12-31"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 17,
+  "totalElements": 18,
   "totalPages": 2
 }

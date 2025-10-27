@@ -52,16 +52,6 @@
     },
     {
       "code": "BMJ",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Thị Thủy",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 4479600,
-      "ownershipPct": 4.266286608174337,
-      "effectiveDate": "2022-06-30"
-    },
-    {
-      "code": "BMJ",
       "shareholderType": "COMPANY",
       "shareholderName": "Bình Dương ACC",
       "roleType": "Cổ đông lớn",
@@ -69,6 +59,16 @@
       "numberOfShares": 4479600,
       "ownershipPct": 4.266286608174337,
       "effectiveDate": "2014-06-02"
+    },
+    {
+      "code": "BMJ",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thủy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4479600,
+      "ownershipPct": 4.266286608174337,
+      "effectiveDate": "2022-06-30"
     }
   ],
   "currentPage": 1,

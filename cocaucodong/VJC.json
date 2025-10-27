@@ -33,6 +33,16 @@
     {
       "code": "VJC",
       "shareholderType": "COMPANY",
+      "shareholderName": " CTCP Aviation",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 35000000,
+      "ownershipPct": 5.916046226389571,
+      "effectiveDate": "2025-06-12"
+    },
+    {
+      "code": "VJC",
+      "shareholderType": "COMPANY",
       "shareholderName": "Công ty TNHH MTV Quản lý nợ & Khai thác tài sản-Ngân hàng TMCP Phát triển T.P Hồ Chí Minh",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -83,6 +93,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 8,
+  "totalElements": 9,
   "totalPages": 1
 }

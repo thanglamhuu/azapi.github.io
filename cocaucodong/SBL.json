@@ -2,16 +2,6 @@
   "data": [
     {
       "code": "SBL",
-      "shareholderType": "PERSON",
-      "shareholderName": "Trần Nguyên Trung",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
-      "numberOfShares": 2402400,
-      "ownershipPct": 20,
-      "effectiveDate": "2023-12-31"
-    },
-    {
-      "code": "SBL",
       "shareholderType": "COMPANY",
       "shareholderName": "Bia SG Miền Tây",
       "roleType": "Cổ đông lớn",
@@ -19,6 +9,16 @@
       "numberOfShares": 2402400,
       "ownershipPct": 20,
       "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SBL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Nguyên Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2402400,
+      "ownershipPct": 20,
+      "effectiveDate": "2023-12-31"
     },
     {
       "code": "SBL",
@@ -55,22 +55,22 @@
       "code": "SBL",
       "shareholderType": "PERSON",
       "shareholderName": "Đinh Ngọc Ninh",
-      "roleType": "Anh/em rể của Thành viên HĐQT",
-      "enRoleType": "Brother in law of Board member",
+      "roleType": "Chồng của Chủ tịch HĐQT",
+      "enRoleType": "Husband of Chairman",
       "numberOfShares": 592500,
       "ownershipPct": 4.932567432567432,
-      "groupPct": 5.503996003996004,
+      "groupPct": 14.714285714285714,
       "effectiveDate": "2020-06-30"
     },
     {
       "code": "SBL",
       "shareholderType": "PERSON",
       "shareholderName": "Đinh Ngọc Ninh",
-      "roleType": "Chồng của Chủ tịch HĐQT",
-      "enRoleType": "Husband of Chairman",
+      "roleType": "Anh/em rể của Thành viên HĐQT",
+      "enRoleType": "Brother in law of Board member",
       "numberOfShares": 592500,
       "ownershipPct": 4.932567432567432,
-      "groupPct": 14.714285714285714,
+      "groupPct": 5.503996003996004,
       "effectiveDate": "2020-06-30"
     },
     {

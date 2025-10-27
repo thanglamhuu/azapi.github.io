@@ -7,7 +7,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 1000000,
-      "ownershipPct": 20,
+      "ownershipPct": 10,
       "effectiveDate": "2020-06-30"
     },
     {
@@ -17,16 +17,6 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 500000,
-      "ownershipPct": 10,
-      "effectiveDate": "2020-06-30"
-    },
-    {
-      "code": "SDV",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Đô thị C.nghiệp 2",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 250000,
       "ownershipPct": 5,
       "effectiveDate": "2020-06-30"
     },
@@ -37,7 +27,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 250000,
-      "ownershipPct": 5,
+      "ownershipPct": 2.5,
       "effectiveDate": "2020-06-30"
     },
     {
@@ -47,8 +37,18 @@
       "roleType": "Thành viên HĐQT",
       "enRoleType": "Board member",
       "numberOfShares": 250000,
-      "ownershipPct": 5,
+      "ownershipPct": 2.5,
       "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "SDV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đô thị C.nghiệp 2",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 2.5,
+      "effectiveDate": "2020-06-30"
     },
     {
       "code": "SDV",
@@ -57,7 +57,7 @@
       "roleType": "Thành viên HĐQT",
       "enRoleType": "Board member",
       "numberOfShares": 248000,
-      "ownershipPct": 4.96,
+      "ownershipPct": 2.48,
       "effectiveDate": "2024-12-30"
     },
     {
@@ -67,7 +67,7 @@
       "roleType": "Phó TGĐ",
       "enRoleType": "Deputy CEO",
       "numberOfShares": 219700,
-      "ownershipPct": 4.394,
+      "ownershipPct": 2.197,
       "effectiveDate": "2023-06-30"
     },
     {
@@ -77,7 +77,7 @@
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 100000,
-      "ownershipPct": 2,
+      "ownershipPct": 1,
       "effectiveDate": "2021-06-30"
     }
   ],

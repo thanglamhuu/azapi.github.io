@@ -1,1 +1,28 @@
-{"data":[{"code":"TTH","shareholderType":"PERSON","shareholderName":"Nguyễn Thanh Tùng","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1389000,"ownershipPct":3.7164032729392384,"effectiveDate":"2018-09-25"}],"currentPage":1,"size":10,"totalElements":1,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "TTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Trịnh Chung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2019400,
+      "ownershipPct": 5.403099186014037,
+      "effectiveDate": "2025-05-30"
+    },
+    {
+      "code": "TTH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Tùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1389000,
+      "ownershipPct": 3.7164032729392384,
+      "effectiveDate": "2018-09-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

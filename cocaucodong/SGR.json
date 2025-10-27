@@ -1,1 +1,100 @@
-{"data":[{"code":"SGR","shareholderType":"PERSON","shareholderName":"Phạm Thu","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":17964257,"ownershipPct":29.55621429600668,"effectiveDate":"2022-12-31"},{"code":"SGR","shareholderType":"COMPANY","shareholderName":"CÔNG TY TNHH BẤT ĐỘNG SẢN REE","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":17319067,"ownershipPct":28.494696755835633,"effectiveDate":"2020-12-28"},{"code":"SGR","shareholderType":"PERSON","shareholderName":"Phạm Đình Thành","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3716183,"ownershipPct":6.114157747307723,"groupPct":13.080400538559038,"effectiveDate":"2022-12-31"},{"code":"SGR","shareholderType":"PERSON","shareholderName":"Phạm Tuấn","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":3521537,"ownershipPct":5.793910776455518,"groupPct":13.080400538559038,"effectiveDate":"2022-12-31"},{"code":"SGR","shareholderType":"PERSON","shareholderName":"Đỗ Thị Kim Thúy","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3173799,"ownershipPct":5.221784757168176,"effectiveDate":"2020-10-14"},{"code":"SGR","shareholderType":"PERSON","shareholderName":"Trần Thị Ga","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":2520252,"ownershipPct":4.146517620625191,"effectiveDate":"2022-12-31"},{"code":"SGR","shareholderType":"PERSON","shareholderName":"Đặng Văn Phúc","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":987237,"ownershipPct":1.6242802768267426,"effectiveDate":"2022-12-31"},{"code":"SGR","shareholderType":"COMPANY","shareholderName":"Địa Ốc Sài Gòn","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":779977,"ownershipPct":1.283279757017304,"effectiveDate":"2021-12-31"},{"code":"SGR","shareholderType":"COMPANY","shareholderName":"Công đoàn SGR","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":779977,"ownershipPct":1.283279757017304,"effectiveDate":"2021-12-15"},{"code":"SGR","shareholderType":"PERSON","shareholderName":"Trần Thị Tuyết Mai","roleType":"Vợ của Chủ tịch HĐQT","enRoleType":"Wife of Chairman","numberOfShares":681819,"ownershipPct":1.1217824636492886,"groupPct":13.080400538559038,"effectiveDate":"2022-12-31"}],"currentPage":1,"size":10,"totalElements":10,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "SGR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thu",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 20839257,
+      "ownershipPct": 29.823628308549715,
+      "effectiveDate": "2025-07-07"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY TNHH BẤT ĐỘNG SẢN REE",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 17319067,
+      "ownershipPct": 24.785788517261878,
+      "effectiveDate": "2025-07-24"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đình Thành",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3716183,
+      "ownershipPct": 5.3183307120091285,
+      "groupPct": 11.377837927101499,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Tuấn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3521537,
+      "ownershipPct": 5.039767519677176,
+      "groupPct": 11.377837927101499,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Kim Thúy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3173799,
+      "ownershipPct": 4.542110196253484,
+      "effectiveDate": "2020-10-14"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Ga",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2520252,
+      "ownershipPct": 3.6068012833604883,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đặng Văn Phúc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 987237,
+      "ownershipPct": 1.412861760879848,
+      "effectiveDate": "2022-12-31"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Địa Ốc Sài Gòn",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 779977,
+      "ownershipPct": 1.1162463295700842,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "SGR",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công đoàn SGR",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 779977,
+      "ownershipPct": 1.1162463295700842,
+      "effectiveDate": "2021-12-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

@@ -1,1 +1,98 @@
-{"data":[{"code":"HIG","shareholderType":"PERSON","shareholderName":"Lê Hải Đoàn","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":9620000,"ownershipPct":42.64367749854493,"effectiveDate":"2023-07-13"},{"code":"HIG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH VBP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":3999000,"ownershipPct":17.726826020445028,"effectiveDate":"2021-01-20"},{"code":"HIG","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bảo Việt","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1987031,"ownershipPct":8.808140243618631,"effectiveDate":"2016-10-28"},{"code":"HIG","shareholderType":"COMPANY","shareholderName":"Công ty TNHH Kế toán và Tư vấn VBP","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1141000,"ownershipPct":5.057841582727626,"effectiveDate":"2021-01-20"},{"code":"HIG","shareholderType":"PERSON","shareholderName":"Lê Văn Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1097800,"ownershipPct":4.866343987307965,"effectiveDate":"2022-12-06"},{"code":"HIG","shareholderType":"PERSON","shareholderName":"Nguyễn Quang Hải","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":816013,"ownershipPct":3.617234428962593,"effectiveDate":"2016-10-28"},{"code":"HIG","shareholderType":"PERSON","shareholderName":"Võ Văn Mai","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":793447,"ownershipPct":3.5172035322440727,"effectiveDate":"2022-06-30"},{"code":"HIG","shareholderType":"PERSON","shareholderName":"Nguyễn Duy Nguyên","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":458600,"ownershipPct":2.032888825450385,"effectiveDate":"2021-08-03"},{"code":"HIG","shareholderType":"PERSON","shareholderName":"Phạm Việt Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":253483,"ownershipPct":1.1236431708278236,"effectiveDate":"2016-10-28"}],"currentPage":1,"size":10,"totalElements":9,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "HIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hải Đoàn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 12400000,
+      "ownershipPct": 54.966902388976834,
+      "effectiveDate": "2025-05-20"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH VBP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2400000,
+      "ownershipPct": 10.63875530109229,
+      "effectiveDate": "2025-04-24"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bảo Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1987031,
+      "ownershipPct": 8.808140243618631,
+      "effectiveDate": "2016-10-28"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1150984,
+      "ownershipPct": 5.10209880478017,
+      "effectiveDate": "2025-05-06"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Kế toán và Tư vấn VBP",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1141000,
+      "ownershipPct": 5.057841582727626,
+      "effectiveDate": "2021-01-20"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1140547,
+      "ownershipPct": 5.055833517664545,
+      "effectiveDate": "2025-04-24"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Quang Hải",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 816013,
+      "ownershipPct": 3.617234428962593,
+      "effectiveDate": "2016-10-28"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Văn Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 793447,
+      "ownershipPct": 3.5172035322440727,
+      "effectiveDate": "2022-06-30"
+    },
+    {
+      "code": "HIG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Việt Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 253483,
+      "ownershipPct": 1.1236431708278236,
+      "effectiveDate": "2016-10-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 9,
+  "totalPages": 1
+}

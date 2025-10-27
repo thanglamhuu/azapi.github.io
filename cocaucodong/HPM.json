@@ -14,11 +14,21 @@
       "code": "HPM",
       "shareholderType": "PERSON",
       "shareholderName": "Lý Tấn Khoa",
-      "roleType": "Phó chủ tịch HĐQT",
-      "enRoleType": "Vice-chairman",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
       "numberOfShares": 456000,
       "ownershipPct": 12,
       "effectiveDate": "2024-01-15"
+    },
+    {
+      "code": "HPM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Thanh Thủy",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 456000,
+      "ownershipPct": 12,
+      "effectiveDate": "2024-01-16"
     },
     {
       "code": "HPM",
@@ -33,19 +43,9 @@
     {
       "code": "HPM",
       "shareholderType": "PERSON",
-      "shareholderName": "Hoàng Thanh Thủy",
-      "roleType": "Vợ của Phó chủ tịch HĐQT",
-      "enRoleType": "Wife of Vice-chairman",
-      "numberOfShares": 456000,
-      "ownershipPct": 12,
-      "effectiveDate": "2024-01-16"
-    },
-    {
-      "code": "HPM",
-      "shareholderType": "PERSON",
       "shareholderName": "Lê Thanh Hồng",
-      "roleType": "Chủ tịch HĐQT",
-      "enRoleType": "Chairman",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
       "numberOfShares": 158300,
       "ownershipPct": 4.16578947368421,
       "effectiveDate": "2024-10-03"

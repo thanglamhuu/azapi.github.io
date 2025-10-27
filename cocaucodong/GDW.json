@@ -1,1 +1,58 @@
-{"data":[{"code":"GDW","shareholderType":"COMPANY","shareholderName":"Tổng Công ty cấp nước Sài Gòn - TNHH MTV","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":4865000,"ownershipPct":51.21052631578947,"effectiveDate":"2020-06-30"},{"code":"GDW","shareholderType":"COMPANY","shareholderName":"CÔNG TY TNHH NƯỚC SẠCH REE","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1904688,"ownershipPct":20.049347368421053,"effectiveDate":"2020-12-28"},{"code":"GDW","shareholderType":"COMPANY","shareholderName":"CTCP Cơ điện lạnh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1904688,"ownershipPct":20.049347368421053,"effectiveDate":"2021-06-30"},{"code":"GDW","shareholderType":"COMPANY","shareholderName":"Ngân hàng Thương mại Cổ phần Đông Á ","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":950000,"ownershipPct":10,"effectiveDate":"2020-06-30"},{"code":"GDW","shareholderType":"COMPANY","shareholderName":"America LLC","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":496400,"ownershipPct":5.225263157894737,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":5,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty cấp nước Sài Gòn - TNHH MTV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4865000,
+      "ownershipPct": 51.21052631578947,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CÔNG TY TNHH NƯỚC SẠCH REE",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1904688,
+      "ownershipPct": 20.049347368421053,
+      "effectiveDate": "2020-12-28"
+    },
+    {
+      "code": "GDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Cơ điện lạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1904688,
+      "ownershipPct": 20.049347368421053,
+      "effectiveDate": "2021-06-30"
+    },
+    {
+      "code": "GDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng Thương mại Cổ phần Đông Á ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 950000,
+      "ownershipPct": 10,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GDW",
+      "shareholderType": "COMPANY",
+      "shareholderName": "America LLC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 577900,
+      "ownershipPct": 6.083157894736842,
+      "effectiveDate": "2024-12-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

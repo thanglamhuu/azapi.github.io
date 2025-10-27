@@ -76,6 +76,16 @@
     {
       "code": "TVC",
       "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Hằng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1550000,
+      "ownershipPct": 1.4013114647981066,
+      "effectiveDate": "2025-10-09"
+    },
+    {
+      "code": "TVC",
+      "shareholderType": "PERSON",
       "shareholderName": "Hoàng Thị Quế Anh",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -86,6 +96,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 8,
+  "totalElements": 9,
   "totalPages": 1
 }

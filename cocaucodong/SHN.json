@@ -13,6 +13,16 @@
     {
       "code": "SHN",
       "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6317500,
+      "ownershipPct": 4.874345393931092,
+      "effectiveDate": "2025-08-14"
+    },
+    {
+      "code": "SHN",
+      "shareholderType": "PERSON",
       "shareholderName": "Kiều Thị Liễu",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -74,6 +84,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 7,
+  "totalElements": 8,
   "totalPages": 1
 }

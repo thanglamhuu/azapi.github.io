@@ -33,22 +33,22 @@
     {
       "code": "SSH",
       "shareholderType": "PERSON",
-      "shareholderName": "Đỗ Thị Hồng Nhung",
-      "roleType": "Em gái của Phó chủ tịch HĐQT",
-      "enRoleType": "Young Sister of Vice-chairman",
-      "numberOfShares": 3750000,
-      "ownershipPct": 1,
-      "effectiveDate": "2022-01-10"
-    },
-    {
-      "code": "SSH",
-      "shareholderType": "PERSON",
       "shareholderName": "Đỗ Văn Bắc",
       "roleType": "Nhóm cổ đông lớn",
       "enRoleType": "Major Shareholder Group",
       "numberOfShares": 3750000,
       "ownershipPct": 1,
       "groupPct": 1.2,
+      "effectiveDate": "2022-01-10"
+    },
+    {
+      "code": "SSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thị Hồng Nhung",
+      "roleType": "Em gái của Phó chủ tịch HĐQT",
+      "enRoleType": "Young Sister of Vice-chairman",
+      "numberOfShares": 3750000,
+      "ownershipPct": 1,
       "effectiveDate": "2022-01-10"
     }
   ],

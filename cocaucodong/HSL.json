@@ -3,32 +3,22 @@
     {
       "code": "HSL",
       "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Thị Tuyết Nhung",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
-      "numberOfShares": 4796000,
-      "ownershipPct": 12.435384809689996,
-      "effectiveDate": "2024-12-31"
-    },
-    {
-      "code": "HSL",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Tuấn Dũng",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
-      "numberOfShares": 2997500,
-      "ownershipPct": 7.772115506056248,
-      "effectiveDate": "2024-12-31"
-    },
-    {
-      "code": "HSL",
-      "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Xuân Giáp",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 1873437,
       "ownershipPct": 4.85757089485221,
       "effectiveDate": "2022-07-22"
+    },
+    {
+      "code": "HSL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tuấn Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1497500,
+      "ownershipPct": 3.882816670665298,
+      "effectiveDate": "2025-09-04"
     },
     {
       "code": "HSL",
@@ -64,8 +54,8 @@
       "code": "HSL",
       "shareholderType": "PERSON",
       "shareholderName": "Trần Ngọc Lan",
-      "roleType": "Kế toán trưởng",
-      "enRoleType": "Chief Accountant",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
       "numberOfShares": 423247,
       "ownershipPct": 1.097422709455142,
       "effectiveDate": "2024-12-31"
@@ -74,8 +64,8 @@
       "code": "HSL",
       "shareholderType": "PERSON",
       "shareholderName": "Lê Thị Khuyên",
-      "roleType": "Vợ của Thành viên HĐQT",
-      "enRoleType": "Wife of Board member",
+      "roleType": "Nhóm cổ đông lớn",
+      "enRoleType": "Major Shareholder Group",
       "numberOfShares": 390895,
       "ownershipPct": 1.0135383121734303,
       "groupPct": 1.0139583564476524,
@@ -84,6 +74,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 8,
+  "totalElements": 7,
   "totalPages": 1
 }

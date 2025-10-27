@@ -32,16 +32,6 @@
     },
     {
       "code": "FBA",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Chứng khoán APEC",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 146000,
-      "ownershipPct": 4.275381416732555,
-      "effectiveDate": "2020-06-30"
-    },
-    {
-      "code": "FBA",
       "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Văn Kỳ",
       "roleType": "Cổ đông lớn",
@@ -49,6 +39,16 @@
       "numberOfShares": 146000,
       "ownershipPct": 4.275381416732555,
       "effectiveDate": "2012-04-05"
+    },
+    {
+      "code": "FBA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán APEC",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 146000,
+      "ownershipPct": 4.275381416732555,
+      "effectiveDate": "2020-06-30"
     }
   ],
   "currentPage": 1,

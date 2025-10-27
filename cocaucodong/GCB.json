@@ -1,1 +1,68 @@
-{"data":[{"code":"GCB","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Anh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1274064,"ownershipPct":31.54289754742771,"effectiveDate":"2022-12-16"},{"code":"GCB","shareholderType":"PERSON","shareholderName":"Nguyễn Hoàng Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":193500,"ownershipPct":4.790615444300492,"effectiveDate":"2021-12-31"}],"currentPage":1,"size":10,"totalElements":2,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "GCB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1274064,
+      "ownershipPct": 31.54289754742771,
+      "effectiveDate": "2022-12-16"
+    },
+    {
+      "code": "GCB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Bích Trâm",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 500000,
+      "ownershipPct": 12.378851277262253,
+      "effectiveDate": "2025-03-13"
+    },
+    {
+      "code": "GCB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Ngọc Thế Phiệt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 306549,
+      "ownershipPct": 7.5894489603869335,
+      "effectiveDate": "2025-06-23"
+    },
+    {
+      "code": "GCB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Xuân Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 205400,
+      "ownershipPct": 5.085232104699334,
+      "effectiveDate": "2025-06-19"
+    },
+    {
+      "code": "GCB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 193500,
+      "ownershipPct": 4.790615444300492,
+      "effectiveDate": "2021-12-31"
+    },
+    {
+      "code": "GCB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thanh Thúy",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 186549,
+      "ownershipPct": 4.618524653843992,
+      "effectiveDate": "2025-06-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

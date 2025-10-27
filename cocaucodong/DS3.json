@@ -13,12 +13,12 @@
     {
       "code": "DS3",
       "shareholderType": "PERSON",
-      "shareholderName": "Tạ Thị Thanh Hương",
+      "shareholderName": "Nguyễn Văn Thưởng",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 952000,
-      "ownershipPct": 8.922437587455352,
-      "effectiveDate": "2024-02-19"
+      "numberOfShares": 1246400,
+      "ownershipPct": 11.68164517752558,
+      "effectiveDate": "2025-09-08"
     },
     {
       "code": "DS3",
@@ -53,6 +53,16 @@
     {
       "code": "DS3",
       "shareholderType": "PERSON",
+      "shareholderName": "Tạ Thị Thanh Hương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 513000,
+      "ownershipPct": 4.807994204164491,
+      "effectiveDate": "2025-08-22"
+    },
+    {
+      "code": "DS3",
+      "shareholderType": "PERSON",
       "shareholderName": "Vương Công Đức",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -74,17 +84,6 @@
       "code": "DS3",
       "shareholderType": "PERSON",
       "shareholderName": "Bùi Thị Huệ",
-      "roleType": "Vợ của Đại diện CBTT",
-      "enRoleType": "Wife of Spokeman",
-      "numberOfShares": 423800,
-      "ownershipPct": 3.9719842957600613,
-      "groupPct": 7.720907651833739,
-      "effectiveDate": "2024-09-06"
-    },
-    {
-      "code": "DS3",
-      "shareholderType": "PERSON",
-      "shareholderName": "Bùi Thị Huệ",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
       "numberOfShares": 423800,
@@ -94,17 +93,17 @@
     {
       "code": "DS3",
       "shareholderType": "PERSON",
-      "shareholderName": "Phạm Thị Ngọc Lan",
-      "roleType": "Con của Đại diện CBTT",
-      "enRoleType": "Child of Spokeman",
-      "numberOfShares": 400000,
-      "ownershipPct": 3.7489233560736777,
+      "shareholderName": "Bùi Thị Huệ",
+      "roleType": "Vợ của Đại diện CBTT",
+      "enRoleType": "Wife of Spokeman",
+      "numberOfShares": 423800,
+      "ownershipPct": 3.9719842957600613,
       "groupPct": 7.720907651833739,
-      "effectiveDate": "2022-03-22"
+      "effectiveDate": "2024-09-06"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 18,
+  "totalElements": 19,
   "totalPages": 2
 }

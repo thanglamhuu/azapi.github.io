@@ -3,6 +3,16 @@
     {
       "code": "HKT",
       "shareholderType": "PERSON",
+      "shareholderName": "Vi Thị Dung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 20100000,
+      "ownershipPct": 327.62681317398824,
+      "effectiveDate": "2025-09-08"
+    },
+    {
+      "code": "HKT",
+      "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Thị Thùy Ngân",
       "roleType": "Thành viên HĐQT",
       "enRoleType": "Board member",
@@ -46,9 +56,9 @@
       "shareholderName": "Lê Quang Phúc",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 449429,
-      "ownershipPct": 7.325621443680217,
-      "effectiveDate": "2025-06-18"
+      "numberOfShares": 501529,
+      "ownershipPct": 8.174843183300355,
+      "effectiveDate": "2025-06-20"
     },
     {
       "code": "HKT",
@@ -89,20 +99,10 @@
       "numberOfShares": 249100,
       "ownershipPct": 4.060290505554253,
       "effectiveDate": "2017-03-06"
-    },
-    {
-      "code": "HKT",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Công ty cổ phần Đầu tư chuyên nghiệp Việt Nam",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 228356,
-      "ownershipPct": 3.7221665944855356,
-      "effectiveDate": "2020-12-08"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 10,
-  "totalPages": 1
+  "totalElements": 11,
+  "totalPages": 2
 }

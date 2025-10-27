@@ -12,6 +12,16 @@
     },
     {
       "code": "DAT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Sao Mai",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2477790,
+      "ownershipPct": 3.5791555368920367,
+      "effectiveDate": "2022-08-09"
+    },
+    {
+      "code": "DAT",
       "shareholderType": "PERSON",
       "shareholderName": "Lê Tuấn Anh",
       "roleType": "Nhóm cổ đông lớn",
@@ -30,16 +40,6 @@
       "numberOfShares": 2477790,
       "ownershipPct": 3.5791555368920367,
       "groupPct": 4.050699409364729,
-      "effectiveDate": "2022-08-09"
-    },
-    {
-      "code": "DAT",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Tập đoàn Sao Mai",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 2477790,
-      "ownershipPct": 3.5791555368920367,
       "effectiveDate": "2022-08-09"
     },
     {

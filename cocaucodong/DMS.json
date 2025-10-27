@@ -13,6 +13,16 @@
     {
       "code": "DMS",
       "shareholderType": "PERSON",
+      "shareholderName": "Hoàng Nam Long",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 968920,
+      "ownershipPct": 24.223,
+      "effectiveDate": "2025-08-22"
+    },
+    {
+      "code": "DMS",
+      "shareholderType": "PERSON",
       "shareholderName": "Đỗ Thị Huyền",
       "roleType": "Chủ tịch HĐQT",
       "enRoleType": "Chairman",
@@ -33,6 +43,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 3,
+  "totalElements": 4,
   "totalPages": 1
 }

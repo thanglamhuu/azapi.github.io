@@ -13,6 +13,16 @@
     {
       "code": "VE9",
       "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Toán",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1440000,
+      "ownershipPct": 11.976433373229828,
+      "effectiveDate": "2025-10-01"
+    },
+    {
+      "code": "VE9",
+      "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Chí Linh",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -93,6 +103,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 9,
+  "totalElements": 10,
   "totalPages": 1
 }

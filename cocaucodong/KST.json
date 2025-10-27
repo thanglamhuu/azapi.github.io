@@ -1,1 +1,38 @@
-{"data":[{"code":"KST","shareholderType":"COMPANY","shareholderName":"Tập đoàn Bưu chính viễn thông Việt Nam","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2030000,"ownershipPct":33.878391594153555,"effectiveDate":"2022-01-21"},{"code":"KST","shareholderType":"COMPANY","shareholderName":"Bảo hiểm bưu điện","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1276180,"ownershipPct":21.297992997353145,"effectiveDate":"2022-01-21"},{"code":"KST","shareholderType":"PERSON","shareholderName":"Nguyễn Long","roleType":"Thành viên HĐQT","enRoleType":"Board member","numberOfShares":64568,"ownershipPct":1.0775664967740428,"effectiveDate":"2022-06-30"}],"currentPage":1,"size":10,"totalElements":3,"totalPages":1}
+{
+  "data": [
+    {
+      "code": "KST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Bưu chính viễn thông Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2030000,
+      "ownershipPct": 33.878391594153555,
+      "effectiveDate": "2022-01-21"
+    },
+    {
+      "code": "KST",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Bảo hiểm bưu điện",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1276180,
+      "ownershipPct": 21.297992997353145,
+      "effectiveDate": "2022-01-21"
+    },
+    {
+      "code": "KST",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Phước Hiền",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 214240,
+      "ownershipPct": 3.5754219778972702,
+      "effectiveDate": "2024-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

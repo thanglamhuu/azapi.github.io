@@ -12,6 +12,16 @@
     },
     {
       "code": "RCC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Giang",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4050078,
+      "ownershipPct": 12.630936234679398,
+      "effectiveDate": "2025-09-09"
+    },
+    {
+      "code": "RCC",
       "shareholderType": "COMPANY",
       "shareholderName": "Chứng khoán SG HN",
       "roleType": "Cổ đông lớn",
@@ -24,8 +34,8 @@
       "code": "RCC",
       "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Hải Duy",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
+      "roleType": "Phụ trách QT công ty",
+      "enRoleType": "In charge of Corp Governance",
       "numberOfShares": 2738760,
       "ownershipPct": 8.54134239441575,
       "effectiveDate": "2022-11-03"
@@ -89,20 +99,10 @@
       "numberOfShares": 1504010,
       "ownershipPct": 4.690540381276647,
       "effectiveDate": "2023-12-31"
-    },
-    {
-      "code": "RCC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Vũ Huyền Trang",
-      "roleType": "Vợ của Thành viên HĐQT",
-      "enRoleType": "Wife of Board member",
-      "numberOfShares": 1274257,
-      "ownershipPct": 3.9740120841114335,
-      "effectiveDate": "2023-12-31"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 13,
+  "totalElements": 14,
   "totalPages": 2
 }

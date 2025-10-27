@@ -23,6 +23,16 @@
     {
       "code": "KHD",
       "shareholderType": "PERSON",
+      "shareholderName": "Phạm Đức khoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 261890,
+      "ownershipPct": 8.026497340642353,
+      "effectiveDate": "2025-09-12"
+    },
+    {
+      "code": "KHD",
+      "shareholderType": "PERSON",
       "shareholderName": "Đỗ Vân Anh",
       "roleType": "Vợ của Chủ tịch HĐQT",
       "enRoleType": "Wife of Chairman",
@@ -43,6 +53,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 4,
+  "totalElements": 5,
   "totalPages": 1
 }

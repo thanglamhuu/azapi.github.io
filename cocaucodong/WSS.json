@@ -1,1 +1,110 @@
-{"data":[{"code":"WSS","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Việt","roleType":"Con của Chủ tịch HĐQT","enRoleType":"Child of Chairman","numberOfShares":15000000,"ownershipPct":29.821073558648113,"groupPct":31.840954274353876,"effectiveDate":"2020-01-10"},{"code":"WSS","shareholderType":"PERSON","shareholderName":"Nguyễn Đình Tú","roleType":"Chủ tịch HĐQT","enRoleType":"Chairman","numberOfShares":11300000,"ownershipPct":22.46520874751491,"effectiveDate":"2013-08-15"},{"code":"WSS","shareholderType":"PERSON","shareholderName":"Phạm Diễm Hoa","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2920000,"ownershipPct":5.805168986083499,"effectiveDate":"2015-07-16"},{"code":"WSS","shareholderType":"PERSON","shareholderName":"Vũ Thị Yến","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":2510117,"ownershipPct":4.990292246520875,"effectiveDate":"2016-08-19"},{"code":"WSS","shareholderType":"COMPANY","shareholderName":"XNK Tổng hợp I VN","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1665000,"ownershipPct":3.3101391650099403,"effectiveDate":"2020-06-30"},{"code":"WSS","shareholderType":"PERSON","shareholderName":"Ngô Tiến Minh","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1300000,"ownershipPct":2.584493041749503,"effectiveDate":"2020-06-30"},{"code":"WSS","shareholderType":"COMPANY","shareholderName":"CTCP SAM HOLDINGS","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1078200,"ownershipPct":2.143538767395626,"effectiveDate":"2015-07-17"},{"code":"WSS","shareholderType":"COMPANY","shareholderName":"Asean Small Cap Fund","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1076900,"ownershipPct":2.1409542743538768,"effectiveDate":"2020-06-30"},{"code":"WSS","shareholderType":"COMPANY","shareholderName":"CK Phố Wall","roleType":"Cổ phiếu quỹ","enRoleType":"Treasury Stock","numberOfShares":1060276,"ownershipPct":2.107904572564612,"effectiveDate":"2020-06-30"},{"code":"WSS","shareholderType":"COMPANY","shareholderName":"Công ty cổ phần May Đức Giang","roleType":"Cổ đông lớn","enRoleType":"Major Shareholder","numberOfShares":1000000,"ownershipPct":1.9880715705765408,"effectiveDate":"2020-06-30"}],"currentPage":1,"size":10,"totalElements":14,"totalPages":2}
+{
+  "data": [
+    {
+      "code": "WSS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Việt",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 15000000,
+      "ownershipPct": 29.821073558648113,
+      "groupPct": 31.840954274353876,
+      "effectiveDate": "2020-01-10"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Tú",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 11300000,
+      "ownershipPct": 22.46520874751491,
+      "effectiveDate": "2013-08-15"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Diễm Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2920000,
+      "ownershipPct": 5.805168986083499,
+      "effectiveDate": "2015-07-16"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Yến",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 2510117,
+      "ownershipPct": 4.990292246520875,
+      "effectiveDate": "2016-08-19"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "XNK Tổng hợp I VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1665000,
+      "ownershipPct": 3.3101391650099403,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Tiến Minh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1300000,
+      "ownershipPct": 2.584493041749503,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP SAM HOLDINGS",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1078200,
+      "ownershipPct": 2.143538767395626,
+      "effectiveDate": "2015-07-17"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Asean Small Cap Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1076900,
+      "ownershipPct": 2.1409542743538768,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Phố Wall",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 1060276,
+      "ownershipPct": 2.107904572564612,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "WSS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Bách",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 1000000,
+      "ownershipPct": 1.9880715705765408,
+      "groupPct": 31.840954274353876,
+      "effectiveDate": "2016-03-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 13,
+  "totalPages": 2
+}

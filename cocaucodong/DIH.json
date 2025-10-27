@@ -34,16 +34,6 @@
     {
       "code": "DIH",
       "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Đình Thành",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 439390,
-      "ownershipPct": 6.373361585248045,
-      "effectiveDate": "2024-09-23"
-    },
-    {
-      "code": "DIH",
-      "shareholderType": "PERSON",
       "shareholderName": "Dương Phú Hưng",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -64,6 +54,16 @@
     {
       "code": "DIH",
       "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Thành",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 333000,
+      "ownershipPct": 4.8301723022544865,
+      "effectiveDate": "2025-08-28"
+    },
+    {
+      "code": "DIH",
+      "shareholderType": "PERSON",
       "shareholderName": "Văn Đức Tiến",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -75,21 +75,21 @@
       "code": "DIH",
       "shareholderType": "PERSON",
       "shareholderName": "Phạm Xuân Vỹ",
-      "roleType": "Anh/em rể của Thành viên HĐQT",
-      "enRoleType": "Brother in law of Board member",
+      "roleType": "Anh/em rể của Chủ tịch HĐQT",
+      "enRoleType": "Brother in law of Chairman",
       "numberOfShares": 230000,
       "ownershipPct": 3.336155043599195,
+      "groupPct": 23.77702358110425,
       "effectiveDate": "2024-07-09"
     },
     {
       "code": "DIH",
       "shareholderType": "PERSON",
       "shareholderName": "Phạm Xuân Vỹ",
-      "roleType": "Anh/em rể của Chủ tịch HĐQT",
-      "enRoleType": "Brother in law of Chairman",
+      "roleType": "Anh/em rể của Thành viên HĐQT",
+      "enRoleType": "Brother in law of Board member",
       "numberOfShares": 230000,
       "ownershipPct": 3.336155043599195,
-      "groupPct": 23.77702358110425,
       "effectiveDate": "2024-07-09"
     },
     {

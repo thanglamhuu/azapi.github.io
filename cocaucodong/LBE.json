@@ -2,6 +2,36 @@
   "data": [
     {
       "code": "LBE",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Cổ phần Phước Hòa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 884800,
+      "ownershipPct": 44.24442444244424,
+      "effectiveDate": "2025-07-11"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hữu Quỳnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 803400,
+      "ownershipPct": 40.17401740174017,
+      "effectiveDate": "2025-07-11"
+    },
+    {
+      "code": "LBE",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Hữu Vũ Hoàng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 440300,
+      "ownershipPct": 22.017201720172018,
+      "effectiveDate": "2025-07-11"
+    },
+    {
+      "code": "LBE",
       "shareholderType": "PERSON",
       "shareholderName": "Bùi Quốc Hưng",
       "roleType": "Thành viên HĐQT",
@@ -69,40 +99,10 @@
       "numberOfShares": 97000,
       "ownershipPct": 4.850485048504851,
       "effectiveDate": "2023-07-24"
-    },
-    {
-      "code": "LBE",
-      "shareholderType": "PERSON",
-      "shareholderName": "Nguyễn Văn Hồ",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 67000,
-      "ownershipPct": 3.35033503350335,
-      "effectiveDate": "2014-04-10"
-    },
-    {
-      "code": "LBE",
-      "shareholderType": "PERSON",
-      "shareholderName": "Phạm Văn Duy",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 45450,
-      "ownershipPct": 2.272727272727273,
-      "effectiveDate": "2023-01-30"
-    },
-    {
-      "code": "LBE",
-      "shareholderType": "PERSON",
-      "shareholderName": "Đặng Thúy Hoan",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 36900,
-      "ownershipPct": 1.8451845184518452,
-      "effectiveDate": "2019-11-29"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 10,
-  "totalPages": 1
+  "totalElements": 13,
+  "totalPages": 2
 }

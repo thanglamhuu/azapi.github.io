@@ -22,16 +22,6 @@
     },
     {
       "code": "USD",
-      "shareholderType": "PERSON",
-      "shareholderName": "Đào Mạnh Hùng",
-      "roleType": "Thành viên HĐQT",
-      "enRoleType": "Board member",
-      "numberOfShares": 1000000,
-      "ownershipPct": 17.857142857142858,
-      "effectiveDate": "2023-06-30"
-    },
-    {
-      "code": "USD",
       "shareholderType": "COMPANY",
       "shareholderName": "Công ty TNHH Ô tô chuyên dùng Hiệp Hòa",
       "roleType": "Cổ đông lớn",
@@ -39,6 +29,16 @@
       "numberOfShares": 1000000,
       "ownershipPct": 17.857142857142858,
       "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "USD",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Mạnh Hùng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1000000,
+      "ownershipPct": 17.857142857142858,
+      "effectiveDate": "2023-06-30"
     },
     {
       "code": "USD",

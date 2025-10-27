@@ -6,9 +6,9 @@
       "shareholderName": "Công ty TNHH Tập đoàn Thiên Mã",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 3000000,
+      "numberOfShares": 6000000,
       "ownershipPct": 25.55860895737233,
-      "effectiveDate": "2020-12-31"
+      "effectiveDate": "2025-08-07"
     },
     {
       "code": "BKC",
@@ -16,9 +16,9 @@
       "shareholderName": "SCIC",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 2791740,
+      "numberOfShares": 5583480,
       "ownershipPct": 23.784330323551544,
-      "effectiveDate": "2020-06-30"
+      "effectiveDate": "2025-08-07"
     },
     {
       "code": "BKC",
@@ -26,9 +26,52 @@
       "shareholderName": "Công ty TNHH dịch vụ ANB",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 2063745,
+      "numberOfShares": 4127490,
       "ownershipPct": 17.582150480910787,
-      "effectiveDate": "2022-06-30"
+      "effectiveDate": "2025-08-07"
+    },
+    {
+      "code": "BKC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Văn Bản",
+      "roleType": "Bố của Thành viên HĐQT",
+      "enRoleType": "Father of Board member",
+      "numberOfShares": 1200000,
+      "ownershipPct": 5.111721791474466,
+      "groupPct": 14.317932737919978,
+      "effectiveDate": "2025-08-07"
+    },
+    {
+      "code": "BKC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Mai Văn Bản",
+      "roleType": "Bố của Thành viên HĐQT",
+      "enRoleType": "Father of Board member",
+      "numberOfShares": 1200000,
+      "ownershipPct": 5.111721791474466,
+      "groupPct": 14.317932737919978,
+      "effectiveDate": "2025-08-07"
+    },
+    {
+      "code": "BKC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần kim loại màu Bắc Bộ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1123000,
+      "ownershipPct": 4.783719643188188,
+      "effectiveDate": "2025-08-07"
+    },
+    {
+      "code": "BKC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Hoàng Phương Thảo",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 961200,
+      "ownershipPct": 4.094489154971047,
+      "groupPct": 14.317932737919978,
+      "effectiveDate": "2025-08-07"
     },
     {
       "code": "BKC",
@@ -37,51 +80,8 @@
       "roleType": "Thành viên BKS",
       "enRoleType": "Control member",
       "numberOfShares": 633283,
-      "ownershipPct": 5.395277518783874,
-      "effectiveDate": "2025-04-28"
-    },
-    {
-      "code": "BKC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Mai Văn Bản",
-      "roleType": "Bố của Thành viên HĐQT",
-      "enRoleType": "Father of Board member",
-      "numberOfShares": 600000,
-      "ownershipPct": 5.111721791474466,
-      "groupPct": 14.317932737919978,
-      "effectiveDate": "2025-05-20"
-    },
-    {
-      "code": "BKC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Mai Văn Bản",
-      "roleType": "Bố của Thành viên HĐQT",
-      "enRoleType": "Father of Board member",
-      "numberOfShares": 600000,
-      "ownershipPct": 5.111721791474466,
-      "groupPct": 14.317932737919978,
-      "effectiveDate": "2025-05-20"
-    },
-    {
-      "code": "BKC",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Công ty cổ phần kim loại màu Bắc Bộ",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 561500,
-      "ownershipPct": 4.783719643188188,
-      "effectiveDate": "2020-06-30"
-    },
-    {
-      "code": "BKC",
-      "shareholderType": "PERSON",
-      "shareholderName": "Phan Hoàng Phương Thảo",
-      "roleType": "Vợ của Thành viên HĐQT",
-      "enRoleType": "Wife of Board member",
-      "numberOfShares": 480600,
-      "ownershipPct": 4.094489154971047,
-      "groupPct": 14.317932737919978,
-      "effectiveDate": "2016-05-16"
+      "ownershipPct": 2.697638759391937,
+      "effectiveDate": "2025-08-26"
     },
     {
       "code": "BKC",
@@ -89,9 +89,9 @@
       "shareholderName": "Nguyễn Huy Hoàn",
       "roleType": "Thành viên HĐQT",
       "enRoleType": "Board member",
-      "numberOfShares": 292200,
+      "numberOfShares": 584400,
       "ownershipPct": 2.489408512448065,
-      "effectiveDate": "2020-06-30"
+      "effectiveDate": "2025-08-07"
     },
     {
       "code": "BKC",
@@ -99,9 +99,9 @@
       "shareholderName": "Tongyang Vietnam Privatisation Trust Fund",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
-      "numberOfShares": 269200,
+      "numberOfShares": 538400,
       "ownershipPct": 2.2934591771082102,
-      "effectiveDate": "2011-10-26"
+      "effectiveDate": "2025-08-07"
     }
   ],
   "currentPage": 1,

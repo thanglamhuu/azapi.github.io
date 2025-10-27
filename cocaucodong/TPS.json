@@ -13,22 +13,22 @@
     {
       "code": "TPS",
       "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Thị Phụng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 599062,
+      "ownershipPct": 11.98124,
+      "effectiveDate": "2025-09-03"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
       "shareholderName": "Ngô Quang Trung",
       "roleType": "Chủ tịch HĐQT",
       "enRoleType": "Chairman",
       "numberOfShares": 538635,
       "ownershipPct": 10.7727,
       "effectiveDate": "2024-05-23"
-    },
-    {
-      "code": "TPS",
-      "shareholderType": "PERSON",
-      "shareholderName": "Đoàn Thị Phụng",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 519062,
-      "ownershipPct": 10.38124,
-      "effectiveDate": "2025-06-02"
     },
     {
       "code": "TPS",
@@ -40,6 +40,16 @@
       "ownershipPct": 9.10024,
       "groupPct": 9.20024,
       "effectiveDate": "2024-11-26"
+    },
+    {
+      "code": "TPS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Mỹ Kim",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 250000,
+      "ownershipPct": 5,
+      "effectiveDate": "2017-12-22"
     },
     {
       "code": "TPS",
@@ -60,16 +70,6 @@
       "numberOfShares": 250000,
       "ownershipPct": 5,
       "effectiveDate": "2024-05-23"
-    },
-    {
-      "code": "TPS",
-      "shareholderType": "PERSON",
-      "shareholderName": "Phan Mỹ Kim",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 250000,
-      "ownershipPct": 5,
-      "effectiveDate": "2017-12-22"
     }
   ],
   "currentPage": 1,
