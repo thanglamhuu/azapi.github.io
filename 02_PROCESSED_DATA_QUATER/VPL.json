@@ -1,5 +1,6 @@
 {
   "fiscalDates": [
+    "2025-03-31",
     "2025-06-30"
   ],
   "newFiscalDate": [],
@@ -50,8 +51,20 @@
   "lctThuanTrongKy": [],
   "hangTonKho": [],
   "hangTonKhoVongQuay": [],
-  "coTucLNST": [],
-  "coTucDaTra": [],
-  "coTucTiLeDaTra": [],
-  "newFiscalDateYear": []
+  "coTucLNST": [
+    671,
+    2550
+  ],
+  "coTucDaTra": [
+    0,
+    0
+  ],
+  "coTucTiLeDaTra": [
+    0,
+    0
+  ],
+  "newFiscalDateYear": [
+    "2023-12-31",
+    "2024-12-31"
+  ]
 }
