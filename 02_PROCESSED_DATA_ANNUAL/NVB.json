@@ -498,7 +498,7 @@
     -670,
     -5129
   ],
-  "nhTangTruongChoVayKhachHangKep5Nam": 17,
+  "nhTangTruongChoVayKhachHangKep5Nam": 19,
   "nhTangTruongChoVay5Year": [
     105.3,
     24.2,
@@ -697,7 +697,8 @@
     "2024-09-30",
     "2024-12-31",
     "2025-03-31",
-    "2025-06-30"
+    "2025-06-30",
+    "2025-09-30"
   ],
   "nhnxKyHanS": [
     "VAB",
@@ -1451,9 +1452,9 @@
     13.351784936316344,
     10.635112569816318
   ],
-  "lastQuaterPrice": 11.9,
-  "choNhanGiaRaPE": -0.252096957997922,
-  "choNhanGiaRaPB": 0.1797057151273738,
+  "lastQuaterPrice": 14.4,
+  "choNhanGiaRaPE": -0.26666334653688584,
+  "choNhanGiaRaPB": 0.17464824899527776,
   "choNhanGiaRaPS": null,
   "PE": [
     0,
@@ -1497,9 +1498,11 @@
     -10.4,
     -2,
     -2.8,
-    -3
+    -3,
+    -3.8
   ],
   "PETb": [
+    0,
     0,
     0,
     0,
@@ -1585,9 +1588,11 @@
     1,
     1.7,
     2.2,
-    2.1
+    2.1,
+    2.5
   ],
   "PBTb": [
+    0.9,
     0.9,
     0.9,
     0.9,
@@ -1673,9 +1678,11 @@
     null,
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
+    null,
     null,
     null,
     null,

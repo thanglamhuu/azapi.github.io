@@ -29,18 +29,32 @@
   "bienLoiNhuanRong": [],
   "ROACuoiKy": [],
   "ROECuoiKy": [],
-  "newFiscalDateQuarter": [],
-  "lastQuaterPrice": 6.1,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": 0,
-  "choNhanGiaRaPS": 0,
-  "PE": [],
-  "PETb": [],
-  "PB": [],
-  "PBTb": [],
-  "PS": [],
-  "PSTb": [],
-  "soCoPhieuLuuHanh": 0,
+  "newFiscalDateQuarter": [
+    "2025-09-30"
+  ],
+  "lastQuaterPrice": 6.9,
+  "choNhanGiaRaPE": 0.813372181111637,
+  "choNhanGiaRaPB": 0.08346133400591213,
+  "choNhanGiaRaPS": 0.0531556780521726,
+  "PE": [
+    5.6
+  ],
+  "PETb": [
+    5.6
+  ],
+  "PB": [
+    0.6
+  ],
+  "PBTb": [
+    0.6
+  ],
+  "PS": [
+    0.4
+  ],
+  "PSTb": [
+    0.4
+  ],
+  "soCoPhieuLuuHanh": 20545800,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
