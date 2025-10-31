@@ -2621,11 +2621,6 @@
     "status": "listed",
     "shortName": "Dệt - May Huế"
   },
-  "HDO": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "Hưng Đạo Container"
-  },
   "HDP": {
     "floor": "UPCOM",
     "status": "listed",
@@ -4355,6 +4350,11 @@
     "status": "listed",
     "shortName": "C.trình GT 584"
   },
+  "NTC": {
+    "floor": "HOSE",
+    "status": "listed",
+    "shortName": "KCN Nam Tân Uyên"
+  },
   "NTF": {
     "floor": "UPCOM",
     "status": "listed",
@@ -5309,6 +5309,10 @@
     "floor": "HOSE",
     "status": "listed",
     "shortName": "CTCP Cơ điện lạnh"
+  },
+  "RGG": {
+    "floor": "UPCOM",
+    "status": "listed"
   },
   "RIC": {
     "floor": "UPCOM",
