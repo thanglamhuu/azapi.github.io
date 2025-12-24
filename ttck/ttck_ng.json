@@ -1004,6 +1004,9 @@
   ],
   "ToJsonCK": [
     {
+      "Code": "VCK"
+    },
+    {
       "Code": "TCX",
       "Min": 2.3506,
       "Max": 2.6145,
@@ -1233,6 +1236,9 @@
       "Max": 2.5321,
       "Median": 0.81,
       "HienTai": 0.8691
+    },
+    {
+      "Code": "VPX"
     }
   ],
   "ToJsonBH": [
