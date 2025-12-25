@@ -130,7 +130,7 @@
     "shortName": "CTCP Damsan"
   },
   "AFX": {
-    "floor": "UPCOM",
+    "floor": "HOSE",
     "status": "listed",
     "shortName": "XNK N.sản An Giang"
   },
@@ -654,6 +654,11 @@
     "status": "listed",
     "shortName": "Bia HN Quảng Bình"
   },
+  "BQP": {
+    "floor": "UPCOM",
+    "status": "listed",
+    "shortName": "Nhựa Chất lượng cao Bình Thuận"
+  },
   "BRC": {
     "floor": "HOSE",
     "status": "listed",
@@ -973,11 +978,6 @@
     "floor": "UPCOM",
     "status": "listed",
     "shortName": "CTCP Cầu Đuống"
-  },
-  "CDH": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "Du lịch Hải Phòng"
   },
   "CDN": {
     "floor": "HNX",
@@ -2067,6 +2067,10 @@
     "status": "listed",
     "shortName": "Tài chính Giáo dục"
   },
+  "EGL": {
+    "floor": "UPCOM",
+    "status": "listed"
+  },
   "EIB": {
     "floor": "HOSE",
     "status": "listed",
@@ -3105,11 +3109,6 @@
     "status": "listed",
     "shortName": "Cấp nc Huế"
   },
-  "IBC": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "ĐT APAX HOLDINGS"
-  },
   "IBD": {
     "floor": "UPCOM",
     "status": "listed",
@@ -3224,11 +3223,6 @@
     "floor": "HNX",
     "status": "listed",
     "shortName": "Tư vấn Đ.tư IDICO"
-  },
-  "ING": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "INVESTCO"
   },
   "INN": {
     "floor": "HNX",
@@ -3796,7 +3790,7 @@
     "shortName": "Năng lượng và BĐS MCG"
   },
   "MCH": {
-    "floor": "UPCOM",
+    "floor": "HOSE",
     "status": "listed",
     "shortName": "Tiêu Dùng Masan"
   },
@@ -4571,7 +4565,7 @@
     "shortName": "Công ty Phát Đạt"
   },
   "PDV": {
-    "floor": "UPCOM",
+    "floor": "HOSE",
     "status": "listed",
     "shortName": "CTCP Phương Đông Việt"
   },
@@ -5513,11 +5507,6 @@
     "floor": "HOSE",
     "status": "listed",
     "shortName": "DV Hàng hóa SG"
-  },
-  "SD1": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "CTCP Sông Đà 1"
   },
   "SD2": {
     "floor": "UPCOM",
@@ -7064,6 +7053,11 @@
     "status": "listed",
     "shortName": "Chứng khoán Vietcap"
   },
+  "VCK": {
+    "floor": "HOSE",
+    "status": "listed",
+    "shortName": "Chứng khoán VPS"
+  },
   "VCM": {
     "floor": "HNX",
     "status": "listed",
@@ -7409,6 +7403,10 @@
     "status": "listed",
     "shortName": "C.trình Vĩnh Long"
   },
+  "VLS": {
+    "floor": "UPCOM",
+    "status": "listed"
+  },
   "VLW": {
     "floor": "UPCOM",
     "status": "listed",
@@ -7604,6 +7602,11 @@
     "status": "listed",
     "shortName": "C.thoát nc 1 V.Phúc"
   },
+  "VPX": {
+    "floor": "HOSE",
+    "status": "listed",
+    "shortName": "Chứng khoán VPBANK"
+  },
   "VQC": {
     "floor": "UPCOM",
     "status": "listed",
@@ -7780,7 +7783,7 @@
     "shortName": "TCT XD C.nghiệp VN"
   },
   "VVS": {
-    "floor": "UPCOM",
+    "floor": "HOSE",
     "status": "listed",
     "shortName": "Đầu tư phát triển máy Việt Nam"
   },
