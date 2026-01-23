@@ -5,139 +5,171 @@
     "2024-12-31",
     "2025-03-31",
     "2025-06-30",
-    "2025-09-30"
+    "2025-09-30",
+    "2025-12-31"
   ],
   "newFiscalDate": [
     "2025-06-30",
-    "2025-09-30"
+    "2025-09-30",
+    "2025-12-31"
   ],
   "newFiscalDateQuarter": [
     "2025-06-30",
-    "2025-09-30"
+    "2025-09-30",
+    "2025-12-31"
   ],
   "tiLeNovayRongVcsh": [
     11,
-    51
+    51,
+    60
   ],
   "tiLePhaiThuTaiSan": [
     52,
-    55
+    55,
+    51
   ],
   "tsTienTuongDuongTienDTTCNH": [
     246,
-    224
+    224,
+    375
   ],
   "tsKhoanPhaiThu": [
     1112,
-    1259
+    1259,
+    1294
   ],
   "tsHangTonKho": [
     592,
-    630
+    630,
+    639
   ],
   "tsTaiSanCoDinh": [
     75,
-    76
+    76,
+    75
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
-    0
+    0,
+    39
   ],
   "tsKhac": [
     110,
-    104
+    104,
+    102
   ],
   "nvVonChuSoHuu": [
     599,
-    607
+    607,
+    601
   ],
   "nvVayNganHan": [
     289,
-    509
+    509,
+    729
   ],
   "nvVayDaiHanTPCD": [
     24,
-    24
+    24,
+    3
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     579,
-    503
+    503,
+    543
   ],
   "nvKhac": [
     643,
-    650
+    650,
+    648
   ],
   "nvTileVayRongVCSHQ": [
     11,
-    51
+    51,
+    60
   ],
   "tangTruongDoanhSoThuanYoY": [
     3,
-    35
+    35,
+    70
   ],
   "tangTruongDoanhThuanKep": [
+    null,
     null,
     null
   ],
   "tangTruongDoanhThuanKepNum": null,
   "doanhSoThuan": [
     559,
-    585
+    585,
+    847
   ],
   "tangTruongLNSTYoY": [
     0,
-    6
+    6,
+    5
   ],
   "tangTruongLNSTCtyMeNam": [
+    0,
     0,
     0
   ],
   "tangTruongLNSTCtyMe5Year": 0,
   "lnst": [
     11,
+    10,
     10
   ],
   "bienLoiNhuanGop": [
     4,
-    5
+    5,
+    3
   ],
   "bienLoiNhuanRong": [
     2,
-    2
+    2,
+    1
   ],
   "ROACuoiKy": [
     2,
-    1.9
+    1.9,
+    1.7
   ],
   "ROECuoiKy": [
     7,
+    7,
     7
   ],
-  "lastQuaterPrice": 15,
-  "choNhanGiaRaPE": 0.9376261121316244,
-  "choNhanGiaRaPB": 0.06626163408184488,
-  "choNhanGiaRaPS": 0.017046923002674977,
+  "choNhanGiaRaPE": 0.9272056358837794,
+  "choNhanGiaRaPB": 0.06697093965723194,
+  "choNhanGiaRaPS": 0.014849204678714758,
   "PE": [
     15.9,
-    14.1
+    14.1,
+    null
   ],
   "PETb": [
+    15.9,
     15.9,
     15.9
   ],
   "PB": [
     1.1,
-    1
+    1,
+    null
   ],
   "PBTb": [
+    1.1,
     1.1,
     1.1
   ],
   "PS": [
     0.3,
-    0.3
+    0.3,
+    null
   ],
   "PSTb": [
+    0.3,
     0.3,
     0.3
   ],
@@ -147,27 +179,33 @@
   "tangTruongHangTonKhoKep": null,
   "lctThuanHDSXKD": [
     -83,
-    -210
+    -210,
+    -44
   ],
   "lctThuanHDDauTu": [
     2,
-    -34
+    -34,
+    -167
   ],
   "lctThuanHDTC": [
     14,
-    219
+    219,
+    200
   ],
   "lctThuanTrongKy": [
     -67,
-    -25
+    -25,
+    -12
   ],
   "hangTonKho": [
     592,
-    630
+    630,
+    639
   ],
   "hangTonKhoVongQuay": [
     3.8,
-    3.9
+    3.9,
+    4.3
   ],
   "coTucLNST": [
     37

@@ -80,33 +80,39 @@
   ],
   "newFiscalDateQuarter": [
     "2025-06-30",
-    "2025-09-30"
+    "2025-09-30",
+    "2025-12-31"
   ],
-  "lastQuaterPrice": 15,
-  "choNhanGiaRaPE": 0.9376261121316244,
-  "choNhanGiaRaPB": 0.06626163408184488,
-  "choNhanGiaRaPS": 0.017046923002674977,
+  "choNhanGiaRaPE": 0.9272056358837794,
+  "choNhanGiaRaPB": 0.06697093965723194,
+  "choNhanGiaRaPS": 0.014849204678714758,
   "PE": [
     15.9,
-    14.1
+    14.1,
+    null
   ],
   "PETb": [
+    15.9,
     15.9,
     15.9
   ],
   "PB": [
     1.1,
-    1
+    1,
+    null
   ],
   "PBTb": [
+    1.1,
     1.1,
     1.1
   ],
   "PS": [
     0.3,
-    0.3
+    0.3,
+    null
   ],
   "PSTb": [
+    0.3,
     0.3,
     0.3
   ],
