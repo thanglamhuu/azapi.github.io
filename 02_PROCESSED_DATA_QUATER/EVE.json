@@ -185,7 +185,7 @@
     -12,
     -9,
     -13,
-    null
+    -17
   ],
   "tiLePhaiThuTaiSan": [
     18,
@@ -231,7 +231,7 @@
     9,
     11,
     11,
-    null
+    13
   ],
   "tsTienTuongDuongTienDTTCNH": [
     198,
@@ -277,7 +277,7 @@
     341,
     315,
     348,
-    0
+    385
   ],
   "tsKhoanPhaiThu": [
     194,
@@ -323,7 +323,7 @@
     113,
     138,
     143,
-    0
+    165
   ],
   "tsHangTonKho": [
     355,
@@ -369,7 +369,7 @@
     260,
     261,
     250,
-    0
+    210
   ],
   "tsTaiSanCoDinh": [
     260,
@@ -415,7 +415,7 @@
     309,
     312,
     307,
-    0
+    299
   ],
   "tsTaiSanDoDangDaiHan": [
     9,
@@ -507,7 +507,7 @@
     241,
     232,
     227,
-    0
+    236
   ],
   "nvVonChuSoHuu": [
     840,
@@ -553,7 +553,7 @@
     950,
     939,
     956,
-    0
+    962
   ],
   "nvVayNganHan": [
     87,
@@ -599,7 +599,7 @@
     148,
     146,
     143,
-    0
+    145
   ],
   "nvVayDaiHanTPCD": [
     21,
@@ -645,7 +645,7 @@
     81,
     81,
     81,
-    0
+    81
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     8,
@@ -691,7 +691,7 @@
     15,
     13,
     16,
-    0
+    14
   ],
   "nvKhac": [
     91,
@@ -737,7 +737,7 @@
     71,
     82,
     83,
-    0
+    93
   ],
   "nvTileVayRongVCSHQ": [
     -11,
@@ -783,7 +783,7 @@
     -12,
     -9,
     -13,
-    null
+    -17
   ],
   "tangTruongDoanhSoThuanYoY": [
     48,
@@ -1199,7 +1199,7 @@
     -2.3,
     -0.7,
     3.1,
-    null
+    3
   ],
   "ROECuoiKy": [
     12,
@@ -1245,11 +1245,11 @@
     -3,
     -1,
     4,
-    null
+    4
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 1.0645461688048374,
+  "choNhanGiaRaPB": 0.04362754750120005,
+  "choNhanGiaRaPS": 0.05591839118560233,
   "PE": [
     0,
     0,
@@ -1526,7 +1526,7 @@
     0.5,
     0.5
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 41979773,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": -9,
@@ -1758,7 +1758,7 @@
     260,
     261,
     250,
-    0
+    210
   ],
   "hangTonKhoVongQuay": [
     1.6,
@@ -1804,7 +1804,7 @@
     1.8,
     1.9,
     1.8,
-    2.4
+    1.9
   ],
   "coTucLNST": [
     51,
