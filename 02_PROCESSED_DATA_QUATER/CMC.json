@@ -184,8 +184,8 @@
     111,
     108,
     93,
-    null,
-    null
+    53,
+    74
   ],
   "tiLePhaiThuTaiSan": [
     27,
@@ -230,8 +230,8 @@
     14,
     3,
     9,
-    null,
-    null
+    5,
+    16
   ],
   "tsTienTuongDuongTienDTTCNH": [
     38,
@@ -276,8 +276,8 @@
     27,
     29,
     33,
-    0,
-    0
+    33,
+    33
   ],
   "tsKhoanPhaiThu": [
     21,
@@ -322,8 +322,8 @@
     23,
     5,
     14,
-    0,
-    0
+    7,
+    26
   ],
   "tsHangTonKho": [
     4,
@@ -368,8 +368,8 @@
     62,
     78,
     63,
-    0,
-    0
+    46,
+    29
   ],
   "tsTaiSanCoDinh": [
     3,
@@ -414,8 +414,8 @@
     7,
     7,
     6,
-    0,
-    0
+    6,
+    6
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
@@ -506,8 +506,8 @@
     40,
     41,
     41,
-    0,
-    0
+    46,
+    65
   ],
   "nvVonChuSoHuu": [
     58,
@@ -552,8 +552,8 @@
     61,
     61,
     62,
-    0,
-    0
+    65,
+    69
   ],
   "nvVayNganHan": [
     13,
@@ -598,8 +598,8 @@
     95,
     95,
     91,
-    0,
-    0
+    68,
+    84
   ],
   "nvVayDaiHanTPCD": [
     0,
@@ -690,8 +690,8 @@
     1,
     1,
     1,
-    0,
-    0
+    1,
+    1
   ],
   "nvKhac": [
     3,
@@ -736,8 +736,8 @@
     2,
     2,
     2,
-    0,
-    0
+    3,
+    4
   ],
   "nvTileVayRongVCSHQ": [
     -42,
@@ -782,8 +782,8 @@
     111,
     108,
     93,
-    null,
-    null
+    53,
+    74
   ],
   "tangTruongDoanhSoThuanYoY": [
     -81,
@@ -1198,8 +1198,8 @@
     0.1,
     -0.3,
     -0.7,
-    null,
-    null
+    3.2,
+    5.4
   ],
   "ROECuoiKy": [
     1,
@@ -1244,12 +1244,12 @@
     0,
     -1,
     -2,
-    null,
-    null
+    7,
+    12
   ],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.5913927722804596,
+  "choNhanGiaRaPB": 0.07352441981214329,
+  "choNhanGiaRaPS": 0.041123481128951415,
   "PE": [
     0,
     0,
@@ -1293,7 +1293,7 @@
     121.7,
     -58.2,
     -33.4,
-    0,
+    9.8,
     null
   ],
   "PETb": [
@@ -1385,7 +1385,7 @@
     0.4,
     0.5,
     0.6,
-    null,
+    0.7,
     null
   ],
   "PBTb": [
@@ -1477,7 +1477,7 @@
     0.3,
     0.4,
     0.4,
-    0,
+    0.4,
     null
   ],
   "PSTb": [
@@ -1526,7 +1526,7 @@
     0.4,
     0.4
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 5108347,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": 18,
@@ -1757,8 +1757,8 @@
     62,
     78,
     63,
-    0,
-    0
+    46,
+    29
   ],
   "hangTonKhoVongQuay": [
     0.9,
@@ -1803,8 +1803,8 @@
     1.1,
     1.1,
     1.2,
-    2.2,
-    3.3
+    1.8,
+    2.1
   ],
   "coTucLNST": [
     3,
