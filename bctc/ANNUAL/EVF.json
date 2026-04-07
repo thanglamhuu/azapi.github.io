@@ -16,7 +16,8 @@
     "2021-12-31",
     "2022-12-31",
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ],
   "cdkt": [
     [
@@ -39,12 +40,14 @@
       32387465000000,
       42197921000000,
       49221131000000,
-      59598561000000
+      59598561000000,
+      83058158000000
     ],
     [
       "Tài sản ngắn hạn",
       1,
       10,
+      null,
       null,
       null,
       null,
@@ -83,12 +86,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền và các khoản tương đương tiền",
       2,
       20,
+      null,
       null,
       null,
       null,
@@ -127,12 +132,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Các khoản phải thu ngắn hạn",
       2,
       110,
+      null,
       null,
       null,
       null,
@@ -171,12 +178,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tài sản ngắn hạn khác",
       2,
       370,
+      null,
       null,
       null,
       null,
@@ -215,12 +224,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Vật tư văn phòng, công cụ, dụng cụ",
       3,
       172,
+      null,
       null,
       null,
       null,
@@ -259,12 +270,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tài sản cầm cố, ký cược, ký quỹ ngắn hạn",
       3,
       181,
+      null,
       null,
       null,
       null,
@@ -303,12 +316,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thuế và các khoản khác phải thu Nhà nước",
       3,
       400,
+      null,
       null,
       null,
       null,
@@ -347,12 +362,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tài sản ngắn hạn khác",
       3,
       410,
+      null,
       null,
       null,
       null,
@@ -391,12 +408,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tài sản dài hạn",
       1,
       420,
+      null,
       null,
       null,
       null,
@@ -435,12 +454,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Các khoản phải thu dài hạn",
       2,
       430,
+      null,
       null,
       null,
       null,
@@ -479,6 +500,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -501,7 +523,8 @@
       87700000000,
       81882000000,
       75862000000,
-      65309000000
+      65309000000,
+      238982000000
     ],
     [
       "Tài sản cố định hữu hình",
@@ -523,12 +546,14 @@
       37349000000,
       30426000000,
       28468000000,
-      23642000000
+      23642000000,
+      27915000000
     ],
     [
       "Tài sản cố định thuê tài chính",
       3,
       700,
+      0,
       0,
       0,
       0,
@@ -567,12 +592,14 @@
       50351000000,
       51456000000,
       47394000000,
-      41667000000
+      41667000000,
+      211067000000
     ],
     [
       "Chi phí xây dựng cơ bản dở dang (trước 2015)",
       3,
       990,
+      null,
       null,
       null,
       null,
@@ -611,6 +638,7 @@
       0,
       0,
       0,
+      0,
       0
     ],
     [
@@ -626,6 +654,7 @@
       null,
       null,
       null,
+      0,
       0,
       0,
       0,
@@ -655,12 +684,14 @@
       0,
       0,
       0,
+      0,
       0
     ],
     [
       "Đánh giá BĐSĐT theo giá trị hợp lý",
       3,
       421,
+      null,
       null,
       null,
       null,
@@ -699,12 +730,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí sản xuất, kinh doanh dở dang dài hạn",
       3,
       1110,
+      null,
       null,
       null,
       null,
@@ -743,12 +776,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tài sản dài hạn khác",
       2,
       1260,
+      null,
       null,
       null,
       null,
@@ -787,12 +822,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí trả trước dài hạn",
       3,
       1270,
+      null,
       null,
       null,
       null,
@@ -831,12 +868,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thiết bị, vật tư, phụ tùng thay thế dài hạn",
       3,
       1335,
+      null,
       null,
       null,
       null,
@@ -875,12 +914,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tài sản dài hạn khác",
       3,
       1340,
+      null,
       null,
       null,
       null,
@@ -919,12 +960,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lợi thế thương mại",
       3,
       1342,
+      null,
       null,
       null,
       null,
@@ -963,6 +1006,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -985,7 +1029,8 @@
       32387465000000,
       42197921000000,
       49221131000000,
-      59598561000000
+      59598561000000,
+      83058158000000
     ],
     [
       "Nợ phải trả",
@@ -1007,12 +1052,14 @@
       28403296000000,
       37862841000000,
       40764913000000,
-      50591373000000
+      50591373000000,
+      73181869000000
     ],
     [
       "Nợ ngắn hạn",
       2,
       1370,
+      null,
       null,
       null,
       null,
@@ -1051,12 +1098,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       " Vay tài sản tài chính ngắn hạn ",
       3,
       603,
+      null,
       null,
       null,
       null,
@@ -1095,12 +1144,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Trái phiếu phát hành ngắn hạn",
       3,
       605,
+      null,
       null,
       null,
       null,
@@ -1139,12 +1190,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phải trả người bán",
       3,
       1410,
+      null,
       null,
       null,
       null,
@@ -1183,12 +1236,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thuế và các khoản phải nộp Nhà nước",
       3,
       1430,
+      null,
       null,
       null,
       null,
@@ -1227,12 +1282,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Các khoản trích nộp phúc lợi nhân viên",
       3,
       641,
+      null,
       null,
       null,
       null,
@@ -1271,12 +1328,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phải trả nội bộ",
       3,
       1580,
+      null,
       null,
       null,
       null,
@@ -1315,12 +1374,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phải trả theo tiến độ kế hoạch hợp đồng xây dựng",
       3,
       1590,
+      null,
       null,
       null,
       null,
@@ -1359,12 +1420,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phải trả về lỗi giao dịch các tài sản tài chính",
       3,
       671,
+      null,
       null,
       null,
       null,
@@ -1403,12 +1466,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phải trả tổ chức phát hành chứng khoán",
       3,
       690,
+      null,
       null,
       null,
       null,
@@ -1447,12 +1512,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Quỹ khen thưởng, phúc lợi",
       3,
       1685,
+      null,
       null,
       null,
       null,
@@ -1491,12 +1558,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Quỹ bình ổn giá",
       3,
       1691,
+      null,
       null,
       null,
       null,
@@ -1535,12 +1604,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Giao dịch mua bán lại trái phiếu chính phủ",
       3,
       1692,
+      null,
       null,
       null,
       null,
@@ -1579,12 +1650,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phải trả dài hạn người bán",
       3,
       1710,
+      null,
       null,
       null,
       null,
@@ -1623,12 +1696,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí phải trả dài hạn",
       3,
       1712,
+      null,
       null,
       null,
       null,
@@ -1667,12 +1742,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Nhận ký quỹ, ký cược dài hạn",
       3,
       754,
+      null,
       null,
       null,
       null,
@@ -1711,12 +1788,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phải trả dài hạn khác",
       3,
       1730,
+      null,
       null,
       null,
       null,
@@ -1755,12 +1834,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Vay tài sản tài chính dài hạn ",
       3,
       783,
+      null,
       null,
       null,
       null,
@@ -1799,12 +1880,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Trái phiếu phát hành dài hạn ",
       3,
       796,
+      null,
       null,
       null,
       null,
@@ -1843,12 +1926,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thuế thu nhập hoãn lại phải trả",
       3,
       1800,
+      null,
       null,
       null,
       null,
@@ -1887,12 +1972,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu chưa thực hiện dài hạn",
       3,
       1815,
+      null,
       null,
       null,
       null,
@@ -1931,12 +2018,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Dự phòng bồi thường thiệt hại cho nhà đầu tư",
       3,
       840,
+      null,
       null,
       null,
       null,
@@ -1975,6 +2064,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -1997,7 +2087,8 @@
       3984169000000,
       4335080000000,
       8456218000000,
-      9007188000000
+      9007188000000,
+      9876289000000
     ],
     [
       "Vốn và các quỹ",
@@ -2019,6 +2110,7 @@
       3049404000000,
       3512968000000,
       7395373000000,
+      7958548000000,
       7958548000000
     ],
     [
@@ -2041,12 +2133,14 @@
       3047076000000,
       3510640000000,
       7042483000000,
+      7605658000000,
       7605658000000
     ],
     [
       "Chênh lệch đánh giá lại tài sản",
       3,
       1910,
+      0,
       0,
       0,
       0,
@@ -2085,12 +2179,14 @@
       0,
       0,
       0,
+      0,
       0
     ],
     [
       "Quỹ dự trự bổ sung vốn điều lệ",
       3,
       1025,
+      null,
       null,
       null,
       null,
@@ -2129,12 +2225,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Quỹ dự phòng tài chính",
       3,
       1940,
+      null,
       null,
       null,
       null,
@@ -2173,6 +2271,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -2195,7 +2294,8 @@
       529516000000,
       367278000000,
       629962000000,
-      568500000000
+      568500000000,
+      1309018000000
     ],
     [
       "Lợi ích cổ đông không kiểm soát",
@@ -2217,12 +2317,14 @@
       0,
       0,
       0,
+      0,
       0
     ],
     [
       "Nguồn kinh phí và quỹ khác",
       2,
       1980,
+      null,
       null,
       null,
       null,
@@ -2261,12 +2363,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Nguồn kinh phí đã hình thành TSCĐ",
       3,
       2010,
+      null,
       null,
       null,
       null,
@@ -2305,12 +2409,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lợi ích của cổ đông không kiểm soát (trước 2015)",
       1,
       2020,
+      0,
       0,
       0,
       0,
@@ -2349,12 +2455,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lợi nhuận đã phân phối cho Nhà đầu tư trong năm",
       2,
       1090,
+      null,
       null,
       null,
       null,
@@ -2395,12 +2503,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi từ các tài sản tài chính ghi nhận thông qua lãi/lỗ ( FVTPL)",
       2,
       10,
+      null,
       null,
       null,
       null,
@@ -2439,12 +2549,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chênh lệch tăng đánh giá lại các TSTC thông qua lãi/lỗ",
       3,
       30,
+      null,
       null,
       null,
       null,
@@ -2483,12 +2595,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi từ các khoản đầu tư nắm giữ đến ngày đáo hạn",
       2,
       50,
+      null,
       null,
       null,
       null,
@@ -2527,12 +2641,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi từ chứng khoán Nợ đầu tư sẵn sàng để bán",
       2,
       70,
+      null,
       null,
       null,
       null,
@@ -2571,12 +2687,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu môi giới chứng khoán cho người đầu tư",
       2,
       90,
+      null,
       null,
       null,
       null,
@@ -2615,12 +2733,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu bảo lãnh phát hành chứng khoán",
       2,
       110,
+      null,
       null,
       null,
       null,
@@ -2659,12 +2779,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu tư vấn đầu tư chứng khoán cho người đầu tư",
       2,
       140,
+      null,
       null,
       null,
       null,
@@ -2703,12 +2825,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu hoạt động ủy thác đấu giá",
       2,
       160,
+      null,
       null,
       null,
       null,
@@ -2747,12 +2871,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thu từ dịch vụ tư vấn",
       2,
       180,
+      null,
       null,
       null,
       null,
@@ -2791,12 +2917,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Các khoản giảm trừ doanh thu",
       1,
       70,
+      null,
       null,
       null,
       null,
@@ -2835,12 +2963,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí hoạt động kinh doanh chứng khoán  ",
       1,
       230,
+      null,
       null,
       null,
       null,
@@ -2879,12 +3009,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ bán các tài sản tài chính",
       3,
       250,
+      null,
       null,
       null,
       null,
@@ -2923,12 +3055,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí giao dịch mua các tài sản tài chính FVTPL",
       3,
       270,
+      null,
       null,
       null,
       null,
@@ -2967,12 +3101,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí lãi vay, lỗ từ các khoản cho vay và phải thu",
       2,
       290,
+      null,
       null,
       null,
       null,
@@ -3011,12 +3147,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Cphí dự phòng TSTC, xử lý tổn thất các khoản phải thu khó đòi là lỗ suy giảm TSTC và CP đi vay",
       2,
       310,
+      null,
       null,
       null,
       null,
@@ -3055,12 +3193,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí hoạt động tự doanh",
       2,
       330,
+      null,
       null,
       null,
       null,
@@ -3099,12 +3239,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí hoạt động bảo lãnh, đại lý phát hành chứng khoán",
       2,
       350,
+      null,
       null,
       null,
       null,
@@ -3143,12 +3285,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chí phí hoạt động đấu giá, ủy thác",
       2,
       370,
+      null,
       null,
       null,
       null,
@@ -3187,12 +3331,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí hoạt động tư vấn tài chính",
       2,
       390,
+      null,
       null,
       null,
       null,
@@ -3231,12 +3377,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Trong đó: Chi phí sửa lỗi giao dịch chứng khoán, lỗi khác",
       3,
       410,
+      null,
       null,
       null,
       null,
@@ -3275,12 +3423,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu hoạt động tài chính",
       1,
       260,
+      null,
       null,
       null,
       null,
@@ -3319,12 +3469,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu, dự thu cổ tức, lãi tiền gửi không cố định phát sinh trong kỳ",
       2,
       450,
+      null,
       null,
       null,
       null,
@@ -3363,12 +3515,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Doanh thu khác về đầu tư",
       2,
       470,
+      null,
       null,
       null,
       null,
@@ -3407,12 +3561,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chênh lệch lỗ tỷ giá hối đoái đã và chưa thực hiện",
       2,
       490,
+      null,
       null,
       null,
       null,
@@ -3451,12 +3607,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ bán, thanh lý các khoản đầu tư vào công ty con, liên kết, liên doanh",
       2,
       510,
+      null,
       null,
       null,
       null,
@@ -3495,12 +3653,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí đầu tư khác",
       2,
       530,
+      null,
       null,
       null,
       null,
@@ -3539,12 +3699,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí bán hàng",
       1,
       430,
+      null,
       null,
       null,
       null,
@@ -3583,12 +3745,14 @@
       248631000000,
       327238000000,
       297004000000,
-      153005000000
+      153005000000,
+      280526000000
     ],
     [
       "Lợi nhuận thuần từ hoạt động kinh doanh",
       1,
       500,
+      null,
       null,
       null,
       null,
@@ -3627,12 +3791,14 @@
       14093000000,
       -37410000000,
       42815000000,
-      3320000000
+      3320000000,
+      -1978000000
     ],
     [
       "Chi phí khác",
       1,
       520,
+      null,
       null,
       null,
       null,
@@ -3671,12 +3837,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lợi nhuận hoặc lỗ trong công ty liên kết (trước 2015)",
       1,
       531,
+      null,
       null,
       null,
       null,
@@ -3715,12 +3883,14 @@
       411618000000,
       455346000000,
       409307000000,
-      703774000000
+      703774000000,
+      1104225000000
     ],
     [
       "Lợi nhuận trước thuế đã thực hiện",
       2,
       630,
+      null,
       null,
       null,
       null,
@@ -3759,6 +3929,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -3781,7 +3952,8 @@
       81047000000,
       89559000000,
       80928000000,
-      142952000000
+      142952000000,
+      209888000000
     ],
     [
       "Chi phí thuế TNDN hiện hành",
@@ -3803,12 +3975,14 @@
       81047000000,
       89559000000,
       80928000000,
-      142952000000
+      142952000000,
+      209888000000
     ],
     [
       "Chi phí thuế TNDN hoãn lại",
       2,
       570,
+      0,
       0,
       0,
       0,
@@ -3847,12 +4021,14 @@
       330571000000,
       365787000000,
       328379000000,
-      560822000000
+      560822000000,
+      894337000000
     ],
     [
       "Lợi ích của cổ đông thiểu số",
       1,
       657,
+      0,
       0,
       0,
       0,
@@ -3891,6 +4067,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -3913,12 +4090,14 @@
       330571000000,
       365787000000,
       328379000000,
-      560822000000
+      560822000000,
+      894337000000
     ],
     [
       "Lãi/(Lỗ) từ đánh giá lại các các khoản đầu tư giữ đến ngày đáo hạn",
       1,
       720,
+      null,
       null,
       null,
       null,
@@ -3957,12 +4136,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi (lỗ) toàn diện khác được chia từ hoạt động đầu tư vào công ty con, liên kết liên doanh",
       1,
       740,
+      null,
       null,
       null,
       null,
@@ -4001,12 +4182,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi/(lỗ) chênh lệch tỷ giá của hoạt động tại nước ngoài ",
       1,
       760,
+      null,
       null,
       null,
       null,
@@ -4045,12 +4228,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi, lỗ đánh giá công cụ phái sinh",
       1,
       780,
+      null,
       null,
       null,
       null,
@@ -4089,12 +4274,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tổng thu nhập toàn diện",
       1,
       800,
+      null,
       null,
       null,
       null,
@@ -4133,12 +4320,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thu nhập toàn diện phân bổ cho cổ đông không nắm quyền kiểm soát",
       2,
       820,
+      null,
       null,
       null,
       null,
@@ -4177,6 +4366,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -4199,12 +4389,14 @@
       1027,
       995,
       849,
-      704
+      704,
+      1123
     ],
     [
       "Lãi suy giảm trên cổ phiếu",
       1,
       680,
+      null,
       null,
       null,
       null,
@@ -4245,6 +4437,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -4267,12 +4460,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Điều chỉnh cho các khoản",
       0,
       15,
+      null,
       null,
       null,
       null,
@@ -4311,12 +4506,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Phân bổ lợi thế thương mại",
       1,
       25,
+      null,
       null,
       null,
       null,
@@ -4355,12 +4552,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện",
       1,
       40,
+      null,
       null,
       null,
       null,
@@ -4399,12 +4598,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi, lỗ từ hoạt động đầu tư",
       1,
       50,
+      null,
       null,
       null,
       null,
@@ -4443,12 +4644,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Dự thu tiền lãi",
       1,
       100,
+      null,
       null,
       null,
       null,
@@ -4487,12 +4690,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng các chi phí phi tiền tệ ",
       0,
       120,
+      null,
       null,
       null,
       null,
@@ -4531,12 +4736,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ đánh giá giá trị các công nợ tài chính ghi nhận thông qua KQKD",
       1,
       140,
+      null,
       null,
       null,
       null,
@@ -4575,12 +4782,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ từ thanh lý các tài sản tài chính sẵn sàng để bán",
       1,
       160,
+      null,
       null,
       null,
       null,
@@ -4619,12 +4828,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ suy giảm giá trị các khoản đầu tư nắm giữ đến ngày đáo hạn",
       1,
       180,
+      null,
       null,
       null,
       null,
@@ -4663,12 +4874,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ về chênh lệch đánh giá theo giá trị hợp lý TSTC sẵn sàng để bán AFS khi phân loại lại",
       1,
       200,
+      null,
       null,
       null,
       null,
@@ -4707,12 +4920,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ từ thanh lý TSCĐ",
       1,
       220,
+      null,
       null,
       null,
       null,
@@ -4751,12 +4966,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Chi phí dự phòng suy giảm giá trị các khoản đầu tư tài chính dài hạn",
       1,
       240,
+      null,
       null,
       null,
       null,
@@ -4795,12 +5012,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lỗ khác",
       1,
       260,
+      null,
       null,
       null,
       null,
@@ -4839,12 +5058,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi đánh giá giá trị các tài sản chính ghi nhận thông qua KQKD",
       1,
       280,
+      null,
       null,
       null,
       null,
@@ -4883,12 +5104,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi từ thanh lý các tài sản tài chính sẵn sàng để bán",
       1,
       300,
+      null,
       null,
       null,
       null,
@@ -4927,12 +5150,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi về chênh lệch đánh giá theo giá trị hợp lý TSTC sẵn sàng để bán AFS khi phân loại lại",
       1,
       320,
+      null,
       null,
       null,
       null,
@@ -4971,12 +5196,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi từ thanh lý các khoản cho vay và phải thu",
       1,
       340,
+      null,
       null,
       null,
       null,
@@ -5015,12 +5242,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi từ thanh lý tài sản cố định, BĐSĐT",
       1,
       360,
+      null,
       null,
       null,
       null,
@@ -5059,12 +5288,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Lãi khác",
       1,
       380,
+      null,
       null,
       null,
       null,
@@ -5103,12 +5334,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng (giảm) tài sản tài chính ghi nhận thông qua lãi lỗ",
       1,
       400,
+      null,
       null,
       null,
       null,
@@ -5147,12 +5380,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng (giảm) các khoản cho vay ",
       1,
       420,
+      null,
       null,
       null,
       null,
@@ -5191,12 +5426,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng (giảm) các tài sản khác",
       1,
       440,
+      null,
       null,
       null,
       null,
@@ -5235,12 +5472,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng (giảm) vay và nợ thuê tài sản tài chính",
       1,
       460,
+      null,
       null,
       null,
       null,
@@ -5279,12 +5518,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng (giảm) Trái phiếu chuyển đổi - Cấu phần nợ",
       1,
       480,
+      null,
       null,
       null,
       null,
@@ -5323,12 +5564,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng (giảm) vay Quỹ Hỗ trợ thanh toán",
       1,
       500,
+      null,
       null,
       null,
       null,
@@ -5367,12 +5610,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "(-) Tăng, (+) giảm phải thu bán các tài sản tài chính",
       1,
       520,
+      null,
       null,
       null,
       null,
@@ -5411,12 +5656,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "(-) Tăng, (+) giảm các khoản phải thu các dịch vụ CTCK cung cấp",
       1,
       540,
+      null,
       null,
       null,
       null,
@@ -5455,12 +5702,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng, giảm các khoản phải thu",
       1,
       80,
+      null,
       null,
       null,
       null,
@@ -5499,12 +5748,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "(+) Tăng, (-) giảm phải trả cho người bán",
       1,
       580,
+      null,
       null,
       null,
       null,
@@ -5543,12 +5794,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "(+) Tăng, (-) giảm các khoản trích nộp phúc lợi nhân viên",
       1,
       600,
+      null,
       null,
       null,
       null,
@@ -5587,6 +5840,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -5609,12 +5863,14 @@
       2957402000000,
       1590176000000,
       396953000000,
-      -1131639000000
+      -1131639000000,
+      -5047923000000
     ],
     [
       "(+) Tăng, (-) giảm phải trả người lao động",
       1,
       630,
+      null,
       null,
       null,
       null,
@@ -5653,12 +5909,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng, giảm hàng tồn kho",
       1,
       90,
+      null,
       null,
       null,
       null,
@@ -5697,12 +5955,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tăng, giảm chi phí trả trước",
       1,
       110,
+      null,
       null,
       null,
       null,
@@ -5741,12 +6001,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thuế thu nhập doanh nghiệp đã nộp",
       1,
       130,
+      null,
       null,
       null,
       null,
@@ -5785,12 +6047,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền lãi đã thu",
       2,
       710,
+      null,
       null,
       null,
       null,
@@ -5829,12 +6093,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi khác cho hoạt động kinh doanh",
       1,
       150,
+      null,
       null,
       null,
       null,
@@ -5873,12 +6139,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Thuế TNDN đã nộp (*)",
       2,
       750,
+      0,
       0,
       0,
       0,
@@ -5917,12 +6185,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi nộp thuế liên quan đến hoạt động CTCK",
       1,
       770,
+      null,
       null,
       null,
       null,
@@ -5961,12 +6231,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền thu từ hoạt động kinh doanh",
       1,
       790,
+      null,
       null,
       null,
       null,
@@ -6005,12 +6277,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền đã chi mua các tài sản tài chính",
       1,
       810,
+      null,
       null,
       null,
       null,
@@ -6049,12 +6323,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi nộp Quỹ hỗ trợ thanh toán",
       1,
       830,
+      null,
       null,
       null,
       null,
@@ -6093,12 +6369,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền thu giao dịch chứng khoán khách hàng",
       1,
       850,
+      null,
       null,
       null,
       null,
@@ -6137,12 +6415,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền thu bán chứng khoán phát hành",
       1,
       870,
+      null,
       null,
       null,
       null,
@@ -6181,12 +6461,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi trả cho người cung cấp hàng hóa và dịch vụ",
       1,
       170,
+      null,
       null,
       null,
       null,
@@ -6225,12 +6507,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi trả lãi vay",
       1,
       190,
+      null,
       null,
       null,
       null,
@@ -6269,12 +6553,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi nộp thuế thu nhập doanh nghiệp",
       1,
       200,
+      null,
       null,
       null,
       null,
@@ -6313,12 +6599,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền thu khác từ hoạt động kinh doanh",
       1,
       210,
+      null,
       null,
       null,
       null,
@@ -6357,6 +6645,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -6379,12 +6668,14 @@
       -2097476000000,
       4940338000000,
       -3222465000000,
-      -5002589000000
+      -5002589000000,
+      1546431000000
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
       0,
       240,
+      null,
       null,
       null,
       null,
@@ -6423,6 +6714,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -6445,12 +6737,14 @@
       0,
       0,
       0,
-      90000000
+      90000000,
+      60000000
     ],
     [
       "Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
       1,
       270,
+      null,
       null,
       null,
       null,
@@ -6489,6 +6783,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -6511,7 +6806,8 @@
       -591206000000,
       -13733000000,
       -858971000000,
-      -1207454000000
+      -1207454000000,
+      -82500000000
     ],
     [
       "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
@@ -6533,7 +6829,8 @@
       48900000000,
       641488000000,
       403000000000,
-      331851000000
+      331851000000,
+      120000000000
     ],
     [
       "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
@@ -6555,7 +6852,8 @@
       9268000000,
       11117000000,
       6255000000,
-      15204000000
+      15204000000,
+      47166000000
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động đầu tư",
@@ -6577,12 +6875,14 @@
       -556691000000,
       632195000000,
       -459571000000,
-      -865251000000
+      -865251000000,
+      -107290000000
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
       0,
       330,
+      null,
       null,
       null,
       null,
@@ -6621,12 +6921,14 @@
       0,
       0,
       3882405000000,
+      0,
       0
     ],
     [
       "Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",
       1,
       350,
+      0,
       0,
       0,
       0,
@@ -6665,12 +6967,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền vay Quỹ Hỗ trợ thanh toán",
       2,
       1110,
+      null,
       null,
       null,
       null,
@@ -6709,12 +7013,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi trả nợ gốc vay",
       1,
       370,
+      null,
       null,
       null,
       null,
@@ -6753,12 +7059,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi trả nợ gốc vay tài sản tài chính",
       2,
       1150,
+      null,
       null,
       null,
       null,
@@ -6797,12 +7105,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Tiền chi trả nợ thuê tài chính",
       1,
       380,
+      null,
       null,
       null,
       null,
@@ -6841,7 +7151,8 @@
       -1952000000,
       -1653000000,
       -2302000000,
-      -1740000000
+      -1740000000,
+      -828000000
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động tài chính",
@@ -6863,7 +7174,8 @@
       -1952000000,
       -1653000000,
       3880103000000,
-      -1740000000
+      -1740000000,
+      -828000000
     ],
     [
       "Lưu chuyển tiền thuần trong kỳ",
@@ -6885,7 +7197,8 @@
       -2656119000000,
       5570880000000,
       198067000000,
-      -5869580000000
+      -5869580000000,
+      1438313000000
     ],
     [
       "Tiền và tương đương tiền đầu kỳ",
@@ -6907,12 +7220,14 @@
       8150050000000,
       5493931000000,
       11064811000000,
-      11262878000000
+      11262878000000,
+      5393298000000
     ],
     [
       "Tiền mặt, tiền gửi ngân hàng đầu kỳ",
       1,
       1220,
+      null,
       null,
       null,
       null,
@@ -6951,12 +7266,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Các khoản tiền tương đương đầu kỳ",
       1,
       1240,
+      null,
       null,
       null,
       null,
@@ -6995,6 +7312,7 @@
       0,
       0,
       0,
+      0,
       0
     ],
     [
@@ -7017,12 +7335,14 @@
       5493931000000,
       11064811000000,
       11262878000000,
-      5393298000000
+      5393298000000,
+      6831611000000
     ],
     [
       "Tiền mặt, tiền gửi ngân hàng kỳ",
       1,
       1270,
+      null,
       null,
       null,
       null,
@@ -7061,6 +7381,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
@@ -7083,12 +7404,14 @@
       null,
       null,
       null,
+      null,
       null
     ],
     [
       "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ tổng hợp",
       1,
       1300,
+      null,
       null,
       null,
       null,

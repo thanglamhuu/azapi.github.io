@@ -220,18 +220,18 @@
     115
   ],
   "tangTruongDoanhThuanKep": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44,
+    44
   ],
-  "tangTruongDoanhThuanKepNum": null,
+  "tangTruongDoanhThuanKepNum": 44,
   "doanhSoThuan": [
     453,
     636,
@@ -257,18 +257,18 @@
     2325
   ],
   "tangTruongLNSTCtyMeNam": [
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0,
-    0
+    103,
+    103,
+    103,
+    103,
+    103,
+    103,
+    103,
+    103,
+    103,
+    103
   ],
-  "tangTruongLNSTCtyMe5Year": 0,
+  "tangTruongLNSTCtyMe5Year": 103,
   "lnst": [
     -5,
     14,
@@ -407,7 +407,7 @@
   "soCoPhieuLuuHanh": 21525000,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": null,
+  "tangTruongHangTonKhoKep": 25,
   "lctThuanHDSXKD": [
     -156,
     99,
@@ -484,24 +484,28 @@
     18,
     28,
     17,
-    68
+    68,
+    321
   ],
   "coTucDaTra": [
     0,
     0,
     0,
-    0
+    0,
+    22
   ],
   "coTucTiLeDaTra": [
     0,
     0,
     0,
-    0
+    0,
+    7
   ],
   "newFiscalDateYear": [
     "2021-12-31",
     "2022-12-31",
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ]
 }
