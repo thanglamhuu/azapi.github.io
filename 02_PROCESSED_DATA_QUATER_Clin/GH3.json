@@ -18,11 +18,11 @@
   "nvTileVayRongVCSHQ": [],
   "tangTruongDoanhSoThuanYoY": [],
   "tangTruongDoanhThuanKep": [],
-  "tangTruongDoanhThuanKepNum": 3,
+  "tangTruongDoanhThuanKepNum": 6,
   "doanhSoThuan": [],
   "tangTruongLNSTYoY": [],
   "tangTruongLNSTCtyMeNam": [],
-  "tangTruongLNSTCtyMe5Year": 3,
+  "tangTruongLNSTCtyMe5Year": 7,
   "lnst": [],
   "bienLoiNhuanGop": [],
   "bienLoiNhuanRong": [],
@@ -40,7 +40,7 @@
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": -17,
+  "tangTruongHangTonKhoKep": -13,
   "lctThuanHDSXKD": [],
   "lctThuanHDDauTu": [],
   "lctThuanHDTC": [],
@@ -53,11 +53,13 @@
     7,
     7,
     8,
-    8
+    8,
+    10
   ],
   "coTucDaTra": [
     4,
     4,
+    5,
     5,
     5,
     5,
@@ -69,7 +71,8 @@
     63,
     66,
     63,
-    62
+    62,
+    51
   ],
   "newFiscalDateYear": [
     "2019-12-31",
@@ -77,6 +80,7 @@
     "2021-12-31",
     "2022-12-31",
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ]
 }

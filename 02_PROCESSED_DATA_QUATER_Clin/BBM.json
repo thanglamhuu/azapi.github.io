@@ -24,7 +24,7 @@
   "doanhSoThuan": [],
   "tangTruongLNSTYoY": [],
   "tangTruongLNSTCtyMeNam": [],
-  "tangTruongLNSTCtyMe5Year": -28,
+  "tangTruongLNSTCtyMe5Year": -14,
   "lnst": [],
   "bienLoiNhuanGop": [],
   "bienLoiNhuanRong": [],
@@ -43,7 +43,7 @@
   "soCoPhieuLuuHanh": 0,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": 1,
+  "tangTruongHangTonKhoKep": 2,
   "lctThuanHDSXKD": [],
   "lctThuanHDDauTu": [],
   "lctThuanHDTC": [],
@@ -59,6 +59,7 @@
     2,
     2,
     1,
+    1,
     1
   ],
   "coTucDaTra": [
@@ -70,6 +71,7 @@
     2,
     1,
     1,
+    0,
     0
   ],
   "coTucTiLeDaTra": [
@@ -81,7 +83,8 @@
     80,
     68,
     151,
-    62
+    62,
+    30
   ],
   "newFiscalDateYear": [
     "2016-12-31",
@@ -92,6 +95,7 @@
     "2021-12-31",
     "2022-12-31",
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ]
 }

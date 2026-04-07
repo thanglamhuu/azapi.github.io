@@ -22,7 +22,7 @@
   "doanhSoThuan": [],
   "tangTruongLNSTYoY": [],
   "tangTruongLNSTCtyMeNam": [],
-  "tangTruongLNSTCtyMe5Year": 6,
+  "tangTruongLNSTCtyMe5Year": 3,
   "lnst": [],
   "bienLoiNhuanGop": [],
   "bienLoiNhuanRong": [],
@@ -59,7 +59,8 @@
     29,
     32,
     32,
-    33
+    33,
+    31
   ],
   "coTucDaTra": [
     0,
@@ -72,6 +73,7 @@
     17,
     18,
     19,
+    22,
     22,
     22
   ],
@@ -87,7 +89,8 @@
     62,
     62,
     67,
-    65
+    65,
+    70
   ],
   "newFiscalDateYear": [
     "2013-12-31",
@@ -101,6 +104,7 @@
     "2021-12-31",
     "2022-12-31",
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ]
 }

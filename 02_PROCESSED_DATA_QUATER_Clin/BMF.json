@@ -209,7 +209,7 @@
   "soCoPhieuLuuHanh": 15848063,
   "isNganHang": false,
   "isChungKhoan": false,
-  "tangTruongHangTonKhoKep": 48,
+  "tangTruongHangTonKhoKep": 47,
   "lctThuanHDSXKD": [
     6,
     36,
@@ -254,11 +254,13 @@
     19,
     9,
     5,
-    16
+    16,
+    15
   ],
   "coTucDaTra": [
     4,
     27,
+    0,
     0,
     0,
     0,
@@ -274,6 +276,7 @@
     0,
     0,
     0,
+    0,
     0
   ],
   "newFiscalDateYear": [
@@ -284,6 +287,7 @@
     "2021-12-31",
     "2022-12-31",
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ]
 }

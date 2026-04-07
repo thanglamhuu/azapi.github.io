@@ -1,82 +1,107 @@
 {
   "fiscalDates": [
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ],
   "newFiscalDate": [
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ],
   "tiLeNovayRongVcsh": [
-    2
+    2,
+    -1
   ],
   "tiLePhaiThuTaiSan": [
-    2
+    2,
+    12
   ],
   "tsTienTuongDuongTienDTTCNH": [
-    7
+    7,
+    11
   ],
   "tsKhoanPhaiThu": [
-    2
+    2,
+    14
   ],
   "tsHangTonKho": [
-    5
+    5,
+    4
   ],
   "tsTaiSanCoDinh": [
-    8
+    8,
+    9
   ],
   "tsTaiSanDoDangDaiHan": [
+    0,
     0
   ],
   "tsKhac": [
-    75
+    75,
+    78
   ],
   "nvVonChuSoHuu": [
-    83
+    83,
+    88
   ],
   "nvVayNganHan": [
-    9
-  ],
-  "nvVayDaiHanTPCD": [
+    9,
     0
   ],
+  "nvVayDaiHanTPCD": [
+    0,
+    10
+  ],
   "nvMuaTraTienTruocDtChuaTH": [
-    1
+    1,
+    10
   ],
   "nvKhac": [
-    4
+    4,
+    7
   ],
   "nvTileVayRongVCSHQ": [
-    2
+    2,
+    -1
   ],
   "tangTruongDoanhSoThuanYoY": [
-    -45
+    -45,
+    408
   ],
   "tangTruongDoanhThuanKep": [
+    null,
     null
   ],
   "tangTruongDoanhThuanKepNum": null,
   "doanhSoThuan": [
-    13
+    13,
+    65
   ],
   "tangTruongLNSTYoY": [
-    102
+    102,
+    211
   ],
   "tangTruongLNSTCtyMeNam": [],
   "tangTruongLNSTCtyMe5Year": 0,
   "lnst": [
-    2
+    2,
+    5
   ],
   "bienLoiNhuanGop": [
-    34
+    34,
+    8
   ],
   "bienLoiNhuanRong": [
-    13
+    13,
+    8
   ],
   "ROACuoiKy": [
-    1.7
+    1.7,
+    4.6
   ],
   "ROECuoiKy": [
-    2
+    2,
+    6
   ],
   "newFiscalDateQuarter": [],
   "lastQuaterPrice": 0,
@@ -94,37 +119,48 @@
   "isChungKhoan": false,
   "vec11400Year": {
     "2023-12-31": 5252634647,
-    "2024-12-31": 4776475085
+    "2024-12-31": 4776475085,
+    "2025-12-31": 4478228006
   },
   "tangTruongHangTonKhoKep": null,
   "lctThuanHDSXKD": [
+    0,
     0
   ],
   "lctThuanHDDauTu": [
-    3
-  ],
-  "lctThuanHDTC": [
+    3,
     -3
   ],
-  "lctThuanTrongKy": [
-    0
-  ],
-  "hangTonKho": [
-    5
-  ],
-  "hangTonKhoVongQuay": [
-    1.7
-  ],
-  "coTucLNST": [
+  "lctThuanHDTC": [
+    -3,
     2
   ],
+  "lctThuanTrongKy": [
+    0,
+    -1
+  ],
+  "hangTonKho": [
+    5,
+    4
+  ],
+  "hangTonKhoVongQuay": [
+    1.7,
+    13
+  ],
+  "coTucLNST": [
+    2,
+    5
+  ],
   "coTucDaTra": [
+    0,
     0
   ],
   "coTucTiLeDaTra": [
+    0,
     0
   ],
   "newFiscalDateYear": [
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ]
 }

@@ -1,34 +1,83 @@
 {
   "fiscalDates": [
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ],
-  "newFiscalDate": [],
-  "tiLeNovayRongVcsh": [],
-  "tiLePhaiThuTaiSan": [],
-  "tsTienTuongDuongTienDTTCNH": [],
-  "tsKhoanPhaiThu": [],
-  "tsHangTonKho": [],
-  "tsTaiSanCoDinh": [],
-  "tsTaiSanDoDangDaiHan": [],
-  "tsKhac": [],
-  "nvVonChuSoHuu": [],
-  "nvVayNganHan": [],
-  "nvVayDaiHanTPCD": [],
-  "nvMuaTraTienTruocDtChuaTH": [],
-  "nvKhac": [],
-  "nvTileVayRongVCSHQ": [],
-  "tangTruongDoanhSoThuanYoY": [],
-  "tangTruongDoanhThuanKep": [],
+  "newFiscalDate": [
+    "2025-12-31"
+  ],
+  "tiLeNovayRongVcsh": [
+    37
+  ],
+  "tiLePhaiThuTaiSan": [
+    31
+  ],
+  "tsTienTuongDuongTienDTTCNH": [
+    89
+  ],
+  "tsKhoanPhaiThu": [
+    139
+  ],
+  "tsHangTonKho": [
+    85
+  ],
+  "tsTaiSanCoDinh": [
+    10
+  ],
+  "tsTaiSanDoDangDaiHan": [
+    41
+  ],
+  "tsKhac": [
+    82
+  ],
+  "nvVonChuSoHuu": [
+    240
+  ],
+  "nvVayNganHan": [
+    113
+  ],
+  "nvVayDaiHanTPCD": [
+    64
+  ],
+  "nvMuaTraTienTruocDtChuaTH": [
+    7
+  ],
+  "nvKhac": [
+    22
+  ],
+  "nvTileVayRongVCSHQ": [
+    37
+  ],
+  "tangTruongDoanhSoThuanYoY": [
+    3
+  ],
+  "tangTruongDoanhThuanKep": [
+    null
+  ],
   "tangTruongDoanhThuanKepNum": null,
-  "doanhSoThuan": [],
-  "tangTruongLNSTYoY": [],
+  "doanhSoThuan": [
+    467
+  ],
+  "tangTruongLNSTYoY": [
+    -6
+  ],
   "tangTruongLNSTCtyMeNam": [],
   "tangTruongLNSTCtyMe5Year": 0,
-  "lnst": [],
-  "bienLoiNhuanGop": [],
-  "bienLoiNhuanRong": [],
-  "ROACuoiKy": [],
-  "ROECuoiKy": [],
+  "lnst": [
+    13
+  ],
+  "bienLoiNhuanGop": [
+    8
+  ],
+  "bienLoiNhuanRong": [
+    3
+  ],
+  "ROACuoiKy": [
+    3
+  ],
+  "ROECuoiKy": [
+    5.5
+  ],
   "newFiscalDateQuarter": [
     "2025-09-30",
     "2025-12-31"
@@ -64,17 +113,38 @@
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
-    "2024-12-31": 68879476480
+    "2024-12-31": 68879476480,
+    "2025-12-31": 84584468405
   },
   "tangTruongHangTonKhoKep": null,
-  "lctThuanHDSXKD": [],
-  "lctThuanHDDauTu": [],
-  "lctThuanHDTC": [],
-  "lctThuanTrongKy": [],
-  "hangTonKho": [],
-  "hangTonKhoVongQuay": [],
-  "coTucLNST": [],
-  "coTucDaTra": [],
-  "coTucTiLeDaTra": [],
-  "newFiscalDateYear": []
+  "lctThuanHDSXKD": [
+    -44
+  ],
+  "lctThuanHDDauTu": [
+    -87
+  ],
+  "lctThuanHDTC": [
+    118
+  ],
+  "lctThuanTrongKy": [
+    -14
+  ],
+  "hangTonKho": [
+    85
+  ],
+  "hangTonKhoVongQuay": [
+    5.6
+  ],
+  "coTucLNST": [
+    13
+  ],
+  "coTucDaTra": [
+    0
+  ],
+  "coTucTiLeDaTra": [
+    0
+  ],
+  "newFiscalDateYear": [
+    "2025-12-31"
+  ]
 }

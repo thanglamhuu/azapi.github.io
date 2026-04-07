@@ -1,82 +1,107 @@
 {
   "fiscalDates": [
     "2023-12-31",
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ],
   "newFiscalDate": [
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ],
   "tiLeNovayRongVcsh": [
-    -22
+    -22,
+    -4
   ],
   "tiLePhaiThuTaiSan": [
-    21
+    21,
+    24
   ],
   "tsTienTuongDuongTienDTTCNH": [
-    13
+    13,
+    2
   ],
   "tsKhoanPhaiThu": [
-    13
+    13,
+    15
   ],
   "tsHangTonKho": [
+    1,
     1
   ],
   "tsTaiSanCoDinh": [
+    28,
     28
   ],
   "tsTaiSanDoDangDaiHan": [
+    0,
     0
   ],
   "tsKhac": [
-    8
+    8,
+    17
   ],
   "nvVonChuSoHuu": [
+    58,
     58
   ],
   "nvVayNganHan": [
+    0,
     0
   ],
   "nvVayDaiHanTPCD": [
+    0,
     0
   ],
   "nvMuaTraTienTruocDtChuaTH": [
+    0,
     0
   ],
   "nvKhac": [
+    4,
     4
   ],
   "nvTileVayRongVCSHQ": [
-    -22
+    -22,
+    -4
   ],
   "tangTruongDoanhSoThuanYoY": [
-    3
+    3,
+    2
   ],
   "tangTruongDoanhThuanKep": [
+    null,
     null
   ],
   "tangTruongDoanhThuanKepNum": null,
   "doanhSoThuan": [
-    42
+    42,
+    43
   ],
   "tangTruongLNSTYoY": [
-    9
+    9,
+    -36
   ],
   "tangTruongLNSTCtyMeNam": [],
   "tangTruongLNSTCtyMe5Year": 0,
   "lnst": [
-    4
+    4,
+    3
   ],
   "bienLoiNhuanGop": [
+    35,
     35
   ],
   "bienLoiNhuanRong": [
-    9
+    9,
+    6
   ],
   "ROACuoiKy": [
-    6.2
+    6.2,
+    4.1
   ],
   "ROECuoiKy": [
-    6.7
+    6.7,
+    4.3
   ],
   "newFiscalDateQuarter": [
     "2025-09-30",
@@ -114,37 +139,48 @@
   "isChungKhoan": false,
   "vec11400Year": {
     "2023-12-31": 660057000,
-    "2024-12-31": 993134322
+    "2024-12-31": 993134322,
+    "2025-12-31": 856586600
   },
   "tangTruongHangTonKhoKep": null,
   "lctThuanHDSXKD": [
-    2
+    2,
+    -4
   ],
   "lctThuanHDDauTu": [
+    -4,
     -4
   ],
   "lctThuanHDTC": [
-    12
+    12,
+    -3
   ],
   "lctThuanTrongKy": [
-    10
+    10,
+    -10
   ],
   "hangTonKho": [
+    1,
     1
   ],
   "hangTonKhoVongQuay": [
-    32.9
+    32.9,
+    29.9
   ],
   "coTucLNST": [
-    4
+    4,
+    3
   ],
   "coTucDaTra": [
-    0
+    0,
+    3
   ],
   "coTucTiLeDaTra": [
-    0
+    0,
+    100
   ],
   "newFiscalDateYear": [
-    "2024-12-31"
+    "2024-12-31",
+    "2025-12-31"
   ]
 }
