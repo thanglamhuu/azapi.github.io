@@ -23,6 +23,16 @@
     {
       "code": "AAV",
       "shareholderType": "PERSON",
+      "shareholderName": "Lê Việt Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 3449800,
+      "ownershipPct": 5.0006043834418445,
+      "effectiveDate": "2025-08-18"
+    },
+    {
+      "code": "AAV",
+      "shareholderType": "PERSON",
       "shareholderName": "Phạm Đức Văn",
       "roleType": "Cổ đông lớn",
       "enRoleType": "Major Shareholder",
@@ -89,20 +99,10 @@
       "numberOfShares": 1487500,
       "ownershipPct": 2.1561826831612687,
       "effectiveDate": "2021-05-13"
-    },
-    {
-      "code": "AAV",
-      "shareholderType": "COMPANY",
-      "shareholderName": "Chứng khoán SmartInvest",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 773662,
-      "ownershipPct": 1.1214498198453198,
-      "effectiveDate": "2022-08-04"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 10,
-  "totalPages": 1
+  "totalElements": 11,
+  "totalPages": 2
 }

@@ -2,16 +2,6 @@
   "data": [
     {
       "code": "ADG",
-      "shareholderType": "COMPANY",
-      "shareholderName": "FSN Asia Private Limited",
-      "roleType": "Cổ đông lớn",
-      "enRoleType": "Major Shareholder",
-      "numberOfShares": 8285943,
-      "ownershipPct": 38.754635586289034,
-      "effectiveDate": "2025-06-10"
-    },
-    {
-      "code": "ADG",
       "shareholderType": "PERSON",
       "shareholderName": "Nguyễn Khánh Trình",
       "roleType": "Chủ tịch HĐQT",
@@ -19,6 +9,16 @@
       "numberOfShares": 7174327,
       "ownershipPct": 33.555435810006685,
       "effectiveDate": "2025-07-09"
+    },
+    {
+      "code": "ADG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "FSN Asia Private Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7165943,
+      "ownershipPct": 33.516222546681625,
+      "effectiveDate": "2025-10-09"
     }
   ],
   "currentPage": 1,

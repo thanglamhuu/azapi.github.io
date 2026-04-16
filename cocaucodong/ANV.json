@@ -8,6 +8,17 @@
       "enRoleType": "Vice-chairman",
       "numberOfShares": 146610000,
       "ownershipPct": 55.06359956545539,
+      "groupPct": 66.15654309813027,
+      "effectiveDate": "2025-04-18"
+    },
+    {
+      "code": "ANV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Doãn Tới",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 146610000,
+      "ownershipPct": 55.06359956545539,
       "groupPct": 66.20991208640565,
       "effectiveDate": "2025-04-18"
     },
@@ -15,11 +26,11 @@
       "code": "ANV",
       "shareholderType": "PERSON",
       "shareholderName": "Doãn Chí Thanh",
-      "roleType": "Con của Phó chủ tịch HĐQT",
-      "enRoleType": "Child of Vice-chairman",
+      "roleType": "Anh của Phó TGĐ",
+      "enRoleType": "Elder Brother of Deputy CEO",
       "numberOfShares": 29535600,
       "ownershipPct": 11.092943532674882,
-      "groupPct": 17.569216063878432,
+      "groupPct": 66.15654309813027,
       "effectiveDate": "2025-07-30"
     },
     {
@@ -31,6 +42,17 @@
       "numberOfShares": 29535600,
       "ownershipPct": 11.092943532674882,
       "groupPct": 66.20991208640565,
+      "effectiveDate": "2025-07-30"
+    },
+    {
+      "code": "ANV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Doãn Chí Thanh",
+      "roleType": "Con của Phó chủ tịch HĐQT",
+      "enRoleType": "Child of Vice-chairman",
+      "numberOfShares": 29535600,
+      "ownershipPct": 11.092943532674882,
+      "groupPct": 17.569216063878432,
       "effectiveDate": "2025-07-30"
     },
     {
@@ -57,6 +79,6 @@
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 5,
+  "totalElements": 7,
   "totalPages": 1
 }

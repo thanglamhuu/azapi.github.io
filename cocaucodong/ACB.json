@@ -42,6 +42,16 @@
     },
     {
       "code": "ACB",
+      "shareholderType": "PERSON",
+      "shareholderName": "NGUYỄN THIÊN HƯƠNG JENNY",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 78841526,
+      "ownershipPct": 1.5348802179096186,
+      "effectiveDate": "2026-03-26"
+    },
+    {
+      "code": "ACB",
       "shareholderType": "COMPANY",
       "shareholderName": "CTCP đầu tư Thương mại Giang Sen",
       "roleType": "Cổ đông lớn",
@@ -49,10 +59,20 @@
       "numberOfShares": 69823091,
       "ownershipPct": 1.3593100814563523,
       "effectiveDate": "2023-06-01"
+    },
+    {
+      "code": "ACB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "BCH Công đoàn Ngân hàng TMCP Á Châu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 61480023,
+      "ownershipPct": 1.1968879331347335,
+      "effectiveDate": "2025-11-12"
     }
   ],
   "currentPage": 1,
   "size": 10,
-  "totalElements": 5,
+  "totalElements": 7,
   "totalPages": 1
 }
