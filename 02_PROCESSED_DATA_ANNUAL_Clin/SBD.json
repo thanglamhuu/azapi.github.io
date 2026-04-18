@@ -29,17 +29,31 @@
   "bienLoiNhuanRong": [],
   "ROACuoiKy": [],
   "ROECuoiKy": [],
-  "newFiscalDateQuarter": [],
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": 0,
-  "choNhanGiaRaPS": 0,
-  "PE": [],
-  "PETb": [],
-  "PB": [],
-  "PBTb": [],
-  "PS": [],
-  "PSTb": [],
-  "soCoPhieuLuuHanh": 0,
+  "newFiscalDateQuarter": [
+    "2026-03-31"
+  ],
+  "choNhanGiaRaPE": 2.5430679621797796,
+  "choNhanGiaRaPB": 0.0880658915958873,
+  "choNhanGiaRaPS": 0.015136868014569343,
+  "PE": [
+    null
+  ],
+  "PETb": [
+    null
+  ],
+  "PB": [
+    null
+  ],
+  "PBTb": [
+    null
+  ],
+  "PS": [
+    null
+  ],
+  "PSTb": [
+    null
+  ],
+  "soCoPhieuLuuHanh": 13916480,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
