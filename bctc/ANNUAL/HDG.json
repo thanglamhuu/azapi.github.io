@@ -2964,6 +2964,7 @@
   "kqkd": [
     [
       "Tổng doanh thu hoạt động kinh doanh",
+      21000,
       1,
       10,
       259907592775,
@@ -2989,6 +2990,7 @@
     ],
     [
       "Các khoản giảm trừ doanh thu",
+      21090,
       1,
       70,
       370938907,
@@ -3014,6 +3016,7 @@
     ],
     [
       "Doanh thu thuần",
+      21001,
       1,
       140,
       259536653868,
@@ -3039,6 +3042,7 @@
     ],
     [
       "Giá vốn hàng bán",
+      22100,
       1,
       170,
       231891374036,
@@ -3064,6 +3068,7 @@
     ],
     [
       "Lợi nhuận gộp",
+      23100,
       1,
       250,
       27645279832,
@@ -3089,6 +3094,7 @@
     ],
     [
       "Doanh thu hoạt động tài chính",
+      21500,
       1,
       260,
       3301461007,
@@ -3114,6 +3120,7 @@
     ],
     [
       "Chi phí tài chính",
+      22500,
       1,
       350,
       803523220,
@@ -3139,6 +3146,7 @@
     ],
     [
       "Trong đó: Chi phí lãi vay",
+      22510,
       2,
       360,
       492604307,
@@ -3164,6 +3172,7 @@
     ],
     [
       "Lợi nhuận hoặc lỗ trong công ty liên kết",
+      23300,
       1,
       425,
       0,
@@ -3189,6 +3198,7 @@
     ],
     [
       "Chi phí bán hàng",
+      22110,
       1,
       430,
       75697260,
@@ -3214,6 +3224,7 @@
     ],
     [
       "Chi phí quản lý doanh nghiệp",
+      22200,
       1,
       440,
       13217586712,
@@ -3239,6 +3250,7 @@
     ],
     [
       "Lợi nhuận thuần từ hoạt động kinh doanh",
+      23110,
       1,
       500,
       16849933647,
@@ -3264,6 +3276,7 @@
     ],
     [
       "Thu nhập khác",
+      21900,
       1,
       510,
       3620956243,
@@ -3289,6 +3302,7 @@
     ],
     [
       "Chi phí khác",
+      22900,
       1,
       520,
       5519338030,
@@ -3314,6 +3328,7 @@
     ],
     [
       "Lợi nhuận khác",
+      23900,
       1,
       530,
       -1898381787,
@@ -3339,6 +3354,7 @@
     ],
     [
       "Lợi nhuận hoặc lỗ trong công ty liên kết (trước 2015)",
+      23200,
       1,
       531,
       0,
@@ -3364,6 +3380,7 @@
     ],
     [
       "Lợi nhuận kế toán trước thuế",
+      23800,
       1,
       540,
       14951551860,
@@ -3389,6 +3406,7 @@
     ],
     [
       "Chi phí thuế TNDN",
+      22070,
       1,
       550,
       3531337964,
@@ -3414,6 +3432,7 @@
     ],
     [
       "Chi phí thuế TNDN hiện hành",
+      22051,
       2,
       560,
       3531337964,
@@ -3439,6 +3458,7 @@
     ],
     [
       "Chi phí thuế TNDN hoãn lại",
+      22052,
       2,
       570,
       0,
@@ -3464,6 +3484,7 @@
     ],
     [
       "Lợi nhuận sau thuế thu nhập doanh nghiệp",
+      23003,
       1,
       580,
       11420213896,
@@ -3489,6 +3510,7 @@
     ],
     [
       "Lợi ích của cổ đông thiểu số",
+      23500,
       1,
       657,
       2257282692,
@@ -3514,6 +3536,7 @@
     ],
     [
       "Lợi nhuận sau thuế của Công ty mẹ",
+      23000,
       1,
       660,
       9162931204,
@@ -3539,6 +3562,7 @@
     ],
     [
       "Lãi cơ bản trên cổ phiếu",
+      23001,
       1,
       670,
       null,
@@ -3564,6 +3588,7 @@
     ],
     [
       "Lãi suy giảm trên cổ phiếu",
+      700087,
       1,
       680,
       null,
@@ -3591,6 +3616,7 @@
   "lctt": [
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH - GIÁN TIẾP",
+      932000,
       0,
       0,
       null,
@@ -3616,6 +3642,7 @@
     ],
     [
       "Lợi nhuận kế toán trước thuế",
+      23810,
       1,
       10,
       null,
@@ -3641,6 +3668,7 @@
     ],
     [
       "Điều chỉnh cho các khoản",
+      30000,
       0,
       15,
       null,
@@ -3666,6 +3694,7 @@
     ],
     [
       "Chi phí khấu hao tài sản cố định",
+      22230,
       1,
       20,
       null,
@@ -3691,6 +3720,7 @@
     ],
     [
       "Phân bổ lợi thế thương mại",
+      31111,
       1,
       25,
       null,
@@ -3716,6 +3746,7 @@
     ],
     [
       "Dự phòng giảm giá các khoản đầu tư ngắn hạn, dài hạn",
+      22515,
       1,
       30,
       null,
@@ -3741,6 +3772,7 @@
     ],
     [
       "Lãi, lỗ chênh lệch tỷ giá hối đoái chưa thực hiện",
+      31100,
       1,
       40,
       null,
@@ -3766,6 +3798,7 @@
     ],
     [
       "Lãi/(lỗ) từ thanh lý tài sản cố định",
+      31101,
       1,
       45,
       null,
@@ -3791,6 +3824,7 @@
     ],
     [
       "Lãi, lỗ từ hoạt động đầu tư",
+      31110,
       1,
       50,
       null,
@@ -3816,6 +3850,7 @@
     ],
     [
       "Chi phí lãi vay",
+      22509,
       1,
       60,
       null,
@@ -3841,6 +3876,7 @@
     ],
     [
       "Thu lãi và cổ tức",
+      31102,
       1,
       65,
       null,
@@ -3866,6 +3902,7 @@
     ],
     [
       "Các khoản điều chỉnh khác",
+      431100,
       1,
       66,
       null,
@@ -3891,6 +3928,7 @@
     ],
     [
       "Lợi nhuận từ hoạt động kinh doanh trước thay đổi vốn  lưu động",
+      31120,
       0,
       70,
       null,
@@ -3916,6 +3954,7 @@
     ],
     [
       "Tăng, giảm các khoản phải thu",
+      31130,
       1,
       80,
       null,
@@ -3941,6 +3980,7 @@
     ],
     [
       "Tăng, giảm hàng tồn kho",
+      31140,
       1,
       90,
       null,
@@ -3966,6 +4006,7 @@
     ],
     [
       "Tăng, giảm các khoản phải trả (Không kể lãi vay phải trả, thuế TNDN phải nộp)",
+      31150,
       1,
       100,
       null,
@@ -3991,6 +4032,7 @@
     ],
     [
       "Tăng, giảm chi phí trả trước",
+      31160,
       1,
       110,
       null,
@@ -4016,6 +4058,7 @@
     ],
     [
       "Tăng/ (Giảm) chứng khoán kinh doanh",
+      431400,
       1,
       115,
       null,
@@ -4041,6 +4084,7 @@
     ],
     [
       "Tiền lãi vay đã trả",
+      31170,
       1,
       120,
       null,
@@ -4066,6 +4110,7 @@
     ],
     [
       "Thuế thu nhập doanh nghiệp đã nộp",
+      31180,
       1,
       130,
       null,
@@ -4091,6 +4136,7 @@
     ],
     [
       "Tiền thu khác từ hoạt động kinh doanh",
+      31190,
       1,
       140,
       null,
@@ -4116,6 +4162,7 @@
     ],
     [
       "Tiền chi khác cho hoạt động kinh doanh",
+      31200,
       1,
       150,
       null,
@@ -4141,6 +4188,7 @@
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH - TRỰC TIẾP",
+      932001,
       0,
       159,
       null,
@@ -4166,6 +4214,7 @@
     ],
     [
       "Tiền thu từ bán hàng, cung cấp dịch vụ và doanh thu khác",
+      30100,
       1,
       160,
       null,
@@ -4191,6 +4240,7 @@
     ],
     [
       "Tiền chi trả cho người cung cấp hàng hóa và dịch vụ",
+      30200,
       1,
       170,
       null,
@@ -4216,6 +4266,7 @@
     ],
     [
       "Tiền chi trả cho người lao động",
+      30300,
       1,
       180,
       null,
@@ -4241,6 +4292,7 @@
     ],
     [
       "Tiền chi trả lãi vay",
+      30400,
       1,
       190,
       null,
@@ -4266,6 +4318,7 @@
     ],
     [
       "Tiền chi nộp thuế thu nhập doanh nghiệp",
+      30500,
       1,
       200,
       null,
@@ -4291,6 +4344,7 @@
     ],
     [
       "Tiền thu khác từ hoạt động kinh doanh",
+      30600,
       1,
       210,
       null,
@@ -4316,6 +4370,7 @@
     ],
     [
       "Tiền chi khác cho hoạt động kinh doanh",
+      30700,
       1,
       220,
       null,
@@ -4341,6 +4396,7 @@
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động kinh doanh",
+      32000,
       0,
       230,
       null,
@@ -4366,6 +4422,7 @@
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ",
+      933000,
       0,
       240,
       null,
@@ -4391,6 +4448,7 @@
     ],
     [
       "Mua sắm TSCĐ",
+      32100,
       1,
       250,
       null,
@@ -4416,6 +4474,7 @@
     ],
     [
       "Tiền thu từ thanh lý, nhượng bán TSCĐ và các tài sản dài hạn khác",
+      32200,
       1,
       260,
       null,
@@ -4441,6 +4500,7 @@
     ],
     [
       "Tiền chi cho vay, mua các công cụ nợ của đơn vị khác",
+      32300,
       1,
       270,
       null,
@@ -4466,6 +4526,7 @@
     ],
     [
       "Tiền thu hồi cho vay, bán lại các công cụ nợ của đơn vị khác",
+      32400,
       1,
       280,
       null,
@@ -4491,6 +4552,7 @@
     ],
     [
       "Tiền chi đầu tư góp vốn vào đơn vị khác",
+      32500,
       1,
       290,
       null,
@@ -4516,6 +4578,7 @@
     ],
     [
       "Tiền thu hồi đầu tư góp vốn vào đơn vị khác",
+      32600,
       1,
       300,
       null,
@@ -4541,6 +4604,7 @@
     ],
     [
       "Tiền thu lãi cho vay, cổ tức và lợi nhuận được chia",
+      32700,
       1,
       310,
       null,
@@ -4566,6 +4630,7 @@
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động đầu tư",
+      33000,
       0,
       320,
       null,
@@ -4591,6 +4656,7 @@
     ],
     [
       "LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH",
+      934000,
       0,
       330,
       null,
@@ -4616,6 +4682,7 @@
     ],
     [
       "Tiền thu từ phát hành cổ phiếu, nhận vốn góp của chủ sở hữu",
+      33100,
       1,
       340,
       null,
@@ -4641,6 +4708,7 @@
     ],
     [
       "Tiền chi trả vốn góp cho các chủ sở hữu, mua lại cổ phiếu của doanh nghiệp đã phát hành",
+      33200,
       1,
       350,
       null,
@@ -4666,6 +4734,7 @@
     ],
     [
       "Tiền vay ngắn hạn, dài hạn nhận được",
+      33300,
       1,
       360,
       null,
@@ -4691,6 +4760,7 @@
     ],
     [
       "Tiền chi trả nợ gốc vay",
+      33400,
       1,
       370,
       null,
@@ -4716,6 +4786,7 @@
     ],
     [
       "Tiền chi trả nợ thuê tài chính",
+      33500,
       1,
       380,
       null,
@@ -4741,6 +4812,7 @@
     ],
     [
       "Cổ tức, lợi nhuận đã trả cho chủ sở hữu",
+      33600,
       1,
       390,
       null,
@@ -4766,6 +4838,7 @@
     ],
     [
       "Tiền lãi đã nhận",
+      33710,
       1,
       396,
       null,
@@ -4791,6 +4864,7 @@
     ],
     [
       "Lưu chuyển tiền thuần từ hoạt động tài chính",
+      34000,
       0,
       400,
       null,
@@ -4816,6 +4890,7 @@
     ],
     [
       "Lưu chuyển tiền thuần trong kỳ",
+      35000,
       0,
       410,
       null,
@@ -4841,6 +4916,7 @@
     ],
     [
       "Tiền và tương đương tiền đầu kỳ",
+      36000,
       0,
       420,
       null,
@@ -4866,6 +4942,7 @@
     ],
     [
       "Ảnh hưởng của thay đổi tỷ giá hối đoái quy đổi ngoại tệ",
+      36100,
       0,
       430,
       null,
@@ -4891,6 +4968,7 @@
     ],
     [
       "Tiền và tương đương tiền cuối kỳ",
+      37000,
       0,
       440,
       null,
