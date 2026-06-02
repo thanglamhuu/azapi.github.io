@@ -77,7 +77,7 @@
     -124,
     -83,
     39,
-    null
+    31
   ],
   "tiLePhaiThuTaiSan": [
     38,
@@ -96,7 +96,7 @@
     23,
     26,
     33,
-    null
+    31
   ],
   "tsTienTuongDuongTienDTTCNH": [
     610,
@@ -115,7 +115,7 @@
     1337,
     1107,
     560,
-    0
+    741
   ],
   "tsKhoanPhaiThu": [
     2481,
@@ -134,7 +134,7 @@
     1353,
     1553,
     2030,
-    0
+    1905
   ],
   "tsHangTonKho": [
     1708,
@@ -153,7 +153,7 @@
     1746,
     1822,
     1315,
-    0
+    1292
   ],
   "tsTaiSanCoDinh": [
     1060,
@@ -172,7 +172,7 @@
     1000,
     992,
     983,
-    0
+    974
   ],
   "tsTaiSanDoDangDaiHan": [
     146,
@@ -191,7 +191,7 @@
     137,
     137,
     135,
-    0
+    146
   ],
   "tsKhac": [
     448,
@@ -210,7 +210,7 @@
     424,
     416,
     1077,
-    0
+    1077
   ],
   "nvVonChuSoHuu": [
     843,
@@ -229,7 +229,7 @@
     508,
     482,
     484,
-    0
+    471
   ],
   "nvVayNganHan": [
     846,
@@ -248,7 +248,7 @@
     682,
     693,
     736,
-    0
+    876
   ],
   "nvVayDaiHanTPCD": [
     62,
@@ -267,7 +267,7 @@
     24,
     12,
     12,
-    0
+    12
   ],
   "nvMuaTraTienTruocDtChuaTH": [
     249,
@@ -286,7 +286,7 @@
     279,
     275,
     310,
-    0
+    423
   ],
   "nvKhac": [
     4451,
@@ -305,7 +305,7 @@
     4504,
     4565,
     4557,
-    0
+    4352
   ],
   "nvTileVayRongVCSHQ": [
     35,
@@ -324,7 +324,7 @@
     -124,
     -83,
     39,
-    null
+    31
   ],
   "tangTruongDoanhSoThuanYoY": [
     -15,
@@ -497,7 +497,7 @@
     1.1,
     1,
     0,
-    null
+    -0.2
   ],
   "ROECuoiKy": [
     7,
@@ -516,12 +516,12 @@
     13,
     12,
     0,
-    null
+    -2
   ],
   "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": -41.49040370205745,
+  "choNhanGiaRaPB": 0.8486628963516439,
+  "choNhanGiaRaPS": 0.17828611204187336,
   "PE": [
     0,
     0,
@@ -577,7 +577,7 @@
     0,
     0,
     0,
-    null
+    0
   ],
   "PBTb": [
     0,
@@ -636,7 +636,7 @@
     0,
     0
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 400000000,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": -14,
@@ -733,7 +733,7 @@
     1746,
     1822,
     1315,
-    0
+    1292
   ],
   "hangTonKhoVongQuay": [
     1.1,
@@ -752,7 +752,7 @@
     0.8,
     0.9,
     1.2,
-    1.7
+    1.4
   ],
   "coTucLNST": [
     82,

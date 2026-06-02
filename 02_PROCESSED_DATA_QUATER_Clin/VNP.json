@@ -173,7 +173,7 @@
     -40,
     -23,
     -31,
-    null
+    -34
   ],
   "tiLePhaiThuTaiSan": [
     25,
@@ -216,7 +216,7 @@
     11,
     15,
     9,
-    null
+    15
   ],
   "tsTienTuongDuongTienDTTCNH": [
     44,
@@ -259,7 +259,7 @@
     115,
     71,
     93,
-    0
+    105
   ],
   "tsKhoanPhaiThu": [
     113,
@@ -302,7 +302,7 @@
     37,
     45,
     28,
-    0
+    49
   ],
   "tsHangTonKho": [
     58,
@@ -345,7 +345,7 @@
     21,
     17,
     14,
-    0
+    7
   ],
   "tsTaiSanCoDinh": [
     71,
@@ -388,7 +388,7 @@
     4,
     4,
     4,
-    0
+    3
   ],
   "tsTaiSanDoDangDaiHan": [
     0,
@@ -474,7 +474,7 @@
     160,
     168,
     162,
-    0
+    150
   ],
   "nvVonChuSoHuu": [
     47,
@@ -517,7 +517,7 @@
     271,
     279,
     274,
-    0
+    288
   ],
   "nvVayNganHan": [
     198,
@@ -560,7 +560,7 @@
     8,
     8,
     8,
-    0
+    7
   ],
   "nvVayDaiHanTPCD": [
     79,
@@ -646,7 +646,7 @@
     0,
     0,
     0,
-    0
+    1
   ],
   "nvKhac": [
     118,
@@ -689,7 +689,7 @@
     57,
     18,
     19,
-    0
+    19
   ],
   "nvTileVayRongVCSHQ": [
     494,
@@ -732,7 +732,7 @@
     -40,
     -23,
     -31,
-    null
+    -34
   ],
   "tangTruongDoanhSoThuanYoY": [
     -47,
@@ -1121,7 +1121,7 @@
     5,
     7.8,
     5.9,
-    null
+    7
   ],
   "ROECuoiKy": [
     60,
@@ -1164,12 +1164,12 @@
     6,
     8,
     6,
-    null
+    8
   ],
   "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.8858602912333257,
+  "choNhanGiaRaPB": 0.06757155314953017,
+  "choNhanGiaRaPS": 0.43600230224186715,
   "PE": [
     0,
     0,
@@ -1297,7 +1297,7 @@
     0,
     0,
     0,
-    null
+    0
   ],
   "PBTb": [
     0,
@@ -1428,7 +1428,7 @@
     0,
     0
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 19428913,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": -24,
@@ -1645,7 +1645,7 @@
     21,
     17,
     14,
-    0
+    7
   ],
   "hangTonKhoVongQuay": [
     5.9,
@@ -1688,7 +1688,7 @@
     2,
     2.3,
     2.3,
-    3.2
+    2.8
   ],
   "coTucLNST": [
     11,

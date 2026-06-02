@@ -540,9 +540,9 @@
     "2026-03-31"
   ],
   "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": null,
-  "choNhanGiaRaPS": 0,
+  "choNhanGiaRaPE": 0.1280426000369683,
+  "choNhanGiaRaPB": 0.038508115211278615,
+  "choNhanGiaRaPS": 0.04968698319012028,
   "PE": [
     0,
     0,
@@ -682,7 +682,7 @@
     0,
     0,
     0,
-    null
+    0
   ],
   "PBTb": [
     0,
@@ -825,7 +825,7 @@
     0,
     0
   ],
-  "soCoPhieuLuuHanh": 0,
+  "soCoPhieuLuuHanh": 21920000,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
