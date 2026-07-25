@@ -30,29 +30,35 @@
   "ROACuoiKy": [],
   "ROECuoiKy": [],
   "newFiscalDateQuarter": [
-    "2026-03-31"
+    "2026-03-31",
+    "2026-06-30"
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 1.0741142362822285,
-  "choNhanGiaRaPB": 0.0813274327985457,
-  "choNhanGiaRaPS": 0.012451525051709374,
+  "choNhanGiaRaPE": 1.0772779575003586,
+  "choNhanGiaRaPB": 0.08932728221611638,
+  "choNhanGiaRaPS": 0.011831942993218388,
   "PE": [
-    0
+    0,
+    null
   ],
   "PETb": [
-    0
+    null,
+    null
   ],
   "PB": [
-    0
+    0,
+    null
   ],
   "PBTb": [
-    0
+    null,
+    null
   ],
   "PS": [
-    0
+    0,
+    null
   ],
   "PSTb": [
-    0
+    null,
+    null
   ],
   "soCoPhieuLuuHanh": 61935202,
   "isNganHang": false,
