@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "AAA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "An Phát Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 191787394,
+      "ownershipPct": 48.708808922008544,
+      "effectiveDate": "2023-06-27"
+    },
+    {
+      "code": "AAA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 19045000,
+      "ownershipPct": 4.83691470316163,
+      "effectiveDate": "2024-05-21"
+    },
+    {
+      "code": "AAA",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đình Vinh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11816910,
+      "ownershipPct": 3.001175412178404,
+      "effectiveDate": "2020-10-19"
+    },
+    {
+      "code": "AAA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9840900,
+      "ownershipPct": 2.499322336694318,
+      "effectiveDate": "2021-09-01"
+    },
+    {
+      "code": "AAA",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KALLANG LIMITED",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9623845,
+      "ownershipPct": 2.444196239508981,
+      "effectiveDate": "2021-09-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

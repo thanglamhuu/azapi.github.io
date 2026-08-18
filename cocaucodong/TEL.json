@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Hải Đoàn",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 2235866,
+      "ownershipPct": 44.71732,
+      "effectiveDate": "2025-09-08"
+    },
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Anh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1207846,
+      "ownershipPct": 24.15692,
+      "effectiveDate": "2025-09-18"
+    },
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Duy Nguyên",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1008410,
+      "ownershipPct": 20.1682,
+      "effectiveDate": "2025-09-18"
+    },
+    {
+      "code": "TEL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lại Trung Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 141100,
+      "ownershipPct": 2.822,
+      "effectiveDate": "2024-06-20"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

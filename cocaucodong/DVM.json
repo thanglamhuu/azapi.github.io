@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "DVM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thành Trung",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 8409359,
+      "ownershipPct": 17.870281490287674,
+      "effectiveDate": "2025-09-16"
+    },
+    {
+      "code": "DVM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Cao Hoàng",
+      "roleType": "GĐ Tài chính",
+      "enRoleType": "CFO",
+      "numberOfShares": 900000,
+      "ownershipPct": 1.9125421261310056,
+      "effectiveDate": "2024-07-19"
+    },
+    {
+      "code": "DVM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đoàn Thị Thu Hoài",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 900000,
+      "ownershipPct": 1.9125421261310056,
+      "effectiveDate": "2024-07-19"
+    },
+    {
+      "code": "DVM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Thắng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 540000,
+      "ownershipPct": 1.1475252756786034,
+      "effectiveDate": "2024-07-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

@@ -1,0 +1,61 @@
+{
+  "data": [
+    {
+      "code": "PCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thanh Hải",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 5463150,
+      "ownershipPct": 21.500090535603594,
+      "effectiveDate": "2025-07-30"
+    },
+    {
+      "code": "PCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Mạnh Tú",
+      "roleType": "Bố của Chủ tịch HĐQT",
+      "enRoleType": "Father of Chairman",
+      "numberOfShares": 1147261,
+      "ownershipPct": 4.515017044739228,
+      "groupPct": 11.663661865872477,
+      "effectiveDate": "2025-07-30"
+    },
+    {
+      "code": "PCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Hải Đăng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1045000,
+      "ownershipPct": 4.112571430348014,
+      "groupPct": 11.663661865872477,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "PCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Thị Kim Oanh",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 880000,
+      "ownershipPct": 3.4632180466088545,
+      "effectiveDate": "2023-08-14"
+    },
+    {
+      "code": "PCH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Hằng",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 550550,
+      "ownershipPct": 2.1666757904096645,
+      "groupPct": 11.663661865872477,
+      "effectiveDate": "2023-08-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

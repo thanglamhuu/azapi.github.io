@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "MCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Masan Consumer Holdings",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 740598412,
+      "ownershipPct": 70.08561150874755,
+      "effectiveDate": "2025-03-07"
+    },
+    {
+      "code": "MCH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tiêu Dùng Masan",
+      "roleType": "Cổ phiếu quỹ",
+      "enRoleType": "Treasury Stock",
+      "numberOfShares": 10915388,
+      "ownershipPct": 1.0329641954933666,
+      "effectiveDate": "2021-09-25"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "code": "MSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đức Thịnh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 17934120,
+      "ownershipPct": 15.938461986924754,
+      "effectiveDate": "2022-06-07"
+    },
+    {
+      "code": "MSH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán FPT",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13196035,
+      "ownershipPct": 11.727617648684664,
+      "effectiveDate": "2025-07-24"
+    },
+    {
+      "code": "MSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Việt Quang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 8512560,
+      "ownershipPct": 7.565306464516586,
+      "groupPct": 12.715224230992574,
+      "effectiveDate": "2022-06-07"
+    },
+    {
+      "code": "MSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thu Hà",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 5794740,
+      "ownershipPct": 5.149917766475988,
+      "groupPct": 12.715224230992574,
+      "effectiveDate": "2022-06-07"
+    },
+    {
+      "code": "MSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Sông Ngân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5550337,
+      "ownershipPct": 4.932711239197796,
+      "effectiveDate": "2025-06-02"
+    },
+    {
+      "code": "MSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Tường",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1950000,
+      "ownershipPct": 1.733009530130459,
+      "effectiveDate": "2025-06-02"
+    },
+    {
+      "code": "MSH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Mạnh Tường",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 1533600,
+      "ownershipPct": 1.3629453412349088,
+      "effectiveDate": "2022-06-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

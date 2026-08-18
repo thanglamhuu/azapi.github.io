@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "STH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần thương mại Thái Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10199800,
+      "ownershipPct": 52.306666666666665,
+      "effectiveDate": "2025-06-25"
+    },
+    {
+      "code": "STH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH PEARSON GATEWAY",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7955000,
+      "ownershipPct": 40.794871794871796,
+      "effectiveDate": "2025-09-03"
+    },
+    {
+      "code": "STH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Viết Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 965700,
+      "ownershipPct": 4.952307692307692,
+      "effectiveDate": "2023-09-06"
+    },
+    {
+      "code": "STH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Quy",
+      "roleType": "Người ĐD theo pháp luật",
+      "enRoleType": "Legal representative",
+      "numberOfShares": 500000,
+      "ownershipPct": 2.5641025641025643,
+      "effectiveDate": "2025-06-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

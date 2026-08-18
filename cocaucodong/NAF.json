@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "NAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Hùng",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 25879945,
+      "ownershipPct": 42.299715895021556,
+      "effectiveDate": "2024-09-10"
+    },
+    {
+      "code": "NAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "International Finance Corporation (IFC)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13594826,
+      "ownershipPct": 22.220189318109153,
+      "effectiveDate": "2024-09-10"
+    },
+    {
+      "code": "NAF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Vietnam Holding LTD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2175256,
+      "ownershipPct": 3.555367323962281,
+      "effectiveDate": "2024-09-10"
+    },
+    {
+      "code": "NAF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phan Thị Minh Châu",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 1176345,
+      "ownershipPct": 1.9226879846355598,
+      "effectiveDate": "2024-09-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

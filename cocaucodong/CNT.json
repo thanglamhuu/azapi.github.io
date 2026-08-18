@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "CNT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Hồng Mã",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 44433049,
+      "ownershipPct": 67.96093097363925,
+      "effectiveDate": "2024-08-07"
+    },
+    {
+      "code": "CNT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Hiếu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 751590,
+      "ownershipPct": 1.1495667585287141,
+      "effectiveDate": "2024-08-07"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

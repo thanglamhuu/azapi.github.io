@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "DSC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Đức Anh",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 85409766,
+      "ownershipPct": 31.058096727272726,
+      "effectiveDate": "2025-10-03"
+    },
+    {
+      "code": "DSC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Văn Lê Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11729250,
+      "ownershipPct": 4.265181818181818,
+      "effectiveDate": "2025-10-03"
+    },
+    {
+      "code": "DSC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thu Hà",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 7089966,
+      "ownershipPct": 2.5781694545454545,
+      "effectiveDate": "2025-10-03"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "code": "AGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dược Imexpharm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6521622,
+      "ownershipPct": 21.307227450161164,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Uyên Nguyên",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 3815450,
+      "ownershipPct": 12.465711900309067,
+      "effectiveDate": "2025-05-05"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Văn Kha",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 3359535,
+      "ownershipPct": 10.976161508866536,
+      "effectiveDate": "2025-05-05"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Liên phát Vũng Tàu",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2202753,
+      "ownershipPct": 7.196761662593272,
+      "effectiveDate": "2025-12-18"
+    },
+    {
+      "code": "AGP",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Bích Thủy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 445779,
+      "ownershipPct": 1.4564343878724333,
+      "effectiveDate": "2025-05-05"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

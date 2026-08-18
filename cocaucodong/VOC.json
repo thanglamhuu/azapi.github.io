@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "VOC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tập đoàn Kido",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 106329900,
+      "ownershipPct": 87.2987684729064,
+      "effectiveDate": "2021-11-08"
+    },
+    {
+      "code": "VOC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Trịnh Bá",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6931688,
+      "ownershipPct": 5.69104105090312,
+      "effectiveDate": "2025-07-24"
+    },
+    {
+      "code": "VOC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CK Rồng Việt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5954188,
+      "ownershipPct": 4.888495894909688,
+      "effectiveDate": "2024-08-28"
+    },
+    {
+      "code": "VOC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Quản lý quỹ Thái Bình Dương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 5283300,
+      "ownershipPct": 4.33768472906404,
+      "effectiveDate": "2016-12-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

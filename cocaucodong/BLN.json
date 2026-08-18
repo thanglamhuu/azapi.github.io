@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "BLN",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Vận tải Hà Nội",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1750000,
+      "ownershipPct": 35,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "BLN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Ngô Xuân Phú",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1700000,
+      "ownershipPct": 34,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BLN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thanh Bình",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 992223,
+      "ownershipPct": 19.84446,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "BLN",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thanh Nhàn",
+      "roleType": "Thành viên BKS",
+      "enRoleType": "Control member",
+      "numberOfShares": 50000,
+      "ownershipPct": 1,
+      "effectiveDate": "2023-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

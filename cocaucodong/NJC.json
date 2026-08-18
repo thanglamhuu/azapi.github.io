@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "code": "NJC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "T.đoàn Dệt May VN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1492810,
+      "ownershipPct": 31.42757894736842,
+      "effectiveDate": "2025-10-27"
+    },
+    {
+      "code": "NJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Duy Hạnh",
+      "roleType": "Bố của Thành viên HĐQT",
+      "enRoleType": "Father of Board member",
+      "numberOfShares": 727998,
+      "ownershipPct": 15.326273684210527,
+      "groupPct": 15.718231578947368,
+      "effectiveDate": "2025-10-27"
+    },
+    {
+      "code": "NJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Toản",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 121880,
+      "ownershipPct": 2.5658947368421052,
+      "effectiveDate": "2025-10-27"
+    },
+    {
+      "code": "NJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Minh Đức",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 86564,
+      "ownershipPct": 1.8224,
+      "effectiveDate": "2025-10-27"
+    },
+    {
+      "code": "NJC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Ngân",
+      "roleType": "Kế toán trưởng",
+      "enRoleType": "Chief Accountant",
+      "numberOfShares": 58426,
+      "ownershipPct": 1.230021052631579,
+      "effectiveDate": "2025-10-27"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 5,
+  "totalPages": 1
+}

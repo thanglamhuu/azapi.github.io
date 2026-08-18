@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "UCT",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ủy ban nhân dân Tp.Cần Thơ",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2766699,
+      "ownershipPct": 51.76872002088189,
+      "effectiveDate": "2023-12-31"
+    },
+    {
+      "code": "UCT",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Ngọc Diệp",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2244501,
+      "ownershipPct": 41.99768166164422,
+      "effectiveDate": "2023-12-31"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "code": "TFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "David Hồ",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 3860000,
+      "ownershipPct": 22.935242876497757,
+      "groupPct": 28.877015642429818,
+      "effectiveDate": "2025-08-19"
+    },
+    {
+      "code": "TFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Nguyệt",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 3706100,
+      "ownershipPct": 22.020804047820814,
+      "effectiveDate": "2021-05-17"
+    },
+    {
+      "code": "TFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Hồ Văn Trung",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 2687400,
+      "ownershipPct": 15.967920131165823,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "TFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đỗ Thành Trung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1169400,
+      "ownershipPct": 6.948309072480953,
+      "effectiveDate": "2024-11-05"
+    },
+    {
+      "code": "TFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Susan Ho",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1000000,
+      "ownershipPct": 5.941772765932061,
+      "groupPct": 28.877015642429818,
+      "effectiveDate": "2020-12-31"
+    },
+    {
+      "code": "TFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Huỳnh Khánh Hiếu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 600000,
+      "ownershipPct": 3.565063659559237,
+      "effectiveDate": "2025-03-13"
+    },
+    {
+      "code": "TFC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Tâm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 525000,
+      "ownershipPct": 3.1194307021143324,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

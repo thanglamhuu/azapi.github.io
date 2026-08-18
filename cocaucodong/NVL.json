@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "code": "NVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Thành Nhơn",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 367340081,
+      "ownershipPct": 17.93994575814105,
+      "effectiveDate": "2024-02-23"
+    },
+    {
+      "code": "NVL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Novagroup",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 335303477,
+      "ownershipPct": 16.37536032964531,
+      "effectiveDate": "2025-06-13"
+    },
+    {
+      "code": "NVL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Diamond Properties",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 165430470,
+      "ownershipPct": 8.079199118333566,
+      "effectiveDate": "2025-05-30"
+    },
+    {
+      "code": "NVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Cao Nhật Quân",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 75318115,
+      "ownershipPct": 3.6783432236065465,
+      "groupPct": 6.52449574859519,
+      "effectiveDate": "2025-05-19"
+    },
+    {
+      "code": "NVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Thị Ngọc Sương",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 50529576,
+      "ownershipPct": 2.4677346674344145,
+      "groupPct": 6.52449574859519,
+      "effectiveDate": "2025-05-30"
+    },
+    {
+      "code": "NVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Xuân Huy",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 33793113,
+      "ownershipPct": 1.6503688151000633,
+      "effectiveDate": "2023-06-30"
+    },
+    {
+      "code": "NVL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hiếu Liêm",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 22494546,
+      "ownershipPct": 1.0985758319523231,
+      "effectiveDate": "2023-06-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

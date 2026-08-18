@@ -1,0 +1,237 @@
+{
+  "fiscalDates": [
+    "2021-12-31",
+    "2022-12-31",
+    "2023-12-31",
+    "2024-12-31",
+    "2025-12-31"
+  ],
+  "newFiscalDate": [
+    "2022-12-31",
+    "2023-12-31",
+    "2024-12-31",
+    "2025-12-31"
+  ],
+  "tiLeNovayRongVcsh": [
+    -11,
+    11,
+    1,
+    -2
+  ],
+  "tiLePhaiThuTaiSan": [
+    7,
+    2,
+    6,
+    10
+  ],
+  "tsTienTuongDuongTienDTTCNH": [
+    22,
+    1,
+    0,
+    1
+  ],
+  "tsKhoanPhaiThu": [
+    6,
+    1,
+    2,
+    4
+  ],
+  "tsHangTonKho": [
+    5,
+    0,
+    1,
+    0
+  ],
+  "tsTaiSanCoDinh": [
+    11,
+    0,
+    0,
+    0
+  ],
+  "tsTaiSanDoDangDaiHan": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "tsKhac": [
+    39,
+    37,
+    34,
+    34
+  ],
+  "nvVonChuSoHuu": [
+    40,
+    32,
+    34,
+    36
+  ],
+  "nvVayNganHan": [
+    11,
+    0,
+    0,
+    0
+  ],
+  "nvVayDaiHanTPCD": [
+    6,
+    4,
+    0,
+    0
+  ],
+  "nvMuaTraTienTruocDtChuaTH": [
+    3,
+    2,
+    2,
+    2
+  ],
+  "nvKhac": [
+    22,
+    0,
+    1,
+    1
+  ],
+  "nvTileVayRongVCSHQ": [
+    -11,
+    11,
+    1,
+    -2
+  ],
+  "tangTruongDoanhSoThuanYoY": [
+    3635,
+    -94,
+    25,
+    80
+  ],
+  "tangTruongDoanhThuanKep": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "tangTruongDoanhThuanKepNum": null,
+  "doanhSoThuan": [
+    61,
+    4,
+    5,
+    9
+  ],
+  "tangTruongLNSTYoY": [
+    -281,
+    -135,
+    178,
+    0
+  ],
+  "tangTruongLNSTCtyMeNam": [],
+  "tangTruongLNSTCtyMe5Year": 0,
+  "lnst": [
+    -2,
+    1,
+    2,
+    2
+  ],
+  "bienLoiNhuanGop": [
+    35,
+    42,
+    55,
+    34
+  ],
+  "bienLoiNhuanRong": [
+    -2,
+    18,
+    40,
+    22
+  ],
+  "ROACuoiKy": [
+    -1.7,
+    1.8,
+    5.1,
+    4.9
+  ],
+  "ROECuoiKy": [
+    -3.6,
+    2.1,
+    5.6,
+    5.3
+  ],
+  "newFiscalDateQuarter": [],
+  "choNhanGiaRaPE": 0,
+  "choNhanGiaRaPB": 0,
+  "choNhanGiaRaPS": 0,
+  "PE": [],
+  "PETb": [],
+  "PB": [],
+  "PBTb": [],
+  "PS": [],
+  "PSTb": [],
+  "soCoPhieuLuuHanh": 0,
+  "isNganHang": false,
+  "isChungKhoan": false,
+  "vec11400Year": {
+    "2021-12-31": 2739546,
+    "2022-12-31": 5140952304,
+    "2023-12-31": 28910110,
+    "2024-12-31": 562820232,
+    "2025-12-31": 152614496
+  },
+  "tangTruongHangTonKhoKep": null,
+  "lctThuanHDSXKD": [
+    30,
+    -3,
+    0,
+    1
+  ],
+  "lctThuanHDDauTu": [
+    -6,
+    -2,
+    3,
+    0
+  ],
+  "lctThuanHDTC": [
+    -11,
+    4,
+    -4,
+    0
+  ],
+  "lctThuanTrongKy": [
+    12,
+    -1,
+    0,
+    1
+  ],
+  "hangTonKho": [
+    5,
+    0,
+    1,
+    0
+  ],
+  "hangTonKhoVongQuay": [
+    15.4,
+    0.9,
+    7.3,
+    16
+  ],
+  "coTucLNST": [
+    -2,
+    1,
+    2,
+    2
+  ],
+  "coTucDaTra": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "coTucTiLeDaTra": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "newFiscalDateYear": [
+    "2022-12-31",
+    "2023-12-31",
+    "2024-12-31",
+    "2025-12-31"
+  ]
+}

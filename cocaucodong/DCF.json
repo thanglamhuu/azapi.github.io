@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "DCF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Thùy Linh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1985120,
+      "ownershipPct": 3.745587808620373,
+      "effectiveDate": "2025-05-28"
+    },
+    {
+      "code": "DCF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Hùng Cường",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1985120,
+      "ownershipPct": 3.745587808620373,
+      "effectiveDate": "2025-05-28"
+    },
+    {
+      "code": "DCF",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Bình An",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 1985120,
+      "ownershipPct": 3.745587808620373,
+      "effectiveDate": "2025-05-28"
+    },
+    {
+      "code": "DCF",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Đầu tư 3T",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1332623,
+      "ownershipPct": 2.5144356322474746,
+      "effectiveDate": "2025-05-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}

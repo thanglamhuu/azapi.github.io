@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "code": "SCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần công nghiệp dịch vụ Cao Cường",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2390090,
+      "ownershipPct": 7.863990593310484,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Văn Mát",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2205631,
+      "ownershipPct": 7.257074602343006,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ánh Hồng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 602854,
+      "ownershipPct": 1.9835396094455013,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Anh Dũng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 574550,
+      "ownershipPct": 1.890412409317866,
+      "effectiveDate": "2025-03-25"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Thị Nhung",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 490519,
+      "ownershipPct": 1.6139295180683844,
+      "effectiveDate": "2025-03-25"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Thị Nhung",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 490519,
+      "ownershipPct": 1.6139295180683844,
+      "groupPct": 1.6337072032000697,
+      "effectiveDate": "2025-03-25"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Dầu khí Đông Đô",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 439436,
+      "ownershipPct": 1.4458537420607531,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "COMPANY",
+      "shareholderName": "CTCP Sông Đà 12",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 431244,
+      "ownershipPct": 1.418900024443258,
+      "effectiveDate": "2023-12-14"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Kiều Quang Vọng",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 420616,
+      "ownershipPct": 1.3839312609131382,
+      "groupPct": 2.590281217230151,
+      "effectiveDate": "2025-03-25"
+    },
+    {
+      "code": "SCL",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thị Hoa",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 330156,
+      "ownershipPct": 1.086295360561743,
+      "effectiveDate": "2023-12-14"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 10,
+  "totalPages": 1
+}

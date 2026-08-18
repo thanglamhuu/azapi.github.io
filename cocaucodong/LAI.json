@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "LAI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "TCT IDICO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 8721000,
+      "ownershipPct": 31.875,
+      "effectiveDate": "2024-08-19"
+    },
+    {
+      "code": "LAI",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thương Tín Tàu Cuốc",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4104000,
+      "ownershipPct": 15,
+      "effectiveDate": "2024-08-19"
+    },
+    {
+      "code": "LAI",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Phương Bách",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1063840,
+      "ownershipPct": 3.8883040935672515,
+      "effectiveDate": "2025-07-15"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

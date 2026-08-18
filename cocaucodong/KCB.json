@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "KCB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Khoáng sản TKV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 4150869,
+      "ownershipPct": 51.8858625,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "KCB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đình Huy Chiến",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 360657,
+      "ownershipPct": 4.5082125,
+      "effectiveDate": "2025-07-23"
+    },
+    {
+      "code": "KCB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Khoáng sản và Đầu tư HBD Việt Nam",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 230316,
+      "ownershipPct": 2.87895,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,0 +1,90 @@
+{
+  "data": [
+    {
+      "code": "AMC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Hợp tác Kinh tế",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1710000,
+      "ownershipPct": 40.00009356747033,
+      "effectiveDate": "2025-12-01"
+    },
+    {
+      "code": "AMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Xuân Tự",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 781500,
+      "ownershipPct": 18.28074451636144,
+      "effectiveDate": "2025-12-01"
+    },
+    {
+      "code": "AMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Hùng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 520500,
+      "ownershipPct": 12.17546707711597,
+      "effectiveDate": "2025-12-01"
+    },
+    {
+      "code": "AMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Nghĩa",
+      "roleType": "Chồng của Thành viên HĐQT",
+      "enRoleType": "Husband of Board member",
+      "numberOfShares": 180000,
+      "ownershipPct": 4.210536164996877,
+      "groupPct": 7.400017309982012,
+      "effectiveDate": "2025-12-01"
+    },
+    {
+      "code": "AMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Ngân",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 144150,
+      "ownershipPct": 3.371937712134999,
+      "effectiveDate": "2025-12-01"
+    },
+    {
+      "code": "AMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Diệu Linh",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 136350,
+      "ownershipPct": 3.1894811449851344,
+      "groupPct": 7.400017309982012,
+      "effectiveDate": "2025-12-01"
+    },
+    {
+      "code": "AMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đình Danh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 91500,
+      "ownershipPct": 2.1403558838734127,
+      "effectiveDate": "2025-12-01"
+    },
+    {
+      "code": "AMC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Văn Chiến",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 43500,
+      "ownershipPct": 1.0175462398742454,
+      "effectiveDate": "2025-12-01"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 8,
+  "totalPages": 1
+}

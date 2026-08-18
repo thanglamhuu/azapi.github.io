@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "TNV",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Đầu tư VSD",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9879225,
+      "ownershipPct": 41.68449367088608,
+      "effectiveDate": "2024-06-28"
+    },
+    {
+      "code": "TNV",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trịnh Nguyên Khánh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2840671,
+      "ownershipPct": 11.98595358649789,
+      "effectiveDate": "2025-03-10"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "NHH",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Nhựa An Phát Xanh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 68599233,
+      "ownershipPct": 60.726632378456856,
+      "effectiveDate": "2025-07-02"
+    },
+    {
+      "code": "NHH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Xuân Lương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 10616000,
+      "ownershipPct": 9.39768421798095,
+      "effectiveDate": "2025-07-16"
+    },
+    {
+      "code": "NHH",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phùng Thị Khánh Hằng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1263716,
+      "ownershipPct": 1.118689139902978,
+      "effectiveDate": "2020-10-06"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

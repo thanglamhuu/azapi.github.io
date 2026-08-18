@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "VRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Chứng khoán SG HN",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 7271024,
+      "ownershipPct": 14.542048,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "VRC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thị Vân",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 6799310,
+      "ownershipPct": 13.59862,
+      "effectiveDate": "2024-12-30"
+    },
+    {
+      "code": "VRC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty Tài chính TNHH MTV Cao su",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2386800,
+      "ownershipPct": 4.7736,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

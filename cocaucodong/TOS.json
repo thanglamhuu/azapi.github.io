@@ -1,0 +1,82 @@
+{
+  "data": [
+    {
+      "code": "TOS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng Công ty Tân Cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11161955,
+      "ownershipPct": 24.804520280932657,
+      "effectiveDate": "2022-05-24"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Tổng công ty Tân cảng Sài Gòn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 11161955,
+      "ownershipPct": 24.804520280932657,
+      "effectiveDate": "2022-05-24"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Đăng Phúc",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2111882,
+      "ownershipPct": 4.693104380006605,
+      "effectiveDate": "2025-08-26"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Băng",
+      "roleType": "Mẹ của Chủ tịch HĐQT",
+      "enRoleType": "Mother of Chairman",
+      "numberOfShares": 1577054,
+      "ownershipPct": 3.504589288088509,
+      "groupPct": 7.771046199194168,
+      "effectiveDate": "2025-08-26"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Ân",
+      "roleType": "Mẹ của Phó chủ tịch HĐQT",
+      "enRoleType": "Mother of Vice-chairman",
+      "numberOfShares": 1577054,
+      "ownershipPct": 3.504589288088509,
+      "groupPct": 6.247313175397843,
+      "effectiveDate": "2025-08-26"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Lê Thị Thu",
+      "roleType": "Chị của Chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Chairman",
+      "numberOfShares": 1371352,
+      "ownershipPct": 3.0474704920685993,
+      "groupPct": 7.771046199194168,
+      "effectiveDate": "2025-08-26"
+    },
+    {
+      "code": "TOS",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Minh Thương",
+      "roleType": "Chị của Phó chủ tịch HĐQT",
+      "enRoleType": "Elder Sister of Vice-chairman",
+      "numberOfShares": 1234217,
+      "ownershipPct": 2.7427238873093347,
+      "groupPct": 6.247313175397843,
+      "effectiveDate": "2025-08-26"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 7,
+  "totalPages": 1
+}

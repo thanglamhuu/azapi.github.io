@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "code": "AVG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Hoàng Luân",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 5200000,
+      "ownershipPct": 29.41179465001718,
+      "effectiveDate": "2024-03-29"
+    },
+    {
+      "code": "AVG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Võ Văn Phước Quệ",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1550000,
+      "ownershipPct": 8.766977251447427,
+      "effectiveDate": "2024-03-29"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 2,
+  "totalPages": 1
+}

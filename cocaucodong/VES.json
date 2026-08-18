@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "VES",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Tập đoàn Quốc Tế ACB",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1206600,
+      "ownershipPct": 13.395503746877601,
+      "effectiveDate": "2012-05-18"
+    },
+    {
+      "code": "VES",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Đình Cương",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 440000,
+      "ownershipPct": 4.884818207049681,
+      "effectiveDate": "2024-04-19"
+    },
+    {
+      "code": "VES",
+      "shareholderType": "PERSON",
+      "shareholderName": "Bùi Đức Mạnh",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 405100,
+      "ownershipPct": 4.497363308354149,
+      "effectiveDate": "2024-04-19"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "code": "GLC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Tiến Đạt",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2500500,
+      "ownershipPct": 23.814285714285713,
+      "effectiveDate": "2025-02-28"
+    },
+    {
+      "code": "GLC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thu Thảo",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 2500000,
+      "ownershipPct": 23.80952380952381,
+      "effectiveDate": "2025-02-28"
+    },
+    {
+      "code": "GLC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Quang Đặng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 2020000,
+      "ownershipPct": 19.238095238095237,
+      "effectiveDate": "2025-02-21"
+    },
+    {
+      "code": "GLC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Cao Trường Sơn",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1088350,
+      "ownershipPct": 10.365238095238094,
+      "effectiveDate": "2025-02-28"
+    },
+    {
+      "code": "GLC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH MTV Khoáng sản - BITEXCO",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 675000,
+      "ownershipPct": 6.428571428571429,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "GLC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Thị Thu Nguyệt",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 500000,
+      "ownershipPct": 4.761904761904762,
+      "effectiveDate": "2025-02-28"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 6,
+  "totalPages": 1
+}

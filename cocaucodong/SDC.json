@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "SDC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Tổng CT Sông Đà",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1331100,
+      "ownershipPct": 51.006879088674026,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "SDC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Anh Đức",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 647468,
+      "ownershipPct": 24.810549162185858,
+      "effectiveDate": "2025-01-09"
+    },
+    {
+      "code": "SDC",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Mỹ Hương",
+      "roleType": "Vợ của Thành viên HĐQT",
+      "enRoleType": "Wife of Board member",
+      "numberOfShares": 27666,
+      "ownershipPct": 1.0601429771371464,
+      "effectiveDate": "2020-06-30"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

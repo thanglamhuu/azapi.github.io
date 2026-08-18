@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "code": "HPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Đình Long",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1650000000,
+      "ownershipPct": 21.497066512583686,
+      "effectiveDate": "2024-05-23"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Vũ Thị Hiền",
+      "roleType": "Vợ của Chủ tịch HĐQT",
+      "enRoleType": "Wife of Chairman",
+      "numberOfShares": 440000000,
+      "ownershipPct": 5.732551070022316,
+      "groupPct": 7.692969275804303,
+      "effectiveDate": "2024-05-23"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "VOF Investment Limited",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 218865078,
+      "ownershipPct": 2.8514891751804945,
+      "effectiveDate": "2022-06-17"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG & Deutsche Asset Management (Asia) Ltd",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 190428163,
+      "ownershipPct": 2.4809981126546226,
+      "effectiveDate": "2022-06-17"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Tuấn Dương",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 177556764,
+      "ownershipPct": 2.3133027669497723,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Mạnh Tuấn",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 174088076,
+      "ownershipPct": 2.2681108780725596,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Vũ Minh",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 146993330,
+      "ownershipPct": 1.9151062981310076,
+      "groupPct": 7.692969275804303,
+      "effectiveDate": "2024-05-23"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Ngọc Quang",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 125485714,
+      "ownershipPct": 1.6348937819618508,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Deutsche Bank AG, London Branch",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 103719870,
+      "ownershipPct": 1.351316935797899,
+      "effectiveDate": "2022-06-17"
+    },
+    {
+      "code": "HPG",
+      "shareholderType": "COMPANY",
+      "shareholderName": "KIM Vietnam Growth Equity Fund",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 99990598,
+      "ownershipPct": 1.3027300217206164,
+      "effectiveDate": "2022-06-17"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 14,
+  "totalPages": 2
+}

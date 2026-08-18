@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "code": "BIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Ngân hàng BIDV",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 103068583,
+      "ownershipPct": 51.00711839436549,
+      "effectiveDate": "2025-09-09"
+    },
+    {
+      "code": "BIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "FAIRFAX ASIA LIMITED",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 70723831,
+      "ownershipPct": 35.00017867830876,
+      "effectiveDate": "2025-09-09"
+    },
+    {
+      "code": "BIC",
+      "shareholderType": "COMPANY",
+      "shareholderName": "PYN ELITE FUND (NON - UCITS)",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 9615077,
+      "ownershipPct": 4.7583594984510516,
+      "effectiveDate": "2025-09-09"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

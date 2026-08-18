@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "code": "CKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Xuân Dũng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 13743690,
+      "ownershipPct": 8.49385089788716,
+      "effectiveDate": "2025-06-04"
+    },
+    {
+      "code": "CKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Trần Thọ Thắng",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 9722474,
+      "ownershipPct": 6.008666123478088,
+      "groupPct": 6.315654934369369,
+      "effectiveDate": "2025-06-18"
+    },
+    {
+      "code": "CKG",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đinh Thanh Tâm",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 5550000,
+      "ownershipPct": 3.4300011484014656,
+      "effectiveDate": "2025-06-18"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 3,
+  "totalPages": 1
+}

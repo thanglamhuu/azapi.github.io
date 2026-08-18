@@ -1,0 +1,115 @@
+{
+  "data": [
+    {
+      "code": "CCM",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty TNHH Thái Hưng",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 1659926,
+      "ownershipPct": 26.77344910301721,
+      "effectiveDate": "2019-05-15"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Minh Thuyết",
+      "roleType": "Chủ tịch HĐQT",
+      "enRoleType": "Chairman",
+      "numberOfShares": 1138445,
+      "ownershipPct": 18.362324142211417,
+      "effectiveDate": "2020-06-30"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Út Em",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 1026068,
+      "ownershipPct": 16.549761479869986,
+      "groupPct": 50.81444914559857,
+      "effectiveDate": "2024-07-26"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Vân Thanh",
+      "roleType": "Chị của Thành viên HĐQT",
+      "enRoleType": "Elder Sister of Board member",
+      "numberOfShares": 884375,
+      "ownershipPct": 14.264352176230053,
+      "effectiveDate": "2018-10-30"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Vân Thanh",
+      "roleType": "Em gái của Thành viên HĐQT",
+      "enRoleType": "Young Sister of Board member",
+      "numberOfShares": 884375,
+      "ownershipPct": 14.264352176230053,
+      "groupPct": 24.26451992097932,
+      "effectiveDate": "2018-10-30"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Vân Thanh",
+      "roleType": "Con của Thành viên HĐQT",
+      "enRoleType": "Child of Board member",
+      "numberOfShares": 884375,
+      "ownershipPct": 14.264352176230053,
+      "groupPct": 34.26468766572859,
+      "effectiveDate": "2018-10-30"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Vân Thanh",
+      "roleType": "Con của Chủ tịch HĐQT",
+      "enRoleType": "Child of Chairman",
+      "numberOfShares": 884375,
+      "ownershipPct": 14.264352176230053,
+      "groupPct": 50.81444914559857,
+      "effectiveDate": "2018-10-30"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Hoàng Tước",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 620000,
+      "ownershipPct": 10.000167744749266,
+      "groupPct": 50.81444914559857,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Hoàng Tước",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 620000,
+      "ownershipPct": 10.000167744749266,
+      "groupPct": 34.26468766572859,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "CCM",
+      "shareholderType": "PERSON",
+      "shareholderName": "Thái Châu",
+      "roleType": "Thành viên HĐQT",
+      "enRoleType": "Board member",
+      "numberOfShares": 620000,
+      "ownershipPct": 10.000167744749266,
+      "groupPct": 34.26468766572859,
+      "effectiveDate": "2024-08-16"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 17,
+  "totalPages": 2
+}

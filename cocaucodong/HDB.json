@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "code": "HDB",
+      "shareholderType": "COMPANY",
+      "shareholderName": "Công ty cổ phần Sovico",
+      "roleType": "Cổ đông lớn",
+      "enRoleType": "Major Shareholder",
+      "numberOfShares": 451293232,
+      "ownershipPct": 11.739177579825027,
+      "effectiveDate": "2025-06-26"
+    },
+    {
+      "code": "HDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Phạm Văn Đẩu",
+      "roleType": "GĐ Tài chính",
+      "enRoleType": "CFO",
+      "numberOfShares": 151542920,
+      "ownershipPct": 3.9419807847799,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "HDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Nguyễn Thị Phương Thảo",
+      "roleType": "Phó chủ tịch HĐQT",
+      "enRoleType": "Vice-chairman",
+      "numberOfShares": 130753407,
+      "ownershipPct": 3.4011976141050053,
+      "effectiveDate": "2024-12-11"
+    },
+    {
+      "code": "HDB",
+      "shareholderType": "PERSON",
+      "shareholderName": "Đào Duy Tường",
+      "roleType": "Trưởng BKS",
+      "enRoleType": "Head of Control",
+      "numberOfShares": 95741985,
+      "ownershipPct": 2.4904697967195393,
+      "effectiveDate": "2024-12-11"
+    }
+  ],
+  "currentPage": 1,
+  "size": 10,
+  "totalElements": 4,
+  "totalPages": 1
+}
