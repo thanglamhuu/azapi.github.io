@@ -322,7 +322,7 @@
   "ATG": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "An Trường An"
+    "shortName": "ATG Planet"
   },
   "ATS": {
     "floor": "HNX",
@@ -404,11 +404,6 @@
     "status": "listed",
     "shortName": "Thực phẩm Bích Chi"
   },
-  "BCG": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "Bamboo Capital"
-  },
   "BCM": {
     "floor": "HOSE",
     "status": "listed",
@@ -418,11 +413,6 @@
     "floor": "UPCOM",
     "status": "listed",
     "shortName": "Dược Becamex"
-  },
-  "BCR": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "CTCP BCG Land"
   },
   "BCV": {
     "floor": "UPCOM",
@@ -1310,7 +1300,7 @@
   "CTF": {
     "floor": "HOSE",
     "status": "listed",
-    "shortName": "CTCP City Auto"
+    "shortName": "Ô Tô Bình Triệu"
   },
   "CTG": {
     "floor": "HOSE",
@@ -1325,7 +1315,7 @@
   "CTP": {
     "floor": "HNX",
     "status": "listed",
-    "shortName": "Hòa Bình Takara"
+    "shortName": "Tập Đoàn CTP Group"
   },
   "CTR": {
     "floor": "HOSE",
@@ -1335,7 +1325,7 @@
   "CTS": {
     "floor": "HOSE",
     "status": "listed",
-    "shortName": "CK Vietinbank"
+    "shortName": "Chứng Khoán VietinBank"
   },
   "CTT": {
     "floor": "HNX",
@@ -1401,11 +1391,6 @@
     "floor": "HOSE",
     "status": "listed",
     "shortName": "Khách Sạn Đông Á"
-  },
-  "DAN": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "CTCP Dược Danapha"
   },
   "DAS": {
     "floor": "UPCOM",
@@ -1485,7 +1470,7 @@
   "DCS": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "Tập đoàn Đại Châu"
+    "shortName": "Tập Đoàn EDX"
   },
   "DCT": {
     "floor": "UPCOM",
@@ -1937,11 +1922,6 @@
     "status": "listed",
     "shortName": "Cảng Đình Vũ"
   },
-  "DVT": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "Giao thông vận tải Bình Định"
-  },
   "DVW": {
     "floor": "UPCOM",
     "status": "listed",
@@ -1990,7 +1970,7 @@
   "E29": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "X.dựng & Kỹ thuật 29"
+    "shortName": "Đầu Tư Xây Dựng Và Kỹ Thuật 29"
   },
   "EBS": {
     "floor": "HNX",
@@ -2074,7 +2054,7 @@
   "EVS": {
     "floor": "HNX",
     "status": "listed",
-    "shortName": "Chứng khoán EVS"
+    "shortName": "Chứng Khoán EVS – Chi Nhánh Nguyễn Trãi"
   },
   "F88": {
     "floor": "UPCOM",
@@ -2384,6 +2364,11 @@
     "floor": "UPCOM",
     "status": "listed",
     "shortName": "CTCP Thuận Thảo"
+  },
+  "GTX": {
+    "floor": "UPCOM",
+    "status": "listed",
+    "shortName": "GTX"
   },
   "GVR": {
     "floor": "HOSE",
@@ -3202,7 +3187,7 @@
   "IVS": {
     "floor": "HNX",
     "status": "listed",
-    "shortName": "Chứng Khoán Guotai Haitong"
+    "shortName": "Chứng Khoán Guotai Haitong – Chi Nhánh Hồ Chí Minh"
   },
   "JOS": {
     "floor": "UPCOM",
@@ -3212,7 +3197,12 @@
   "JVC": {
     "floor": "HOSE",
     "status": "listed",
-    "shortName": "CTCP Đầu tư Y tế - Dược phẩm Việt Nam"
+    "shortName": "Đầu Tư Và Phát Triển Y Tế Việt Nhật"
+  },
+  "KAI": {
+    "floor": "UPCOM",
+    "status": "listed",
+    "shortName": "KAI"
   },
   "KBC": {
     "floor": "HOSE",
@@ -3579,6 +3569,11 @@
     "status": "listed",
     "shortName": "Ngân hàng Lộc Phát"
   },
+  "LPS": {
+    "floor": "HOSE",
+    "status": "listed",
+    "shortName": "LPBS"
+  },
   "LPT": {
     "floor": "UPCOM",
     "status": "listed",
@@ -3603,11 +3598,6 @@
     "floor": "UPCOM",
     "status": "listed",
     "shortName": "Điện nhẹ V.thông"
-  },
-  "LTG": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "Tập đoàn Lộc Trời"
   },
   "LUT": {
     "floor": "UPCOM",
@@ -4687,7 +4677,7 @@
   "POB": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "Dầu khí Thái Bình"
+    "shortName": "Xăng Dầu Dầu Khí Hưng Yên"
   },
   "POM": {
     "floor": "UPCOM",
@@ -4697,7 +4687,7 @@
   "POS": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "C.trình D.khí biển"
+    "shortName": "Vận Hành Và Xây Lắp PTSC"
   },
   "POT": {
     "floor": "HNX",
@@ -4947,7 +4937,7 @@
   "PVL": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "ĐT Nhà đất Việt"
+    "shortName": "Địa Ốc Dầu Khí"
   },
   "PVM": {
     "floor": "UPCOM",
@@ -4972,7 +4962,7 @@
   "PVS": {
     "floor": "HNX",
     "status": "listed",
-    "shortName": "DV KT D.khí VN"
+    "shortName": "Dịch Vụ Kỹ Thuật Dầu Khí Việt Nam"
   },
   "PVT": {
     "floor": "HOSE",
@@ -5133,11 +5123,6 @@
     "floor": "UPCOM",
     "status": "listed",
     "shortName": "TỔNG CÔNG TY CÔNG TRÌNH ĐƯỜNG SẮT VIỆT NAM"
-  },
-  "RCD": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "XD - địa ốc cao su"
   },
   "RCL": {
     "floor": "HNX",
@@ -5621,7 +5606,7 @@
   "SJM": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "CTCP Sông Đà 19"
+    "shortName": "Sunspace Holdings"
   },
   "SJS": {
     "floor": "HOSE",
@@ -5811,7 +5796,7 @@
   "STH": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "Sách Thái Nguyên"
+    "shortName": "STH Holdings"
   },
   "STK": {
     "floor": "HOSE",
@@ -6551,12 +6536,12 @@
   "TVB": {
     "floor": "HOSE",
     "status": "listed",
-    "shortName": "CK Trí Việt"
+    "shortName": "Chứng Khoán T-Cap"
   },
   "TVC": {
     "floor": "HNX",
     "status": "listed",
-    "shortName": "Quản lý Tài sản T-Corp"
+    "shortName": "Tập Đoàn Quản Lý Tài Sản T-Corp"
   },
   "TVD": {
     "floor": "HNX",
@@ -6616,7 +6601,7 @@
   "UDC": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "Xây dựng UDCons"
+    "shortName": "Đầu Tư Xây Dựng UDCons"
   },
   "UDJ": {
     "floor": "UPCOM",
@@ -6697,6 +6682,11 @@
     "floor": "HNX",
     "status": "listed",
     "shortName": "CTCP Vinaconex 21"
+  },
+  "V68": {
+    "floor": "UPCOM",
+    "status": "listed",
+    "shortName": "V68"
   },
   "VAB": {
     "floor": "HOSE",
@@ -7260,7 +7250,7 @@
   "VNZ": {
     "floor": "UPCOM",
     "status": "listed",
-    "shortName": "Công ty Cổ phần VNG"
+    "shortName": "Tập Đoàn VNG"
   },
   "VOS": {
     "floor": "HOSE",
@@ -7471,11 +7461,6 @@
     "floor": "UPCOM",
     "status": "listed",
     "shortName": "Vietravel"
-  },
-  "VTS": {
-    "floor": "UPCOM",
-    "status": "listed",
-    "shortName": "Gạch Từ Sơn"
   },
   "VTV": {
     "floor": "HNX",
