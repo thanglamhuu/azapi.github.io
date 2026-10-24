@@ -4,131 +4,169 @@
     "2025-09-30",
     "2025-12-31",
     "2026-03-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
   "newFiscalDate": [
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
   "newFiscalDateQuarter": [
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
   "tiLeNovayRongVcsh": [
-    3
+    3,
+    6
   ],
   "tiLePhaiThuTaiSan": [
-    10
+    10,
+    12
   ],
   "tsTienTuongDuongTienDTTCNH": [
-    31
+    31,
+    30
   ],
   "tsKhoanPhaiThu": [
-    20
+    20,
+    23
   ],
   "tsHangTonKho": [
-    20
+    20,
+    16
   ],
   "tsTaiSanCoDinh": [
-    86
+    86,
+    85
   ],
   "tsTaiSanDoDangDaiHan": [
+    22,
     22
   ],
   "tsKhac": [
-    18
+    18,
+    19
   ],
   "nvVonChuSoHuu": [
-    139
+    139,
+    135
   ],
   "nvVayNganHan": [
-    5
+    5,
+    39
   ],
   "nvVayDaiHanTPCD": [
-    30
+    30,
+    0
   ],
   "nvMuaTraTienTruocDtChuaTH": [
+    0,
     0
   ],
   "nvKhac": [
-    23
+    23,
+    21
   ],
   "nvTileVayRongVCSHQ": [
-    3
+    3,
+    6
   ],
   "tangTruongDoanhSoThuanYoY": [
-    13
+    13,
+    14
   ],
   "tangTruongDoanhThuanKep": [
+    3,
     3
   ],
   "tangTruongDoanhThuanKepNum": 3,
   "doanhSoThuan": [
-    42
+    42,
+    39
   ],
   "tangTruongLNSTYoY": [
-    356
+    356,
+    -34
   ],
   "tangTruongLNSTCtyMeNam": [
+    -17,
     -17
   ],
   "tangTruongLNSTCtyMe5Year": -17,
   "lnst": [
-    6
+    6,
+    4
   ],
   "bienLoiNhuanGop": [
-    30
+    30,
+    26
   ],
   "bienLoiNhuanRong": [
-    14
+    14,
+    10
   ],
   "ROACuoiKy": [
-    5.7
+    5.7,
+    4.8
   ],
   "ROECuoiKy": [
-    8
+    8,
+    7
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 1.10567277371245,
-  "choNhanGiaRaPB": 0.09014696839838647,
-  "choNhanGiaRaPS": 0.08306053989482567,
+  "choNhanGiaRaPE": 1.3499073755241286,
+  "choNhanGiaRaPB": 0.09244257071744427,
+  "choNhanGiaRaPS": 0.0805279592914253,
   "PE": [
-    0
+    0,
+    null
   ],
   "PETb": [
-    0
+    null,
+    null
   ],
   "PB": [
-    0
+    0,
+    null
   ],
   "PBTb": [
-    0
+    null,
+    null
   ],
   "PS": [
-    0
+    0,
+    null
   ],
   "PSTb": [
-    0
+    null,
+    null
   ],
   "soCoPhieuLuuHanh": 12499872,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": 7,
   "lctThuanHDSXKD": [
-    19
+    19,
+    5
   ],
   "lctThuanHDDauTu": [
-    -22
+    -22,
+    14
   ],
   "lctThuanHDTC": [
-    1
+    1,
+    3
   ],
   "lctThuanTrongKy": [
-    -2
+    -2,
+    23
   ],
   "hangTonKho": [
-    20
+    20,
+    16
   ],
   "hangTonKhoVongQuay": [
-    7.2
+    7.2,
+    7.5
   ],
   "coTucLNST": [
     18,

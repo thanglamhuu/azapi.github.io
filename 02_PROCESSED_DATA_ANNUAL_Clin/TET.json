@@ -590,12 +590,12 @@
     "2025-09-30",
     "2025-12-31",
     "2026-03-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0.7929819539460953,
-  "choNhanGiaRaPB": 0.04932110948316337,
-  "choNhanGiaRaPS": 0.2404045075598901,
+  "choNhanGiaRaPE": 61.358311669842294,
+  "choNhanGiaRaPB": 0.05034288202874176,
+  "choNhanGiaRaPS": 3.0838364481617986,
   "PE": [
     0,
     0,
@@ -642,9 +642,11 @@
     0,
     0,
     0,
-    0
+    0,
+    null
   ],
   "PETb": [
+    0,
     0,
     0,
     0,
@@ -738,9 +740,11 @@
     0,
     0,
     0,
-    0
+    0,
+    null
   ],
   "PBTb": [
+    0,
     0,
     0,
     0,
@@ -834,7 +838,8 @@
     0,
     0,
     0,
-    0
+    0,
+    null
   ],
   "PSTb": [
     0,
@@ -882,9 +887,10 @@
     0,
     0,
     0,
+    0,
     0
   ],
-  "soCoPhieuLuuHanh": 5702940,
+  "soCoPhieuLuuHanh": 62202940,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {

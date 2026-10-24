@@ -31,33 +31,39 @@
   "ROECuoiKy": [],
   "newFiscalDateQuarter": [
     "2026-03-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0.7079907642190487,
-  "choNhanGiaRaPB": 0.08527598478328699,
-  "choNhanGiaRaPS": 0.013169343983255938,
+  "choNhanGiaRaPE": 1.5549965682456375,
+  "choNhanGiaRaPB": 0.08002444133881052,
+  "choNhanGiaRaPS": 0.011856367793663643,
   "PE": [
     0,
-    0
+    0,
+    null
   ],
   "PETb": [
+    0,
     0,
     0
   ],
   "PB": [
     0,
-    0
+    0,
+    null
   ],
   "PBTb": [
+    0,
     0,
     0
   ],
   "PS": [
     0,
-    0
+    0,
+    null
   ],
   "PSTb": [
+    0,
     0,
     0
   ],

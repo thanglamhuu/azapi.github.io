@@ -80,33 +80,39 @@
   ],
   "newFiscalDateQuarter": [
     "2026-03-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": -146.33015740899546,
-  "choNhanGiaRaPB": 0.15623980350382963,
-  "choNhanGiaRaPS": 304.83894120140235,
+  "choNhanGiaRaPE": -87.23458138753473,
+  "choNhanGiaRaPB": 0.15635148847684013,
+  "choNhanGiaRaPS": 352.64631848720154,
   "PE": [
     0,
-    0
+    0,
+    null
   ],
   "PETb": [
+    0,
     0,
     0
   ],
   "PB": [
     0,
-    0
+    0,
+    null
   ],
   "PBTb": [
+    0,
     0,
     0
   ],
   "PS": [
     0,
-    0
+    0,
+    null
   ],
   "PSTb": [
+    0,
     0,
     0
   ],

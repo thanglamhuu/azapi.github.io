@@ -259,29 +259,35 @@
     5.6
   ],
   "newFiscalDateQuarter": [
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 1.10567277371245,
-  "choNhanGiaRaPB": 0.09014696839838647,
-  "choNhanGiaRaPS": 0.08306053989482567,
+  "choNhanGiaRaPE": 1.3499073755241286,
+  "choNhanGiaRaPB": 0.09244257071744427,
+  "choNhanGiaRaPS": 0.0805279592914253,
   "PE": [
-    0
+    0,
+    null
   ],
   "PETb": [
-    0
+    null,
+    null
   ],
   "PB": [
-    0
+    0,
+    null
   ],
   "PBTb": [
-    0
+    null,
+    null
   ],
   "PS": [
-    0
+    0,
+    null
   ],
   "PSTb": [
-    0
+    null,
+    null
   ],
   "soCoPhieuLuuHanh": 12499872,
   "isNganHang": false,

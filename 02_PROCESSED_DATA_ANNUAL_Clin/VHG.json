@@ -434,11 +434,11 @@
     "2025-09-30",
     "2025-12-31",
     "2026-03-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": -24.785618572589982,
-  "choNhanGiaRaPB": 1.1809522340797136,
+  "choNhanGiaRaPE": -24.88719690519172,
+  "choNhanGiaRaPB": 1.1857788266575078,
   "choNhanGiaRaPS": null,
   "PE": [
     0,
@@ -486,9 +486,11 @@
     0,
     0,
     0,
-    0
+    0,
+    null
   ],
   "PETb": [
+    0,
     0,
     0,
     0,
@@ -582,9 +584,11 @@
     0,
     0,
     0,
-    0
+    0,
+    null
   ],
   "PBTb": [
+    0,
     0,
     0,
     0,
@@ -678,9 +682,11 @@
     null,
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
+    null,
     null,
     null,
     null,
