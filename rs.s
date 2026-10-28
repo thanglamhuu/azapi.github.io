@@ -8,7 +8,7 @@ echo "========================================"
 
 # Kiểm tra đang ở thư mục Git
 if [ ! -d ".git" ]; then
-    echo "ERROR: Không tìm thấy thư mục .git"
+    echo "ERROR: Không tìm thấy thư mục - .git"
     echo "Hãy chạy script trong thư mục project."
     exit 1
 fi
