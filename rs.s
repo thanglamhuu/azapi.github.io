@@ -13,7 +13,7 @@ if [ ! -d ".git" ]; then
     exit 1
 fi
 
-# Kiểm tra remote hiện tại
+# Kiểm tra remote hiện tại.
 REMOTE=$(git remote get-url origin 2>/dev/null || true)
 
 if [ -z "$REMOTE" ]; then
