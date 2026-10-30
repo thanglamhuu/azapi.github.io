@@ -3,56 +3,132 @@
     "2025-09-30",
     "2025-12-31",
     "2026-03-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
-  "newFiscalDate": [],
-  "newFiscalDateQuarter": [],
-  "tiLeNovayRongVcsh": [],
-  "tiLePhaiThuTaiSan": [],
-  "tsTienTuongDuongTienDTTCNH": [],
-  "tsKhoanPhaiThu": [],
-  "tsHangTonKho": [],
-  "tsTaiSanCoDinh": [],
-  "tsTaiSanDoDangDaiHan": [],
-  "tsKhac": [],
-  "nvVonChuSoHuu": [],
-  "nvVayNganHan": [],
-  "nvVayDaiHanTPCD": [],
-  "nvMuaTraTienTruocDtChuaTH": [],
-  "nvKhac": [],
-  "nvTileVayRongVCSHQ": [],
-  "tangTruongDoanhSoThuanYoY": [],
-  "tangTruongDoanhThuanKep": [],
+  "newFiscalDate": [
+    "2026-09-30"
+  ],
+  "newFiscalDateQuarter": [
+    "2026-09-30"
+  ],
+  "tiLeNovayRongVcsh": [
+    50
+  ],
+  "tiLePhaiThuTaiSan": [
+    12
+  ],
+  "tsTienTuongDuongTienDTTCNH": [
+    68
+  ],
+  "tsKhoanPhaiThu": [
+    106
+  ],
+  "tsHangTonKho": [
+    437
+  ],
+  "tsTaiSanCoDinh": [
+    117
+  ],
+  "tsTaiSanDoDangDaiHan": [
+    30
+  ],
+  "tsKhac": [
+    103
+  ],
+  "nvVonChuSoHuu": [
+    417
+  ],
+  "nvVayNganHan": [
+    278
+  ],
+  "nvVayDaiHanTPCD": [
+    0
+  ],
+  "nvMuaTraTienTruocDtChuaTH": [
+    8
+  ],
+  "nvKhac": [
+    158
+  ],
+  "nvTileVayRongVCSHQ": [
+    50
+  ],
+  "tangTruongDoanhSoThuanYoY": [
+    -38
+  ],
+  "tangTruongDoanhThuanKep": [
+    null
+  ],
   "tangTruongDoanhThuanKepNum": null,
-  "doanhSoThuan": [],
-  "tangTruongLNSTYoY": [],
-  "tangTruongLNSTCtyMeNam": [],
+  "doanhSoThuan": [
+    185
+  ],
+  "tangTruongLNSTYoY": [
+    1792
+  ],
+  "tangTruongLNSTCtyMeNam": [
+    0
+  ],
   "tangTruongLNSTCtyMe5Year": 0,
-  "lnst": [],
-  "bienLoiNhuanGop": [],
-  "bienLoiNhuanRong": [],
-  "ROACuoiKy": [],
-  "ROECuoiKy": [],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": 0,
-  "choNhanGiaRaPS": 0,
-  "PE": [],
-  "PETb": [],
-  "PB": [],
-  "PBTb": [],
-  "PS": [],
-  "PSTb": [],
-  "soCoPhieuLuuHanh": 0,
+  "lnst": [
+    7
+  ],
+  "bienLoiNhuanGop": [
+    13
+  ],
+  "bienLoiNhuanRong": [
+    4
+  ],
+  "ROACuoiKy": [
+    1.5
+  ],
+  "ROECuoiKy": [
+    3
+  ],
+  "choNhanGiaRaPE": 2.684447095779819,
+  "choNhanGiaRaPB": 0.08437520466758289,
+  "choNhanGiaRaPS": 0.042296385523034094,
+  "PE": [
+    null
+  ],
+  "PETb": [
+    null
+  ],
+  "PB": [
+    null
+  ],
+  "PBTb": [
+    null
+  ],
+  "PS": [
+    null
+  ],
+  "PSTb": [
+    null
+  ],
+  "soCoPhieuLuuHanh": 35199993,
   "isNganHang": false,
   "isChungKhoan": false,
   "tangTruongHangTonKhoKep": null,
-  "lctThuanHDSXKD": [],
-  "lctThuanHDDauTu": [],
-  "lctThuanHDTC": [],
-  "lctThuanTrongKy": [],
-  "hangTonKho": [],
-  "hangTonKhoVongQuay": [],
+  "lctThuanHDSXKD": [
+    -191
+  ],
+  "lctThuanHDDauTu": [
+    -33
+  ],
+  "lctThuanHDTC": [
+    173
+  ],
+  "lctThuanTrongKy": [
+    -50
+  ],
+  "hangTonKho": [
+    437
+  ],
+  "hangTonKhoVongQuay": [
+    2.6
+  ],
   "coTucLNST": [],
   "coTucDaTra": [],
   "coTucTiLeDaTra": [],

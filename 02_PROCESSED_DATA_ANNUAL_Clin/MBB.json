@@ -573,7 +573,7 @@
     22634,
     26779
   ],
-  "nhTangTruongChoVayKhachHangKep5Nam": 30,
+  "nhTangTruongChoVayKhachHangKep5Nam": 31,
   "nhTangTruongChoVay5Year": [
     53.4,
     62.5,
@@ -800,7 +800,8 @@
     "2025-09-30",
     "2025-12-31",
     "2026-03-31",
-    "2026-06-30"
+    "2026-06-30",
+    "2026-09-30"
   ],
   "nhnxKyHanS": [
     "VAB",
@@ -1606,9 +1607,8 @@
     0.66096269735806,
     0.7125556677025585
   ],
-  "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0.26108868114592226,
-  "choNhanGiaRaPB": 0.051383414405794275,
+  "choNhanGiaRaPE": 0.3023374608271238,
+  "choNhanGiaRaPB": 0.06134185002013627,
   "choNhanGiaRaPS": null,
   "PE": [
     0,
@@ -1656,9 +1656,11 @@
     0,
     0,
     0,
-    0
+    0,
+    null
   ],
   "PETb": [
+    0,
     0,
     0,
     0,
@@ -1752,9 +1754,11 @@
     0,
     0,
     0,
-    0
+    0,
+    null
   ],
   "PBTb": [
+    0,
     0,
     0,
     0,
@@ -1848,6 +1852,7 @@
     null,
     null,
     null,
+    null,
     null
   ],
   "PSTb": [
@@ -1896,9 +1901,10 @@
     null,
     null,
     null,
+    null,
     null
   ],
-  "soCoPhieuLuuHanh": 8054999900,
+  "soCoPhieuLuuHanh": 10068749900,
   "isNganHang": true,
   "isChungKhoan": false,
   "vec11400Year": {},
