@@ -544,18 +544,32 @@
     106.6,
     30.8
   ],
-  "newFiscalDateQuarter": [],
+  "newFiscalDateQuarter": [
+    "2026-09-30"
+  ],
   "lastQuaterPrice": 0,
-  "choNhanGiaRaPE": 0,
-  "choNhanGiaRaPB": 0,
-  "choNhanGiaRaPS": 0,
-  "PE": [],
-  "PETb": [],
-  "PB": [],
-  "PBTb": [],
-  "PS": [],
-  "PSTb": [],
-  "soCoPhieuLuuHanh": 0,
+  "choNhanGiaRaPE": -0.2499341874224633,
+  "choNhanGiaRaPB": -0.042962258744837854,
+  "choNhanGiaRaPS": -16.87542657276769,
+  "PE": [
+    0
+  ],
+  "PETb": [
+    0
+  ],
+  "PB": [
+    0
+  ],
+  "PBTb": [
+    0
+  ],
+  "PS": [
+    0
+  ],
+  "PSTb": [
+    0
+  ],
+  "soCoPhieuLuuHanh": 18200000,
   "isNganHang": false,
   "isChungKhoan": false,
   "vec11400Year": {
